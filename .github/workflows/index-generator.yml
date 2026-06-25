@@ -1,46 +1,73 @@
 name: Generate Games Index
+
 on:
-  workflow_dispatch:
+  workflow_dispatch: # Allows the Cloudflare Worker to trigger this
   push:
     paths:
-      - 'configs/**'
+      - 'configs/**' # Triggers automatically if you manually upload a file
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write # Required to push the updated index
+
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetch all history so rebase works correctly
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
 
       - name: Generate JSON Index
         run: |
-          # 1. Generate games.json (List of game folders)
-          if [ -d "configs" ]; then
-            ls -d configs/*/ | cut -f2 -d'/' > games.list
-            jq -R . games.list | jq -s . > games.json
-          else
-            echo "[]" > games.json
-          fi
+          python - <<EOF
+          import os
+          import json
 
-          # 2. Generate index.json (Map of Game -> List of Config Files)
-          echo "{}" > index.json
-          if [ -d "configs" ]; then
-            for game in configs/*/; do
-              game_name=$(basename "$game")
-              configs_list=$(find "$game" -maxdepth 1 -name "*.json" -printf "%f\n")
-              
-              for config in $configs_list; do
-                jq --arg game "$game_name" --arg file "$config" '.[$game] += [$file]' index.json > tmp.json && mv tmp.json index.json
-              done
-            done
-          fi
+          configs_dir = 'configs'
+          index = {}
+          games = []
+
+          if os.path.exists(configs_dir):
+              # Sort games alphabetically
+              for game_name in sorted(os.listdir(configs_dir)):
+                  game_path = os.path.join(configs_dir, game_name)
+                  if os.path.isdir(game_path):
+                      # Get all .json files in the game folder
+                      files = [f for f in os.listdir(game_path) if f.endswith('.json')]
+                      if files:
+                          index[game_name] = sorted(files)
+                          games.append(game_name)
+
+          # Write index.json
+          with open('index.json', 'w') as f:
+              json.dump(index, f, indent=2)
+
+          # Write games.json
+          with open('games.json', 'w') as f:
+              json.dump(sorted(games), f, indent=2)
+          EOF
 
       - name: Commit and Push
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
+          
           git add games.json index.json
-          git commit -m "Auto-update index [skip ci]" || echo "No changes to commit"
-          git push
+          
+          # Only commit if there are changes to the index files
+          if git diff --staged --quiet; then
+            echo "No changes to index files. Skipping push."
+          else
+            git commit -m "Auto-update Index [skip ci]"
+            
+            # Pull latest changes (files uploaded by Worker) and put our index on top
+            git pull --rebase origin main
+            
+            git push origin main
+          fi
