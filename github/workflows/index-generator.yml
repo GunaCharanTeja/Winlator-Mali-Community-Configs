@@ -1,0 +1,50 @@
+name: Generate Games Index
+
+on:
+  push:
+    paths:
+      - 'configs/**'
+
+jobs:
+  generate-index:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate games.json
+        run: |
+          if [ -d "configs" ]; then
+            # Find all subdirectories in configs/, get folder name, convert to JSON array
+            find configs -maxdepth 1 -mindepth 1 -type d -exec basename {} \; | jq -R . | jq -s . > games.json
+          else
+            echo "[]" > games.json
+          fi
+          
+      - name: Generate individual index.json for each game
+        run: |
+          if [ -d "configs" ]; then
+            for d in configs/*/ ; do
+              [ -e "$d" ] || continue
+              echo "[" > "${d}index.json"
+              FIRST=true
+              for f in "$d"*.json; do
+                if [ "$(basename "$f")" != "index.json" ]; then
+                  if [ "$FIRST" = false ]; then echo "," >> "${d}index.json"; fi
+                  # Extract meta info for faster browsing
+                  cat "$f" | jq '{filename: (input_filename | basename), device: .meta.device, timestamp: .meta.timestamp}' >> "${d}index.json"
+                  FIRST=false
+                fi
+              done
+              echo "]" >> "${d}index.json"
+            done
+          fi
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add .
+          git commit -m "Update games index" || exit 0
+          git push
