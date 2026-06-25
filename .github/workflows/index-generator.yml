@@ -1,51 +1,46 @@
 name: Generate Games Index
-
 on:
+  workflow_dispatch:
   push:
     paths:
       - 'configs/**'
-  workflow_dispatch:
 
 jobs:
-  generate-index:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-      - name: Generate games.json
+      - name: Generate JSON Index
         run: |
+          # 1. Generate games.json (List of game folders)
           if [ -d "configs" ]; then
-            # Find all subdirectories in configs/, get folder name, convert to JSON array
-            find configs -maxdepth 1 -mindepth 1 -type d -exec basename {} \; | jq -R . | jq -s . > games.json
+            ls -d configs/*/ | cut -f2 -d'/' > games.list
+            jq -R . games.list | jq -s . > games.json
           else
             echo "[]" > games.json
           fi
-          
-      - name: Generate individual index.json for each game
-        run: |
+
+          # 2. Generate index.json (Map of Game -> List of Config Files)
+          echo "{}" > index.json
           if [ -d "configs" ]; then
-            for d in configs/*/ ; do
-              [ -e "$d" ] || continue
-              echo "[" > "${d}index.json"
-              FIRST=true
-              for f in "$d"*.json; do
-                if [ "$(basename "$f")" != "index.json" ]; then
-                  if [ "$FIRST" = false ]; then echo "," >> "${d}index.json"; fi
-                  # Extract meta info using a safer jq syntax
-                  cat "$f" | jq --arg fname "$(basename "$f")" '{filename: $fname, device: .meta.device, timestamp: .meta.timestamp}' >> "${d}index.json"
-                  FIRST=false
-                fi
+            for game in configs/*/; do
+              game_name=$(basename "$game")
+              configs_list=$(find "$game" -maxdepth 1 -name "*.json" -printf "%f\n")
+              
+              for config in $configs_list; do
+                jq --arg game "$game_name" --arg file "$config" '.[$game] += [$file]' index.json > tmp.json && mv tmp.json index.json
               done
-              echo "]" >> "${d}index.json"
             done
           fi
 
-      - name: Commit and push changes
+      - name: Commit and Push
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add .
-          git commit -m "Update games index" || exit 0
+          git add games.json index.json
+          git commit -m "Auto-update index [skip ci]" || echo "No changes to commit"
           git push
