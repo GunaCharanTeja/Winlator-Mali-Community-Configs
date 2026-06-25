@@ -69,11 +69,34 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add games.json index.json
-          if git diff --staged --quiet; then
-            echo "No changes."
-          else
-            git commit -m "Auto-update Index [skip ci]"
-            git pull --rebase origin main
-            git push origin main
-          fi
+          
+          # Retry loop to handle race conditions from frequent uploads
+          for i in {1..5}; do
+            echo "Attempt $i to sync and push index..."
+            
+            # Re-generate or re-add the files to ensure we have the latest
+            git add games.json index.json
+            
+            if git diff --staged --quiet; then
+              echo "No changes to index files."
+              exit 0
+            fi
+            
+            # Commit the changes
+            git commit -m "Auto-update Index [skip ci]" || echo "Nothing to commit"
+            
+            # Pull with rebase to get the files uploaded by the Worker
+            if git pull --rebase origin main; then
+              if git push origin main; then
+                echo "Successfully pushed updated index."
+                exit 0
+              fi
+            fi
+            
+            echo "Conflict detected, retrying in 5 seconds..."
+            sleep 5
+            git reset --soft HEAD~1 || true # Undo local commit before retrying rebase
+          done
+          
+          echo "Failed to push index after 5 attempts."
+          exit 1
