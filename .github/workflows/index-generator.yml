@@ -63,7 +63,7 @@ jobs:
                                   gpu = device.get('gpu', 'Unknown GPU')
                                   notes = meta.get('notes', '')
                                   
-                                  # Categorize GPU for the new App Badges
+                                  # Categories for UI Badges
                                   gpu_lower = gpu.lower()
                                   if 'adreno' in gpu_lower: adreno_count += 1
                                   elif 'mali' in gpu_lower or 'immortalis' in gpu_lower: mali_count += 1
