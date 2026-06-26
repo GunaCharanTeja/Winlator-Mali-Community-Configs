@@ -11,6 +11,18 @@
       "timestamp": 1782480075
     }
   ],
+  "dragon_ball__sparking__zero": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1782495000.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "",
+      "config_title": "Dragon Ball Sparking Zero",
+      "timestamp": 1782495000
+    }
+  ],
   "dragon_ball__xenoverse": [
     {
       "filename": "xiaomi-2412dpc0ag-1782494009.json",
