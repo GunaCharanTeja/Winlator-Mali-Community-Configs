@@ -4,5 +4,11 @@
     "name": "Assassin's Creed III",
     "steam_id": null,
     "community_image": "https://cdn2.steamgriddb.com/grid/4e7a0470104605cb3595585e2cb3ae94.jpg"
+  },
+  {
+    "id": "assassin_s_creed_iii_remastered",
+    "name": "Assassin's Creed III Remastered",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/375c5abc9bfb6079943ef3c297e4ac78.jpg"
   }
 ]

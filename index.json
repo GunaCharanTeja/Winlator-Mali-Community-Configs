@@ -12,5 +12,13 @@
       "gpu": "Mali-G610 MC4",
       "timestamp": 1782470890
     }
+  ],
+  "assassin_s_creed_iii_remastered": [
+    {
+      "filename": "vivo-i2301-1782473628.json",
+      "device_model": "Vivo I2301",
+      "gpu": "Mali-G610 MC4",
+      "timestamp": 1782473628
+    }
   ]
 }
