@@ -38,27 +38,31 @@ jobs:
                   game_path = os.path.join(configs_dir, game_id)
                   if os.path.isdir(game_path):
                       files = [f for f in os.listdir(game_path) if f.endswith('.json')]
-                      if files:
-                          # Extract metadata for the game list
-                          display_name = game_id.replace('_', ' ').title()
-                          steam_id = None
-                          
-                          # Try to get the official name from the first file
+                      if not files: continue
+
+                      display_name = game_id.replace('_', ' ').title()
+                      steam_id = None
+                      
+                      # Try to extract richer info from the first valid JSON found
+                      for filename in files:
                           try:
-                              with open(os.path.join(game_path, files[0]), 'r', encoding='utf-8') as f:
+                              with open(os.path.join(game_path, filename), 'r', encoding='utf-8') as f:
                                   data = json.load(f)
-                                  display_name = data.get('meta', {}).get('game_name', display_name)
-                                  steam_id = data.get('meta', {}).get('steam_id', None)
+                                  meta = data.get('meta', {})
+                                  display_name = meta.get('game_name', display_name)
+                                  steam_id = meta.get('steam_id', steam_id)
+                                  if steam_id: break
                           except:
-                              pass
+                              continue
 
-                          games_list.append({
-                              "id": game_id,
-                              "name": display_name,
-                              "steam_id": steam_id
-                          })
-                          index[game_id] = sorted(files)
+                      games_list.append({
+                          "id": game_id,
+                          "name": display_name,
+                          "steam_id": steam_id
+                      })
+                      index[game_id] = sorted(files)
 
+          # Output structured rich index
           with open('index.json', 'w', encoding='utf-8') as f:
               json.dump(index, f, indent=2)
 
@@ -70,17 +74,23 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
+          
           git add games.json index.json
           
           if git diff --staged --quiet; then
-            echo "No changes."
+            echo "No changes needed."
             exit 0
           fi
           
-          git commit -m "Update Community Index [skip ci]"
+          git commit -m "Auto-update Index [skip ci]"
+          
+          # Retry loop to beat race conditions
           for i in {1..5}; do
+            echo "Attempt $i to push index..."
             if git pull --rebase origin main && git push origin main; then
+              echo "Push successful."
               exit 0
             fi
-            sleep 3
+            sleep 5
           done
+          exit 1
