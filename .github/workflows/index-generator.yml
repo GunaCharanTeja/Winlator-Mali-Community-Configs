@@ -57,36 +57,41 @@ jobs:
                                   if not steam_id: steam_id = meta.get('steam_id', None)
                                   if not community_image: community_image = meta.get('community_image', None)
                                   
-                                  # Extract hardware metadata for the UI
+                                  # Extract hardware & user metadata
                                   device = meta.get('device', {})
                                   mfr = str(device.get('manufacturer', '')).capitalize()
                                   model = str(device.get('model', ''))
                                   gpu = device.get('gpu', 'Unknown GPU')
+                                  notes = meta.get('notes', '') # <--- Extracted Custom Note
                                   
                                   files_info.append({
                                       "filename": filename,
                                       "device_model": f"{mfr} {model}".strip() or "Unknown Device",
                                       "gpu": gpu,
+                                      "notes": notes, # <--- Included in index
                                       "timestamp": meta.get('timestamp', 0)
                                   })
-                          except:
+                          except Exception as e:
                               # Fallback for corrupted or old-schema files
-                              files_info.append({"filename": filename})
+                              files_info.append({"filename": filename, "error": str(e)})
 
                       games_list.append({
                           "id": game_id,
                           "name": display_name,
                           "steam_id": steam_id,
-                          "community_image": community_image
+                          "community_image": community_image,
+                          "config_count": len(files_info)
                       })
                       
                       # Sort configs inside each game: newest uploads first
                       index[game_id] = sorted(files_info, key=lambda x: x.get('timestamp', 0), reverse=True)
 
           # Output structured rich index for the App
+          # index.json contains the detailed hardware/notes info for each game
           with open('index.json', 'w', encoding='utf-8') as f:
               json.dump(index, f, indent=2)
 
+          # games.json is the lightweight "Gallery" list
           with open('games.json', 'w', encoding='utf-8') as f:
               json.dump(sorted(games_list, key=lambda x: x['name']), f, indent=2)
           EOF_PY
@@ -103,7 +108,7 @@ jobs:
             exit 0
           fi
           
-          git commit -m "Auto-update Index [skip ci]"
+          git commit -m "Auto-update Index with Notes [skip ci]"
           
           # Retry loop to beat race conditions during simultaneous uploads
           for i in {1..5}; do
