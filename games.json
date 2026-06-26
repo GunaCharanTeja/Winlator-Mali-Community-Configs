@@ -9,6 +9,15 @@
     "mali_count": 1
   },
   {
+    "id": "dragon_ball__xenoverse",
+    "name": "Dragon Ball: Xenoverse",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/2891c881542c97c29a01865fd41fbe09.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "grand_theft_auto_iv__the_complete_edition",
     "name": "Grand Theft Auto IV: The Complete Edition",
     "steam_id": null,
