@@ -34,49 +34,53 @@ jobs:
           games_list = []
 
           if os.path.exists(configs_dir):
-              # Sort to keep the list alphabetical
               for game_id in sorted(os.listdir(configs_dir)):
                   game_path = os.path.join(configs_dir, game_id)
                   if os.path.isdir(game_path):
                       files = [f for f in os.listdir(game_path) if f.endswith('.json')]
                       if files:
-                          # Create a basic entry for the app
-                          # The app fix I provided handles this "Object" format
+                          # Extract metadata for the game list
+                          display_name = game_id.replace('_', ' ').title()
+                          steam_id = None
+                          
+                          # Try to get the official name from the first file
+                          try:
+                              with open(os.path.join(game_path, files[0]), 'r', encoding='utf-8') as f:
+                                  data = json.load(f)
+                                  display_name = data.get('meta', {}).get('game_name', display_name)
+                                  steam_id = data.get('meta', {}).get('steam_id', None)
+                          except:
+                              pass
+
                           games_list.append({
                               "id": game_id,
-                              "name": game_id.replace('_', ' ').upper()
+                              "name": display_name,
+                              "steam_id": steam_id
                           })
                           index[game_id] = sorted(files)
 
-          # Output index mapping (Game ID -> List of Filenames)
           with open('index.json', 'w', encoding='utf-8') as f:
               json.dump(index, f, indent=2)
 
-          # Output main game list
           with open('games.json', 'w', encoding='utf-8') as f:
-              json.dump(games_list, f, indent=2)
+              json.dump(sorted(games_list, key=lambda x: x['name']), f, indent=2)
           EOF
 
       - name: Sync and Push
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          
           git add games.json index.json
           
           if git diff --staged --quiet; then
-            echo "No changes to index."
+            echo "No changes."
             exit 0
           fi
           
-          git commit -m "Auto-update Index [skip ci]"
-          
-          # Retry loop to handle concurrent uploads
+          git commit -m "Update Community Index [skip ci]"
           for i in {1..5}; do
             if git pull --rebase origin main && git push origin main; then
-              echo "Push successful."
               exit 0
             fi
             sleep 3
           done
-          exit 1
