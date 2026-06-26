@@ -10,5 +10,17 @@
       "config_title": "Stable Working Config",
       "timestamp": 1782480075
     }
+  ],
+  "grand_theft_auto_iv__the_complete_edition": [
+    {
+      "filename": "vivo-i2301-1782480598.json",
+      "device_model": "Vivo I2301",
+      "gpu": "Mali-G610 MC4",
+      "ram": "8GB",
+      "storage": "226GB",
+      "notes": "This Is Latest Complete Edition Version (1.2.0.59)  Of The Game .",
+      "config_title": "Works Normally With Fexcore Performance",
+      "timestamp": 1782480598
+    }
   ]
 }
