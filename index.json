@@ -1,6 +1,12 @@
 {
   "ac3sp": [
     {
+      "filename": "vivo-i2301-1782473990.json",
+      "device_model": "Vivo I2301",
+      "gpu": "Mali-G610 MC4",
+      "timestamp": 1782473990
+    },
+    {
       "filename": "vivo-i2301-1782473958.json",
       "device_model": "Vivo I2301",
       "gpu": "Mali-G610 MC4",
