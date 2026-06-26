@@ -1,1 +1,14 @@
-{}
+{
+  "assassin_s_creed_iii": [
+    {
+      "filename": "vivo-i2301-1782480075.json",
+      "device_model": "Vivo I2301",
+      "gpu": "Mali-G610 MC4",
+      "ram": "8GB",
+      "storage": "226GB",
+      "notes": "If Any Crash Occurs Try Switching    Fexcore Preset To Intermediate And Turning Off ASTC Transcode In Wrapper Settings If Old Chipsets.",
+      "config_title": "Stable Working Config",
+      "timestamp": 1782480075
+    }
+  ]
+}
