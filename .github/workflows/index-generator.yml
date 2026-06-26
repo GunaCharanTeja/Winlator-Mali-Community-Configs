@@ -62,6 +62,7 @@ jobs:
                                   model = str(device.get('model', ''))
                                   gpu = device.get('gpu', 'Unknown GPU')
                                   notes = meta.get('notes', '')
+                                  config_title = meta.get('config_title', '')
                                   
                                   # Categories for UI Badges
                                   gpu_lower = gpu.lower()
@@ -73,6 +74,7 @@ jobs:
                                       "device_model": f"{mfr} {model}".strip() or "Unknown Device",
                                       "gpu": gpu,
                                       "notes": notes,
+                                      "config_title": config_title,
                                       "timestamp": meta.get('timestamp', 0)
                                   })
                           except:
@@ -105,7 +107,7 @@ jobs:
           if git diff --staged --quiet; then
             exit 0
           fi
-          git commit -m "Update Index with GPU Stats and Notes [skip ci]"
+          git commit -m "Update Index with Config Titles [skip ci]"
           for i in {1..5}; do
             if git pull --rebase origin main && git push origin main; then
               exit 0
