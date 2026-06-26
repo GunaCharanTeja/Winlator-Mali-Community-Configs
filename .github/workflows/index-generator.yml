@@ -44,28 +44,31 @@ jobs:
                       steam_id = None
                       files_info = []
                       
-                      # Deep scan each config to build a rich index
                       for filename in files:
                           try:
                               with open(os.path.join(game_path, filename), 'r', encoding='utf-8') as f:
                                   data = json.load(f)
                                   meta = data.get('meta', {})
                                   
-                                  # Update global game info if not already set
+                                  # Extract Game Info
                                   display_name = meta.get('game_name', display_name)
                                   if not steam_id: steam_id = meta.get('steam_id', None)
                                   
-                                  # Extract hardware metadata for the UI
+                                  # Extract Hardware Metadata (Supports vivo/I2301/Mali-G610 etc)
                                   device = meta.get('device', {})
+                                  mfr = str(device.get('manufacturer', '')).capitalize()
+                                  model = str(device.get('model', ''))
+                                  gpu = device.get('gpu', 'Unknown GPU')
+                                  
                                   files_info.append({
                                       "filename": filename,
-                                      "device_model": f"{device.get('manufacturer', '')} {device.get('model', '')}".strip(),
-                                      "gpu": device.get('gpu', 'Unknown GPU'),
+                                      "device_model": f"{mfr} {model}".strip() or "Unknown Device",
+                                      "gpu": gpu,
+                                      "soc": device.get('soc', ''),
                                       "timestamp": meta.get('timestamp', 0)
                                   })
-                          except:
-                              # Fallback for corrupted or old-schema files
-                              files_info.append({"filename": filename})
+                          except Exception as e:
+                              files_info.append({"filename": filename, "error": str(e)})
 
                       games_list.append({
                           "id": game_id,
@@ -73,10 +76,10 @@ jobs:
                           "steam_id": steam_id
                       })
                       
-                      # Sort configs inside each game: newest uploads first
+                      # Sort configs for this game: newest first
                       index[game_id] = sorted(files_info, key=lambda x: x.get('timestamp', 0), reverse=True)
 
-          # Output structured rich index for the App
+          # Write indices
           with open('index.json', 'w', encoding='utf-8') as f:
               json.dump(index, f, indent=2)
 
@@ -98,7 +101,6 @@ jobs:
           
           git commit -m "Auto-update Index [skip ci]"
           
-          # Retry loop to beat race conditions during simultaneous uploads
           for i in {1..5}; do
             echo "Attempt $i to push index..."
             if git pull --rebase origin main && git push origin main; then
