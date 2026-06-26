@@ -61,6 +61,8 @@ jobs:
                                   mfr = str(device.get('manufacturer', '')).capitalize()
                                   model = str(device.get('model', ''))
                                   gpu = device.get('gpu', 'Unknown GPU')
+                                  ram = device.get('ram', '')
+                                  storage = device.get('storage', '')
                                   notes = meta.get('notes', '')
                                   config_title = meta.get('config_title', '')
                                   
@@ -73,6 +75,8 @@ jobs:
                                       "filename": filename,
                                       "device_model": f"{mfr} {model}".strip() or "Unknown Device",
                                       "gpu": gpu,
+                                      "ram": ram,
+                                      "storage": storage,
                                       "notes": notes,
                                       "config_title": config_title,
                                       "timestamp": meta.get('timestamp', 0)
