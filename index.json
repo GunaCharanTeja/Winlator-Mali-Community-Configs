@@ -1,10 +1,15 @@
 {
   "assassin_s_creed_iii": [
     {
+      "filename": "vivo-i2301-1782473595.json",
+      "device_model": "Vivo I2301",
+      "gpu": "Mali-G610 MC4",
+      "timestamp": 1782473595
+    },
+    {
       "filename": "vivo-i2301-1782470890.json",
       "device_model": "Vivo I2301",
       "gpu": "Mali-G610 MC4",
-      "soc": "k6886v1_64",
       "timestamp": 1782470890
     }
   ]
