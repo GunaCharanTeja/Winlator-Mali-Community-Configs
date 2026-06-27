@@ -61,6 +61,16 @@
   ],
   "grand_theft_auto_v": [
     {
+      "filename": "vivo-i2301-1782536441.json",
+      "device_model": "Vivo I2301",
+      "gpu": "Mali-G610 MC4",
+      "ram": "8GB",
+      "storage": "226GB",
+      "notes": "Using ASTC Transcode Mode On For Less Vram Usage Runs Good , But Stutters in Open World Recommend 8 or 8+gb ram",
+      "config_title": "Working Dimensity 7200",
+      "timestamp": 1782536441
+    },
+    {
       "filename": "xiaomi-2412dpc0ag-1782495214.json",
       "device_model": "Xiaomi 2412DPC0AG",
       "gpu": "Mali-G720 MC7",
