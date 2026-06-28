@@ -80,5 +80,17 @@
       "config_title": "Mafia",
       "timestamp": 1782681448
     }
+  ],
+  "the_wolf_among_us": [
+    {
+      "filename": "xiaomi-23090ra98g-1782681771.json",
+      "device_model": "Xiaomi 23090RA98G",
+      "gpu": "Mali-G610 MC4",
+      "ram": "16GB",
+      "storage": "465GB",
+      "notes": "",
+      "config_title": "The Wolf Among Us",
+      "timestamp": 1782681771
+    }
   ]
 }
