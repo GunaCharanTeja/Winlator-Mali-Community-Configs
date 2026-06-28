@@ -68,5 +68,17 @@
       "config_title": "GTA V",
       "timestamp": 1782495214
     }
+  ],
+  "mafia_ii": [
+    {
+      "filename": "xiaomi-23090ra98g-1782681448.json",
+      "device_model": "Xiaomi 23090RA98G",
+      "gpu": "Mali-G610 MC4",
+      "ram": "16GB",
+      "storage": "465GB",
+      "notes": "",
+      "config_title": "Mafia",
+      "timestamp": 1782681448
+    }
   ]
 }
