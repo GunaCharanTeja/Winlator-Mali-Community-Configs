@@ -95,6 +95,16 @@
   ],
   "mafia_ii": [
     {
+      "filename": "vivo-i2301-1782684586.json",
+      "device_model": "Vivo I2301",
+      "gpu": "Mali-G610 MC4",
+      "ram": "8GB",
+      "storage": "226GB",
+      "notes": "Requires Nvdia Physx To Open Install It From Start Menu , Without Apex 25-30 In Open World,Better To Turn Apex On And Lock To 60 FPS...",
+      "config_title": "Working Dimensity 7200",
+      "timestamp": 1782684586
+    },
+    {
       "filename": "xiaomi-23090ra98g-1782681448.json",
       "device_model": "Xiaomi 23090RA98G",
       "gpu": "Mali-G610 MC4",
