@@ -59,6 +59,18 @@
       "timestamp": 1782494009
     }
   ],
+  "farcry2": [
+    {
+      "filename": "motorola-moto_g35_5g-1782735785.json",
+      "device_model": "Motorola moto g35 5G",
+      "gpu": "Mali-G57",
+      "ram": "4GB",
+      "storage": "231GB",
+      "notes": "maili G57",
+      "config_title": "Far Cry 2",
+      "timestamp": 1782735785
+    }
+  ],
   "grand_theft_auto_iv__the_complete_edition": [
     {
       "filename": "vivo-i2301-1782480598.json",
