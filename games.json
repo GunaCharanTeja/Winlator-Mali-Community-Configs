@@ -133,5 +133,14 @@
     "config_count": 1,
     "adreno_count": 0,
     "mali_count": 1
+  },
+  {
+    "id": "tom_clancy_s_splinter_cell__chaos_theory",
+    "name": "Tom Clancy's Splinter Cell: Chaos Theory",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/679086fef14f52d405102a5cbcf2467c.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
   }
 ]

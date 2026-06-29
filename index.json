@@ -208,5 +208,17 @@
       "config_title": "The Wolf Among Us",
       "timestamp": 1782681771
     }
+  ],
+  "tom_clancy_s_splinter_cell__chaos_theory": [
+    {
+      "filename": "motorola-moto_g04s-1782739331.json",
+      "device_model": "Motorola moto g04s",
+      "gpu": "Mali-G57",
+      "ram": "4GB",
+      "storage": "113GB",
+      "notes": "Tested on MotoG04S, Mali G57-MC2 and 4GB Ram",
+      "config_title": "Tom Clancy's Splinter Cell Chaos Teory",
+      "timestamp": 1782739331
+    }
   ]
 }
