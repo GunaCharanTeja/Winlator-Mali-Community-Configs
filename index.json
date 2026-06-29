@@ -73,6 +73,16 @@
   ],
   "grand_theft_auto_iv__the_complete_edition": [
     {
+      "filename": "motorola-moto_g35_5g-1782735816.json",
+      "device_model": "Motorola moto g35 5G",
+      "gpu": "Mali-G57",
+      "ram": "4GB",
+      "storage": "231GB",
+      "notes": "mali G57",
+      "config_title": "Gran The Auto IV",
+      "timestamp": 1782735816
+    },
+    {
       "filename": "vivo-i2301-1782480598.json",
       "device_model": "Vivo I2301",
       "gpu": "Mali-G610 MC4",
