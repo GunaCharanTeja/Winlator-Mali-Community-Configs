@@ -99,6 +99,15 @@
     "mali_count": 2
   },
   {
+    "id": "need_for_speed",
+    "name": "Need for Speed",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/e42e502ec2a5653d7d595968a1a242c1.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "the_wolf_among_us",
     "name": "The Wolf Among Us",
     "steam_id": null,

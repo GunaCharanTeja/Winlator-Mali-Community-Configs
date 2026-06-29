@@ -151,6 +151,18 @@
       "timestamp": 1782715139
     }
   ],
+  "need_for_speed": [
+    {
+      "filename": "motorola-motorola_edge_60_pro-1782729628.json",
+      "device_model": "Motorola motorola edge 60 pro",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "221GB",
+      "notes": "60 fps 1080p get the widescreen fix from the channel called EMU MTK extract it in the EXE folder of the game a seperate folder will be created open that folder and move  the dll file separately where the speed.EXE is or you can try the fix by thirteen AG it didn't work for me",
+      "config_title": "Need For Speed Mw (2005)",
+      "timestamp": 1782729628
+    }
+  ],
   "the_wolf_among_us": [
     {
       "filename": "xiaomi-23090ra98g-1782681771.json",
