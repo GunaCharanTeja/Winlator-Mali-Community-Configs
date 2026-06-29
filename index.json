@@ -127,6 +127,18 @@
       "timestamp": 1782681448
     }
   ],
+  "mx_bikes": [
+    {
+      "filename": "samsung-sm-a065f-1782715139.json",
+      "device_model": "Samsung SM-A065F",
+      "gpu": "Mali-G52 MC2",
+      "ram": "4GB",
+      "storage": "106GB",
+      "notes": "",
+      "config_title": "MX Bikes",
+      "timestamp": 1782715139
+    }
+  ],
   "the_wolf_among_us": [
     {
       "filename": "xiaomi-23090ra98g-1782681771.json",
