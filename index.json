@@ -71,6 +71,18 @@
       "timestamp": 1782735785
     }
   ],
+  "flipwitch__forbidden_sex_hex": [
+    {
+      "filename": "xiaomi-2407fpn8eg-1782747863.json",
+      "device_model": "Xiaomi 2407FPN8EG",
+      "gpu": "Mali-G720-Immortalis MC12",
+      "ram": "11GB",
+      "storage": "974GB",
+      "notes": "9300+ 60fps lock low temp",
+      "config_title": "Flipwitch 60FPS",
+      "timestamp": 1782747863
+    }
+  ],
   "grand_theft_auto_iv__the_complete_edition": [
     {
       "filename": "motorola-moto_g35_5g-1782735816.json",
