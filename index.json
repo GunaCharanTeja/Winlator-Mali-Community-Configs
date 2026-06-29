@@ -11,6 +11,18 @@
       "timestamp": 1782480075
     }
   ],
+  "dark_souls__prepare_to_die_edition": [
+    {
+      "filename": "motorola-motorola_edge_60_pro-1782752449.json",
+      "device_model": "Motorola motorola edge 60 pro",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "221GB",
+      "notes": "use ds fix for this set ssao to 3 uncap the frame limit and set frame limit to 60 don't go above that ( download ds fix from moddb and extract it to the folder )\ngame is from steamrip)\n\ngo with 1080p 45fps works best (don't use astc it will cause glitches)",
+      "config_title": "Dark Souls Prepare To Die Edition (2011)",
+      "timestamp": 1782752449
+    }
+  ],
   "darksoulsii": [
     {
       "filename": "tecno-tecno_cn7c-1782724017.json",

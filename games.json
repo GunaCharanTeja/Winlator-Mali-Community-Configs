@@ -9,6 +9,15 @@
     "mali_count": 1
   },
   {
+    "id": "dark_souls__prepare_to_die_edition",
+    "name": "Dark Souls: Prepare To Die Edition",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/c65ba29c405086c19ecfb0a3c9b47f24.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "darksoulsii",
     "name": "DarkSoulsII",
     "steam_id": null,
