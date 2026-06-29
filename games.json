@@ -63,6 +63,15 @@
     "mali_count": 2
   },
   {
+    "id": "hitman",
+    "name": "HITMAN",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/4fb061696988c9674730447662d44eb4.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "life_is_strange_2",
     "name": "Life Is Strange 2",
     "steam_id": null,

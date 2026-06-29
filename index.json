@@ -93,6 +93,18 @@
       "timestamp": 1782495214
     }
   ],
+  "hitman": [
+    {
+      "filename": "motorola-motorola_edge_60_pro-1782735506.json",
+      "device_model": "Motorola motorola edge 60 pro",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "221GB",
+      "notes": "run the game on windows 7 you can change the windows version in container please watch a tutorial in if you don't know how to do that in setup.EXE choose opengl( I got this from ankergames) changing windows can be done in wine config",
+      "config_title": "Hitman Codename 47",
+      "timestamp": 1782735506
+    }
+  ],
   "life_is_strange_2": [
     {
       "filename": "xiaomi-23090ra98g-1782681894.json",
