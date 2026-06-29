@@ -11,6 +11,18 @@
       "timestamp": 1782480075
     }
   ],
+  "darksoulsii": [
+    {
+      "filename": "tecno-tecno_cn7c-1782724017.json",
+      "device_model": "Tecno TECNO CN7c",
+      "gpu": "Mali-G615 MC2",
+      "ram": "8GB",
+      "storage": "221GB",
+      "notes": "",
+      "config_title": "Ds2",
+      "timestamp": 1782724017
+    }
+  ],
   "dmc__devil_may_cry": [
     {
       "filename": "xiaomi-2406apnfag-1782705150.json",
