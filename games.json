@@ -99,6 +99,15 @@
     "mali_count": 1
   },
   {
+    "id": "inside",
+    "name": "INSIDE",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/0d6412a14c3de72f642b5fc0ef0abfea.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "life_is_strange_2",
     "name": "Life Is Strange 2",
     "steam_id": null,

@@ -151,6 +151,18 @@
       "timestamp": 1782735506
     }
   ],
+  "inside": [
+    {
+      "filename": "motorola-motorola_edge_60_pro-1782752724.json",
+      "device_model": "Motorola motorola edge 60 pro",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "221GB",
+      "notes": "",
+      "config_title": "Playdead's Inside",
+      "timestamp": 1782752724
+    }
+  ],
   "life_is_strange_2": [
     {
       "filename": "xiaomi-23090ra98g-1782681894.json",
