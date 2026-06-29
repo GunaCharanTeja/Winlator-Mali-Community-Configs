@@ -211,6 +211,16 @@
   ],
   "tom_clancy_s_splinter_cell__chaos_theory": [
     {
+      "filename": "motorola-moto_g04s-1782739746.json",
+      "device_model": "Motorola moto g04s",
+      "gpu": "Mali-G57",
+      "ram": "4GB",
+      "storage": "113GB",
+      "notes": "Tested on MotoG04S, 4gb Ram and GPU Mali G57-MC2",
+      "config_title": "Tom Clancy's Splinter Cell Chaos Theory",
+      "timestamp": 1782739746
+    },
+    {
       "filename": "motorola-moto_g04s-1782739331.json",
       "device_model": "Motorola moto g04s",
       "gpu": "Mali-G57",
