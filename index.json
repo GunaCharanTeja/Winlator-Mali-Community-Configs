@@ -173,6 +173,18 @@
       "timestamp": 1782681448
     }
   ],
+  "manhunt_2": [
+    {
+      "filename": "motorola-moto_g04s-1782745142.json",
+      "device_model": "Motorola moto g04s",
+      "gpu": "Mali-G57",
+      "ram": "4GB",
+      "storage": "113GB",
+      "notes": "use exe modded for 60 fps gameplay",
+      "config_title": "Manhunt 2 + Mod 60 FPS",
+      "timestamp": 1782745142
+    }
+  ],
   "mx_bikes": [
     {
       "filename": "samsung-sm-a065f-1782715139.json",

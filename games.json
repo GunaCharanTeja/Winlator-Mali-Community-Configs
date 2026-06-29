@@ -117,6 +117,15 @@
     "mali_count": 2
   },
   {
+    "id": "manhunt_2",
+    "name": "Manhunt 2",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/490b68ddd475e7468902175ec585cdad.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "need_for_speed",
     "name": "Need for Speed",
     "steam_id": null,
