@@ -225,6 +225,15 @@
     "mali_count": 1
   },
   {
+    "id": "need_for_speed__most_wanted",
+    "name": "Need for Speed: Most Wanted",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/080717a2458df7b3ea739a17ca9615e0.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "survivalcraft_2",
     "name": "Survivalcraft 2",
     "steam_id": null,

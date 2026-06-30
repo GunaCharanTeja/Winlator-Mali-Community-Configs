@@ -359,6 +359,18 @@
       "timestamp": 1782729628
     }
   ],
+  "need_for_speed__most_wanted": [
+    {
+      "filename": "samsung-sm-x230-1782855724.json",
+      "device_model": "Samsung SM-X230",
+      "gpu": "Mali-G615 MC2",
+      "ram": "6GB",
+      "storage": "104GB",
+      "notes": "Mali G615 MP2",
+      "config_title": "NFSMW12",
+      "timestamp": 1782855724
+    }
+  ],
   "survivalcraft_2": [
     {
       "filename": "xiaomi-2412dpc0ag-1782796361.json",
