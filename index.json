@@ -305,6 +305,16 @@
   ],
   "tower_of_babel__survivors_of_chaos": [
     {
+      "filename": "xiaomi-2412dpc0ag-1782793269.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "Game Arcade RogueLike 120 Fps Test in dimensity==>8400-Ultra Gpu Mali",
+      "config_title": "tower of babel survivors of chaos",
+      "timestamp": 1782793269
+    },
+    {
       "filename": "xiaomi-2412dpc0ag-1782793024.json",
       "device_model": "Xiaomi 2412DPC0AG",
       "gpu": "Mali-G720 MC7",
