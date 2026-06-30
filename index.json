@@ -23,6 +23,18 @@
       "timestamp": 1782480075
     }
   ],
+  "battlefield_2042": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1782798894.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "Tested in Dymensity 8400-ultra 90Fps and More",
+      "config_title": "BF.2",
+      "timestamp": 1782798894
+    }
+  ],
   "dark_souls__prepare_to_die_edition": [
     {
       "filename": "motorola-motorola_edge_60_pro-1782752449.json",
