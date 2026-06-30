@@ -109,6 +109,16 @@
   ],
   "fable___the_lost_chapters": [
     {
+      "filename": "samsung-sm-a055f-1782845020.json",
+      "device_model": "Samsung SM-A055F",
+      "gpu": "Mali-G52 MC2",
+      "ram": "4GB",
+      "storage": "48GB",
+      "notes": "Samsung galaxy a05 Mail-G52 Helio G85 4gb ram",
+      "config_title": "Fable The Lost Chapters",
+      "timestamp": 1782845020
+    },
+    {
       "filename": "samsung-sm-a055f-1782844952.json",
       "device_model": "Samsung SM-A055F",
       "gpu": "Mali-G52 MC2",
