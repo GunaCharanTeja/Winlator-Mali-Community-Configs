@@ -35,6 +35,18 @@
       "timestamp": 1782798894
     }
   ],
+  "cuphead": [
+    {
+      "filename": "infinix-infinix_x6881-1782852161.json",
+      "device_model": "Infinix Infinix X6881",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "226GB",
+      "notes": "",
+      "config_title": "Cpu Helio G99, Ram 8GB.",
+      "timestamp": 1782852161
+    }
+  ],
   "dark_souls__prepare_to_die_edition": [
     {
       "filename": "motorola-motorola_edge_60_pro-1782752449.json",
