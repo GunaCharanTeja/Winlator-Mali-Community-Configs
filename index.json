@@ -1,4 +1,16 @@
 {
+  "a_short_hike": [
+    {
+      "filename": "tecno-tecno_cm7-1782779041.json",
+      "device_model": "Tecno TECNO CM7",
+      "gpu": "Mali-G615 MC2",
+      "ram": "12GB",
+      "storage": "224GB",
+      "notes": "",
+      "config_title": "A Short Hike",
+      "timestamp": 1782779041
+    }
+  ],
   "assassin_s_creed_iii": [
     {
       "filename": "vivo-i2301-1782480075.json",
