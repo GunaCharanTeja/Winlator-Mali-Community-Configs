@@ -107,6 +107,18 @@
       "timestamp": 1782494009
     }
   ],
+  "fable___the_lost_chapters": [
+    {
+      "filename": "samsung-sm-a055f-1782844952.json",
+      "device_model": "Samsung SM-A055F",
+      "gpu": "Mali-G52 MC2",
+      "ram": "4GB",
+      "storage": "48GB",
+      "notes": "640x480 40-50fps\nin low graphics and off async in option graphics",
+      "config_title": "Samsung Galaxy A05",
+      "timestamp": 1782844952
+    }
+  ],
   "far_cry_3": [
     {
       "filename": "xiaomi-2412dpc0ag-1782790460.json",
