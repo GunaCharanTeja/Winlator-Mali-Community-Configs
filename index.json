@@ -59,6 +59,18 @@
       "timestamp": 1782724017
     }
   ],
+  "devil_may_cry_5": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1782833795.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "11GB",
+      "storage": "480GB",
+      "notes": "used leegao to fix graphical glitches, capped to 30fps (runs at 60 at some areas). \n\nby annoying:)",
+      "config_title": "Devil May Cry 5",
+      "timestamp": 1782833795
+    }
+  ],
   "dmc__devil_may_cry": [
     {
       "filename": "xiaomi-2406apnfag-1782705150.json",
