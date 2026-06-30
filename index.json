@@ -257,6 +257,18 @@
       "timestamp": 1782745142
     }
   ],
+  "minutestilldawn": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1782800013.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "tested in Dymensity 8400-Ultra and 110Fps__90Fps",
+      "config_title": "20.Minutes.Till.Dawn",
+      "timestamp": 1782800013
+    }
+  ],
   "mx_bikes": [
     {
       "filename": "samsung-sm-a065f-1782715139.json",
