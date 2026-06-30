@@ -63,6 +63,15 @@
     "mali_count": 1
   },
   {
+    "id": "far_cry_3",
+    "name": "Far Cry 3",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/b4cfbad9003a02ad861681f4e74f62f4.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "farcry2",
     "name": "FarCry2",
     "steam_id": null,
