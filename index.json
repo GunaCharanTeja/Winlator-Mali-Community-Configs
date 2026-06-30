@@ -269,6 +269,18 @@
       "timestamp": 1782729628
     }
   ],
+  "survivalcraft_2": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1782796361.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "Config Beta Test",
+      "config_title": "Survivalcraft 2 PC",
+      "timestamp": 1782796361
+    }
+  ],
   "the_wolf_among_us": [
     {
       "filename": "xiaomi-23090ra98g-1782681771.json",
