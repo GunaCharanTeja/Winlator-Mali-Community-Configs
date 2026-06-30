@@ -271,6 +271,16 @@
   ],
   "mx_bikes": [
     {
+      "filename": "samsung-sm-a065f-1782810687.json",
+      "device_model": "Samsung SM-A065F",
+      "gpu": "Mali-G52 MC2",
+      "ram": "4GB",
+      "storage": "106GB",
+      "notes": "",
+      "config_title": "MX Bikes",
+      "timestamp": 1782810687
+    },
+    {
       "filename": "samsung-sm-a065f-1782809992.json",
       "device_model": "Samsung SM-A065F",
       "gpu": "Mali-G52 MC2",
