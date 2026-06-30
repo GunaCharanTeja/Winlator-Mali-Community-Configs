@@ -302,5 +302,17 @@
       "config_title": "Tom Clancy's Splinter Cell Chaos Teory",
       "timestamp": 1782739331
     }
+  ],
+  "tower_of_babel__survivors_of_chaos": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1782793024.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "Arcade Game Rogue-Like.. Max Pef-Mediun in Game 115 Fps, tested in dimensity==>8400-Ultra Gpu Mali",
+      "config_title": "tower of babel survivors of chaos",
+      "timestamp": 1782793024
+    }
   ]
 }
