@@ -27,6 +27,15 @@
     "mali_count": 1
   },
   {
+    "id": "call_of_duty__modern_warfare_2",
+    "name": "Call of Duty: Modern Warfare 2",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/5c7a940df793ff940400c9a11df0e9d6.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "cuphead",
     "name": "Cuphead",
     "steam_id": null,

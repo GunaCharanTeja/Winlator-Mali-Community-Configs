@@ -35,6 +35,18 @@
       "timestamp": 1782798894
     }
   ],
+  "call_of_duty__modern_warfare_2": [
+    {
+      "filename": "motorola-moto_e13-1782906923.json",
+      "device_model": "Motorola moto e13",
+      "gpu": "Mali-G57",
+      "ram": "4GB",
+      "storage": "53GB",
+      "notes": "",
+      "config_title": "Call of Duty Modern Warfare 2",
+      "timestamp": 1782906923
+    }
+  ],
   "cuphead": [
     {
       "filename": "infinix-infinix_x6881-1782852161.json",
