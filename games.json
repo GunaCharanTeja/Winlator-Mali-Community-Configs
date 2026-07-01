@@ -202,9 +202,9 @@
     "name": "INSIDE",
     "steam_id": null,
     "community_image": "https://cdn2.steamgriddb.com/grid/0d6412a14c3de72f642b5fc0ef0abfea.png",
-    "config_count": 1,
+    "config_count": 2,
     "adreno_count": 0,
-    "mali_count": 1
+    "mali_count": 2
   },
   {
     "id": "life_is_strange_2",

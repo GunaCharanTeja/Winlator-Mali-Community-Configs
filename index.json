@@ -295,6 +295,16 @@
   ],
   "inside": [
     {
+      "filename": "xiaomi-2412dpc0ag-1782947188.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "my phone Poco x7pro 8 ram very smooth 60 fps \nframe generator 120 fps",
+      "config_title": "Inside",
+      "timestamp": 1782947188
+    },
+    {
       "filename": "motorola-motorola_edge_60_pro-1782752724.json",
       "device_model": "Motorola motorola edge 60 pro",
       "gpu": "Mali-G615 MC6",
