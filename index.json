@@ -221,6 +221,18 @@
       "timestamp": 1782495214
     }
   ],
+  "gta5": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1782876294.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "",
+      "config_title": "Po\u00e7o X7P Pro",
+      "timestamp": 1782876294
+    }
+  ],
   "hitman": [
     {
       "filename": "motorola-motorola_edge_60_pro-1782735506.json",
