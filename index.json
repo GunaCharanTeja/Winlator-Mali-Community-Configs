@@ -474,5 +474,17 @@
       "config_title": "tower of babel survivors of chaos",
       "timestamp": 1782793024
     }
+  ],
+  "untitled": [
+    {
+      "filename": "samsung-sm-a055m-1782910554.json",
+      "device_model": "Samsung SM-A055M",
+      "gpu": "Mali-G52 MC2",
+      "ram": "4GB",
+      "storage": "48GB",
+      "notes": "bueno",
+      "config_title": "60fps",
+      "timestamp": 1782910554
+    }
   ]
 }
