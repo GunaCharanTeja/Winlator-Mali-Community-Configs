@@ -107,6 +107,18 @@
       "timestamp": 1782833795
     }
   ],
+  "devilmaycry4_dx9": [
+    {
+      "filename": "xiaomi-2303cra44a-1782949681.json",
+      "device_model": "Xiaomi 2303CRA44A",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "",
+      "config_title": "Devil May Cry 4",
+      "timestamp": 1782949681
+    }
+  ],
   "dmc__devil_may_cry": [
     {
       "filename": "xiaomi-2406apnfag-1782705150.json",

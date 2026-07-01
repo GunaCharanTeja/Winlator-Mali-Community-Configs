@@ -81,6 +81,15 @@
     "mali_count": 1
   },
   {
+    "id": "devilmaycry4_dx9",
+    "name": "DevilMayCry4_DX9",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "dmc__devil_may_cry",
     "name": "DmC: Devil May Cry",
     "steam_id": null,
