@@ -177,6 +177,18 @@
       "timestamp": 1782735785
     }
   ],
+  "fifa_14": [
+    {
+      "filename": "xiaomi-23090ra98g-1782921480.json",
+      "device_model": "Xiaomi 23090RA98G",
+      "gpu": "Mali-G610 MC4",
+      "ram": "8GB",
+      "storage": "226GB",
+      "notes": "30FPS, Stability Config, 6GB RAM",
+      "config_title": "FIFA14 (MALI-G610)",
+      "timestamp": 1782921480
+    }
+  ],
   "flipwitch__forbidden_sex_hex": [
     {
       "filename": "xiaomi-2407fpn8eg-1782747863.json",

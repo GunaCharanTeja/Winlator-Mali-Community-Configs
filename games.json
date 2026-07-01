@@ -99,6 +99,15 @@
     "mali_count": 1
   },
   {
+    "id": "fifa_14",
+    "name": "FIFA 14",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "fable___the_lost_chapters",
     "name": "Fable - The Lost Chapters",
     "steam_id": null,
