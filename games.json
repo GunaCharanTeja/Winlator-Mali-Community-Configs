@@ -108,6 +108,15 @@
     "mali_count": 1
   },
   {
+    "id": "driver_san_francisco",
+    "name": "Driver San Francisco",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/25b549aaf19a732387e3144c0e525c42.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "fifa_14",
     "name": "FIFA 14",
     "steam_id": null,

@@ -143,6 +143,18 @@
       "timestamp": 1782494009
     }
   ],
+  "driver_san_francisco": [
+    {
+      "filename": "xiaomi-23090ra98g-1782932982.json",
+      "device_model": "Xiaomi 23090RA98G",
+      "gpu": "Mali-G610 MC4",
+      "ram": "8GB",
+      "storage": "226GB",
+      "notes": "Dimensity 7200U, MALI-G610, 6GB Ram, 60fps",
+      "config_title": "Driver SF",
+      "timestamp": 1782932982
+    }
+  ],
   "fable___the_lost_chapters": [
     {
       "filename": "samsung-sm-a055f-1782845020.json",
