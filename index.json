@@ -47,6 +47,18 @@
       "timestamp": 1782906923
     }
   ],
+  "castlevania__lords_of_shadow___ultimate_edition": [
+    {
+      "filename": "vivo-i2301-1782931149.json",
+      "device_model": "Vivo I2301",
+      "gpu": "Mali-G610 MC4",
+      "ram": "8GB",
+      "storage": "226GB",
+      "notes": "cpu cores set to 4 only for stable experience",
+      "config_title": "Working Dimensity 7200.",
+      "timestamp": 1782931149
+    }
+  ],
   "cuphead": [
     {
       "filename": "infinix-infinix_x6881-1782852161.json",

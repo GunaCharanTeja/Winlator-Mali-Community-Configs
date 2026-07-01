@@ -36,6 +36,15 @@
     "mali_count": 1
   },
   {
+    "id": "castlevania__lords_of_shadow___ultimate_edition",
+    "name": "Castlevania: Lords of Shadow - Ultimate Edition",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/b22322e166c4d40881bb94e5f25f202d.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "cuphead",
     "name": "Cuphead",
     "steam_id": null,
