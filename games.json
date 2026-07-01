@@ -270,6 +270,15 @@
     "mali_count": 1
   },
   {
+    "id": "rise_of_the_tomb_raider",
+    "name": "Rise of the Tomb Raider",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/2173ff3ec0159d2de675ad491e9daa65.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "survivalcraft_2",
     "name": "Survivalcraft 2",
     "steam_id": null,

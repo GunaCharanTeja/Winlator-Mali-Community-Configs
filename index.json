@@ -419,6 +419,18 @@
       "timestamp": 1782855724
     }
   ],
+  "rise_of_the_tomb_raider": [
+    {
+      "filename": "vivo-i2301-1782923488.json",
+      "device_model": "Vivo I2301",
+      "gpu": "Mali-G610 MC4",
+      "ram": "8GB",
+      "storage": "226GB",
+      "notes": "",
+      "config_title": "Working Good",
+      "timestamp": 1782923488
+    }
+  ],
   "survivalcraft_2": [
     {
       "filename": "xiaomi-2412dpc0ag-1782796361.json",
