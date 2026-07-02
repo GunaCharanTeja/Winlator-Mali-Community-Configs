@@ -489,6 +489,18 @@
       "timestamp": 1782796361
     }
   ],
+  "the_darkness_ii": [
+    {
+      "filename": "infinix-infinix_x6881-1783007821.json",
+      "device_model": "Infinix Infinix X6881",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "226GB",
+      "notes": "",
+      "config_title": "Cpu Helio G99, 8gb Ram",
+      "timestamp": 1783007821
+    }
+  ],
   "the_wolf_among_us": [
     {
       "filename": "xiaomi-23090ra98g-1782681771.json",
