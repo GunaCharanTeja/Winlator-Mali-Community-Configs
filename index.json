@@ -501,6 +501,18 @@
       "timestamp": 1782681771
     }
   ],
+  "tobebaichounovalentine": [
+    {
+      "filename": "samsung-sm-a075f-1782958010.json",
+      "device_model": "Samsung SM-A075F",
+      "gpu": "Mali-G57 MC2",
+      "ram": "4GB",
+      "storage": "47GB",
+      "notes": "",
+      "config_title": "\u98db\u3079\u306a\u3044\u8776\u306e\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3.exe",
+      "timestamp": 1782958010
+    }
+  ],
   "tom_clancy_s_splinter_cell__chaos_theory": [
     {
       "filename": "motorola-moto_g04s-1782739746.json",
