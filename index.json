@@ -513,6 +513,18 @@
       "timestamp": 1783038260
     }
   ],
+  "octopath_traveler": [
+    {
+      "filename": "tecno-tecno_lh7n-1783039465.json",
+      "device_model": "Tecno TECNO LH7n",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "229GB",
+      "notes": "",
+      "config_title": "Octopath Traveler",
+      "timestamp": 1783039465
+    }
+  ],
   "resident_evil_4": [
     {
       "filename": "tecno-tecno_lh7n-1783038286.json",
