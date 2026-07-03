@@ -11,6 +11,18 @@
       "timestamp": 1782779041
     }
   ],
+  "alan_wake": [
+    {
+      "filename": "tecno-tecno_lh7n-1783038103.json",
+      "device_model": "Tecno TECNO LH7n",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "229GB",
+      "notes": "used dxvk 1.9.4",
+      "config_title": "Alan Wake",
+      "timestamp": 1783038103
+    }
+  ],
   "assassin_s_creed_iii": [
     {
       "filename": "vivo-i2301-1782480075.json",
