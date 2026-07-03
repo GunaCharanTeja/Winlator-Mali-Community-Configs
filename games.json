@@ -360,6 +360,15 @@
     "mali_count": 1
   },
   {
+    "id": "pes2016",
+    "name": "PES2016",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 1,
+    "mali_count": 0
+  },
+  {
     "id": "resident_evil_4",
     "name": "Resident Evil 4",
     "steam_id": null,
