@@ -617,6 +617,18 @@
       "timestamp": 1782923488
     }
   ],
+  "saints_row__the_third": [
+    {
+      "filename": "realme-rmx5056-1783096253.json",
+      "device_model": "Realme RMX5056",
+      "gpu": "Mali-G615 MC2",
+      "ram": "8GB",
+      "storage": "222GB",
+      "notes": "dimensity 7300",
+      "config_title": "Saints Row The Third",
+      "timestamp": 1783096253
+    }
+  ],
   "skyrim_script_extender__skse_": [
     {
       "filename": "tecno-tecno_lh7n-1783038338.json",

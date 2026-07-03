@@ -396,6 +396,15 @@
     "mali_count": 1
   },
   {
+    "id": "saints_row__the_third",
+    "name": "Saints Row: The Third",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/faf4ca1d1db5dd9b8b2a605ed9056691.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "skyrim_script_extender__skse_",
     "name": "Skyrim Script Extender (SKSE)",
     "steam_id": null,
