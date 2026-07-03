@@ -83,6 +83,18 @@
       "timestamp": 1782931149
     }
   ],
+  "crashday_redline_edition": [
+    {
+      "filename": "tecno-tecno_lh7n-1783038240.json",
+      "device_model": "Tecno TECNO LH7n",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "229GB",
+      "notes": "",
+      "config_title": "Crashday",
+      "timestamp": 1783038240
+    }
+  ],
   "cuphead": [
     {
       "filename": "infinix-infinix_x6881-1782852161.json",

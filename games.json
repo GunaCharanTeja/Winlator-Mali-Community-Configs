@@ -63,6 +63,15 @@
     "mali_count": 1
   },
   {
+    "id": "crashday_redline_edition",
+    "name": "Crashday Redline Edition",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/0c19990e54920e9253704d8cb757ef00.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "cuphead",
     "name": "Cuphead",
     "steam_id": null,
