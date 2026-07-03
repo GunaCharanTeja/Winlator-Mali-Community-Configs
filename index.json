@@ -35,6 +35,18 @@
       "timestamp": 1782480075
     }
   ],
+  "assassin_s_creed_rogue": [
+    {
+      "filename": "tecno-tecno_lh7n-1783038216.json",
+      "device_model": "Tecno TECNO LH7n",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "229GB",
+      "notes": "limited fps 30",
+      "config_title": "Assassin's Creed Rogue",
+      "timestamp": 1783038216
+    }
+  ],
   "battlefield_2042": [
     {
       "filename": "xiaomi-2412dpc0ag-1782798894.json",

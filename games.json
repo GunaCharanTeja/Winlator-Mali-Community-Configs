@@ -27,6 +27,15 @@
     "mali_count": 1
   },
   {
+    "id": "assassin_s_creed_rogue",
+    "name": "Assassin's Creed Rogue",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/586c2dd6fd871d889c5ab58ef8889410.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "battlefield_2042",
     "name": "Battlefield 2042",
     "steam_id": null,
