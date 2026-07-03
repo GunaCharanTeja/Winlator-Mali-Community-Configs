@@ -59,6 +59,18 @@
       "timestamp": 1782798894
     }
   ],
+  "call_of_duty_2": [
+    {
+      "filename": "infinix-infinix_x6882-1783057256.json",
+      "device_model": "Infinix Infinix X6882",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "226GB",
+      "notes": "helio g100",
+      "config_title": "Call Of Duty 2",
+      "timestamp": 1783057256
+    }
+  ],
   "call_of_duty__modern_warfare_2": [
     {
       "filename": "motorola-moto_e13-1782906923.json",
