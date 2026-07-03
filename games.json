@@ -351,6 +351,15 @@
     "mali_count": 1
   },
   {
+    "id": "skyrim_script_extender__skse_",
+    "name": "Skyrim Script Extender (SKSE)",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "survivalcraft_2",
     "name": "Survivalcraft 2",
     "steam_id": null,

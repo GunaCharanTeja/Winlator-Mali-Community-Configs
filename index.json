@@ -537,6 +537,18 @@
       "timestamp": 1782923488
     }
   ],
+  "skyrim_script_extender__skse_": [
+    {
+      "filename": "tecno-tecno_lh7n-1783038338.json",
+      "device_model": "Tecno TECNO LH7n",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "229GB",
+      "notes": "",
+      "config_title": "The Elder Scrolls Skyrim",
+      "timestamp": 1783038338
+    }
+  ],
   "survivalcraft_2": [
     {
       "filename": "xiaomi-2412dpc0ag-1782796361.json",
