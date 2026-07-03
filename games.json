@@ -441,6 +441,15 @@
     "mali_count": 2
   },
   {
+    "id": "tomb_raider",
+    "name": "Tomb Raider",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/4d6157a406cc5cc2296557e99237d386.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "tower_of_babel__survivors_of_chaos",
     "name": "Tower of Babel: Survivors Of Chaos",
     "steam_id": null,
