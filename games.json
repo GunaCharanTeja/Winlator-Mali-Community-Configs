@@ -466,5 +466,14 @@
     "config_count": 1,
     "adreno_count": 0,
     "mali_count": 1
+  },
+  {
+    "id": "wolverine",
+    "name": "Wolverine",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
   }
 ]
