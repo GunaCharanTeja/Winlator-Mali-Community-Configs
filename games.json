@@ -117,6 +117,15 @@
     "mali_count": 1
   },
   {
+    "id": "disney_pixar_brave__the_video_game",
+    "name": "Disney\u2022Pixar Brave: The Video Game",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "dmc__devil_may_cry",
     "name": "DmC: Devil May Cry",
     "steam_id": null,
