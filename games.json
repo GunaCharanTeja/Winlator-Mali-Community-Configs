@@ -324,6 +324,15 @@
     "mali_count": 1
   },
   {
+    "id": "ninja__shadowblade",
+    "name": "Ninja: ShadowBlade",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "rise_of_the_tomb_raider",
     "name": "Rise of the Tomb Raider",
     "steam_id": null,

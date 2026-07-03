@@ -501,6 +501,18 @@
       "timestamp": 1782855724
     }
   ],
+  "ninja__shadowblade": [
+    {
+      "filename": "tecno-tecno_lh7n-1783038260.json",
+      "device_model": "Tecno TECNO LH7n",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "229GB",
+      "notes": "",
+      "config_title": "Ninja Blade",
+      "timestamp": 1783038260
+    }
+  ],
   "rise_of_the_tomb_raider": [
     {
       "filename": "vivo-i2301-1782923488.json",
