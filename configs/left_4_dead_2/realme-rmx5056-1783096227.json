@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali",
+    "game_name": "Left 4 Dead 2",
+    "config_title": "Left4dead 2",
+    "community_image": "https://cdn2.steamgriddb.com/grid/281295a1f0e200cd7dc417d82bb4b045.jpg",
+    "notes": "dimensity 7300",
+    "device": {
+      "manufacturer": "realme",
+      "model": "RMX5056",
+      "soc": "RM6878",
+      "gpu": "Mali-G615 MC2",
+      "ram": "8GB",
+      "storage": "222GB"
+    },
+    "timestamp": 1783096227
+  },
+  "container": {
+    "wineVersion": "proton-10-arm64ec",
+    "graphicsDriver": "wrapper",
+    "graphicsDriverConfig": "vulkanVersion=1.1;version=System;blacklistedExtensions=;maxDeviceMemory=0;presentMode=mailbox;syncFrame=0;disablePresentWait=0;astcTranscode=1;etc2Transcode=1;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=0;gpuName=Device",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.5.5,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,maxDeviceMemory=0",
+    "audioDriver": "pulseaudio",
+    "emulator": "fexcore",
+    "box64Version": "0.3.7",
+    "box64Preset": "MAX_PERFORMANCE",
+    "fexcoreVersion": "2605",
+    "fexcorePreset": "PERFORMANCE",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "4,5,6,7",
+    "screenSize": "800x600",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": false,
+    "fullscreenStretched": false,
+    "startupSelection": 2,
+    "envVars": "WRAPPER_MAX_IMAGE_COUNT=0 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=512MB mesa_glthread=true WINEESYNC=1 DXVK_HUD=devinfo,fps,memory,gpuload,version,api PULSE_LATENCY_MSEC=40 WRAPPER_NO_PATCH_OPCONSTCOMP=1 MESA_EXTENSION_MAX_YEAR=2025"
+  },
+  "shortcut": {
+    "name": "L4D2 Launcher",
+    "path": "D:\\pc games\\Left 4 Dead 2\\L4D2 Launcher.exe",
+    "extraData": {}
+  }
+}
