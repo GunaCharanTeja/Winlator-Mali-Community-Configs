@@ -733,18 +733,6 @@
       "timestamp": 1782910554
     }
   ],
-  "wolverine": [
-    {
-      "filename": "vivo-i2301-1783088032.json",
-      "device_model": "Vivo I2301",
-      "gpu": "Mali-G610 MC4",
-      "ram": "8GB",
-      "storage": "226GB",
-      "notes": "Install Nvidia Physx From Start Menu Required Or Will Not Open !!",
-      "config_title": "Works Good",
-      "timestamp": 1783088032
-    }
-  ],
   "x_men_origins__wolverine": [
     {
       "filename": "vivo-i2301-1783088157.json",
