@@ -513,6 +513,18 @@
       "timestamp": 1783038260
     }
   ],
+  "resident_evil_4": [
+    {
+      "filename": "tecno-tecno_lh7n-1783038286.json",
+      "device_model": "Tecno TECNO LH7n",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "229GB",
+      "notes": "",
+      "config_title": "Resident Evil 4",
+      "timestamp": 1783038286
+    }
+  ],
   "rise_of_the_tomb_raider": [
     {
       "filename": "vivo-i2301-1782923488.json",

@@ -333,6 +333,15 @@
     "mali_count": 1
   },
   {
+    "id": "resident_evil_4",
+    "name": "Resident Evil 4",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/e7d78c04616fa0c0a25ed12fb7e1abab.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "rise_of_the_tomb_raider",
     "name": "Rise of the Tomb Raider",
     "steam_id": null,
