@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali",
+    "game_name": "Call of Duty 2",
+    "config_title": "Call Of Duty 2",
+    "community_image": "https://cdn2.steamgriddb.com/grid/06042388e66f7f6ec5a432a8d3faceaa.jpg",
+    "notes": "helio g100",
+    "device": {
+      "manufacturer": "INFINIX",
+      "model": "Infinix X6882",
+      "soc": "Infinix-X6882",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "226GB"
+    },
+    "timestamp": 1783057256
+  },
+  "container": {
+    "wineVersion": "proton-10-arm64ec",
+    "graphicsDriver": "wrapper",
+    "graphicsDriverConfig": "vulkanVersion=1.1;version=System;blacklistedExtensions=;maxDeviceMemory=2048;presentMode=mailbox;syncFrame=0;disablePresentWait=0;astcTranscode=1;etc2Transcode=0;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=0;gpuName=Device",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.10.3,framerate=30,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,maxDeviceMemory=3",
+    "audioDriver": "pulseaudio",
+    "emulator": "fexcore",
+    "box64Version": "0.4.3",
+    "box64Preset": "PERFORMANCE",
+    "fexcoreVersion": "2605",
+    "fexcorePreset": "PERFORMANCE",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "0,1,2,3,4,5,6,7",
+    "screenSize": "800x600",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": false,
+    "fullscreenStretched": false,
+    "startupSelection": 2
+  },
+  "shortcut": {
+    "name": "CoD2SP_s",
+    "path": "F:\\Download\\1DMP\\Compressed\\Call of Duty 2\\Call of Duty 2\\CoD2SP_s.exe",
+    "extraData": {
+      "emulationMode": "GAME_CONTROLLER",
+      "simTouchScreen": "0",
+      "screenSize": "800x600",
+      "graphicsDriver": "wrapper-v2",
+      "graphicsDriverConfig": "vulkanVersion=1.1;version=System;blacklistedExtensions=;maxDeviceMemory=8192;presentMode=immediate;syncFrame=0;disablePresentWait=1;astcTranscode=1;etc2Transcode=0;resourceType=auto;bcnEmulation=full;bcnEmulationType=compute;bcnEmulationCache=1;gpuName=Device",
+      "dxwrapper": "dxvk+vkd3d",
+      "dxwrapperConfig": "version=1.7.2,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_0,ddrawrapper=dd7to9,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,maxDeviceMemory=5",
+      "audioDriver": "pulseaudio",
+      "emulator": "box64",
+      "midiSoundFont": "wt_210k_G.sf2",
+      "lc_all": "en_US.UTF-8",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+      "fexcoreVersion": "2605",
+      "fexcorePreset": "MAX_PERFORMANCE",
+      "box64Preset": "MAX_PERFORMANCE",
+      "startupSelection": "2",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "cpuList": "0,1,2,3,4,5,6,7"
+    }
+  }
+}
