@@ -251,6 +251,16 @@
   ],
   "far_cry_3": [
     {
+      "filename": "vivo-i2301-1783082092.json",
+      "device_model": "Vivo I2301",
+      "gpu": "Mali-G610 MC4",
+      "ram": "8GB",
+      "storage": "226GB",
+      "notes": "Install Recommended Files From Start Menu Nothing Much.",
+      "config_title": "Good , Dimensity 7200",
+      "timestamp": 1783082092
+    },
+    {
       "filename": "xiaomi-2412dpc0ag-1782790460.json",
       "device_model": "Xiaomi 2412DPC0AG",
       "gpu": "Mali-G720 MC7",
