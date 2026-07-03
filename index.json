@@ -407,6 +407,18 @@
       "timestamp": 1782752724
     }
   ],
+  "left_4_dead_2": [
+    {
+      "filename": "realme-rmx5056-1783096227.json",
+      "device_model": "Realme RMX5056",
+      "gpu": "Mali-G615 MC2",
+      "ram": "8GB",
+      "storage": "222GB",
+      "notes": "dimensity 7300",
+      "config_title": "Left4dead 2",
+      "timestamp": 1783096227
+    }
+  ],
   "life_is_strange_2": [
     {
       "filename": "xiaomi-23090ra98g-1782681894.json",
