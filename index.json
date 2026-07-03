@@ -309,6 +309,16 @@
   ],
   "grand_theft_auto_iv__the_complete_edition": [
     {
+      "filename": "motorola-motorola_edge_60_pro-1783086372.json",
+      "device_model": "Motorola motorola edge 60 pro",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "221GB",
+      "notes": "You can play it on 1080p too check it out if you think it's stuttery switch back to the one I have provided by default don't use high res if you have a low end chip \n\nyou can use the normal wrapper too if you like",
+      "config_title": "GTA IV",
+      "timestamp": 1783086372
+    },
+    {
       "filename": "motorola-moto_g35_5g-1782735816.json",
       "device_model": "Motorola moto g35 5G",
       "gpu": "Mali-G57",
