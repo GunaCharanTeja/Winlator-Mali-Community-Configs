@@ -475,5 +475,14 @@
     "config_count": 1,
     "adreno_count": 0,
     "mali_count": 1
+  },
+  {
+    "id": "x_men_origins__wolverine",
+    "name": "X-Men Origins: Wolverine",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/8e04bc9fb70c6fd80b297523a597b112.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
   }
 ]
