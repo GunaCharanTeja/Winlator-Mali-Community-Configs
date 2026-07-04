@@ -47,6 +47,18 @@
       "timestamp": 1783038216
     }
   ],
+  "batman__arkham_city": [
+    {
+      "filename": "motorola-motorola_edge_60_pro-1783151025.json",
+      "device_model": "Motorola motorola edge 60 pro",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "221GB",
+      "notes": "use BM launcher and move the game files to C drive",
+      "config_title": "BatmanAC",
+      "timestamp": 1783151025
+    }
+  ],
   "battlefield_2042": [
     {
       "filename": "xiaomi-2412dpc0ag-1782798894.json",

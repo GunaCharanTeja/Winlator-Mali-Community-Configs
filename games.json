@@ -36,6 +36,15 @@
     "mali_count": 1
   },
   {
+    "id": "batman__arkham_city",
+    "name": "Batman: Arkham City",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/983ed0dc2e3b51d86f4140392f30d5b1.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "battlefield_2042",
     "name": "Battlefield 2042",
     "steam_id": null,
