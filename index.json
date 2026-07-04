@@ -639,6 +639,18 @@
       "timestamp": 1783039465
     }
   ],
+  "persona_5_royal": [
+    {
+      "filename": "xiaomi-2311drk48g-1783204208.json",
+      "device_model": "Xiaomi 2311DRK48G",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "466GB",
+      "notes": "Max configs 45fps Dimensity 8300U",
+      "config_title": "PERSONA 5 ROYAL",
+      "timestamp": 1783204208
+    }
+  ],
   "pes2016": [
     {
       "filename": "samsung-sm-s928b-1783082375.json",
