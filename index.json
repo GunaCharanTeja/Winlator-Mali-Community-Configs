@@ -61,6 +61,16 @@
   ],
   "batman__arkham_city": [
     {
+      "filename": "motorola-motorola_edge_60_pro-1783179320.json",
+      "device_model": "Motorola motorola edge 60 pro",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "221GB",
+      "notes": "use v2 again move the game to c drive if any issues or more sttutering use 1.7.2",
+      "config_title": "Batman Arkham City V2",
+      "timestamp": 1783179320
+    },
+    {
       "filename": "motorola-motorola_edge_60_pro-1783151025.json",
       "device_model": "Motorola motorola edge 60 pro",
       "gpu": "Mali-G615 MC6",
