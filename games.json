@@ -333,6 +333,15 @@
     "mali_count": 1
   },
   {
+    "id": "miside",
+    "name": "MiSide",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/edffe7902b1d3f1a4660297fcad25eae.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "minutestilldawn",
     "name": "MinutesTillDawn",
     "steam_id": null,

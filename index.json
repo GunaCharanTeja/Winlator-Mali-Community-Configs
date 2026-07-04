@@ -523,6 +523,18 @@
       "timestamp": 1782800013
     }
   ],
+  "miside": [
+    {
+      "filename": "vivo-v2117-1783184923.json",
+      "device_model": "Vivo V2117",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "105GB",
+      "notes": "device used : vivo v2117",
+      "config_title": "Miside Working",
+      "timestamp": 1783184923
+    }
+  ],
   "mx_bikes": [
     {
       "filename": "samsung-sm-a065f-1782810687.json",
