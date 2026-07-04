@@ -557,6 +557,18 @@
       "timestamp": 1782729628
     }
   ],
+  "need_for_speed__hot_pursuit": [
+    {
+      "filename": "xiaomi-2311drk48i-1783170488.json",
+      "device_model": "Xiaomi 2311DRK48I",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "before starting the game, make sure to change the configtool.exe for nfs to your current resolution or you will see black screen. runs 60 fps (dips when starting new race but last only 1-2 secs)",
+      "config_title": "Dimensity 8300 8gb Ram",
+      "timestamp": 1783170488
+    }
+  ],
   "need_for_speed__most_wanted": [
     {
       "filename": "samsung-sm-x230-1782855724.json",

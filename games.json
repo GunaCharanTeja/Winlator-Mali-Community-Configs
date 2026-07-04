@@ -351,6 +351,15 @@
     "mali_count": 1
   },
   {
+    "id": "need_for_speed__hot_pursuit",
+    "name": "Need for Speed: Hot Pursuit",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/bd6bb145d621e39c53017470ab6b1fb5.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "need_for_speed__most_wanted",
     "name": "Need for Speed: Most Wanted",
     "steam_id": null,
