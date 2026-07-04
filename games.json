@@ -36,6 +36,15 @@
     "mali_count": 1
   },
   {
+    "id": "assassin_s_creed__brotherhood",
+    "name": "Assassin's Creed: Brotherhood",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/7f5d6d8aec8787c36e857bb3cd655599.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "batman__arkham_city",
     "name": "Batman: Arkham City",
     "steam_id": null,

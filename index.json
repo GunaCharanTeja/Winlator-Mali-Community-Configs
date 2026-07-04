@@ -23,6 +23,18 @@
       "timestamp": 1783038103
     }
   ],
+  "assassin_s_creed__brotherhood": [
+    {
+      "filename": "samsung-sm-x230-1783172659.json",
+      "device_model": "Samsung SM-X230",
+      "gpu": "Mali-G615 MC2",
+      "ram": "6GB",
+      "storage": "104GB",
+      "notes": "",
+      "config_title": "Assassin's Creed Brotherhood",
+      "timestamp": 1783172659
+    }
+  ],
   "assassin_s_creed_iii": [
     {
       "filename": "vivo-i2301-1782480075.json",
