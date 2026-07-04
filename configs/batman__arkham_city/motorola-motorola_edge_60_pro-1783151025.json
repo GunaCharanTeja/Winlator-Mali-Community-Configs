@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali",
+    "game_name": "Batman: Arkham City",
+    "config_title": "BatmanAC",
+    "community_image": "https://cdn2.steamgriddb.com/grid/983ed0dc2e3b51d86f4140392f30d5b1.png",
+    "notes": "use BM launcher and move the game files to C drive",
+    "device": {
+      "manufacturer": "motorola",
+      "model": "motorola edge 60 pro",
+      "soc": "cybert",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "221GB"
+    },
+    "timestamp": 1783151025
+  },
+  "container": {
+    "wineVersion": "proton-9.0-x86_64",
+    "graphicsDriver": "wrapper",
+    "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=;maxDeviceMemory=0;presentMode=mailbox;syncFrame=0;disablePresentWait=0;astcTranscode=1;etc2Transcode=1;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=0;gpuName=Device",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.7.2,framerate=60,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,maxDeviceMemory=3",
+    "audioDriver": "pulseaudio",
+    "emulator": "box64",
+    "box64Version": "0.3.7",
+    "box64Preset": "CUSTOM-2",
+    "fexcoreVersion": "2605",
+    "fexcorePreset": "MAX_PERFORMANCE",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "0,1,2,3,4,5,6,7",
+    "screenSize": "1280x720",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": true,
+    "fullscreenStretched": false,
+    "startupSelection": 1
+  },
+  "shortcut": {
+    "name": "Batman Arkham City GOTY",
+    "path": "C:\\users\\xuser\\Downloads\\Batman-Arkham-City-GOTY\\Batman Arkham City GOTY\\Binaries\\Win32\\BmLauncher.exe",
+    "extraData": {
+      "box64Version": "0.3.7",
+      "emulationMode": "GAME_CONTROLLER",
+      "simTouchScreen": "0",
+      "screenSize": "1280x720",
+      "graphicsDriver": "wrapper",
+      "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=;maxDeviceMemory=0;presentMode=mailbox;syncFrame=0;disablePresentWait=0;astcTranscode=1;etc2Transcode=0;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=0;gpuName=Device",
+      "dxwrapper": "dxvk+vkd3d",
+      "dxwrapperConfig": "version=1.7.3-async-0,framerate=60,async=1,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,maxDeviceMemory=3",
+      "audioDriver": "pulseaudio",
+      "emulator": "box64",
+      "midiSoundFont": "",
+      "lc_all": "en_IN.UTF-8",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+      "fexcoreVersion": "2605",
+      "fexcorePreset": "MAX_PERFORMANCE",
+      "box64Preset": "INTERMEDIATE",
+      "startupSelection": "2",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "fullscreenStretched": "1"
+    }
+  }
+}
