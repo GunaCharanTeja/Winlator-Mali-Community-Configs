@@ -61,6 +61,16 @@
   ],
   "astronite": [
     {
+      "filename": "samsung-sm-a346e-1783259120.json",
+      "device_model": "Samsung SM-A346E",
+      "gpu": "Mali-G68 MC4",
+      "ram": "6GB",
+      "storage": "106GB",
+      "notes": "",
+      "config_title": "Astronite Config",
+      "timestamp": 1783259120
+    },
+    {
       "filename": "samsung-sm-a346e-1783258225.json",
       "device_model": "Samsung SM-A346E",
       "gpu": "Mali-G68 MC4",

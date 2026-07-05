@@ -49,9 +49,9 @@
     "name": "Astronite",
     "steam_id": null,
     "community_image": "https://cdn2.steamgriddb.com/grid/fd72a69070a941589d12e434680668be.jpg",
-    "config_count": 1,
+    "config_count": 2,
     "adreno_count": 0,
-    "mali_count": 1
+    "mali_count": 2
   },
   {
     "id": "batman__arkham_city",
