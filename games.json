@@ -441,6 +441,15 @@
     "mali_count": 1
   },
   {
+    "id": "raw_data",
+    "name": "Raw Data",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "resident_evil_4",
     "name": "Resident Evil 4",
     "steam_id": null,

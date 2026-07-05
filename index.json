@@ -717,6 +717,18 @@
       "timestamp": 1783082375
     }
   ],
+  "raw_data": [
+    {
+      "filename": "google-pixel_9-1783262332.json",
+      "device_model": "Google Pixel 9",
+      "gpu": "Mali-G715",
+      "ram": "12GB",
+      "storage": "110GB",
+      "notes": "Recommend to use frame gen if you're getting 20-23 fps, lock in 30 fps to make the game stable",
+      "config_title": "Assassin's Creed II",
+      "timestamp": 1783262332
+    }
+  ],
   "resident_evil_4": [
     {
       "filename": "tecno-tecno_lh7n-1783038286.json",
