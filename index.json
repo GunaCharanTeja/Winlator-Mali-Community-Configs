@@ -329,6 +329,16 @@
   ],
   "far_cry_3": [
     {
+      "filename": "vivo-i2301-1783263573.json",
+      "device_model": "Vivo I2301",
+      "gpu": "Mali-G610 MC4",
+      "ram": "8GB",
+      "storage": "226GB",
+      "notes": "",
+      "config_title": "Test 2 Bruh \ud83d\ude2d",
+      "timestamp": 1783263573
+    },
+    {
       "filename": "vivo-i2301-1783259458.json",
       "device_model": "Vivo I2301",
       "gpu": "Mali-G610 MC4",
