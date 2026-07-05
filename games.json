@@ -45,6 +45,15 @@
     "mali_count": 1
   },
   {
+    "id": "astronite",
+    "name": "Astronite",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/fd72a69070a941589d12e434680668be.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "batman__arkham_city",
     "name": "Batman: Arkham City",
     "steam_id": null,
@@ -97,6 +106,15 @@
     "config_count": 1,
     "adreno_count": 0,
     "mali_count": 1
+  },
+  {
+    "id": "crow_country",
+    "name": "Crow Country",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/bfc8b5b3539ba27b2c5924fb2237a14f.png",
+    "config_count": 2,
+    "adreno_count": 0,
+    "mali_count": 2
   },
   {
     "id": "cuphead",

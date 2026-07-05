@@ -59,6 +59,18 @@
       "timestamp": 1783038216
     }
   ],
+  "astronite": [
+    {
+      "filename": "samsung-sm-a346e-1783258225.json",
+      "device_model": "Samsung SM-A346E",
+      "gpu": "Mali-G68 MC4",
+      "ram": "6GB",
+      "storage": "106GB",
+      "notes": "",
+      "config_title": "Config Astornite",
+      "timestamp": 1783258225
+    }
+  ],
   "batman__arkham_city": [
     {
       "filename": "motorola-motorola_edge_60_pro-1783179320.json",
@@ -139,6 +151,28 @@
       "notes": "",
       "config_title": "Crashday",
       "timestamp": 1783038240
+    }
+  ],
+  "crow_country": [
+    {
+      "filename": "samsung-sm-a346e-1783259106.json",
+      "device_model": "Samsung SM-A346E",
+      "gpu": "Mali-G68 MC4",
+      "ram": "6GB",
+      "storage": "106GB",
+      "notes": "",
+      "config_title": "Crow Country Config",
+      "timestamp": 1783259106
+    },
+    {
+      "filename": "samsung-sm-a346e-1783258211.json",
+      "device_model": "Samsung SM-A346E",
+      "gpu": "Mali-G68 MC4",
+      "ram": "6GB",
+      "storage": "106GB",
+      "notes": "",
+      "config_title": "Config Crow Country",
+      "timestamp": 1783258211
     }
   ],
   "cuphead": [
