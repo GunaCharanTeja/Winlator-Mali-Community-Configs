@@ -450,6 +450,15 @@
     "mali_count": 1
   },
   {
+    "id": "sekiro__shadows_die_twice",
+    "name": "Sekiro: Shadows Die Twice",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/4925d3a795d21f729483cc62e53a74e4.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "skyrim_script_extender__skse_",
     "name": "Skyrim Script Extender (SKSE)",
     "steam_id": null,

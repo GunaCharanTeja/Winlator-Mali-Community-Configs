@@ -699,6 +699,18 @@
       "timestamp": 1783096253
     }
   ],
+  "sekiro__shadows_die_twice": [
+    {
+      "filename": "vivo-v2405a-1783248658.json",
+      "device_model": "Vivo V2405A",
+      "gpu": "Mali-G925-Immortalis MC12",
+      "ram": "12GB",
+      "storage": "218GB",
+      "notes": "",
+      "config_title": "cc",
+      "timestamp": 1783248658
+    }
+  ],
   "skyrim_script_extender__skse_": [
     {
       "filename": "tecno-tecno_lh7n-1783038338.json",
