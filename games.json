@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "hades",
+    "name": "Hades",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/5db8eff4369787e7b0f96bcb2cb55388.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  }
+]
