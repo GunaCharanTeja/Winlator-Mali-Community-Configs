@@ -1,14 +1,1 @@
-{
-  "assassin's_creed_revelations": [
-    {
-      "filename": "vivo-i2301-1783345400.json",
-      "device_model": "Vivo I2301",
-      "gpu": "Mali-G610 MC4",
-      "ram": "8GB",
-      "storage": "226GB",
-      "notes": "Performance Notes\n\n- Average performance: 25–30 FPS.\n- To reduce stuttering, move the game to the C: drive.\n- If you get a Ubisoft Launcher error, install it from the Start Menu (it's included).\n- If you experience physics bugs, switch the FEXCore Preset to Performance (x86...). I don't encounter this issue myself, but if you do, this usually fixes it.",
-      "config_title": "Stable Dimensity 7200",
-      "timestamp": 1783345400
-    }
-  ]
-}
+{}
