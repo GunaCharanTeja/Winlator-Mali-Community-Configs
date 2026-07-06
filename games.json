@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "batman_arkham_city_-_game_of_the_year_edition",
+    "name": "Batman: Arkham City - Game of the Year Edition",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/ea3d02727c1507caa455c90fb618c499.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  }
+]

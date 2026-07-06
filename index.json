@@ -1,1 +1,14 @@
-{}
+{
+  "batman_arkham_city_-_game_of_the_year_edition": [
+    {
+      "filename": "vivo-i2301-1783369559.json",
+      "device_model": "Vivo I2301",
+      "gpu": "Mali-G610 MC4",
+      "ram": "8GB",
+      "storage": "226GB",
+      "notes": "Performance Notes\n\n- Average performance: 25–30 FPS.\n- To reduce stuttering, move the game to the C: drive.\n- Need To Install Gecko,Mono and Nvdia Physx ,install Them from the Start Menu (All included).\n- \"PLAYED ON GOG STORE VERSION OF THE GAME\".",
+      "config_title": "Dimensity 7200",
+      "timestamp": 1783369559
+    }
+  ]
+}
