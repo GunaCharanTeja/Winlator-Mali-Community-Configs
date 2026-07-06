@@ -1,1 +1,14 @@
-{}
+{
+  "assassin's_creed_revelations": [
+    {
+      "filename": "vivo-i2301-1783342988.json",
+      "device_model": "Vivo I2301",
+      "gpu": "Mali-G610 MC4",
+      "ram": "8GB",
+      "storage": "226GB",
+      "notes": "",
+      "config_title": "Test",
+      "timestamp": 1783342988
+    }
+  ]
+}
