@@ -22,5 +22,17 @@
       "config_title": "Dimensity 7200",
       "timestamp": 1783369559
     }
+  ],
+  "fifa_14": [
+    {
+      "filename": "vivo-i2301-1783464024.json",
+      "device_model": "Vivo I2301",
+      "gpu": "Mali-G610 MC4",
+      "ram": "8GB",
+      "storage": "226GB",
+      "notes": "Performance Notes\n\nAverage performance: 60+ FPS.\n\nGecko and Mono must be installed, or FIFA Setup will not open. You can install both from the Start Menu.\n\nDo not change the Box64 version or preset. The container is already configured for the best performance and compatibility. Changing these settings may reduce performance or introduce issues.",
+      "config_title": "Stable , Dimensity 7200",
+      "timestamp": 1783464024
+    }
   ]
 }
