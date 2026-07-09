@@ -35,6 +35,18 @@
       "timestamp": 1783369559
     }
   ],
+  "cuphead": [
+    {
+      "filename": "samsung-sm_a075m-1783631645.json",
+      "device_model": "Samsung SM-A075M",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "",
+      "config_title": "Cuphead hélio g99",
+      "timestamp": 1783631645
+    }
+  ],
   "fifa_14": [
     {
       "filename": "vivo-i2301-1783464024.json",
