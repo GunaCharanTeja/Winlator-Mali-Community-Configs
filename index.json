@@ -1,4 +1,16 @@
 {
+  "assassin's_creed_brotherhood": [
+    {
+      "filename": "vivo-i2301-1783571668.json",
+      "device_model": "Vivo I2301",
+      "gpu": "Mali-G610 MC4",
+      "ram": "8GB",
+      "storage": "226GB",
+      "notes": "Performance Notes\n\n- Average performance: 25–30 FPS (raw), 60 FPS with Apex Frame Generation.\n- The game is manually limited to 30 FPS using Universal FPS Limiter, then Apex Frame Generation is used to achieve 60 FPS. It works surprisingly well.\n- If you get a Ubisoft Launcher error, install it from the Start Menu (it's included).\n- Do not change any container settings. The container is already configured for the best balance of performance and compatibility.\n- Changing the FEXCore version or Performance preset may reduce performance or cause physics issues. For the best experience, use the container exactly as provided.",
+      "config_title": "Dimensity 7200 , Very Good",
+      "timestamp": 1783571668
+    }
+  ],
   "assassin's_creed_revelations": [
     {
       "filename": "vivo-i2301-1783456138.json",
