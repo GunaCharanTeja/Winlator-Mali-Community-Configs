@@ -58,5 +58,17 @@
       "config_title": "Half Life 2 ( Use This)",
       "timestamp": 1783606441
     }
+  ],
+  "resident_evil_2": [
+    {
+      "filename": "google-pixel_9-1783630127.json",
+      "device_model": "Google Pixel 9",
+      "gpu": "Mali-G715",
+      "ram": "12GB",
+      "storage": "110GB",
+      "notes": "you can change wrappers and dxvk if you want to do it\n(dxvk sarek 1.11.1 + wrapper recommended)",
+      "config_title": "config for re2",
+      "timestamp": 1783630127
+    }
   ]
 }
