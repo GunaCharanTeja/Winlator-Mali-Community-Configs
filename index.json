@@ -47,6 +47,18 @@
       "timestamp": 1783464024
     }
   ],
+  "grand_theft_auto_v": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1783631383.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "",
+      "config_title": "GTA V",
+      "timestamp": 1783631383
+    }
+  ],
   "half-life_2": [
     {
       "filename": "motorola-motorola_edge_60_pro-1783606441.json",
