@@ -94,5 +94,17 @@
       "config_title": "config for re2",
       "timestamp": 1783630127
     }
+  ],
+  "shank_2": [
+    {
+      "filename": "samsung-sm_a346e-1783631774.json",
+      "device_model": "Samsung SM-A346E",
+      "gpu": "Mali-G68 MC4",
+      "ram": "6GB",
+      "storage": "106GB",
+      "notes": "dont change anything o fthis settings",
+      "config_title": "Shank 2",
+      "timestamp": 1783631774
+    }
   ]
 }
