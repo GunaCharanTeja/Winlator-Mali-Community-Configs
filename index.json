@@ -46,5 +46,17 @@
       "config_title": "Stable , Dimensity 7200",
       "timestamp": 1783464024
     }
+  ],
+  "half-life_2": [
+    {
+      "filename": "motorola-motorola_edge_60_pro-1783605905.json",
+      "device_model": "Motorola motorola edge 60 pro",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "221GB",
+      "notes": "Has an android port but this just looks better don't mess with msaa and you are good to go",
+      "config_title": "HALF LIFE 2",
+      "timestamp": 1783605905
+    }
   ]
 }
