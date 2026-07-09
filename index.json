@@ -57,16 +57,6 @@
       "notes": "Got 60 fps throughout the play \n\nkeep anti aliasing off and also move the game folder to C drive (very important otherwise the game with take  like 5 minutes to load) looks better with HDR",
       "config_title": "Half Life 2 ( Use This)",
       "timestamp": 1783606441
-    },
-    {
-      "filename": "motorola-motorola_edge_60_pro-1783605905.json",
-      "device_model": "Motorola motorola edge 60 pro",
-      "gpu": "Mali-G615 MC6",
-      "ram": "8GB",
-      "storage": "221GB",
-      "notes": "Has an android port but this just looks better don't mess with msaa and you are good to go",
-      "config_title": "HALF LIFE 2",
-      "timestamp": 1783605905
     }
   ]
 }
