@@ -27,6 +27,15 @@
     "mali_count": 1
   },
   {
+    "id": "biohazard_re2_z_version",
+    "name": "BIOHAZARD RE:2 Z Version",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/eb4c50aa78dad161f087c74842e22420.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "cuphead",
     "name": "Cuphead",
     "steam_id": null,

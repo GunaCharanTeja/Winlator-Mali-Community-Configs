@@ -35,6 +35,18 @@
       "timestamp": 1783369559
     }
   ],
+  "biohazard_re2_z_version": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1783727821.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "",
+      "config_title": "For Residentevil 2 Remake At Poco fx7 Pro",
+      "timestamp": 1783727821
+    }
+  ],
   "cuphead": [
     {
       "filename": "samsung-sm_a075m-1783632123.json",
