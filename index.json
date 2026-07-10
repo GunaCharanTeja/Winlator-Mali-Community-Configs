@@ -47,6 +47,18 @@
       "timestamp": 1783632123
     }
   ],
+  "devil_may_cry_5": [
+    {
+      "filename": "google-pixel_9-1783684359.json",
+      "device_model": "Google Pixel 9",
+      "gpu": "Mali-G715",
+      "ram": "12GB",
+      "storage": "110GB",
+      "notes": "The game is working but it has graphical issues like texture flicking. (RECOMMEND TO PLAY DX11 VERSION). Don't change the settings if you have r50 or above.",
+      "config_title": "Tensor G4, Playable",
+      "timestamp": 1783684359
+    }
+  ],
   "fifa_14": [
     {
       "filename": "vivo-i2301-1783464024.json",
