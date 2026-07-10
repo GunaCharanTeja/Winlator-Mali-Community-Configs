@@ -95,6 +95,18 @@
       "timestamp": 1783606441
     }
   ],
+  "mad_max": [
+    {
+      "filename": "xiaomi-2506bpn68g-1783725379.json",
+      "device_model": "Xiaomi 2506BPN68G",
+      "gpu": "Mali-G925-Immortalis MC12",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "dxvk 1.5.5",
+      "config_title": "Mad Max",
+      "timestamp": 1783725379
+    }
+  ],
   "naruto_ultimate_ninja_storm": [
     {
       "filename": "infinix-infinix_x6853-1783683151.json",

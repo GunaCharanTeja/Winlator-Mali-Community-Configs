@@ -72,6 +72,15 @@
     "mali_count": 1
   },
   {
+    "id": "mad_max",
+    "name": "Mad Max",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/37e396a87c464058b177d3968f1b837b.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "naruto_ultimate_ninja_storm",
     "name": "Naruto: Ultimate Ninja STORM",
     "steam_id": null,
