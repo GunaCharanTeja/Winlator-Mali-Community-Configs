@@ -83,6 +83,18 @@
       "timestamp": 1783606441
     }
   ],
+  "naruto_ultimate_ninja_storm": [
+    {
+      "filename": "infinix-infinix_x6853-1783683151.json",
+      "device_model": "Infinix Infinix X6853",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "SETTINGS BY NOYSZ FOURFECT",
+      "config_title": "Naruto Ultimate Ninja Storm Connection",
+      "timestamp": 1783683151
+    }
+  ],
   "resident_evil_2": [
     {
       "filename": "google-pixel_9-1783630127.json",
