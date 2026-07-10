@@ -116,5 +116,17 @@
       "config_title": "Shank 2",
       "timestamp": 1783631774
     }
+  ],
+  "soulcalibur_vi": [
+    {
+      "filename": "xiaomi-2511fpc34g-1783660418.json",
+      "device_model": "Xiaomi 2511FPC34G",
+      "gpu": "Mali-G720 MC8",
+      "ram": "8GB",
+      "storage": "479GB",
+      "notes": "Poco 8x pro",
+      "config_title": "Soulcalibur6",
+      "timestamp": 1783660418
+    }
   ]
 }
