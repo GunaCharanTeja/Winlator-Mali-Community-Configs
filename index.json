@@ -71,6 +71,18 @@
       "timestamp": 1783684359
     }
   ],
+  "dmc_devil_may_cry_-_definitive_edition": [
+    {
+      "filename": "xiaomi-2406apnfag-1783760026.json",
+      "device_model": "Xiaomi 2406APNFAG",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "482GB",
+      "notes": "forks fine locked at 30fps",
+      "config_title": "Dmc2013 Config For Dimensity8300",
+      "timestamp": 1783760026
+    }
+  ],
   "dragon_ball_fighterz": [
     {
       "filename": "tecno-tecno_ki5k-1783728635.json",

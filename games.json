@@ -54,6 +54,15 @@
     "mali_count": 1
   },
   {
+    "id": "dmc_devil_may_cry_-_definitive_edition",
+    "name": "DmC: Devil May Cry - Definitive Edition",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/7df09f31b8e57300f44005cc872f9fc8.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "dragon_ball_fighterz",
     "name": "Dragon Ball FighterZ",
     "steam_id": null,
