@@ -54,6 +54,15 @@
     "mali_count": 1
   },
   {
+    "id": "dragon_ball_fighterz",
+    "name": "Dragon Ball FighterZ",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/819871c049f27a81805f40bfd1c481a3.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "fifa_14",
     "name": "FIFA 14",
     "steam_id": null,

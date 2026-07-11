@@ -71,6 +71,18 @@
       "timestamp": 1783684359
     }
   ],
+  "dragon_ball_fighterz": [
+    {
+      "filename": "tecno-tecno_ki5k-1783728635.json",
+      "device_model": "Tecno TECNO KI5k",
+      "gpu": "Mali-G57",
+      "ram": "8GB",
+      "storage": "113GB",
+      "notes": "..",
+      "config_title": "Dragon Ball Fighters",
+      "timestamp": 1783728635
+    }
+  ],
   "fifa_14": [
     {
       "filename": "vivo-i2301-1783464024.json",
