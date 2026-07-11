@@ -193,6 +193,16 @@
   ],
   "tomb_raider": [
     {
+      "filename": "tecno-tecno_ki5k-1783728938.json",
+      "device_model": "Tecno TECNO KI5k",
+      "gpu": "Mali-G57",
+      "ram": "8GB",
+      "storage": "113GB",
+      "notes": "",
+      "config_title": "Tomb Raider 2013",
+      "timestamp": 1783728938
+    },
+    {
       "filename": "tecno-tecno_ki5k-1783728895.json",
       "device_model": "Tecno TECNO KI5k",
       "gpu": "Mali-G57",
