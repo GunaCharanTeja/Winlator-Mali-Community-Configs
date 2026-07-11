@@ -155,6 +155,18 @@
       "timestamp": 1783683151
     }
   ],
+  "one_piece_pirate_warriors_4": [
+    {
+      "filename": "anbernic-rg557-1783776222.json",
+      "device_model": "Anbernic RG557",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "228GB",
+      "notes": "It is very important to use the device name as rtx 1080 and dxvk version 1.5.5 to avoid crashes.",
+      "config_title": "One Piece Pirate Warriors 4",
+      "timestamp": 1783776222
+    }
+  ],
   "resident_evil_2": [
     {
       "filename": "google-pixel_9-1783630127.json",
