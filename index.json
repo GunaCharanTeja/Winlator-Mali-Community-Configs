@@ -190,5 +190,17 @@
       "config_title": "Need For Speed Most Wanter Hd",
       "timestamp": 1783660627
     }
+  ],
+  "tomb_raider": [
+    {
+      "filename": "tecno-tecno_ki5k-1783728895.json",
+      "device_model": "Tecno TECNO KI5k",
+      "gpu": "Mali-G57",
+      "ram": "8GB",
+      "storage": "113GB",
+      "notes": "va fluido en mi gama papa pruevenlo",
+      "config_title": "Tomb Raider 2013",
+      "timestamp": 1783728895
+    }
   ]
 }
