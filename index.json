@@ -191,6 +191,18 @@
       "timestamp": 1783660418
     }
   ],
+  "south_park_the_stick_of_truth": [
+    {
+      "filename": "itel-itel_a666ln-1783775896.json",
+      "device_model": "Itel itel A666LN",
+      "gpu": "Mali-G57",
+      "ram": "8GB",
+      "storage": "231GB",
+      "notes": "Perfect 30 FPS",
+      "config_title": "South Park The Stick Of Truth",
+      "timestamp": 1783775896
+    }
+  ],
   "speed": [
     {
       "filename": "xiaomi-2511fpc34g-1783660627.json",

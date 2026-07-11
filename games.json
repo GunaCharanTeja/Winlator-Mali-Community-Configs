@@ -144,6 +144,15 @@
     "mali_count": 1
   },
   {
+    "id": "south_park_the_stick_of_truth",
+    "name": "South Park: The Stick of Truth",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/e35c4558abd16a66476ea480e6f567a9.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "speed",
     "name": "Speed",
     "steam_id": null,
