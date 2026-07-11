@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "Freedom",
+    "config_title": "Freedom Fighters",
+    "notes": "Configuration for freedom fighters on Mali GPU.",
+    "device": {
+      "manufacturer": "TECNO MOBILE LIMITED",
+      "model": "TECNO LD7",
+      "soc": "TECNO-LD7",
+      "gpu": "Mali-G52 MC2",
+      "ram": "6GB",
+      "storage": "110GB"
+    },
+    "timestamp": 1783803340
+  },
+  "container": {
+    "wineVersion": "proton-9.0-x86_64",
+    "graphicsDriver": "wrapper",
+    "graphicsDriverConfig": "vulkanVersion=1.1;version=System;blacklistedExtensions=;maxDeviceMemory=0;presentMode=mailbox;syncFrame=0;disablePresentWait=0;astcTranscode=1;etc2Transcode=0;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=0;gpuName=Device",
+    "dxwrapper": "wined3d",
+    "dxwrapperConfig": "version=1.7.2,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1",
+    "audioDriver": "pulseaudio",
+    "emulator": "box64",
+    "box64Version": "0.4.3",
+    "box64Preset": "PERFORMANCE",
+    "fexcoreVersion": "2605",
+    "fexcorePreset": "COMPATIBILITY",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "4,5,6,7",
+    "screenSize": "800x600",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": false,
+    "fullscreenStretched": false,
+    "startupSelection": 1
+  },
+  "shortcut": {
+    "name": "Freedom",
+    "path": "F:\\1DMP\\Compressed\\Freedom-Fighters\\Freedom Fighters v1.0.0.4490481\\Freedom.Exe",
+    "extraData": {}
+  }
+}
