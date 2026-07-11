@@ -167,6 +167,18 @@
       "timestamp": 1783464024
     }
   ],
+  "freedom": [
+    {
+      "filename": "tecno_mobile_limited-tecno_ld7-1783803340.json",
+      "device_model": "Tecno mobile limited TECNO LD7",
+      "gpu": "Mali-G52 MC2",
+      "ram": "6GB",
+      "storage": "110GB",
+      "notes": "Configuration for freedom fighters on Mali GPU.",
+      "config_title": "Freedom Fighters",
+      "timestamp": 1783803340
+    }
+  ],
   "grand_theft_auto_v": [
     {
       "filename": "xiaomi-2412dpc0ag-1783631383.json",
