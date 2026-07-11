@@ -59,6 +59,18 @@
       "timestamp": 1783632123
     }
   ],
+  "deadpool": [
+    {
+      "filename": "infinix-infinix_x6882-1783780602.json",
+      "device_model": "Infinix Infinix X6882",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "226GB",
+      "notes": "Se estiver travando só diminuir a resolução e torce pra rodar, If it's lagging a lot, lower the resolution",
+      "config_title": "Deadpool Game",
+      "timestamp": 1783780602
+    }
+  ],
   "devil_may_cry_5": [
     {
       "filename": "google-pixel_9-1783684359.json",
