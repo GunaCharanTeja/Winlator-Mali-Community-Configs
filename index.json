@@ -1,6 +1,16 @@
 {
   "alan_wake": [
     {
+      "filename": "motorola-motorola_edge_60_pro-1783808426.json",
+      "device_model": "Motorola motorola edge 60 pro",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "221GB",
+      "notes": "This can work better for some people",
+      "config_title": "ALAN WAKE V2",
+      "timestamp": 1783808426
+    },
+    {
       "filename": "motorola-motorola_edge_60_pro-1783797574.json",
       "device_model": "Motorola motorola edge 60 pro",
       "gpu": "Mali-G615 MC6",
