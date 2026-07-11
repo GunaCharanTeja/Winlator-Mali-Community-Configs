@@ -11,6 +11,18 @@
       "timestamp": 1783571668
     }
   ],
+  "assassin's_creed_iii": [
+    {
+      "filename": "samsung-sm_g991n-1783796355.json",
+      "device_model": "Samsung SM-G991N",
+      "gpu": "Mali-G78",
+      "ram": "8GB",
+      "storage": "226GB",
+      "notes": "performance for mali\nand control Flickering fix",
+      "config_title": "Control Flickering FIX+performance",
+      "timestamp": 1783796355
+    }
+  ],
   "assassin's_creed_revelations": [
     {
       "filename": "vivo-i2301-1783456138.json",
