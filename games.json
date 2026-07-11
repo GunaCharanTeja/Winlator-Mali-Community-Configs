@@ -27,6 +27,15 @@
     "mali_count": 1
   },
   {
+    "id": "batman_arkham_origins",
+    "name": "Batman: Arkham Origins",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/a77b3ed7aa1ca9045033294ad8f33694.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "biohazard_re2_z_version",
     "name": "BIOHAZARD RE:2 Z Version",
     "steam_id": null,

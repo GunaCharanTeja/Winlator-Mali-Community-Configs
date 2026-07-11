@@ -35,6 +35,18 @@
       "timestamp": 1783369559
     }
   ],
+  "batman_arkham_origins": [
+    {
+      "filename": "xiaomi-2311drk48i-1783794813.json",
+      "device_model": "Xiaomi 2311DRK48I",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "Edit these in bmengine.ini\nd3d10=True\nd3d11=False and save the file to run the game without crash.",
+      "config_title": "Dimensity 8300 8gb",
+      "timestamp": 1783794813
+    }
+  ],
   "biohazard_re2_z_version": [
     {
       "filename": "xiaomi-2412dpc0ag-1783727821.json",
