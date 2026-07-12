@@ -207,6 +207,15 @@
     "mali_count": 1
   },
   {
+    "id": "silent_hill_2",
+    "name": "Silent Hill 2",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/f6b241b3032181b5e600ef42abff7ebd.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "soulcalibur_vi",
     "name": "SOULCALIBUR VI",
     "steam_id": null,

@@ -285,6 +285,18 @@
       "timestamp": 1783631774
     }
   ],
+  "silent_hill_2": [
+    {
+      "filename": "xiaomi-2412dpc0ai-1783821433.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "",
+      "config_title": "Dimensity 8400 Ultra",
+      "timestamp": 1783821433
+    }
+  ],
   "soulcalibur_vi": [
     {
       "filename": "xiaomi-2511fpc34g-1783660418.json",
