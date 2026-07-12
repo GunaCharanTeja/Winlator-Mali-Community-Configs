@@ -165,6 +165,18 @@
       "timestamp": 1783728635
     }
   ],
+  "fable_-_the_lost_chapters": [
+    {
+      "filename": "samsung-sm_a055f-1783874036.json",
+      "device_model": "Samsung SM-A055F",
+      "gpu": "Mali-G52 MC2",
+      "ram": "4GB",
+      "storage": "48GB",
+      "notes": "The game runs smoothly at 30-40fps without any issues, with all graphics settings on low at 640x480 resolution.",
+      "config_title": "Fable The Lost Chapters",
+      "timestamp": 1783874036
+    }
+  ],
   "fifa_14": [
     {
       "filename": "vivo-i2301-1783464024.json",
