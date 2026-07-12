@@ -379,6 +379,18 @@
       "timestamp": 1783660627
     }
   ],
+  "the_darkness_ii": [
+    {
+      "filename": "tecno-tecno_ki5k-1783879862.json",
+      "device_model": "Tecno TECNO KI5k",
+      "gpu": "Mali-G57",
+      "ram": "8GB",
+      "storage": "113GB",
+      "notes": "30fps",
+      "config_title": "Darkness II",
+      "timestamp": 1783879862
+    }
+  ],
   "thekillingantidote-win64-shipping": [
     {
       "filename": "xiaomi-21061110ag-1783874530.json",

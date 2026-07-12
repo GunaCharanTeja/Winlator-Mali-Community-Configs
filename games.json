@@ -270,6 +270,15 @@
     "mali_count": 1
   },
   {
+    "id": "the_darkness_ii",
+    "name": "The Darkness II",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/7ab1ea1eafb9c523ec1b36472db9f8d1.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "thekillingantidote-win64-shipping",
     "name": "TheKillingAntidote-Win64-Shipping",
     "steam_id": null,
