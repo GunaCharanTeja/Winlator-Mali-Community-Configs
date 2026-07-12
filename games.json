@@ -207,6 +207,15 @@
     "mali_count": 1
   },
   {
+    "id": "need_for_speed_most_wanted",
+    "name": "Need for Speed: Most Wanted",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/080717a2458df7b3ea739a17ca9615e0.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "nfsc",
     "name": "NFSC",
     "steam_id": null,
