@@ -321,6 +321,16 @@
   ],
   "need_for_speed_most_wanted": [
     {
+      "filename": "tecno-tecno_ki5k-1783884899.json",
+      "device_model": "Tecno TECNO KI5k",
+      "gpu": "Mali-G57",
+      "ram": "8GB",
+      "storage": "113GB",
+      "notes": "60 fps",
+      "config_title": "Need For Speed Mont Wanted 2005",
+      "timestamp": 1783884899
+    },
+    {
       "filename": "tecno-tecno_ki5k-1783881436.json",
       "device_model": "Tecno TECNO KI5k",
       "gpu": "Mali-G57",
