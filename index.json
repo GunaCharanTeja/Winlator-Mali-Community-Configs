@@ -187,6 +187,18 @@
       "timestamp": 1783874036
     }
   ],
+  "fguy": [
+    {
+      "filename": "tecno-tecno_ki5k-1783884541.json",
+      "device_model": "Tecno TECNO KI5k",
+      "gpu": "Mali-G57",
+      "ram": "8GB",
+      "storage": "113GB",
+      "notes": "30 fps",
+      "config_title": "Family Guy Back To The Multiverse",
+      "timestamp": 1783884541
+    }
+  ],
   "fifa_14": [
     {
       "filename": "vivo-i2301-1783464024.json",
