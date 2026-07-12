@@ -207,6 +207,15 @@
     "mali_count": 1
   },
   {
+    "id": "nba_2k14",
+    "name": "NBA 2K14",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "need_for_speed_most_wanted",
     "name": "Need for Speed: Most Wanted",
     "steam_id": null,
