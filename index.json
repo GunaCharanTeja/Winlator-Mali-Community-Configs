@@ -235,6 +235,18 @@
       "timestamp": 1783860208
     }
   ],
+  "gtavlauncher": [
+    {
+      "filename": "samsung-sm_g975f-1783880569.json",
+      "device_model": "Samsung SM-G975F",
+      "gpu": "Mali-G76",
+      "ram": "8GB",
+      "storage": "110GB",
+      "notes": "umar",
+      "config_title": "Eesa",
+      "timestamp": 1783880569
+    }
+  ],
   "half-life_2": [
     {
       "filename": "motorola-motorola_edge_60_pro-1783606441.json",
