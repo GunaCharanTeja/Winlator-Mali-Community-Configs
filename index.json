@@ -379,6 +379,18 @@
       "timestamp": 1783660627
     }
   ],
+  "thekillingantidote-win64-shipping": [
+    {
+      "filename": "xiaomi-21061110ag-1783874530.json",
+      "device_model": "Xiaomi 21061110AG",
+      "gpu": "Mali-G77 MC9",
+      "ram": "8GB",
+      "storage": "108GB",
+      "notes": "",
+      "config_title": "The Kiling Antidot",
+      "timestamp": 1783874530
+    }
+  ],
   "tomb_raider": [
     {
       "filename": "tecno-tecno_ki5k-1783728895.json",

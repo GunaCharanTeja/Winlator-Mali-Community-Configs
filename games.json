@@ -270,6 +270,15 @@
     "mali_count": 1
   },
   {
+    "id": "thekillingantidote-win64-shipping",
+    "name": "TheKillingAntidote-Win64-Shipping",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "tomb_raider",
     "name": "Tomb Raider",
     "steam_id": null,
