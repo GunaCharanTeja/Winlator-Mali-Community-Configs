@@ -473,6 +473,18 @@
       "timestamp": 1783874530
     }
   ],
+  "tom_clancy's_splinter_cell_chaos_theory": [
+    {
+      "filename": "xiaomi-2412dpc0ai-1783888058.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "60 fps",
+      "config_title": "Dimensity 8400 Ultra",
+      "timestamp": 1783888058
+    }
+  ],
   "tomb_raider": [
     {
       "filename": "tecno-tecno_ki5k-1783728895.json",
