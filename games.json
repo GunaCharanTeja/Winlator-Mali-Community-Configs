@@ -198,6 +198,15 @@
     "mali_count": 1
   },
   {
+    "id": "persona_5_royal",
+    "name": "Persona 5 Royal",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/fc86f08cf7b973fd9b7f062b8917b469.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "resident_evil_2",
     "name": "Resident Evil 2",
     "steam_id": null,
