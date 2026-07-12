@@ -213,6 +213,18 @@
       "timestamp": 1783606441
     }
   ],
+  "lego_marvel's_avengers": [
+    {
+      "filename": "xiaomi-2412dpc0ai-1783821379.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "60 fps,720p, high settings",
+      "config_title": "Dimensity 8400 Ultra",
+      "timestamp": 1783821379
+    }
+  ],
   "mad_max": [
     {
       "filename": "xiaomi-2506bpn68g-1783725379.json",
