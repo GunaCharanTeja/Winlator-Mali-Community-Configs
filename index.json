@@ -201,6 +201,18 @@
       "timestamp": 1783631383
     }
   ],
+  "grannylegacy-cibermod_(1)": [
+    {
+      "filename": "xiaomi-25040rp0ag-1783860208.json",
+      "device_model": "Xiaomi 25040RP0AG",
+      "gpu": "Mali-G57 MC2",
+      "ram": "4GB",
+      "storage": "107GB",
+      "notes": "gg",
+      "config_title": "gg",
+      "timestamp": 1783860208
+    }
+  ],
   "half-life_2": [
     {
       "filename": "motorola-motorola_edge_60_pro-1783606441.json",
