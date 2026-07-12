@@ -167,6 +167,16 @@
   ],
   "fable_-_the_lost_chapters": [
     {
+      "filename": "samsung-sm_a055f-1783874095.json",
+      "device_model": "Samsung SM-A055F",
+      "gpu": "Mali-G52 MC2",
+      "ram": "4GB",
+      "storage": "48GB",
+      "notes": "",
+      "config_title": "FABLE THE LOST CHAPTERS",
+      "timestamp": 1783874095
+    },
+    {
       "filename": "samsung-sm_a055f-1783874036.json",
       "device_model": "Samsung SM-A055F",
       "gpu": "Mali-G52 MC2",
