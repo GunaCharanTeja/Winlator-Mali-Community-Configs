@@ -295,6 +295,18 @@
       "timestamp": 1783683151
     }
   ],
+  "nfsc": [
+    {
+      "filename": "tecno-tecno_ki5k-1783880754.json",
+      "device_model": "Tecno TECNO KI5k",
+      "gpu": "Mali-G57",
+      "ram": "8GB",
+      "storage": "113GB",
+      "notes": "60fps",
+      "config_title": "Need For Speed Carbon",
+      "timestamp": 1783880754
+    }
+  ],
   "one_piece_pirate_warriors_4": [
     {
       "filename": "anbernic-rg557-1783776222.json",
