@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "Desktop Mate",
+    "config_title": "Red Dead Redemption 1",
+    "notes": "D8300 ultra DX12 game",
+    "device": {
+      "manufacturer": "Xiaomi",
+      "model": "2311DRK48G",
+      "soc": "duchamp",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "466GB"
+    },
+    "timestamp": 1783933195
+  },
+  "container": {
+    "wineVersion": "proton-9.0-x86_64",
+    "graphicsDriver": "wrapper-gamenative",
+    "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=VK_EXT_extended_dynamic_state,VK_EXT_extended_dynamic_state2;maxDeviceMemory=0;presentMode=mailbox;syncFrame=0;disablePresentWait=0;astcTranscode=0;etc2Transcode=0;resourceType=auto;bcnEmulation=auto;bcnEmulationType=software;bcnEmulationCache=1;gpuName=Device",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=2.6-2-gplasync-1,framerate=0,async=0,asyncCache=0,vkd3dVersion=2.14.1,vkd3dLevel=10_0,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+    "audioDriver": "alsa",
+    "emulator": "box64",
+    "box64Version": "0.4.3",
+    "box64Preset": "PERFORMANCE",
+    "fexcoreVersion": "2605",
+    "fexcorePreset": "PERFORMANCE",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "0,1,2,3,4,5,6,7",
+    "screenSize": "1280x720",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": true,
+    "fullscreenStretched": false,
+    "startupSelection": 2
+  },
+  "shortcut": {
+    "name": "Play Red Dead Redemption",
+    "path": "C:\\users\\Public\\Desktop\\Play Red Dead Redemption.lnk",
+    "extraData": {
+      "emulationMode": "GAME_CONTROLLER",
+      "simTouchScreen": "0",
+      "screenSize": "960x544",
+      "graphicsDriver": "wrapper-gamenative",
+      "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=VK_EXT_extended_dynamic_state,VK_EXT_extended_dynamic_state2;maxDeviceMemory=0;presentMode=mailbox;syncFrame=0;disablePresentWait=0;astcTranscode=0;etc2Transcode=0;resourceType=auto;bcnEmulation=auto;bcnEmulationType=software;bcnEmulationCache=1;gpuName=Device",
+      "dxwrapper": "dxvk+vkd3d",
+      "dxwrapperConfig": "version=2.6-2-gplasync-1,framerate=0,async=0,asyncCache=0,vkd3dVersion=2.14.1,vkd3dLevel=10_0,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+      "audioDriver": "alsa",
+      "emulator": "box64",
+      "midiSoundFont": "",
+      "lc_all": "en_US.UTF-8",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+      "fexcoreVersion": "2605",
+      "fexcorePreset": "PERFORMANCE",
+      "box64Preset": "PERFORMANCE",
+      "startupSelection": "2",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "envVars": "USE_CPU_BCN=bc6h"
+    }
+  }
+}
