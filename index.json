@@ -117,6 +117,18 @@
       "timestamp": 1783780602
     }
   ],
+  "desktop_mate": [
+    {
+      "filename": "xiaomi-2602bpc18g-1783902416.json",
+      "device_model": "Xiaomi 2602BPC18G",
+      "gpu": "Mali-G925-Immortalis MC11",
+      "ram": "12GB",
+      "storage": "479GB",
+      "notes": "",
+      "config_title": "Mali D9500s",
+      "timestamp": 1783902416
+    }
+  ],
   "devil_may_cry_5": [
     {
       "filename": "google-pixel_9-1783684359.json",
