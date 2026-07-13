@@ -385,5 +385,14 @@
     "config_count": 1,
     "adreno_count": 0,
     "mali_count": 1
+  },
+  {
+    "id": "vvvvvv",
+    "name": "VVVVVV",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/ab0cdfa60dcd8dd35a3f398b9d0dbc79.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
   }
 ]

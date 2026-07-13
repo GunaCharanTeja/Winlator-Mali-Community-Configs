@@ -574,5 +574,17 @@
       "config_title": "Tomb Raider 2013",
       "timestamp": 1783728895
     }
+  ],
+  "vvvvvv": [
+    {
+      "filename": "samsung-sm_a346e-1783982777.json",
+      "device_model": "Samsung SM-A346E",
+      "gpu": "Mali-G68 MC4",
+      "ram": "6GB",
+      "storage": "106GB",
+      "notes": "it works on potato",
+      "config_title": "Vvvvv This Is An Indienplatform Game",
+      "timestamp": 1783982777
+    }
   ]
 }
