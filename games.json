@@ -63,6 +63,15 @@
     "mali_count": 1
   },
   {
+    "id": "crysis_2_maximum_edition",
+    "name": "Crysis 2 Maximum Edition",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/2217ad1dd50c1017d3df6b44b7c45508.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "cuphead",
     "name": "Cuphead",
     "steam_id": null,

@@ -93,6 +93,18 @@
       "timestamp": 1783727821
     }
   ],
+  "crysis_2_maximum_edition": [
+    {
+      "filename": "tecno-tecno_ki5k-1783910459.json",
+      "device_model": "Tecno TECNO KI5k",
+      "gpu": "Mali-G57",
+      "ram": "8GB",
+      "storage": "113GB",
+      "notes": "30 fps",
+      "config_title": "Crysis 2",
+      "timestamp": 1783910459
+    }
+  ],
   "cuphead": [
     {
       "filename": "samsung-sm_a075m-1783632123.json",
