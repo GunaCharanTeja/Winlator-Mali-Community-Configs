@@ -365,6 +365,16 @@
   ],
   "nba_2k14": [
     {
+      "filename": "xiaomi-24117rn76g-1783979677.json",
+      "device_model": "Xiaomi 24117RN76G",
+      "gpu": "Mali-G57 MC2",
+      "ram": "6GB",
+      "storage": "110GB",
+      "notes": "",
+      "config_title": "NBA 2K14",
+      "timestamp": 1783979677
+    },
+    {
       "filename": "realme-rmx3630-1783882301.json",
       "device_model": "Realme RMX3630",
       "gpu": "Mali-G57 MC2",
