@@ -435,6 +435,18 @@
       "timestamp": 1783864288
     }
   ],
+  "playgtav": [
+    {
+      "filename": "realme-rmx2001-1783931834.json",
+      "device_model": "Realme RMX2001",
+      "gpu": "Mali-G76 MC4",
+      "ram": "8GB",
+      "storage": "109GB",
+      "notes": "",
+      "config_title": "Mali G76MC4",
+      "timestamp": 1783931834
+    }
+  ],
   "resident_evil_2": [
     {
       "filename": "google-pixel_9-1783630127.json",

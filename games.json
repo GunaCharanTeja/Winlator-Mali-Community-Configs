@@ -297,6 +297,15 @@
     "mali_count": 1
   },
   {
+    "id": "playgtav",
+    "name": "PlayGTAV",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "resident_evil_2",
     "name": "Resident Evil 2",
     "steam_id": null,
