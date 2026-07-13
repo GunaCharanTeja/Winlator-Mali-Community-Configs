@@ -63,6 +63,15 @@
     "mali_count": 1
   },
   {
+    "id": "burnout_paradise",
+    "name": "Burnout Paradise",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/dd378a9d5523e7384aec2f03aed85ab7.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "crysis_2_maximum_edition",
     "name": "Crysis 2 Maximum Edition",
     "steam_id": null,

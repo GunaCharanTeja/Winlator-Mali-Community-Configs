@@ -93,6 +93,18 @@
       "timestamp": 1783727821
     }
   ],
+  "burnout_paradise": [
+    {
+      "filename": "samsung-sm_a155m-1783913151.json",
+      "device_model": "Samsung SM-A155M",
+      "gpu": "Mali-G57 MC2",
+      "ram": "4GB",
+      "storage": "106GB",
+      "notes": "",
+      "config_title": "Samsung A15 4G ONEUI 8.5",
+      "timestamp": 1783913151
+    }
+  ],
   "crysis_2_maximum_edition": [
     {
       "filename": "tecno-tecno_ki5k-1783910459.json",
