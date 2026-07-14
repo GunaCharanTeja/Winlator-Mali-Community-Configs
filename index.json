@@ -545,6 +545,18 @@
       "timestamp": 1784034406
     }
   ],
+  "sekiro_shadows_die_twice": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1784050514.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "runs around 20 fps if you keep the device cool , move the game to c drive to reduce the stutter.",
+      "config_title": "Poco X7 Pro",
+      "timestamp": 1784050514
+    }
+  ],
   "shank_2": [
     {
       "filename": "samsung-sm_a346e-1783631774.json",
