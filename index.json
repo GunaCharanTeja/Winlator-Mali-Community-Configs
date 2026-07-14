@@ -371,6 +371,18 @@
       "timestamp": 1783725379
     }
   ],
+  "mortal_kombat": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1784003005.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "can be use for mkx too\naverage: 55 fps on 1560*720 high graphics \nmove the game folder to c drive",
+      "config_title": "Mortal Kombat XL",
+      "timestamp": 1784003005
+    }
+  ],
   "naruto_ultimate_ninja_storm": [
     {
       "filename": "infinix-infinix_x6853-1783683151.json",

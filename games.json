@@ -234,6 +234,15 @@
     "mali_count": 1
   },
   {
+    "id": "mortal_kombat",
+    "name": "Mortal Kombat",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "naruto_ultimate_ninja_storm",
     "name": "Naruto: Ultimate Ninja STORM",
     "steam_id": null,
