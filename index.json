@@ -557,6 +557,18 @@
       "timestamp": 1783821433
     }
   ],
+  "sniper_ghost_warrior": [
+    {
+      "filename": "xiaomi-2412dpc0ai-1784045641.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "The game is running smoothly at 40 FPS in 720p\n\nReduce the shadow memory to 512 in the game's graphics settings and set the shadow texture to the lowest possible value.\n\nEverything else remained unchanged.\n\nnote: Do not change the wrapper or anything else in the container; otherwise, you will encounter graphical bugs and crashes.",
+      "config_title": "Dimensity 8400 Ultra",
+      "timestamp": 1784045641
+    }
+  ],
   "soulcalibur_vi": [
     {
       "filename": "xiaomi-2511fpc34g-1783660418.json",

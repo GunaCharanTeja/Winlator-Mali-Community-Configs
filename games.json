@@ -351,6 +351,15 @@
     "mali_count": 1
   },
   {
+    "id": "sniper_ghost_warrior",
+    "name": "Sniper: Ghost Warrior",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/146118df77c26f61d775da0837e3fe00.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "soulcalibur_vi",
     "name": "SOULCALIBUR VI",
     "steam_id": null,
