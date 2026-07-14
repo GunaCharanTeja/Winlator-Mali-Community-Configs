@@ -71,6 +71,16 @@
   ],
   "biohazard_re2_z_version": [
     {
+      "filename": "xiaomi-2412dpc0ag-1784000560.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "by ameer less heating",
+      "config_title": "By Ameer",
+      "timestamp": 1784000560
+    },
+    {
       "filename": "tecno-tecno_lh7n-1783988468.json",
       "device_model": "Tecno TECNO LH7n",
       "gpu": "Mali-G57 MC2",
