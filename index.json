@@ -511,6 +511,18 @@
       "timestamp": 1783630127
     }
   ],
+  "resident_evil_6": [
+    {
+      "filename": "tecno-tecno_ki5k-1784034406.json",
+      "device_model": "Tecno TECNO KI5k",
+      "gpu": "Mali-G57",
+      "ram": "8GB",
+      "storage": "113GB",
+      "notes": "30 fps",
+      "config_title": "Resident Evil 6",
+      "timestamp": 1784034406
+    }
+  ],
   "shank_2": [
     {
       "filename": "samsung-sm_a346e-1783631774.json",
