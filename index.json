@@ -311,6 +311,18 @@
       "timestamp": 1783860208
     }
   ],
+  "gta5": [
+    {
+      "filename": "xiaomi-22101316g-1784045660.json",
+      "device_model": "Xiaomi 22101316G",
+      "gpu": "Mali-G68 MC4",
+      "ram": "8GB",
+      "storage": "226GB",
+      "notes": "",
+      "config_title": "GTA V LITE 20GB",
+      "timestamp": 1784045660
+    }
+  ],
   "gtavlauncher": [
     {
       "filename": "samsung-sm_g975f-1783880569.json",
