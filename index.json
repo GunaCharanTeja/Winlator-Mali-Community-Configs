@@ -71,6 +71,16 @@
   ],
   "biohazard_re2_z_version": [
     {
+      "filename": "tecno-tecno_lh7n-1783988468.json",
+      "device_model": "Tecno TECNO LH7n",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "229GB",
+      "notes": "",
+      "config_title": "Re2 Remake G99",
+      "timestamp": 1783988468
+    },
+    {
       "filename": "xiaomi-2412dpc0ag-1783727821.json",
       "device_model": "Xiaomi 2412DPC0AG",
       "gpu": "Mali-G720 MC7",
