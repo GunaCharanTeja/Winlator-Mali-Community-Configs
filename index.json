@@ -397,6 +397,16 @@
   ],
   "nba_2k14": [
     {
+      "filename": "xiaomi-24117rn76g-1784036514.json",
+      "device_model": "Xiaomi 24117RN76G",
+      "gpu": "Mali-G57 MC2",
+      "ram": "6GB",
+      "storage": "110GB",
+      "notes": "This is using DXVK 1.7.3 Async to ensure you can play an 40-50 fps stable on your Mali Device",
+      "config_title": "NBA 2K14",
+      "timestamp": 1784036514
+    },
+    {
       "filename": "xiaomi-24117rn76g-1783979677.json",
       "device_model": "Xiaomi 24117RN76G",
       "gpu": "Mali-G57 MC2",
