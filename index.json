@@ -465,6 +465,18 @@
       "timestamp": 1783931834
     }
   ],
+  "red_dead_redemption_ii": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1783999021.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "stable 30 fps on 960 x 544",
+      "config_title": "Red Dead Redemption 2",
+      "timestamp": 1783999021
+    }
+  ],
   "resident_evil_2": [
     {
       "filename": "google-pixel_9-1783630127.json",
