@@ -54,6 +54,15 @@
     "mali_count": 3
   },
   {
+    "id": "bot_vice",
+    "name": "Bot Vice",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "burnout_paradise",
     "name": "Burnout Paradise",
     "steam_id": null,

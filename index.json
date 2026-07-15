@@ -101,6 +101,18 @@
       "timestamp": 1783727821
     }
   ],
+  "bot_vice": [
+    {
+      "filename": "samsung-sm_a346e-1784078093.json",
+      "device_model": "Samsung SM-A346E",
+      "gpu": "Mali-G68 MC4",
+      "ram": "6GB",
+      "storage": "106GB",
+      "notes": "60 fps",
+      "config_title": "Bot Vice",
+      "timestamp": 1784078093
+    }
+  ],
   "burnout_paradise": [
     {
       "filename": "samsung-sm_a155m-1783913151.json",
