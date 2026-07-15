@@ -36,6 +36,15 @@
     "mali_count": 1
   },
   {
+    "id": "batman_arkham_knight",
+    "name": "Batman: Arkham Knight",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/700e8ac5b728a22afe51368c5055e97d.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "batman_arkham_origins",
     "name": "Batman: Arkham Origins",
     "steam_id": null,

@@ -57,6 +57,18 @@
       "timestamp": 1783369559
     }
   ],
+  "batman_arkham_knight": [
+    {
+      "filename": "daria-dm_b70104-1784109825.json",
+      "device_model": "Daria DM-B70104",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "466GB",
+      "notes": "10-30 fps on low graphics",
+      "config_title": "Batman Arkham Knight",
+      "timestamp": 1784109825
+    }
+  ],
   "batman_arkham_origins": [
     {
       "filename": "xiaomi-2311drk48i-1783794813.json",
