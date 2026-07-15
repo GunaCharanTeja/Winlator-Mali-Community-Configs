@@ -255,6 +255,16 @@
   ],
   "dragon_ball_fighterz": [
     {
+      "filename": "xiaomi-2311drk48g-1784122129.json",
+      "device_model": "Xiaomi 2311DRK48G",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "466GB",
+      "notes": "",
+      "config_title": "60fps",
+      "timestamp": 1784122129
+    },
+    {
       "filename": "tecno-tecno_ki5k-1783728635.json",
       "device_model": "Tecno TECNO KI5k",
       "gpu": "Mali-G57",
