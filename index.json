@@ -405,6 +405,18 @@
       "timestamp": 1784045660
     }
   ],
+  "gta_iv_san_andreas_(mod)": [
+    {
+      "filename": "xiaomi-24117rn76l-1784130589.json",
+      "device_model": "Xiaomi 24117RN76L",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "229GB",
+      "notes": "45 fps,\n\nmods: essencial pack,GInputSA,MixSets",
+      "config_title": "GTA San Andreas 1.0",
+      "timestamp": 1784130589
+    }
+  ],
   "gtavlauncher": [
     {
       "filename": "samsung-sm_g975f-1783880569.json",
