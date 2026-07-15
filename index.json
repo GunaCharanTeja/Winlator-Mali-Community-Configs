@@ -461,6 +461,18 @@
       "timestamp": 1783881436
     }
   ],
+  "need_for_speed_the_run": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1784077411.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "",
+      "config_title": "Nfs Run",
+      "timestamp": 1784077411
+    }
+  ],
   "nfsc": [
     {
       "filename": "tecno-tecno_ki5k-1783880754.json",

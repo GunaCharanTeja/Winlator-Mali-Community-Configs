@@ -279,6 +279,15 @@
     "mali_count": 2
   },
   {
+    "id": "need_for_speed_the_run",
+    "name": "Need for Speed: The Run",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/b4dd95ab3e91f548b5c9de9a2fc45a5e.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "nfsc",
     "name": "NFSC",
     "steam_id": null,
