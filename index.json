@@ -45,6 +45,18 @@
       "timestamp": 1783456138
     }
   ],
+  "batman_arkham_asylum": [
+    {
+      "filename": "daria-dm_b70104-1784117639.json",
+      "device_model": "Daria DM-B70104",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "466GB",
+      "notes": "10-35 fps on best graphics",
+      "config_title": "Batman Arkham Knight",
+      "timestamp": 1784117639
+    }
+  ],
   "batman_arkham_city_-_game_of_the_year_edition": [
     {
       "filename": "vivo-i2301-1783369559.json",
