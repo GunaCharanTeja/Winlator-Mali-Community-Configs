@@ -149,6 +149,18 @@
       "timestamp": 1783913151
     }
   ],
+  "celeste": [
+    {
+      "filename": "xiaomi-24117rn76l-1784128980.json",
+      "device_model": "Xiaomi 24117RN76L",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "229GB",
+      "notes": "60 fps.",
+      "config_title": "Celeste",
+      "timestamp": 1784128980
+    }
+  ],
   "crysis_2_maximum_edition": [
     {
       "filename": "tecno-tecno_ki5k-1783910459.json",

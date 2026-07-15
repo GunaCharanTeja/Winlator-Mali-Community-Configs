@@ -90,6 +90,15 @@
     "mali_count": 1
   },
   {
+    "id": "celeste",
+    "name": "Celeste",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/985f0e2f2aa3cb362e0678818f6a4aa6.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "crysis_2_maximum_edition",
     "name": "Crysis 2 Maximum Edition",
     "steam_id": null,
