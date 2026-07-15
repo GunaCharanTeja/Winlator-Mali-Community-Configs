@@ -299,6 +299,18 @@
       "timestamp": 1783803340
     }
   ],
+  "god_of_war": [
+    {
+      "filename": "daria-dm_b70104-1784109596.json",
+      "device_model": "Daria DM-B70104",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "466GB",
+      "notes": "can crash because of ram\n3-25 FPS with FSR",
+      "config_title": "God Of War",
+      "timestamp": 1784109596
+    }
+  ],
   "grand_theft_auto_v": [
     {
       "filename": "xiaomi-2412dpc0ag-1783631383.json",

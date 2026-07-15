@@ -180,6 +180,15 @@
     "mali_count": 1
   },
   {
+    "id": "god_of_war",
+    "name": "God of War",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/9921033003478f3517c848203d86afaf.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "grand_theft_auto_v",
     "name": "Grand Theft Auto V",
     "steam_id": null,
