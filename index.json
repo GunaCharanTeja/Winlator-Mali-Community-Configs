@@ -311,6 +311,18 @@
       "timestamp": 1783860208
     }
   ],
+  "gravity_circuit": [
+    {
+      "filename": "samsung-sm_a346e-1784078076.json",
+      "device_model": "Samsung SM-A346E",
+      "gpu": "Mali-G68 MC4",
+      "ram": "6GB",
+      "storage": "106GB",
+      "notes": "",
+      "config_title": "Gravity Circuit",
+      "timestamp": 1784078076
+    }
+  ],
   "gta5": [
     {
       "filename": "xiaomi-22101316g-1784045660.json",
