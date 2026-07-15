@@ -144,6 +144,15 @@
     "mali_count": 1
   },
   {
+    "id": "dirt_3_complete_edition",
+    "name": "DiRT 3: Complete Edition",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/9a85c12a21b76392747906fc7b2aff92.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "dmc_devil_may_cry",
     "name": "DmC: Devil May Cry",
     "steam_id": null,
