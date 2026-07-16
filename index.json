@@ -699,6 +699,16 @@
   ],
   "sekiro_shadows_die_twice": [
     {
+      "filename": "tecno-tecno_cl8-1784204285.json",
+      "device_model": "Tecno TECNO CL8",
+      "gpu": "Mali-G610 MC6",
+      "ram": "12GB",
+      "storage": "227GB",
+      "notes": "mali g610 mc6\nif you use 720p you gonna get the same fps",
+      "config_title": "sekiro die twice",
+      "timestamp": 1784204285
+    },
+    {
       "filename": "xiaomi-2412dpc0ag-1784050514.json",
       "device_model": "Xiaomi 2412DPC0AG",
       "gpu": "Mali-G720 MC7",
