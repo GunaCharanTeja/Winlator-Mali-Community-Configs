@@ -405,6 +405,15 @@
     "mali_count": 1
   },
   {
+    "id": "prototype",
+    "name": "Prototype",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/729100d35b8a3be8767d7edfa0aaf433.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "red_dead_redemption_ii",
     "name": "Red Dead Redemption II",
     "steam_id": null,

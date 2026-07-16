@@ -639,6 +639,18 @@
       "timestamp": 1783931834
     }
   ],
+  "prototype": [
+    {
+      "filename": "tecno-tecno_ki5k-1784160994.json",
+      "device_model": "Tecno TECNO KI5k",
+      "gpu": "Mali-G57",
+      "ram": "8GB",
+      "storage": "113GB",
+      "notes": "I'm only uploading this so you know it's 100% playable, but every setup is different; mine runs at 30fps.",
+      "config_title": "Prototype",
+      "timestamp": 1784160994
+    }
+  ],
   "red_dead_redemption_ii": [
     {
       "filename": "xiaomi-2412dpc0ag-1783999021.json",
