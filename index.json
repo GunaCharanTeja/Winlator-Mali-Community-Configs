@@ -343,6 +343,18 @@
       "timestamp": 1783874036
     }
   ],
+  "fear": [
+    {
+      "filename": "xiaomi-2412dpc0ai-1784228750.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "Dimensity 8400U \n12gb RAM \nMali 720 MC7\n\n\nTested on a  maxed out, but I would recommend tweaking specific settings like physics, shadows, reflections, and dynamic lighting to give the processor and GPU some breathing room.\n\nEven more so for devices with 8GB of RAM, perhaps medium/low settings would be ideal at 720p.\n\nIf you encounter visual and graphical bugs with dxvk Switch to Wine3d in the container, test this initial container configuration. The dxvk is version 1.10.3; if it doesn't work with that, use version 1.7.3. If that still fails, switch back to Wine3d and use the same dxvks. starting with version 1.10.3 and then 1.7.3 if the first one fails.",
+      "config_title": "Poco X7 Pro",
+      "timestamp": 1784228750
+    }
+  ],
   "fguy": [
     {
       "filename": "tecno-tecno_ki5k-1783884541.json",

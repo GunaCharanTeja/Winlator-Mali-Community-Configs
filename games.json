@@ -198,6 +198,15 @@
     "mali_count": 2
   },
   {
+    "id": "fear",
+    "name": "FEAR",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "fguy",
     "name": "FGUY",
     "steam_id": null,
