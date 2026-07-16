@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "Alan Wake",
+    "config_title": "Alan Wake",
+    "community_image": "https://cdn2.steamgriddb.com/grid/5ff7c391cfc38eab0245d09afda767de.png",
+    "notes": "17-20 Fps Best Settings For Helio G99 Utra",
+    "device": {
+      "manufacturer": "Xiaomi",
+      "model": "24117RN76G",
+      "soc": "tanzanite",
+      "gpu": "Mali-G57 MC2",
+      "ram": "6GB",
+      "storage": "110GB"
+    },
+    "timestamp": 1784169448
+  },
+  "container": {
+    "wineVersion": "proton-10-arm64ec",
+    "graphicsDriver": "wrapper",
+    "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=;maxDeviceMemory=4096;presentMode=mailbox;syncFrame=0;disablePresentWait=1;astcTranscode=0;etc2Transcode=1;resourceType=dmabuf;bcnEmulation=full;bcnEmulationType=compute;bcnEmulationCache=1;gpuName=Device",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.7.2,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,maxDeviceMemory=5,dxvkConfig=1",
+    "audioDriver": "pulseaudio",
+    "emulator": "fexcore",
+    "box64Version": "0.4.3",
+    "box64Preset": "COMPATIBILITY",
+    "fexcoreVersion": "2607-0",
+    "fexcorePreset": "INTERMEDIATE",
+    "cpuList": "1,2,3,4,5,6,7",
+    "cpuListWoW64": "1,2,3,4,5,6,7",
+    "screenSize": "800x600",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": true,
+    "fullscreenStretched": false,
+    "startupSelection": 2,
+    "envVars": "WRAPPER_MAX_IMAGE_COUNT=0 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=512MB mesa_glthread=true WINEESYNC=1 PULSE_LATENCY_MSEC=40 WRAPPER_NO_PATCH_OPCONSTCOMP=1 MESA_EXTENSION_MAX_YEAR=2003"
+  },
+  "shortcut": {
+    "name": "Alan Wake",
+    "path": "D:\\Alan Wake\\alanwake.exe",
+    "extraData": {
+      "emulationMode": "GAME_CONTROLLER",
+      "disableXinput": "1",
+      "simTouchScreen": "0",
+      "screenSize": "800x600",
+      "graphicsDriver": "wrapper",
+      "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=VK_EXT_device_memory_report;maxDeviceMemory=0;presentMode=mailbox;syncFrame=0;disablePresentWait=0;astcTranscode=1;etc2Transcode=0;resourceType=dmabuf;bcnEmulation=full;bcnEmulationType=compute;bcnEmulationCache=1;gpuName=Device",
+      "dxwrapper": "dxvk+vkd3d",
+      "dxwrapperConfig": "version=1.7.3-async,framerate=0,async=1,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,maxDeviceMemory=5,dxvkConfig=1",
+      "audioDriver": "pulseaudio",
+      "emulator": "fexcore",
+      "midiSoundFont": "",
+      "lc_all": "en_US.UTF-8",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+      "fexcoreVersion": "2607-0",
+      "fexcorePreset": "PERFORMANCE",
+      "box64Preset": "CUSTOM",
+      "startupSelection": "2",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "controlsProfile": "3",
+      "cpuList": "4,5,6,7"
+    }
+  }
+}
