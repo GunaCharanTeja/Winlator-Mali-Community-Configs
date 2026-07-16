@@ -897,6 +897,18 @@
       "timestamp": 1783728895
     }
   ],
+  "ultrakill": [
+    {
+      "filename": "samsung-sm_a145mb-1784243922.json",
+      "device_model": "Samsung SM-A145MB",
+      "gpu": "Mali-G52",
+      "ram": "4GB",
+      "storage": "108GB",
+      "notes": "",
+      "config_title": "Ultrakill",
+      "timestamp": 1784243922
+    }
+  ],
   "vvvvvv": [
     {
       "filename": "samsung-sm_a346e-1783982777.json",
