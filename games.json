@@ -297,6 +297,15 @@
     "mali_count": 1
   },
   {
+    "id": "idledownloadmanager",
+    "name": "IdleDownloadManager",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "lego_marvel's_avengers",
     "name": "LEGO Marvel's Avengers",
     "steam_id": null,

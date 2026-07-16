@@ -475,6 +475,18 @@
       "timestamp": 1783606441
     }
   ],
+  "idledownloadmanager": [
+    {
+      "filename": "samsung-sm_m066b-1784222080.json",
+      "device_model": "Samsung SM-M066B",
+      "gpu": "Mali-G57 MC2",
+      "ram": "6GB",
+      "storage": "106GB",
+      "notes": "",
+      "config_title": "Hh",
+      "timestamp": 1784222080
+    }
+  ],
   "lego_marvel's_avengers": [
     {
       "filename": "xiaomi-2412dpc0ai-1783821379.json",
