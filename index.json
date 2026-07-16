@@ -1,6 +1,16 @@
 {
   "alan_wake": [
     {
+      "filename": "xiaomi-24117rn76g-1784169448.json",
+      "device_model": "Xiaomi 24117RN76G",
+      "gpu": "Mali-G57 MC2",
+      "ram": "6GB",
+      "storage": "110GB",
+      "notes": "17-20 Fps Best Settings For Helio G99 Utra",
+      "config_title": "Alan Wake",
+      "timestamp": 1784169448
+    },
+    {
       "filename": "motorola-motorola_edge_60_pro-1783808426.json",
       "device_model": "Motorola motorola edge 60 pro",
       "gpu": "Mali-G615 MC6",
