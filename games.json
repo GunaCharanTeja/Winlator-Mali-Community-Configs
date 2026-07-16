@@ -72,6 +72,15 @@
     "mali_count": 3
   },
   {
+    "id": "borderlands_the_pre-sequel",
+    "name": "Borderlands: The Pre-Sequel",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/87049013bcaaaf0687f907a4063fd12c.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "bot_vice",
     "name": "Bot Vice",
     "steam_id": null,
