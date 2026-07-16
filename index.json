@@ -789,6 +789,18 @@
       "timestamp": 1783821433
     }
   ],
+  "sleeping_dogs_definitive_edition": [
+    {
+      "filename": "tecno-tecno_ki5k-1784238112.json",
+      "device_model": "Tecno TECNO KI5k",
+      "gpu": "Mali-G57",
+      "ram": "8GB",
+      "storage": "113GB",
+      "notes": "30fps",
+      "config_title": "Sleeping Dogs Definitive Edition",
+      "timestamp": 1784238112
+    }
+  ],
   "sniper_ghost_warrior": [
     {
       "filename": "xiaomi-2412dpc0ai-1784045641.json",
