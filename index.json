@@ -67,6 +67,18 @@
       "timestamp": 1783456138
     }
   ],
+  "assassin's_creed_rogue": [
+    {
+      "filename": "infinix-infinix_x6882-1784319970.json",
+      "device_model": "Infinix Infinix X6882",
+      "gpu": "Mali-G57 MC2",
+      "ram": "6GB",
+      "storage": "226GB",
+      "notes": "stable fps in mediatek Helio g99 with 25-30 fps",
+      "config_title": "Assassin's Creed Rogue",
+      "timestamp": 1784319970
+    }
+  ],
   "batman_arkham_asylum": [
     {
       "filename": "daria-dm_b70104-1784117639.json",
