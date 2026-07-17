@@ -697,6 +697,16 @@
   ],
   "playgtav": [
     {
+      "filename": "samsung-sm_s936b-1784306779.json",
+      "device_model": "Samsung SM-S936B",
+      "gpu": "Adreno (TM) 830",
+      "ram": "11GB",
+      "storage": "219GB",
+      "notes": "",
+      "config_title": "GTA V S25 Adreno 830",
+      "timestamp": 1784306779
+    },
+    {
       "filename": "realme-rmx2001-1783931834.json",
       "device_model": "Realme RMX2001",
       "gpu": "Mali-G76 MC4",
