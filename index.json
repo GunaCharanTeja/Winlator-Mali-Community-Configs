@@ -523,6 +523,18 @@
       "timestamp": 1784222080
     }
   ],
+  "inscryption": [
+    {
+      "filename": "xiaomi-24069pc21g-1784326586.json",
+      "device_model": "Xiaomi 24069PC21G",
+      "gpu": "Adreno (TM) 735",
+      "ram": "12GB",
+      "storage": "482GB",
+      "notes": "Poco F6 30fps+",
+      "config_title": "Inscryption",
+      "timestamp": 1784326586
+    }
+  ],
   "lego_marvel's_avengers": [
     {
       "filename": "xiaomi-2412dpc0ai-1783821379.json",

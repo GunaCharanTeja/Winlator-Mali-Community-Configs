@@ -333,6 +333,15 @@
     "mali_count": 1
   },
   {
+    "id": "inscryption",
+    "name": "Inscryption",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/0b7b6c5fdb732488244c75cf5eb9a279.png",
+    "config_count": 1,
+    "adreno_count": 1,
+    "mali_count": 0
+  },
+  {
     "id": "lego_marvel's_avengers",
     "name": "LEGO Marvel's Avengers",
     "steam_id": null,
