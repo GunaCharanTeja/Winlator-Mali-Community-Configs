@@ -43,6 +43,18 @@
       "timestamp": 1783571668
     }
   ],
+  "assassin's_creed_iii": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1784255257.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "use wrapper v2 \n1.7.3 async\n30 fps on 1280*720",
+      "config_title": "Assassin's Creed 3",
+      "timestamp": 1784255257
+    }
+  ],
   "assassin's_creed_revelations": [
     {
       "filename": "vivo-i2301-1783456138.json",
