@@ -813,6 +813,18 @@
       "timestamp": 1783821433
     }
   ],
+  "skyrimselauncher": [
+    {
+      "filename": "xiaomi-2311drk48g-1784306587.json",
+      "device_model": "Xiaomi 2311DRK48G",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "466GB",
+      "notes": "da uns stutters mas dps para",
+      "config_title": "Jogável",
+      "timestamp": 1784306587
+    }
+  ],
   "sleeping_dogs_definitive_edition": [
     {
       "filename": "tecno-tecno_ki5k-1784238112.json",

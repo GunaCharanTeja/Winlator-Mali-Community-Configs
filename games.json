@@ -513,6 +513,15 @@
     "mali_count": 1
   },
   {
+    "id": "skyrimselauncher",
+    "name": "SkyrimSELauncher",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "sleeping_dogs_definitive_edition",
     "name": "Sleeping Dogs: Definitive Edition",
     "steam_id": null,
