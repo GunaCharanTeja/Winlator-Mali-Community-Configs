@@ -207,6 +207,15 @@
     "mali_count": 2
   },
   {
+    "id": "emudeck",
+    "name": "EmuDeck",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/8d0963800b0ade8900d5da5bc57285de.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "fable_-_the_lost_chapters",
     "name": "Fable - The Lost Chapters",
     "steam_id": null,

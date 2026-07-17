@@ -345,6 +345,18 @@
       "timestamp": 1783728635
     }
   ],
+  "emudeck": [
+    {
+      "filename": "motorola-moto_g05-1784327116.json",
+      "device_model": "Motorola moto g05",
+      "gpu": "Mali-G52 MC2",
+      "ram": "4GB",
+      "storage": "224GB",
+      "notes": "13",
+      "config_title": "Pes",
+      "timestamp": 1784327116
+    }
+  ],
   "fable_-_the_lost_chapters": [
     {
       "filename": "samsung-sm_a055f-1783874095.json",
