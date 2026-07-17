@@ -43,6 +43,18 @@
       "timestamp": 1783571668
     }
   ],
+  "assassin's_creed_ii": [
+    {
+      "filename": "tecno-tecno_lh7n-1784330224.json",
+      "device_model": "Tecno TECNO LH7n",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "229GB",
+      "notes": "helio g99",
+      "config_title": "Assassins Creed 2",
+      "timestamp": 1784330224
+    }
+  ],
   "assassin's_creed_iii": [
     {
       "filename": "xiaomi-2412dpc0ag-1784255257.json",
