@@ -477,6 +477,15 @@
     "mali_count": 1
   },
   {
+    "id": "scorn",
+    "name": "Scorn",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/0d941b2cb9cacf67de3d39c6bfc00e13.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "sekiro_shadows_die_twice",
     "name": "Sekiro: Shadows Die Twice",
     "steam_id": null,
