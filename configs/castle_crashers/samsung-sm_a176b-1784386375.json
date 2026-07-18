@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "Castle Crashers",
+    "config_title": "Castle Crashers",
+    "community_image": "https://cdn2.steamgriddb.com/grid/8abe625b6a87478b2a46cc6d9140b987.png",
+    "notes": "a17 5g",
+    "device": {
+      "manufacturer": "samsung",
+      "model": "SM-A176B",
+      "soc": "s5e8535",
+      "gpu": "Mali-G68",
+      "ram": "4GB",
+      "storage": "104GB"
+    },
+    "timestamp": 1784386375
+  },
+  "container": {
+    "wineVersion": "proton-10-arm64ec",
+    "graphicsDriver": "wrapper",
+    "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=;maxDeviceMemory=0;presentMode=mailbox;syncFrame=0;disablePresentWait=0;astcTranscode=1;etc2Transcode=0;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=0;gpuName=Device",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.10.3-async,framerate=0,async=1,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+    "audioDriver": "pulseaudio",
+    "emulator": "fexcore",
+    "box64Version": "0.4.3",
+    "box64Preset": "PERFORMANCE",
+    "fexcoreVersion": "2605",
+    "fexcorePreset": "PERFORMANCE",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "0,1,2,3,4,5,6,7",
+    "screenSize": "800x600",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": false,
+    "fullscreenStretched": false,
+    "startupSelection": 1
+  },
+  "shortcut": {
+    "name": "castle",
+    "path": "F:\\Download\\Castle Crashers\\Jogo\\castle.exe",
+    "extraData": {}
+  }
+}
