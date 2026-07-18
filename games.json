@@ -270,6 +270,15 @@
     "mali_count": 1
   },
   {
+    "id": "folk_tale",
+    "name": "Folk Tale",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "freedom",
     "name": "Freedom",
     "steam_id": null,

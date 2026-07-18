@@ -439,6 +439,18 @@
       "timestamp": 1783464024
     }
   ],
+  "folk_tale": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1784362778.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "30 folk per second",
+      "config_title": "Folk Cat Simulator",
+      "timestamp": 1784362778
+    }
+  ],
   "freedom": [
     {
       "filename": "tecno_mobile_limited-tecno_ld7-1783803340.json",
