@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "Five Nights at Freddy's: Security Breach",
+    "config_title": "Fnaf Sb",
+    "community_image": "https://cdn2.steamgriddb.com/grid/17ff13e51b35366d47c674873b04911a.png",
+    "notes": "reduce the in game graphics \nbecause it barley launches with ETC2 and 12 gb ram it will NOT launch on 8 gb ram\n20-45 fps",
+    "device": {
+      "manufacturer": "Daria",
+      "model": "DM-B70104",
+      "soc": "mt6897",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "466GB"
+    },
+    "timestamp": 1784396196
+  },
+  "container": {
+    "wineVersion": "proton-10-arm64ec",
+    "graphicsDriver": "wrapper-gamenative",
+    "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=;maxDeviceMemory=0;presentMode=mailbox;syncFrame=0;disablePresentWait=0;astcTranscode=0;etc2Transcode=0;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=0;gpuName=Device",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=2.4.1-1,framerate=0,async=0,asyncCache=0,vkd3dVersion=2.14.1,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,maxDeviceMemory=0,dxvkConfig=0",
+    "audioDriver": "pulseaudio",
+    "emulator": "fexcore",
+    "box64Version": "0.4.3",
+    "box64Preset": "STABILITY",
+    "fexcoreVersion": "2605",
+    "fexcorePreset": "STABILITY",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "0,1,2,3,4,5,6,7",
+    "screenSize": "1280x720",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": true,
+    "fullscreenStretched": false,
+    "startupSelection": 1,
+    "envVars": "WRAPPER_MAX_IMAGE_COUNT=0 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=1024MB mesa_glthread=true WINEESYNC=1 PULSE_LATENCY_MSEC=40 WRAPPER_NO_PATCH_OPCONSTCOMP=1"
+  },
+  "shortcut": {
+    "name": "Five nights at Freddy's: security breach",
+    "path": "F:\\EMULATOR\\Five Nights at Freddys Security Breach\\fnaf9.exe",
+    "extraData": {
+      "box64Version": "0.4.3",
+      "emulationMode": "GAME_CONTROLLER",
+      "simTouchScreen": "0",
+      "screenSize": "1280x720",
+      "graphicsDriver": "wrapper-gamenative",
+      "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=;maxDeviceMemory=0;presentMode=mailbox;syncFrame=0;disablePresentWait=0;astcTranscode=0;etc2Transcode=1;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=0;gpuName=Device",
+      "dxwrapper": "dxvk+vkd3d",
+      "dxwrapperConfig": "version=1.7.2,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=11_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,maxDeviceMemory=0,dxvkConfig=1",
+      "audioDriver": "pulseaudio",
+      "emulator": "fexcore",
+      "midiSoundFont": "",
+      "lc_all": "en_US.UTF-8",
+      "wincomponents": "direct3d=1,directsound=1,directmusic=1,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+      "fexcoreVersion": "2605",
+      "fexcorePreset": "PERFORMANCE",
+      "box64Preset": "UNITY_MONO_BLEEDING_EDGE",
+      "startupSelection": "1",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "execArgs": "-dx11 -force-d3d11-singlethreaded --force-d3d11-singlethreaded --force-gfx-direct",
+      "gtaOptimization": "1",
+      "envVars": "PULSE_LATENCY_MSEC=90"
+    }
+  }
+}
