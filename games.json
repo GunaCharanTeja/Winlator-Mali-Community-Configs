@@ -513,6 +513,15 @@
     "mali_count": 1
   },
   {
+    "id": "portal",
+    "name": "Portal",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/02fb657c7b61fe576caea7139690ca97.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "prototype",
     "name": "Prototype",
     "steam_id": null,

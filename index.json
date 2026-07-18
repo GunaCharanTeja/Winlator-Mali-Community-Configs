@@ -813,6 +813,18 @@
       "timestamp": 1783931834
     }
   ],
+  "portal": [
+    {
+      "filename": "samsung-sm_a176b-1784386448.json",
+      "device_model": "Samsung SM-A176B",
+      "gpu": "Mali-G68",
+      "ram": "4GB",
+      "storage": "104GB",
+      "notes": "a17 5g 4gb",
+      "config_title": "Portal",
+      "timestamp": 1784386448
+    }
+  ],
   "prototype": [
     {
       "filename": "tecno-tecno_ki5k-1784160994.json",
