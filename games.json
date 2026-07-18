@@ -144,6 +144,15 @@
     "mali_count": 1
   },
   {
+    "id": "counter-strike",
+    "name": "Counter-Strike",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/ee0c0655c7fc3aeaba6d2f5a73beecde.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "crysis_2_maximum_edition",
     "name": "Crysis 2 Maximum Edition",
     "steam_id": null,

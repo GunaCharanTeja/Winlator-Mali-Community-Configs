@@ -231,6 +231,18 @@
       "timestamp": 1784128980
     }
   ],
+  "counter-strike": [
+    {
+      "filename": "realme-rmx5377-1784382475.json",
+      "device_model": "Realme RMX5377",
+      "gpu": "Mali-G57",
+      "ram": "4GB",
+      "storage": "104GB",
+      "notes": "This is specifically made for Mali G-77 but can work on old Mali G-57",
+      "config_title": "CS 1.6",
+      "timestamp": 1784382475
+    }
+  ],
   "crysis_2_maximum_edition": [
     {
       "filename": "tecno-tecno_ki5k-1783910459.json",
