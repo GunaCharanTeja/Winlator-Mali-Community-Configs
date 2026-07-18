@@ -603,6 +603,15 @@
     "mali_count": 1
   },
   {
+    "id": "resident_evil_7_biohazard",
+    "name": "Resident Evil 7: Biohazard",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/0a07b1fa170a20367be5f0cea478a669.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "scorn",
     "name": "Scorn",
     "steam_id": null,

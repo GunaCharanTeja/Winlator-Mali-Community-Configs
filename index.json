@@ -943,6 +943,18 @@
       "timestamp": 1784034406
     }
   ],
+  "resident_evil_7_biohazard": [
+    {
+      "filename": "xiaomi-23090ra98g-1784404936.json",
+      "device_model": "Xiaomi 23090RA98G",
+      "gpu": "Mali-G610 MC4",
+      "ram": "12GB",
+      "storage": "464GB",
+      "notes": "",
+      "config_title": "Good Day",
+      "timestamp": 1784404936
+    }
+  ],
   "scorn": [
     {
       "filename": "xiaomi-2412dpc0ag-1784259948.json",
