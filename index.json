@@ -801,6 +801,18 @@
       "timestamp": 1783630127
     }
   ],
+  "resident_evil_5": [
+    {
+      "filename": "samsung-sm_m336bu-1784341109.json",
+      "device_model": "Samsung SM-M336BU",
+      "gpu": "Mali-G68",
+      "ram": "8GB",
+      "storage": "106GB",
+      "notes": "",
+      "config_title": "Resident Evil 5 Mali",
+      "timestamp": 1784341109
+    }
+  ],
   "resident_evil_6": [
     {
       "filename": "tecno-tecno_ki5k-1784034406.json",
