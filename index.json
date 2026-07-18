@@ -33,6 +33,16 @@
   ],
   "assassin's_creed_brotherhood": [
     {
+      "filename": "tecno-tecno_ki5k-1784409901.json",
+      "device_model": "Tecno TECNO KI5k",
+      "gpu": "Mali-G57",
+      "ram": "8GB",
+      "storage": "113GB",
+      "notes": "tecno k15",
+      "config_title": "15-17",
+      "timestamp": 1784409901
+    },
+    {
       "filename": "vivo-i2301-1783571668.json",
       "device_model": "Vivo I2301",
       "gpu": "Mali-G610 MC4",
