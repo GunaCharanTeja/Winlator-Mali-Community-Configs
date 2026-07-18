@@ -148,9 +148,9 @@
     "name": "Celeste",
     "steam_id": null,
     "community_image": "https://cdn2.steamgriddb.com/grid/985f0e2f2aa3cb362e0678818f6a4aa6.png",
-    "config_count": 1,
+    "config_count": 2,
     "adreno_count": 0,
-    "mali_count": 1
+    "mali_count": 2
   },
   {
     "id": "counter-strike",

@@ -233,6 +233,16 @@
   ],
   "celeste": [
     {
+      "filename": "samsung-sm_a176b-1784386916.json",
+      "device_model": "Samsung SM-A176B",
+      "gpu": "Mali-G68",
+      "ram": "4GB",
+      "storage": "104GB",
+      "notes": "4gb",
+      "config_title": "Celeste A17",
+      "timestamp": 1784386916
+    },
+    {
       "filename": "xiaomi-24117rn76l-1784128980.json",
       "device_model": "Xiaomi 24117RN76L",
       "gpu": "Mali-G57 MC2",
