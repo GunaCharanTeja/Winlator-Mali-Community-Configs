@@ -663,6 +663,18 @@
       "timestamp": 1783725379
     }
   ],
+  "mk10": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1784391163.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "Wrapper leegao é o que faz rodar.",
+      "config_title": "Mk10 Liso Do Bom/ Viking",
+      "timestamp": 1784391163
+    }
+  ],
   "mortal_kombat": [
     {
       "filename": "xiaomi-2412dpc0ag-1784003005.json",
