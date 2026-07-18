@@ -521,6 +521,18 @@
       "timestamp": 1784109596
     }
   ],
+  "grand_theft_auto_iv_the_complete_edition": [
+    {
+      "filename": "oppo-cph2763-1784402078.json",
+      "device_model": "Oppo CPH2763",
+      "gpu": "Mali-G615 MC2",
+      "ram": "8GB",
+      "storage": "224GB",
+      "notes": "Average 25-30fps low settings.",
+      "config_title": "Dimensity 7300 , MALI G615 MC2",
+      "timestamp": 1784402078
+    }
+  ],
   "grand_theft_auto_v": [
     {
       "filename": "xiaomi-2412dpc0ag-1783631383.json",
