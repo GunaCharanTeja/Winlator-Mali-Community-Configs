@@ -135,6 +135,15 @@
     "mali_count": 1
   },
   {
+    "id": "castle_crashers",
+    "name": "Castle Crashers",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/8abe625b6a87478b2a46cc6d9140b987.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "celeste",
     "name": "Celeste",
     "steam_id": null,

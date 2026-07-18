@@ -219,6 +219,18 @@
       "timestamp": 1783913151
     }
   ],
+  "castle_crashers": [
+    {
+      "filename": "samsung-sm_a176b-1784386375.json",
+      "device_model": "Samsung SM-A176B",
+      "gpu": "Mali-G68",
+      "ram": "4GB",
+      "storage": "104GB",
+      "notes": "a17 5g",
+      "config_title": "Castle Crashers",
+      "timestamp": 1784386375
+    }
+  ],
   "celeste": [
     {
       "filename": "xiaomi-24117rn76l-1784128980.json",
