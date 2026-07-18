@@ -473,6 +473,18 @@
       "timestamp": 1783464024
     }
   ],
+  "five_nights_at_freddy's_security_breach": [
+    {
+      "filename": "daria-dm_b70104-1784396196.json",
+      "device_model": "Daria DM-B70104",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "466GB",
+      "notes": "reduce the in game graphics \nbecause it barley launches with ETC2 and 12 gb ram it will NOT launch on 8 gb ram\n20-45 fps",
+      "config_title": "Fnaf Sb",
+      "timestamp": 1784396196
+    }
+  ],
   "folk_tale": [
     {
       "filename": "xiaomi-2412dpc0ag-1784362778.json",

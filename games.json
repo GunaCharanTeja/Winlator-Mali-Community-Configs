@@ -288,6 +288,15 @@
     "mali_count": 1
   },
   {
+    "id": "five_nights_at_freddy's_security_breach",
+    "name": "Five Nights at Freddy's: Security Breach",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/17ff13e51b35366d47c674873b04911a.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "folk_tale",
     "name": "Folk Tale",
     "steam_id": null,
