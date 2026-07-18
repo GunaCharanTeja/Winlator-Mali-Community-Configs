@@ -777,6 +777,18 @@
       "timestamp": 1783880754
     }
   ],
+  "no,_i'm_not_a_human": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1784390590.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "",
+      "config_title": "Config No I'm Not A Humen",
+      "timestamp": 1784390590
+    }
+  ],
   "one_piece_pirate_warriors_4": [
     {
       "filename": "anbernic-rg557-1783776222.json",
