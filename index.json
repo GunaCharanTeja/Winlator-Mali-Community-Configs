@@ -967,6 +967,18 @@
       "timestamp": 1783660627
     }
   ],
+  "tekken_7": [
+    {
+      "filename": "xiaomi-23090ra98c-1784345840.json",
+      "device_model": "Xiaomi 23090RA98C",
+      "gpu": "Mali-G610 MC4",
+      "ram": "12GB",
+      "storage": "465GB",
+      "notes": "TEKKEN 7",
+      "config_title": "TEKKEN 7",
+      "timestamp": 1784345840
+    }
+  ],
   "the_darkness_ii": [
     {
       "filename": "tecno-tecno_ki5k-1783879862.json",
