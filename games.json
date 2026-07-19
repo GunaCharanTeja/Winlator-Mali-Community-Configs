@@ -135,6 +135,15 @@
     "mali_count": 1
   },
   {
+    "id": "cad_xr",
+    "name": "CAD XR",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "castle_crashers",
     "name": "Castle Crashers",
     "steam_id": null,

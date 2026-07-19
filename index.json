@@ -229,6 +229,18 @@
       "timestamp": 1783913151
     }
   ],
+  "cad_xr": [
+    {
+      "filename": "itel-itel_s665l-1784461018.json",
+      "device_model": "Itel itel S665L",
+      "gpu": "Mali-G57",
+      "ram": "4GB",
+      "storage": "114GB",
+      "notes": "Its a configuration that happens to work on my Mali-G57 device specifically t606, i just share it if someone looking for config to make the game work on my similar device",
+      "config_title": "S.T.A.L.K.E.R SoC",
+      "timestamp": 1784461018
+    }
+  ],
   "castle_crashers": [
     {
       "filename": "samsung-sm_a176b-1784386375.json",
