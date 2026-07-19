@@ -261,6 +261,15 @@
     "mali_count": 1
   },
   {
+    "id": "f1_2013",
+    "name": "F1 2013",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "fable_-_the_lost_chapters",
     "name": "Fable - The Lost Chapters",
     "steam_id": null,
