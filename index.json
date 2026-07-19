@@ -869,6 +869,18 @@
       "timestamp": 1783776222
     }
   ],
+  "papers,_please": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1784431052.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "",
+      "config_title": "Papper please",
+      "timestamp": 1784431052
+    }
+  ],
   "persona_5_royal": [
     {
       "filename": "xiaomi-2311drk48g-1783864288.json",

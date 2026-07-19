@@ -540,6 +540,15 @@
     "mali_count": 1
   },
   {
+    "id": "papers,_please",
+    "name": "Papers, Please",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/3d443c4478ec01863f8bb9e249d0016c.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "persona_5_royal",
     "name": "Persona 5 Royal",
     "steam_id": null,
