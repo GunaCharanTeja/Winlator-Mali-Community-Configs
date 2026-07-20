@@ -270,6 +270,15 @@
     "mali_count": 2
   },
   {
+    "id": "dragon's_dogma_dark_arisen",
+    "name": "Dragon's Dogma: Dark Arisen",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/0885acb1cbbcdd02872fffe8dcd291be.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "emudeck",
     "name": "EmuDeck",
     "steam_id": null,
