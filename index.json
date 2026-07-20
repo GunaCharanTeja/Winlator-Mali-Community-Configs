@@ -31,6 +31,18 @@
       "timestamp": 1783797574
     }
   ],
+  "assassin's_creed": [
+    {
+      "filename": "nothing-a142p-1784547384.json",
+      "device_model": "Nothing A142P",
+      "gpu": "Mali-G610 MC4",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "Use dx10 version and 1.7 async for good performance",
+      "config_title": "Assassin's Creed",
+      "timestamp": 1784547384
+    }
+  ],
   "assassin's_creed_brotherhood": [
     {
       "filename": "tecno-tecno_ki5k-1784409901.json",
