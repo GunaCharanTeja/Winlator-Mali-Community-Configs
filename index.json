@@ -89,6 +89,18 @@
       "timestamp": 1784255257
     }
   ],
+  "assassin's_creed_iii_remastered": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1784558506.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "30 fps average on high graphics setting\n\nSYSTEM REQUIREMENTS\nOS: Windows 10 (64-bit versions only)\nProcessor: Intel Core i5 2400 @ 3.1 GHz, AMD FX 6350 @ 3.9 GHz\nMemory: 8 GB RAM\nGraphics: Nvidia GeForce GTX 660, AMD Radeon R9 270X (2GB VRAM with Shader Model 5.0)\nDirectX: Version 11\nStorage: 45 GB available space",
+      "config_title": "Assassin's Creed III Remastered",
+      "timestamp": 1784558506
+    }
+  ],
   "assassin's_creed_revelations": [
     {
       "filename": "vivo-i2301-1783456138.json",

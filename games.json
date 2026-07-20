@@ -36,6 +36,15 @@
     "mali_count": 1
   },
   {
+    "id": "assassin's_creed_iii_remastered",
+    "name": "Assassin's Creed III Remastered",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/375c5abc9bfb6079943ef3c297e4ac78.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "assassin's_creed_rogue",
     "name": "Assassin's Creed Rogue",
     "steam_id": null,
