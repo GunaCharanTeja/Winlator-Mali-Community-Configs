@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "Saints Row: Gat out of Hell",
+    "config_title": "Poco X7 Pro",
+    "community_image": "https://cdn2.steamgriddb.com/grid/44f63bf962362e2b9da1a92bdbdc11a3.png",
+    "notes": "The game is running at 50-60 FPS while walking around the city and 35-45 FPS during intense battles and explosions, textures on medium and everything else off or low in 720p.\n\nYou might encounter a bug where the textures flicker and become broken. I haven't found a solution other than exiting and restarting the game to fix it. It doesn't happen frequently, only a few rare times.",
+    "device": {
+      "manufacturer": "Xiaomi",
+      "model": "2412DPC0AI",
+      "soc": "rodin",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB"
+    },
+    "timestamp": 1784570598
+  },
+  "container": {
+    "wineVersion": "proton-10-arm64ec",
+    "graphicsDriver": "wrapper-v2",
+    "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=;maxDeviceMemory=4096;presentMode=mailbox;syncFrame=0;disablePresentWait=0;astcTranscode=1;etc2Transcode=0;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=0;gpuName=Device",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.11.1-sarek,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+    "audioDriver": "pulseaudio",
+    "emulator": "fexcore",
+    "box64Version": "0.4.3",
+    "box64Preset": "PERFORMANCE",
+    "fexcoreVersion": "2605",
+    "fexcorePreset": "PERFORMANCE",
+    "cpuList": "2,3,4,5,6,7",
+    "cpuListWoW64": "4,5,6,7",
+    "screenSize": "1280x720",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": false,
+    "fullscreenStretched": false,
+    "startupSelection": 1
+  },
+  "shortcut": {
+    "name": "Saints Row Gat Out of Hell",
+    "path": "D:\\PC\\Saints-Row-Gat-Out-Of-Hell\\Saints Row - Gat Out of Hell\\Saints Row Gat Out of Hell.exe",
+    "extraData": {}
+  }
+}
