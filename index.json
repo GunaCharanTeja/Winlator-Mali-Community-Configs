@@ -1071,6 +1071,18 @@
       "timestamp": 1784404936
     }
   ],
+  "saints_row": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1784547026.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "best settings I found for Saints Row 3. \ngame is playble at 60fps with high settings. but don't forget to lower the post processing,Anti aliasing and ambient occlusion",
+      "config_title": "Saints Row 3(Dimensity 8400)",
+      "timestamp": 1784547026
+    }
+  ],
   "scorn": [
     {
       "filename": "xiaomi-2412dpc0ag-1784259948.json",

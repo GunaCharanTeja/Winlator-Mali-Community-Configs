@@ -684,6 +684,15 @@
     "mali_count": 1
   },
   {
+    "id": "saints_row",
+    "name": "Saints Row",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/a5bf073b07900588acbe81caa6417bb2.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "scorn",
     "name": "Scorn",
     "steam_id": null,
