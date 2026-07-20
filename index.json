@@ -1107,6 +1107,18 @@
       "timestamp": 1784404936
     }
   ],
+  "rimworld": [
+    {
+      "filename": "samsung-sm_s156v-1784588769.json",
+      "device_model": "Samsung SM-S156V",
+      "gpu": "Mali-G57 MC2",
+      "ram": "4GB",
+      "storage": "106GB",
+      "notes": "Mali g57 mc2",
+      "config_title": "versión 1.12",
+      "timestamp": 1784588769
+    }
+  ],
   "saints_row": [
     {
       "filename": "xiaomi-2412dpc0ag-1784547026.json",

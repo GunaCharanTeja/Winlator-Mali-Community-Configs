@@ -711,6 +711,15 @@
     "mali_count": 1
   },
   {
+    "id": "rimworld",
+    "name": "RimWorld",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/f8db673d73ce453d86e2c281934576aa.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "saints_row",
     "name": "Saints Row",
     "steam_id": null,
