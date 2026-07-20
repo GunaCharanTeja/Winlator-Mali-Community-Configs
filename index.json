@@ -1023,6 +1023,18 @@
       "timestamp": 1784386448
     }
   ],
+  "profootball_(pes_2013_mod)": [
+    {
+      "filename": "xiaomi-2412dpc0ai-1784582497.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "Running at a smooth and stable 60 fps with everything maxed out in 720p (vsync and frame skipping disabled).",
+      "config_title": "Mali 720 MC7",
+      "timestamp": 1784582497
+    }
+  ],
   "prototype": [
     {
       "filename": "tecno-tecno_ki5k-1784160994.json",
