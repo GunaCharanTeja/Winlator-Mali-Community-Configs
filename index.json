@@ -1107,6 +1107,18 @@
       "timestamp": 1784547026
     }
   ],
+  "saints_row_gat_out_of_hell": [
+    {
+      "filename": "xiaomi-2412dpc0ai-1784570598.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "The game is running at 50-60 FPS while walking around the city and 35-45 FPS during intense battles and explosions, textures on medium and everything else off or low in 720p.\n\nYou might encounter a bug where the textures flicker and become broken. I haven't found a solution other than exiting and restarting the game to fix it. It doesn't happen frequently, only a few rare times.",
+      "config_title": "Poco X7 Pro",
+      "timestamp": 1784570598
+    }
+  ],
   "scorn": [
     {
       "filename": "xiaomi-2412dpc0ag-1784259948.json",
