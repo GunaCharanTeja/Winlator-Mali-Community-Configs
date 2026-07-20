@@ -941,6 +941,18 @@
       "timestamp": 1784431052
     }
   ],
+  "people_playground": [
+    {
+      "filename": "samsung-sm_a065f-1784545070.json",
+      "device_model": "Samsung SM-A065F",
+      "gpu": "Mali-G52 MC2",
+      "ram": "4GB",
+      "storage": "106GB",
+      "notes": "set for mali gpus and adreno???",
+      "config_title": "People Playground",
+      "timestamp": 1784545070
+    }
+  ],
   "persona_5_royal": [
     {
       "filename": "xiaomi-2311drk48g-1783864288.json",

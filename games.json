@@ -594,6 +594,15 @@
     "mali_count": 1
   },
   {
+    "id": "people_playground",
+    "name": "People Playground",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/7e69a7e78bc472e4af485229e949792d.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "persona_5_royal",
     "name": "Persona 5 Royal",
     "steam_id": null,
