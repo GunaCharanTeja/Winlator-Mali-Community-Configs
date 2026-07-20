@@ -310,9 +310,9 @@
     "name": "F1 2013",
     "steam_id": null,
     "community_image": null,
-    "config_count": 1,
+    "config_count": 2,
     "adreno_count": 0,
-    "mali_count": 1
+    "mali_count": 2
   },
   {
     "id": "f1_2014",

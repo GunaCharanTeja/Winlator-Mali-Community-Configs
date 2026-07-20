@@ -509,6 +509,16 @@
   ],
   "f1_2013": [
     {
+      "filename": "xiaomi-2412dpc0ai-1784590701.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "Running smoothly between 45-60 FPS depending on graphics settings at 720p.\n\nThe game may freeze during the intro or when you get to the first gameplay. One solution is to force the game to open in DirectX 9 or keep restarting the game until it loads and starts up the first time.",
+      "config_title": "Mali 720 MC7",
+      "timestamp": 1784590701
+    },
+    {
       "filename": "xiaomi-23117ra68g-1784449008.json",
       "device_model": "Xiaomi 23117RA68G",
       "gpu": "Mali-G57 MC2",
