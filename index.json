@@ -1257,6 +1257,18 @@
       "timestamp": 1784045641
     }
   ],
+  "sonic_generations": [
+    {
+      "filename": "xiaomi-23100rn82l-1784637573.json",
+      "device_model": "Xiaomi 23100RN82L",
+      "gpu": "Mali-G52 MC2",
+      "ram": "8GB",
+      "storage": "223GB",
+      "notes": "Sonic",
+      "config_title": "Sonic",
+      "timestamp": 1784637573
+    }
+  ],
   "soulcalibur_vi": [
     {
       "filename": "xiaomi-2511fpc34g-1783660418.json",
