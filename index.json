@@ -33,6 +33,16 @@
   ],
   "assassin's_creed": [
     {
+      "filename": "xiaomi-2412dpc0ai-1784606060.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "It's running between 50-60 FPS indoors, and 30-35 FPS outdoors in crowded areas, with shadows and post-FX on low settings and V-Sync off.\n\nIf you play with a mouse and keyboard, you'll be fine, since the game's native controls are awful, and even after trying various solutions, I can't get the gamepad to work naturally or with mods.\n\nImportant: Configuration made to run the Dx9 version.",
+      "config_title": "Dimensity 8400U",
+      "timestamp": 1784606060
+    },
+    {
       "filename": "nothing-a142p-1784547384.json",
       "device_model": "Nothing A142P",
       "gpu": "Mali-G610 MC4",
