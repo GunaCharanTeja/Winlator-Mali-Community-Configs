@@ -485,6 +485,16 @@
   ],
   "dragon_ball_fighterz": [
     {
+      "filename": "infinix-infinix_x6853-1784645620.json",
+      "device_model": "Infinix Infinix X6853",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "SETTINGS BY NOYSZ",
+      "config_title": "Dragon ball fighters z",
+      "timestamp": 1784645620
+    },
+    {
       "filename": "xiaomi-2311drk48g-1784122129.json",
       "device_model": "Xiaomi 2311DRK48G",
       "gpu": "Mali-G615 MC6",
