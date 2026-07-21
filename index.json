@@ -787,6 +787,18 @@
       "timestamp": 1784326586
     }
   ],
+  "ironsagavs": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1784653711.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "normally around 40-50fps but with fram generation it reach 60-70 fps for Poco x7 pro",
+      "config_title": "Iron Saga Vs",
+      "timestamp": 1784653711
+    }
+  ],
   "lego_marvel's_avengers": [
     {
       "filename": "xiaomi-2412dpc0ai-1783821379.json",
