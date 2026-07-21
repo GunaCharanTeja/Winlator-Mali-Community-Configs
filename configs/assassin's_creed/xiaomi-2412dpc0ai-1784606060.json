@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "Assassin's Creed",
+    "config_title": "Dimensity 8400U",
+    "community_image": "https://cdn2.steamgriddb.com/grid/101fe12219b465335a6a72f7e485e64f.png",
+    "notes": "It's running between 50-60 FPS indoors, and 30-35 FPS outdoors in crowded areas, with shadows and post-FX on low settings and V-Sync off.\n\nIf you play with a mouse and keyboard, you'll be fine, since the game's native controls are awful, and even after trying various solutions, I can't get the gamepad to work naturally or with mods.\n\nImportant: Configuration made to run the Dx9 version.",
+    "device": {
+      "manufacturer": "Xiaomi",
+      "model": "2412DPC0AI",
+      "soc": "rodin",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB"
+    },
+    "timestamp": 1784606060
+  },
+  "container": {
+    "wineVersion": "proton-9.0-arm64ec",
+    "graphicsDriver": "wrapper",
+    "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=;maxDeviceMemory=0;presentMode=mailbox;syncFrame=0;disablePresentWait=0;astcTranscode=1;etc2Transcode=0;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=0;gpuName=Device",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.7.3-async,framerate=0,async=1,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=5",
+    "audioDriver": "pulseaudio",
+    "emulator": "fexcore",
+    "box64Version": "0.4.3",
+    "box64Preset": "INTERMEDIATE",
+    "fexcoreVersion": "hybrid-x86",
+    "fexcorePreset": "PERFORMANCE",
+    "cpuList": "4,5,6,7",
+    "cpuListWoW64": "4,5,6,7",
+    "screenSize": "1280x720",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": true,
+    "fullscreenStretched": false,
+    "startupSelection": 1,
+    "envVars": "WRAPPER_MAX_IMAGE_COUNT=0 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=512MB mesa_glthread=true WINEESYNC=1 PULSE_LATENCY_MSEC=40 WRAPPER_NO_PATCH_OPCONSTCOMP=1"
+  },
+  "shortcut": {
+    "name": "Assassins Creed",
+    "path": "D:\\PC\\Assassin's Creed\\AssassinsCreed_Dx9.exe",
+    "extraData": {}
+  }
+}
