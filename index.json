@@ -1175,6 +1175,18 @@
       "timestamp": 1784259948
     }
   ],
+  "scott_pilgrim_ex": [
+    {
+      "filename": "google-pixel_6_pro-1784644519.json",
+      "device_model": "Google Pixel 6 Pro",
+      "gpu": "Mali-G78",
+      "ram": "12GB",
+      "storage": "111GB",
+      "notes": "make sure to cap ur fps",
+      "config_title": "Scott And Pilgrim EX",
+      "timestamp": 1784644519
+    }
+  ],
   "sekiro_shadows_die_twice": [
     {
       "filename": "tecno-tecno_cl8-1784204285.json",
