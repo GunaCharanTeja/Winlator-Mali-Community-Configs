@@ -77,6 +77,16 @@
   ],
   "assassin's_creed_ii": [
     {
+      "filename": "nothing-a142p-1784660874.json",
+      "device_model": "Nothing A142P",
+      "gpu": "Mali-G610 MC4",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "Put the launch argument -USEALLAVAILABLECORES -high to eliminate stutters (almost)",
+      "config_title": "Mali G610 MC4",
+      "timestamp": 1784660874
+    },
+    {
       "filename": "tecno-tecno_lh7n-1784330224.json",
       "device_model": "Tecno TECNO LH7n",
       "gpu": "Mali-G57 MC2",
