@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "Ori and the Blind Forest",
+    "config_title": "Ori and the blind forest",
+    "device": {
+      "manufacturer": "motorola",
+      "model": "motorola edge 40 neo",
+      "soc": "manaus",
+      "gpu": "Mali-G610 MC3",
+      "ram": "8GB",
+      "storage": "230GB"
+    },
+    "timestamp": 1784661135
+  },
+  "container": {
+    "wineVersion": "proton-10-arm64ec",
+    "graphicsDriver": "wrapper-v2",
+    "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=;maxDeviceMemory=0;presentMode=mailbox;syncFrame=0;disablePresentWait=0;astcTranscode=1;etc2Transcode=0;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=0;gpuName=Device",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.11.1-sarek,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+    "audioDriver": "pulseaudio",
+    "emulator": "box64",
+    "box64Version": "0.4.3",
+    "box64Preset": "UNITY",
+    "fexcoreVersion": "2605",
+    "fexcorePreset": "CUSTOM",
+    "fexcorePresetName": "Max performance",
+    "fexcorePresetVars": "FEX_TSOENABLED=0 FEX_VECTORTSOENABLED=0 FEX_HALFBARRIERTSOENABLED=0 FEX_MEMCPYSETTSOENABLED=0 FEX_X87REDUCEDPRECISION=1 FEX_MULTIBLOCK=1 FEX_MAXINST=5000 FEX_HOSTFEATURES=off FEX_SMALLTSCSCALE=1 FEX_SMC_CHECKS=none FEX_VOLATILEMETADATA=1 FEX_MONOHACKS=1 FEX_HIDEHYPERVISORBIT=0 FEX_DISABLEL2CACHE=0 FEX_DYNAMICL1CACHE=0",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "2,3,4,5,6,7",
+    "screenSize": "800x600",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": true,
+    "fullscreenStretched": false,
+    "startupSelection": 2
+  },
+  "shortcut": {
+    "name": "ORI AND THE BLIND FOREST",
+    "path": "D:\\PC\\Ori and The Blind Forest - Definitive Edition\\Ori and The Blind Forest - Definitive Edition\\oriDE.exe",
+    "extraData": {
+      "box64Version": "0.4.3",
+      "emulationMode": "GAME_CONTROLLER",
+      "simTouchScreen": "0",
+      "screenSize": "800x600",
+      "graphicsDriver": "wrapper-v2",
+      "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=;maxDeviceMemory=2048;presentMode=mailbox;syncFrame=0;disablePresentWait=0;astcTranscode=1;etc2Transcode=0;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=0;gpuName=Device",
+      "dxwrapper": "dxvk+vkd3d",
+      "dxwrapperConfig": "version=1.11.1-sarek,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=3",
+      "audioDriver": "pulseaudio",
+      "emulator": "box64",
+      "midiSoundFont": "",
+      "lc_all": "pt_BR.UTF-8",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+      "fexcoreVersion": "2605",
+      "fexcorePreset": "CUSTOM",
+      "box64Preset": "UNITY",
+      "startupSelection": "2",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "controlsProfile": "3",
+      "cpuList": "0,1,2,3,4,5,6,7"
+    }
+  }
+}
