@@ -1410,5 +1410,17 @@
       "config_title": "Vvvvv This Is An Indienplatform Game",
       "timestamp": 1783982777
     }
+  ],
+  "x-blades": [
+    {
+      "filename": "xiaomi-2412dpc0ai-1784648322.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "Running at over 100 FPS with everything maxed out. \n\nNative controller support, no major issues.",
+      "config_title": "Poco X7 Pro",
+      "timestamp": 1784648322
+    }
   ]
 }
