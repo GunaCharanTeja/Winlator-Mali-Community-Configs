@@ -1005,6 +1005,18 @@
       "timestamp": 1783776222
     }
   ],
+  "ori_and_the_blind_forest": [
+    {
+      "filename": "motorola-motorola_edge_40_neo-1784661135.json",
+      "device_model": "Motorola motorola edge 40 neo",
+      "gpu": "Mali-G610 MC3",
+      "ram": "8GB",
+      "storage": "230GB",
+      "notes": "",
+      "config_title": "Ori and the blind forest",
+      "timestamp": 1784661135
+    }
+  ],
   "papers,_please": [
     {
       "filename": "xiaomi-2412dpc0ag-1784431052.json",
