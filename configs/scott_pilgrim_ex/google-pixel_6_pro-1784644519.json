@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "Scott Pilgrim EX",
+    "config_title": "Scott And Pilgrim EX",
+    "notes": "make sure to cap ur fps",
+    "device": {
+      "manufacturer": "Google",
+      "model": "Pixel 6 Pro",
+      "soc": "raven",
+      "gpu": "Mali-G78",
+      "ram": "12GB",
+      "storage": "111GB"
+    },
+    "timestamp": 1784644519
+  },
+  "container": {
+    "wineVersion": "proton-9.0-x86_64",
+    "graphicsDriver": "wrapper",
+    "graphicsDriverConfig": "gpuName=Device;presentMode=mailbox;blacklistedExtensions=;syncFrame=0;vulkanVersion=1.3;version=System;bcnEmulation=auto;maxDeviceMemory=0;bcnEmulationType=compute;bcnEmulationCache=0;disablePresentWait=0;astcTranscode=1;etc2Transcode=0;resourceType=auto",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.7.2,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+    "audioDriver": "pulseaudio",
+    "emulator": "box64",
+    "box64Version": "0.3.7",
+    "box64Preset": "PERFORMANCE",
+    "fexcoreVersion": "2605",
+    "fexcorePreset": "INTERMEDIATE",
+    "cpuList": "4,5,6,7",
+    "cpuListWoW64": "4,5,6,7",
+    "screenSize": "854x480",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": false,
+    "fullscreenStretched": false,
+    "startupSelection": 1,
+    "envVars": "WRAPPER_MAX_IMAGE_COUNT=0 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=512MB mesa_glthread=true WINEESYNC=1 DXVK_HUD=fps PULSE_LATENCY_MSEC=40 WRAPPER_NO_PATCH_OPCONSTCOMP=1"
+  },
+  "shortcut": {
+    "name": "Game",
+    "path": "D:\\Scott-Pilgrim-EX-SteamRIP.com_1\\Scott Pilgrim EX\\Game.exe",
+    "extraData": {
+      "emulationMode": "GAME_CONTROLLER",
+      "simTouchScreen": "0",
+      "screenSize": "1280x720",
+      "graphicsDriver": "wrapper-gamenative",
+      "graphicsDriverConfig": "gpuName=Device;presentMode=mailbox;blacklistedExtensions=;syncFrame=0;vulkanVersion=1.3;version=System;bcnEmulation=auto;maxDeviceMemory=0;bcnEmulationType=compute;bcnEmulationCache=0;disablePresentWait=0;astcTranscode=1;etc2Transcode=0;resourceType=auto",
+      "dxwrapper": "dxvk+vkd3d",
+      "dxwrapperConfig": "version=1.7.2,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+      "audioDriver": "pulseaudio",
+      "emulator": "box64",
+      "midiSoundFont": "",
+      "lc_all": "en_GB.UTF-8",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+      "fexcoreVersion": "2605",
+      "fexcorePreset": "INTERMEDIATE",
+      "box64Preset": "PERFORMANCE",
+      "startupSelection": "1",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "cpuList": "4,5,6,7"
+    }
+  }
+}
