@@ -274,9 +274,9 @@
     "name": "DmC: Devil May Cry",
     "steam_id": null,
     "community_image": "https://cdn2.steamgriddb.com/grid/3ace1262532bf6b34aead15cf7e1142f.jpg",
-    "config_count": 1,
+    "config_count": 2,
     "adreno_count": 0,
-    "mali_count": 1
+    "mali_count": 2
   },
   {
     "id": "dmc_devil_may_cry_-_definitive_edition",

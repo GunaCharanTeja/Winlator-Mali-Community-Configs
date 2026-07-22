@@ -471,6 +471,16 @@
   ],
   "dmc_devil_may_cry": [
     {
+      "filename": "infinix-infinix_x6871-1784741021.json",
+      "device_model": "Infinix Infinix X6871",
+      "gpu": "Mali-G610 MC6",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "for d8200 ultra",
+      "config_title": "Dmc",
+      "timestamp": 1784741021
+    },
+    {
       "filename": "infinix-infinix_x6853-1783780270.json",
       "device_model": "Infinix Infinix X6853",
       "gpu": "Mali-G57 MC2",
