@@ -909,6 +909,15 @@
     "mali_count": 1
   },
   {
+    "id": "ultra_street_fighter_iv",
+    "name": "Ultra Street Fighter IV",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/b18c830bee284968884c4741406c6e65.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "ultrakill",
     "name": "Ultrakill",
     "steam_id": null,

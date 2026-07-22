@@ -1421,6 +1421,18 @@
       "timestamp": 1783728895
     }
   ],
+  "ultra_street_fighter_iv": [
+    {
+      "filename": "tecno-tecno_ki5k-1784678724.json",
+      "device_model": "Tecno TECNO KI5k",
+      "gpu": "Mali-G57",
+      "ram": "8GB",
+      "storage": "113GB",
+      "notes": "60 fps",
+      "config_title": "Street Fighters IV",
+      "timestamp": 1784678724
+    }
+  ],
   "ultrakill": [
     {
       "filename": "samsung-sm_a145mb-1784243922.json",
