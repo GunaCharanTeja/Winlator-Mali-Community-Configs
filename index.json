@@ -835,6 +835,16 @@
   ],
   "mad_max": [
     {
+      "filename": "xiaomi-2511fpc34g-1784685228.json",
+      "device_model": "Xiaomi 2511FPC34G",
+      "gpu": "Mali-G720 MC8",
+      "ram": "8GB",
+      "storage": "479GB",
+      "notes": "20 to 50 FPS high graphics",
+      "config_title": "Madmax For  Poco 8xpro",
+      "timestamp": 1784685228
+    },
+    {
       "filename": "xiaomi-2412dpc0ag-1784214268.json",
       "device_model": "Xiaomi 2412DPC0AG",
       "gpu": "Mali-G720 MC7",
