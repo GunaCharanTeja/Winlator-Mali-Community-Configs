@@ -882,6 +882,15 @@
     "mali_count": 1
   },
   {
+    "id": "the_witcher_2_assassins_of_kings_enhanced_edition",
+    "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/b3cff7d0b640412bc56fc3b8533510e5.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "thekillingantidote-win64-shipping",
     "name": "TheKillingAntidote-Win64-Shipping",
     "steam_id": null,
