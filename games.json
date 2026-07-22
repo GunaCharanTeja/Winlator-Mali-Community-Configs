@@ -693,6 +693,15 @@
     "mali_count": 1
   },
   {
+    "id": "ravenfield",
+    "name": "Ravenfield",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/363b901f9ac92ce710fa4d69f4b52fdf.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "red_dead_redemption_ii",
     "name": "Red Dead Redemption II",
     "steam_id": null,

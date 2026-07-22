@@ -1133,6 +1133,18 @@
       "timestamp": 1784160994
     }
   ],
+  "ravenfield": [
+    {
+      "filename": "vivo-v2430-1784712764.json",
+      "device_model": "Vivo V2430",
+      "gpu": "Mali-G57",
+      "ram": "4GB",
+      "storage": "104GB",
+      "notes": "it runs",
+      "config_title": "Ravenfield",
+      "timestamp": 1784712764
+    }
+  ],
   "red_dead_redemption_ii": [
     {
       "filename": "xiaomi-2412dpc0ag-1783999021.json",
