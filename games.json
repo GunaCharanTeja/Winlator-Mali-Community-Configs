@@ -45,6 +45,15 @@
     "mali_count": 1
   },
   {
+    "id": "assassin's_creed_iv_black_flag",
+    "name": "Assassin's Creed IV: Black Flag",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/b071eeee009089cff6262f831327e639.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "assassin's_creed_rogue",
     "name": "Assassin's Creed Rogue",
     "steam_id": null,
