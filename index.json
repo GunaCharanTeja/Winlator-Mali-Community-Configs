@@ -1469,6 +1469,16 @@
   ],
   "tomb_raider": [
     {
+      "filename": "daria-dm_b70104-1784730272.json",
+      "device_model": "Daria DM-B70104",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "466GB",
+      "notes": "20-70 fps\ncustom low/ultra graphics",
+      "config_title": "Tomb Raider 2013",
+      "timestamp": 1784730272
+    },
+    {
       "filename": "tecno-tecno_ki5k-1783728895.json",
       "device_model": "Tecno TECNO KI5k",
       "gpu": "Mali-G57",
