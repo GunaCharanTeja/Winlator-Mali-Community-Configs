@@ -1133,6 +1133,18 @@
       "timestamp": 1783999021
     }
   ],
+  "rerev2": [
+    {
+      "filename": "tecno-tecno_lj8k-1784698374.json",
+      "device_model": "Tecno TECNO LJ8k",
+      "gpu": "Mali-G615 MC2",
+      "ram": "6GB",
+      "storage": "106GB",
+      "notes": "",
+      "config_title": "resident evil 2 revelations",
+      "timestamp": 1784698374
+    }
+  ],
   "resident_evil_2": [
     {
       "filename": "google-pixel_9-1783630127.json",
