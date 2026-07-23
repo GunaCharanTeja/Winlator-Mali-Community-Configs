@@ -603,6 +603,15 @@
     "mali_count": 1
   },
   {
+    "id": "nier_automata",
+    "name": "NieR: Automata",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/c8e812b716d764690e3a1085ddd3635a.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "no,_i'm_not_a_human",
     "name": "No, I'm not a Human",
     "steam_id": null,

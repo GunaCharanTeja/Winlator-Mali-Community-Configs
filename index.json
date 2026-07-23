@@ -1013,6 +1013,18 @@
       "timestamp": 1783880754
     }
   ],
+  "nier_automata": [
+    {
+      "filename": "motorola-moto_g72-1784770533.json",
+      "device_model": "Motorola moto g72",
+      "gpu": "Mali-G57 MC2",
+      "ram": "6GB",
+      "storage": "111GB",
+      "notes": "30fps",
+      "config_title": "NieR Automata",
+      "timestamp": 1784770533
+    }
+  ],
   "no,_i'm_not_a_human": [
     {
       "filename": "xiaomi-2412dpc0ag-1784390590.json",
