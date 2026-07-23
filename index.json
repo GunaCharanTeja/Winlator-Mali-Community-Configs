@@ -547,6 +547,18 @@
       "timestamp": 1783728635
     }
   ],
+  "easy_red_2": [
+    {
+      "filename": "vivo-v2310-1784777664.json",
+      "device_model": "Vivo V2310",
+      "gpu": "Mali-G52 MC2",
+      "ram": "6GB",
+      "storage": "107GB",
+      "notes": "",
+      "config_title": "Dragon Ball Fighter Z",
+      "timestamp": 1784777664
+    }
+  ],
   "emudeck": [
     {
       "filename": "motorola-moto_g05-1784327116.json",
