@@ -713,6 +713,16 @@
   ],
   "grand_theft_auto_iv_the_complete_edition": [
     {
+      "filename": "vivo-v2321-1784808023.json",
+      "device_model": "Vivo V2321",
+      "gpu": "Mali-G610 MC4",
+      "ram": "8GB",
+      "storage": "226GB",
+      "notes": "25-35 fps on low settings",
+      "config_title": "Gta 4: The Complete Edition + Fusion Fix And Dxvk",
+      "timestamp": 1784808023
+    },
+    {
       "filename": "oppo-cph2763-1784402078.json",
       "device_model": "Oppo CPH2763",
       "gpu": "Mali-G615 MC2",

@@ -418,9 +418,9 @@
     "name": "Grand Theft Auto IV: The Complete Edition",
     "steam_id": null,
     "community_image": "https://cdn2.steamgriddb.com/grid/ed8397f95ffa694b0dd8d04308a0007a.png",
-    "config_count": 1,
+    "config_count": 2,
     "adreno_count": 0,
-    "mali_count": 1
+    "mali_count": 2
   },
   {
     "id": "grand_theft_auto_v",
