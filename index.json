@@ -1463,6 +1463,18 @@
       "timestamp": 1783660627
     }
   ],
+  "state_of_decay": [
+    {
+      "filename": "xiaomi-2511fpc34g-1784849761.json",
+      "device_model": "Xiaomi 2511FPC34G",
+      "gpu": "Mali-G720 MC8",
+      "ram": "8GB",
+      "storage": "479GB",
+      "notes": "d8500 ultra",
+      "config_title": "State Of Decay",
+      "timestamp": 1784849761
+    }
+  ],
   "tekken_7": [
     {
       "filename": "xiaomi-23090ra98c-1784345840.json",
