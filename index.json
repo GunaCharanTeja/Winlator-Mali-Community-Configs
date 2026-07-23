@@ -831,6 +831,18 @@
       "timestamp": 1784653711
     }
   ],
+  "katamari_damacy_reroll": [
+    {
+      "filename": "motorola-moto_g72-1784770573.json",
+      "device_model": "Motorola moto g72",
+      "gpu": "Mali-G57 MC2",
+      "ram": "6GB",
+      "storage": "111GB",
+      "notes": "30-40fps",
+      "config_title": "Katamari Damacy ReROLL",
+      "timestamp": 1784770573
+    }
+  ],
   "lego_marvel's_avengers": [
     {
       "filename": "xiaomi-2412dpc0ai-1783821379.json",

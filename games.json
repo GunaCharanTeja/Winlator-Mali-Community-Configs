@@ -504,6 +504,15 @@
     "mali_count": 1
   },
   {
+    "id": "katamari_damacy_reroll",
+    "name": "Katamari Damacy Reroll",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/f3b6d6b52ac9c777d83f27060c8f5805.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "lego_marvel's_avengers",
     "name": "LEGO Marvel's Avengers",
     "steam_id": null,
