@@ -133,6 +133,16 @@
   ],
   "assassin's_creed_iv_black_flag": [
     {
+      "filename": "realme-rmx5085-1784895157.json",
+      "device_model": "Realme RMX5085",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "221GB",
+      "notes": "",
+      "config_title": "ACIVBF ETR",
+      "timestamp": 1784895157
+    },
+    {
       "filename": "xiaomi-2511fpc34g-1784711318.json",
       "device_model": "Xiaomi 2511FPC34G",
       "gpu": "Mali-G720 MC8",
