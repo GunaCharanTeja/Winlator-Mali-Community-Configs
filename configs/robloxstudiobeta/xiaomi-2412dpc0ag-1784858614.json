@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "RobloxStudioBeta",
+    "config_title": "ROBLOX Studio 2016",
+    "notes": "so uhhh finally I found out how to run roblox studio on a mali gpu (I have a POCO X7 PRO)",
+    "device": {
+      "manufacturer": "Xiaomi",
+      "model": "2412DPC0AG",
+      "soc": "rodin",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB"
+    },
+    "timestamp": 1784858614
+  },
+  "container": {
+    "wineVersion": "proton-9.0-arm64ec",
+    "graphicsDriver": "wrapper-leegao",
+    "graphicsDriverConfig": "vulkanVersion=1.1;version=System;blacklistedExtensions=;maxDeviceMemory=4096;presentMode=immediate;syncFrame=0;disablePresentWait=0;astcTranscode=1;etc2Transcode=0;resourceType=dmabuf;bcnEmulation=full;bcnEmulationType=compute;bcnEmulationCache=1;gpuName=Device",
+    "dxwrapper": "wined3d",
+    "dxwrapperConfig": "version=1.10.3-arm64ec-async-0,framerate=0,async=1,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce RTX 3070,videoMemorySize=4096,strict_shader_math=0,OffscreenRenderingMode=backbuffer,renderer=gl,maxDeviceMemory=5,dxvkConfig=1",
+    "audioDriver": "alsa",
+    "emulator": "fexcore",
+    "box64Version": "0.4.3",
+    "box64Preset": "COMPATIBILITY",
+    "fexcoreVersion": "2508",
+    "fexcorePreset": "CUSTOM",
+    "fexcorePresetName": "Max Performance (1)",
+    "fexcorePresetVars": "FEX_TSOENABLED=0 FEX_VECTORTSOENABLED=0 FEX_HALFBARRIERTSOENABLED=0 FEX_MEMCPYSETTSOENABLED=0 FEX_X87REDUCEDPRECISION=1 FEX_MULTIBLOCK=1 FEX_MAXINST=5000 FEX_HOSTFEATURES=off FEX_SMALLTSCSCALE=1 FEX_SMC_CHECKS=none FEX_VOLATILEMETADATA=1 FEX_MONOHACKS=0 FEX_HIDEHYPERVISORBIT=1 FEX_DISABLEL2CACHE=0 FEX_DYNAMICL1CACHE=1",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "0,1,2,3,4,5,6,7",
+    "screenSize": "1280x720",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": false,
+    "fullscreenStretched": false,
+    "startupSelection": 2,
+    "envVars": "WRAPPER_MAX_IMAGE_COUNT=1 ZINK_DESCRIPTORS=lazy MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=512MB mesa_glthread=true WINEESYNC=1 PULSE_LATENCY_MSEC=60 WRAPPER_NO_PATCH_OPCONSTCOMP=1"
+  },
+  "shortcut": {
+    "name": "RobloxStudioBeta",
+    "path": "D:\\Executables\\ROBLOX 2016\\RobloxStudioBeta.exe",
+    "extraData": {
+      "box64Version": "0.4.3",
+      "emulationMode": "GAME_CONTROLLER",
+      "simTouchScreen": "0",
+      "screenSize": "1280x720",
+      "graphicsDriver": "wrapper-leegao",
+      "graphicsDriverConfig": "vulkanVersion=1.1;version=System;blacklistedExtensions=;maxDeviceMemory=4096;presentMode=immediate;syncFrame=0;disablePresentWait=0;astcTranscode=1;etc2Transcode=0;resourceType=dmabuf;bcnEmulation=full;bcnEmulationType=compute;bcnEmulationCache=1;gpuName=Device",
+      "dxwrapper": "wined3d",
+      "dxwrapperConfig": "version=1.10.3-arm64ec-async-0,framerate=0,async=1,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce RTX 3070,videoMemorySize=4096,strict_shader_math=0,OffscreenRenderingMode=backbuffer,renderer=gl,maxDeviceMemory=5,dxvkConfig=1",
+      "audioDriver": "alsa",
+      "emulator": "fexcore",
+      "midiSoundFont": "wt_210k_G.sf2",
+      "lc_all": "en_US.UTF-8",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+      "fexcoreVersion": "2508",
+      "fexcorePreset": "CUSTOM",
+      "box64Preset": "COMPATIBILITY",
+      "startupSelection": "2",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "cpuList": "0,1,2,3,4,5,6,7"
+    }
+  }
+}
