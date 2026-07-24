@@ -630,6 +630,15 @@
     "mali_count": 2
   },
   {
+    "id": "need_for_speed_most_wanted_-_black_edition",
+    "name": "Need for Speed: Most Wanted - Black Edition",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "need_for_speed_the_run",
     "name": "Need for Speed: The Run",
     "steam_id": null,

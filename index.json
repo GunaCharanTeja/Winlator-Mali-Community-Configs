@@ -1089,6 +1089,18 @@
       "timestamp": 1783881436
     }
   ],
+  "need_for_speed_most_wanted_-_black_edition": [
+    {
+      "filename": "xiaomi-2412dpc0ai-1784937338.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "Poco x7 Pro \n12gb ram \ndimensity 8400U\n\nin 720p with almost everything maxed out at a locked 60 FPS",
+      "config_title": "Poco X7 Pro",
+      "timestamp": 1784937338
+    }
+  ],
   "need_for_speed_the_run": [
     {
       "filename": "xiaomi-2412dpc0ag-1784077411.json",
