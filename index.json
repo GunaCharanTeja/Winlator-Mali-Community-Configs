@@ -853,6 +853,18 @@
       "timestamp": 1784653711
     }
   ],
+  "just_cause_2": [
+    {
+      "filename": "samsung-sm_a075m-1784856967.json",
+      "device_model": "Samsung SM-A075M",
+      "gpu": "Mali-G57 MC2",
+      "ram": "4GB",
+      "storage": "106GB",
+      "notes": "",
+      "config_title": "Just Cause",
+      "timestamp": 1784856967
+    }
+  ],
   "katamari_damacy_reroll": [
     {
       "filename": "motorola-moto_g72-1784770573.json",
