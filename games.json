@@ -801,6 +801,15 @@
     "mali_count": 1
   },
   {
+    "id": "robloxstudiobeta",
+    "name": "RobloxStudioBeta",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "saints_row",
     "name": "Saints Row",
     "steam_id": null,

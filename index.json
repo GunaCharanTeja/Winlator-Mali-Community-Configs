@@ -1297,6 +1297,18 @@
       "timestamp": 1784588769
     }
   ],
+  "robloxstudiobeta": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1784858614.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "so uhhh finally I found out how to run roblox studio on a mali gpu (I have a POCO X7 PRO)",
+      "config_title": "ROBLOX Studio 2016",
+      "timestamp": 1784858614
+    }
+  ],
   "saints_row": [
     {
       "filename": "xiaomi-2412dpc0ag-1784547026.json",
