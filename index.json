@@ -515,6 +515,16 @@
   ],
   "don_bradman_cricket_14": [
     {
+      "filename": "samsung-sm_a035f-1784893440.json",
+      "device_model": "Samsung SM-A035F",
+      "gpu": "Mali-G57",
+      "ram": "4GB",
+      "storage": "51GB",
+      "notes": "playable on low end devices fps 13-15\nchange config.ini on Documents/My Game/ Don Bradman cricket 14\nResulatons: 800X600 \nall others Set 0 except minimal and brightness\nCrowd:1",
+      "config_title": "Don BRADMAN CRICKET 14 (NSNayan)",
+      "timestamp": 1784893440
+    },
+    {
       "filename": "samsung-sm_a035f-1784893162.json",
       "device_model": "Samsung SM-A035F",
       "gpu": "Mali-G57",
