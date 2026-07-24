@@ -513,6 +513,18 @@
       "timestamp": 1783760026
     }
   ],
+  "don_bradman_cricket_14": [
+    {
+      "filename": "samsung-sm_a035f-1784893162.json",
+      "device_model": "Samsung SM-A035F",
+      "gpu": "Mali-G57",
+      "ram": "4GB",
+      "storage": "51GB",
+      "notes": "change configuration.ini on document/my game/ Don bradman cricket 14\nresulaton: 800X600\nall other set 0 \ncrowd 1\nyou are good to go \nfps 13-15 on unisoc processors Mali 57 gpu",
+      "config_title": "Don Bradman Cricket 14 (NSNayan Style)",
+      "timestamp": 1784893162
+    }
+  ],
   "dragon's_dogma_dark_arisen": [
     {
       "filename": "xiaomi-2602bpc18g-1784522165.json",
