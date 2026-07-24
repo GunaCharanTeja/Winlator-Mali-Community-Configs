@@ -99,6 +99,16 @@
   ],
   "assassin's_creed_iii": [
     {
+      "filename": "tecno-tecno_lh8n-1784862751.json",
+      "device_model": "Tecno TECNO LH8n",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "20-30 fps on D6080 & Helio G99",
+      "config_title": "Assassin's Creed® III",
+      "timestamp": 1784862751
+    },
+    {
       "filename": "xiaomi-2412dpc0ag-1784255257.json",
       "device_model": "Xiaomi 2412DPC0AG",
       "gpu": "Mali-G720 MC7",
