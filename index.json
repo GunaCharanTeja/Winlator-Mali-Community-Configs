@@ -999,6 +999,18 @@
       "timestamp": 1784003005
     }
   ],
+  "mortal_kombat_x": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1784902152.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "Super playable 50-60 fps even in high graphics. turn on astc.\nram used like 75% in game very low",
+      "config_title": "mortal Kombat x/xl",
+      "timestamp": 1784902152
+    }
+  ],
   "motorslice": [
     {
       "filename": "daria-dm_b70104-1784110686.json",

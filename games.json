@@ -585,6 +585,15 @@
     "mali_count": 1
   },
   {
+    "id": "mortal_kombat_x",
+    "name": "Mortal Kombat X",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/becb58e9397206a302877fb338fd1c16.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "motorslice",
     "name": "MOTORSLICE",
     "steam_id": null,
