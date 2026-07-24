@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "Don Bradman Cricket 14",
+    "config_title": "Don Bradman Cricket 14 (NSNayan Style)",
+    "notes": "change configuration.ini on document/my game/ Don bradman cricket 14\nresulaton: 800X600\nall other set 0 \ncrowd 1\nyou are good to go \nfps 13-15 on unisoc processors Mali 57 gpu",
+    "device": {
+      "manufacturer": "samsung",
+      "model": "SM-A035F",
+      "soc": "ums9230_25c10",
+      "gpu": "Mali-G57",
+      "ram": "4GB",
+      "storage": "51GB"
+    },
+    "timestamp": 1784893162
+  },
+  "container": {
+    "wineVersion": "proton-10-arm64ec",
+    "graphicsDriver": "wrapper",
+    "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=;maxDeviceMemory=0;presentMode=mailbox;syncFrame=0;disablePresentWait=1;astcTranscode=0;etc2Transcode=1;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=0;gpuName=NVIDIA GeForce GTX 570",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.10.3-async,framerate=0,async=1,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=cnc-ddraw,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+    "audioDriver": "pulseaudio",
+    "emulator": "fexcore",
+    "box64Version": "0.4.3",
+    "box64Preset": "PERFORMANCE",
+    "fexcoreVersion": "2605",
+    "fexcorePreset": "INTERMEDIATE",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "0,1,2,3,4,5,6,7",
+    "screenSize": "640x360",
+    "wincomponents": "direct3d=0,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=1,vcrun2010=1,directinput=0",
+    "showFPS": false,
+    "fullscreenStretched": false,
+    "startupSelection": 2
+  },
+  "shortcut": {
+    "name": "cricket14",
+    "path": "F:\\Download\\DBC14\\cricket14.exe",
+    "extraData": {
+      "emulationMode": "GAME_CONTROLLER",
+      "simTouchScreen": "0",
+      "screenSize": "640x360",
+      "graphicsDriver": "wrapper-leegao",
+      "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=;maxDeviceMemory=0;presentMode=mailbox;syncFrame=0;disablePresentWait=1;astcTranscode=0;etc2Transcode=1;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=0;gpuName=NVIDIA GeForce GTX 570",
+      "dxwrapper": "dxvk+vkd3d",
+      "dxwrapperConfig": "version=1.12.1-sarek,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=cnc-ddraw,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+      "audioDriver": "pulseaudio",
+      "emulator": "fexcore",
+      "midiSoundFont": "",
+      "lc_all": "en_GB.UTF-8",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+      "fexcoreVersion": "2605",
+      "fexcorePreset": "INTERMEDIATE",
+      "box64Preset": "INTERMEDIATE",
+      "startupSelection": "2",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "controlsProfile": "3"
+    }
+  }
+}
