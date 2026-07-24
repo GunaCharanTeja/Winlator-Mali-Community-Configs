@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "Just Cause 2",
+    "config_title": "Just Cause",
+    "community_image": "https://cdn2.steamgriddb.com/grid/1dd7f69a2c61e9b07696a87abf79e1d9.png",
+    "device": {
+      "manufacturer": "samsung",
+      "model": "SM-A075M",
+      "soc": "a07",
+      "gpu": "Mali-G57 MC2",
+      "ram": "4GB",
+      "storage": "106GB"
+    },
+    "timestamp": 1784856967
+  },
+  "container": {
+    "wineVersion": "proton-9.0-arm64ec",
+    "graphicsDriver": "wrapper-leegao",
+    "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=;maxDeviceMemory=0;presentMode=mailbox;syncFrame=1;disablePresentWait=1;astcTranscode=1;etc2Transcode=0;resourceType=dmabuf;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=0;gpuName=Device",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.10.3-async,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+    "audioDriver": "pulseaudio",
+    "emulator": "fexcore",
+    "box64Version": "0.4.3",
+    "box64Preset": "PERFORMANCE",
+    "fexcoreVersion": "2605",
+    "fexcorePreset": "CUSTOM",
+    "fexcorePresetName": "Resident evil 7",
+    "fexcorePresetVars": "FEX_TSOENABLED=1 FEX_VECTORTSOENABLED=0 FEX_HALFBARRIERTSOENABLED=0 FEX_MEMCPYSETTSOENABLED=0 FEX_X87REDUCEDPRECISION=1 FEX_MULTIBLOCK=1 FEX_MAXINST=5000 FEX_HOSTFEATURES=off FEX_SMALLTSCSCALE=1 FEX_SMC_CHECKS=none FEX_VOLATILEMETADATA=1 FEX_MONOHACKS=1 FEX_HIDEHYPERVISORBIT=0 FEX_DISABLEL2CACHE=0 FEX_DYNAMICL1CACHE=0",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "0,1,2,3,4,5,6,7",
+    "screenSize": "640x480",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": true,
+    "fullscreenStretched": false,
+    "startupSelection": 2,
+    "envVars": "WRAPPER_MAX_IMAGE_COUNT=0 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=4096MB mesa_glthread=true WINEESYNC=1 DXVK_HUD=fps,gpuload PULSE_LATENCY_MSEC=40 WRAPPER_NO_PATCH_OPCONSTCOMP=1"
+  },
+  "shortcut": {
+    "name": "JustCause2",
+    "path": "F:\\Download\\Just Cause 2\\JustCause2.exe",
+    "extraData": {
+      "emulationMode": "GAME_CONTROLLER",
+      "simTouchScreen": "0",
+      "screenSize": "800x600",
+      "graphicsDriver": "wrapper",
+      "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=;maxDeviceMemory=0;presentMode=mailbox;syncFrame=1;disablePresentWait=1;astcTranscode=1;etc2Transcode=0;resourceType=dmabuf;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=0;gpuName=Device",
+      "dxwrapper": "dxvk+vkd3d",
+      "dxwrapperConfig": "version=1.10.3-async,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+      "audioDriver": "pulseaudio",
+      "emulator": "fexcore",
+      "midiSoundFont": "",
+      "lc_all": "",
+      "fullscreenStretched": "1",
+      "gtaOptimization": "1",
+      "wincomponents": "direct3d=1,directsound=1,directmusic=1,directshow=1,directplay=1,xaudio=1,vcrun2010=1,directinput=1",
+      "fexcoreVersion": "2605",
+      "fexcorePreset": "UNREAL_ENGINE_3",
+      "box64Preset": "PERFORMANCE",
+      "startupSelection": "2",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "controlsProfile": "3"
+    }
+  }
+}
