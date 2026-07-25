@@ -1337,6 +1337,18 @@
       "timestamp": 1783630127
     }
   ],
+  "resident_evil_3": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1784977159.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "7GB",
+      "storage": "233GB",
+      "notes": "fps 10/30 In enclosed areas, it performs relatively well, and without tire generation, I enjoy it.",
+      "config_title": "Resident Evil 3 Remake",
+      "timestamp": 1784977159
+    }
+  ],
   "resident_evil_5": [
     {
       "filename": "samsung-sm_m336bu-1784341109.json",

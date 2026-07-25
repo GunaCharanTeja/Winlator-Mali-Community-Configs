@@ -801,6 +801,15 @@
     "mali_count": 1
   },
   {
+    "id": "resident_evil_3",
+    "name": "Resident Evil 3",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/2aed67896816d863aa9307b52b80a5a0.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "resident_evil_5",
     "name": "Resident Evil 5",
     "steam_id": null,
