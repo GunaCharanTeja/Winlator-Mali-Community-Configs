@@ -1339,6 +1339,16 @@
   ],
   "resident_evil_2": [
     {
+      "filename": "tecno-tecno_cl8-1785006901.json",
+      "device_model": "Tecno TECNO CL8",
+      "gpu": "Mali-G610 MC6",
+      "ram": "12GB",
+      "storage": "227GB",
+      "notes": "conf",
+      "config_title": "Re2",
+      "timestamp": 1785006901
+    },
+    {
       "filename": "google-pixel_9-1783630127.json",
       "device_model": "Google Pixel 9",
       "gpu": "Mali-G715",

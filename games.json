@@ -805,9 +805,9 @@
     "name": "Resident Evil 2",
     "steam_id": null,
     "community_image": "https://cdn2.steamgriddb.com/grid/b31fe202b1bff652c4f831b2106a5a87.jpg",
-    "config_count": 1,
+    "config_count": 2,
     "adreno_count": 0,
-    "mali_count": 1
+    "mali_count": 2
   },
   {
     "id": "resident_evil_3",
