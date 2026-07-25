@@ -1637,6 +1637,18 @@
       "timestamp": 1783888058
     }
   ],
+  "tom_clancy's_splinter_cell_pandora_tomorrow": [
+    {
+      "filename": "xiaomi-2412dpc0ai-1784954999.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "running everything at maximum settings at 60 FPS\n\nImportant: This container has an environment variable. that works specifically for the ThirteenAg mod fix; download its mod fix to have gamepad support and resolution and FOV corrections.",
+      "config_title": "Poco X7 Pro",
+      "timestamp": 1784954999
+    }
+  ],
   "tomb_raider": [
     {
       "filename": "daria-dm_b70104-1784730272.json",

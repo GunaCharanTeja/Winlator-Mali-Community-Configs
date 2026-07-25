@@ -1026,6 +1026,15 @@
     "mali_count": 1
   },
   {
+    "id": "tom_clancy's_splinter_cell_pandora_tomorrow",
+    "name": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/a62d135e4b081497f71e5a28fdb50718.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "tomb_raider",
     "name": "Tomb Raider",
     "steam_id": null,
