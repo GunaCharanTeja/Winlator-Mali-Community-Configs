@@ -437,6 +437,16 @@
   ],
   "desktop_mate": [
     {
+      "filename": "realme-rmx5377-1784968699.json",
+      "device_model": "Realme RMX5377",
+      "gpu": "Mali-G57",
+      "ram": "4GB",
+      "storage": "104GB",
+      "notes": "A ENTRY LEVEL MALI G-57 CAN GET ABOUT 50 TO 70FPS BUT BETTER WITH APEX FRAME GEN",
+      "config_title": "NFSU2",
+      "timestamp": 1784968699
+    },
+    {
       "filename": "tecno-tecno_ki5k-1784411737.json",
       "device_model": "Tecno TECNO KI5k",
       "gpu": "Mali-G57",

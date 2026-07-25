@@ -256,9 +256,9 @@
     "name": "Desktop Mate",
     "steam_id": null,
     "community_image": null,
-    "config_count": 4,
+    "config_count": 5,
     "adreno_count": 0,
-    "mali_count": 4
+    "mali_count": 5
   },
   {
     "id": "devil_may_cry_5",
