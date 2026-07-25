@@ -411,6 +411,18 @@
       "timestamp": 1783632123
     }
   ],
+  "dead_space_3": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1784953992.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "60 fps. use preset stability or compatibility on box64",
+      "config_title": "Dead Space 3",
+      "timestamp": 1784953992
+    }
+  ],
   "deadpool": [
     {
       "filename": "infinix-infinix_x6882-1783780602.json",

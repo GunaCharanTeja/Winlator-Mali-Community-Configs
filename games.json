@@ -234,6 +234,15 @@
     "mali_count": 1
   },
   {
+    "id": "dead_space_3",
+    "name": "Dead Space 3",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/cb8f3ff648c1602007ed6a61d012fc66.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "deadpool",
     "name": "Deadpool",
     "steam_id": null,
