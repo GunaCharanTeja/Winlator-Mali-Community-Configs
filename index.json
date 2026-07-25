@@ -997,6 +997,18 @@
       "timestamp": 1783725379
     }
   ],
+  "mafia_ii": [
+    {
+      "filename": "oppo-cph2763-1784979075.json",
+      "device_model": "Oppo CPH2763",
+      "gpu": "Mali-G615 MC2",
+      "ram": "8GB",
+      "storage": "224GB",
+      "notes": "Performance and Setup Guide\n* For optimal performance, an average of 25-30 frames per second is achievable with normal graphics settings.\n* It is mandatory to install NVIDIA PhysX from the Start Menu.\n* To resolve shadow rendering issues:\n   1. Download the fix from \"https://drive.google.com/file/d/14YXGIftob6AF0jlgEzRfURZN963xtbTQ/view?pli=1\".\n   2. Copy all its contents into your game's \"pc\" folder, specifically where the \"mafia2.exe\" file is located, not the launcher executable.",
+      "config_title": "Dimensity 7300",
+      "timestamp": 1784979075
+    }
+  ],
   "mk10": [
     {
       "filename": "xiaomi-2412dpc0ag-1784391163.json",
