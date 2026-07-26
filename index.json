@@ -1647,6 +1647,16 @@
   ],
   "the_witcher_2_assassins_of_kings_enhanced_edition": [
     {
+      "filename": "xiaomi-2511fpc34g-1785027046.json",
+      "device_model": "Xiaomi 2511FPC34G",
+      "gpu": "Mali-G720 MC8",
+      "ram": "8GB",
+      "storage": "479GB",
+      "notes": "60+FPS \nFPS drops when in combat",
+      "config_title": "Witch 2 D8500",
+      "timestamp": 1785027046
+    },
+    {
       "filename": "xiaomi-2511fpc34g-1784689899.json",
       "device_model": "Xiaomi 2511FPC34G",
       "gpu": "Mali-G720 MC8",
