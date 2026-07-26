@@ -927,6 +927,15 @@
     "mali_count": 2
   },
   {
+    "id": "shadow_warrior",
+    "name": "Shadow Warrior",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/af524b744033460e00077498b92446e8.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "shank_2",
     "name": "Shank 2",
     "steam_id": null,
