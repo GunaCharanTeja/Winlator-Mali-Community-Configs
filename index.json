@@ -511,6 +511,18 @@
       "timestamp": 1783684359
     }
   ],
+  "devil_may_cry_hd_collection": [
+    {
+      "filename": "samsung-sm_a155m-1785068109.json",
+      "device_model": "Samsung SM-A155M",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "Well, I managed to fix the crashes and also get good performance without any errors on my Helio G99.",
+      "config_title": "Dmc3 Crimsom",
+      "timestamp": 1785068109
+    }
+  ],
   "dirt_3_complete_edition": [
     {
       "filename": "daria-dm_b70104-1784142207.json",

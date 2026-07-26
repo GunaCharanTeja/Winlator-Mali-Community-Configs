@@ -279,6 +279,15 @@
     "mali_count": 1
   },
   {
+    "id": "devil_may_cry_hd_collection",
+    "name": "Devil May Cry HD Collection",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/f32d3312c4e42ed7cbd4572413d1a653.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "dirt_3_complete_edition",
     "name": "DiRT 3: Complete Edition",
     "steam_id": null,
