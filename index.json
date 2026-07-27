@@ -833,6 +833,16 @@
   ],
   "grand_theft_auto_v": [
     {
+      "filename": "samsung-sm_a245f-1785193271.json",
+      "device_model": "Samsung SM-A245F",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "106GB",
+      "notes": "Samsung A24 ,8gb ram ,128 gb storage ,mali g 57 mc2 ,heilo g 99",
+      "config_title": "By Moh",
+      "timestamp": 1785193271
+    },
+    {
       "filename": "xiaomi-2412dpc0ag-1783631383.json",
       "device_model": "Xiaomi 2412DPC0AG",
       "gpu": "Mali-G720 MC7",
