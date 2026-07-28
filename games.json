@@ -621,6 +621,15 @@
     "mali_count": 1
   },
   {
+    "id": "monster_hunter_stories_2_wings_of_ruin",
+    "name": "Monster Hunter Stories 2: Wings of Ruin",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/0d4b506b3ef2825e6e7f4ba631c690d0.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "mortal_kombat",
     "name": "Mortal Kombat",
     "steam_id": null,

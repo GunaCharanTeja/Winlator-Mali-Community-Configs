@@ -1087,6 +1087,18 @@
       "timestamp": 1784391163
     }
   ],
+  "monster_hunter_stories_2_wings_of_ruin": [
+    {
+      "filename": "xiaomi-22041216i-1785252403.json",
+      "device_model": "Xiaomi 22041216I",
+      "gpu": "Mali-G610 MC6",
+      "ram": "8GB",
+      "storage": "226GB",
+      "notes": "30 fps",
+      "config_title": "No Lag",
+      "timestamp": 1785252403
+    }
+  ],
   "mortal_kombat": [
     {
       "filename": "xiaomi-2412dpc0ag-1784003005.json",
