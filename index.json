@@ -133,6 +133,16 @@
   ],
   "assassin's_creed_iv_black_flag": [
     {
+      "filename": "xiaomi-2511fpc34g-1785247442.json",
+      "device_model": "Xiaomi 2511FPC34G",
+      "gpu": "Mali-G720 MC8",
+      "ram": "8GB",
+      "storage": "479GB",
+      "notes": "12 to 17 FPS on land 30 to 45 FPS on sea on low and high setting",
+      "config_title": "Ac4 Black Flag",
+      "timestamp": 1785247442
+    },
+    {
       "filename": "realme-rmx5085-1784895157.json",
       "device_model": "Realme RMX5085",
       "gpu": "Mali-G720 MC7",
