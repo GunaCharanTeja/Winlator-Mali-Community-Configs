@@ -767,6 +767,18 @@
       "timestamp": 1783874036
     }
   ],
+  "factory_town": [
+    {
+      "filename": "infinix-infinix_x6815d-1785358532.json",
+      "device_model": "Infinix Infinix X6815D",
+      "gpu": "Mali-G68 MC4",
+      "ram": "8GB",
+      "storage": "227GB",
+      "notes": "sis",
+      "config_title": "Hdh",
+      "timestamp": 1785358532
+    }
+  ],
   "fear": [
     {
       "filename": "xiaomi-2412dpc0ai-1784228750.json",

@@ -396,6 +396,15 @@
     "mali_count": 2
   },
   {
+    "id": "factory_town",
+    "name": "Factory Town",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "fear",
     "name": "FEAR",
     "steam_id": null,
