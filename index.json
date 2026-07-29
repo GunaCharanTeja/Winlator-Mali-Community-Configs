@@ -923,6 +923,16 @@
   ],
   "gta_iv_san_andreas_(mod)": [
     {
+      "filename": "samsung-sm_g970f-1785322265.json",
+      "device_model": "Samsung SM-G970F",
+      "gpu": "Mali-G76",
+      "ram": "6GB",
+      "storage": "108GB",
+      "notes": "",
+      "config_title": "Samsung S10e",
+      "timestamp": 1785322265
+    },
+    {
       "filename": "xiaomi-24117rn76l-1784130589.json",
       "device_model": "Xiaomi 24117RN76L",
       "gpu": "Mali-G57 MC2",

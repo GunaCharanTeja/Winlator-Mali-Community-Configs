@@ -499,9 +499,9 @@
     "name": "GTA IV: San Andreas (Mod)",
     "steam_id": null,
     "community_image": "https://cdn2.steamgriddb.com/grid/762534b5829111059a5f394ce135a4bd.png",
-    "config_count": 1,
+    "config_count": 2,
     "adreno_count": 0,
-    "mali_count": 1
+    "mali_count": 2
   },
   {
     "id": "gta5",
