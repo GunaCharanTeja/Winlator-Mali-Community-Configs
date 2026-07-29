@@ -1117,6 +1117,18 @@
       "timestamp": 1784979075
     }
   ],
+  "miside": [
+    {
+      "filename": "tecno-tecno_ki5k-1785364242.json",
+      "device_model": "Tecno TECNO KI5k",
+      "gpu": "Mali-G57",
+      "ram": "8GB",
+      "storage": "113GB",
+      "notes": "30 fps",
+      "config_title": "MiSide",
+      "timestamp": 1785364242
+    }
+  ],
   "mk10": [
     {
       "filename": "xiaomi-2412dpc0ag-1784391163.json",
