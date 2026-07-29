@@ -397,6 +397,18 @@
       "timestamp": 1785364297
     }
   ],
+  "castlevania_lords_of_shadow_–_mirror_of_fate_hd": [
+    {
+      "filename": "tecno-tecno_ki5k-1785364361.json",
+      "device_model": "Tecno TECNO KI5k",
+      "gpu": "Mali-G57",
+      "ram": "8GB",
+      "storage": "113GB",
+      "notes": "30 fps",
+      "config_title": "Castlevania Lords of Shadow Mirror of Fate HD",
+      "timestamp": 1785364361
+    }
+  ],
   "celeste": [
     {
       "filename": "samsung-sm_a176b-1784386916.json",

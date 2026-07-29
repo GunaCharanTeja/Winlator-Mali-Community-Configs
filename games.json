@@ -216,6 +216,15 @@
     "mali_count": 1
   },
   {
+    "id": "castlevania_lords_of_shadow_–_mirror_of_fate_hd",
+    "name": "Castlevania: Lords of Shadow – Mirror of Fate HD",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/37e46d8c70189663e79f9cb0780938f1.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "celeste",
     "name": "Celeste",
     "steam_id": null,
