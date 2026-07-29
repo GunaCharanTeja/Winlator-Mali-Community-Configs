@@ -569,6 +569,16 @@
   ],
   "dmc_devil_may_cry": [
     {
+      "filename": "motorola-motorola_edge_40-1785324241.json",
+      "device_model": "Motorola motorola edge 40",
+      "gpu": "Mali-G77 MC9",
+      "ram": "8GB",
+      "storage": "229GB",
+      "notes": "30fps graficos medios",
+      "config_title": "Dmc",
+      "timestamp": 1785324241
+    },
+    {
       "filename": "infinix-infinix_x6871-1784741021.json",
       "device_model": "Infinix Infinix X6871",
       "gpu": "Mali-G610 MC6",
