@@ -419,6 +419,18 @@
       "timestamp": 1784128980
     }
   ],
+  "closers": [
+    {
+      "filename": "tecno-tecno_ki5k-1785364333.json",
+      "device_model": "Tecno TECNO KI5k",
+      "gpu": "Mali-G57",
+      "ram": "8GB",
+      "storage": "113GB",
+      "notes": "30 fps",
+      "config_title": "Castlevania Lords Of Shadow",
+      "timestamp": 1785364333
+    }
+  ],
   "counter-strike": [
     {
       "filename": "realme-rmx5377-1784382475.json",
