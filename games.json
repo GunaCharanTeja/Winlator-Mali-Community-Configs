@@ -792,6 +792,15 @@
     "mali_count": 1
   },
   {
+    "id": "opu3",
+    "name": "OPU3",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "ori_and_the_blind_forest",
     "name": "Ori and the Blind Forest",
     "steam_id": null,

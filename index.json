@@ -1375,6 +1375,18 @@
       "timestamp": 1783776222
     }
   ],
+  "opu3": [
+    {
+      "filename": "infinix-infinix_x6711-1785415014.json",
+      "device_model": "Infinix Infinix X6711",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "227GB",
+      "notes": "infinix note 30 5g \nmali g57",
+      "config_title": "One Piece Unlimited World",
+      "timestamp": 1785415014
+    }
+  ],
   "ori_and_the_blind_forest": [
     {
       "filename": "motorola-motorola_edge_40_neo-1784661135.json",
