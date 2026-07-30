@@ -1249,6 +1249,18 @@
       "timestamp": 1784110686
     }
   ],
+  "mugen": [
+    {
+      "filename": "realme-rmx3171-1785419618.json",
+      "device_model": "Realme RMX3171",
+      "gpu": "Mali-G52 MC2",
+      "ram": "4GB",
+      "storage": "49GB",
+      "notes": "this config for low end device",
+      "config_title": "Mugen Directx Setting 60fps",
+      "timestamp": 1785419618
+    }
+  ],
   "naruto_ultimate_ninja_storm": [
     {
       "filename": "infinix-infinix_x6853-1783683151.json",
