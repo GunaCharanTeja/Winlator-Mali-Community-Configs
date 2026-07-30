@@ -31,6 +31,18 @@
       "timestamp": 1783797574
     }
   ],
+  "alice_madness_returns": [
+    {
+      "filename": "xiaomi-25069ptebg-1785380228.json",
+      "device_model": "Xiaomi 25069PTEBG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "479GB",
+      "notes": "",
+      "config_title": "Alice",
+      "timestamp": 1785380228
+    }
+  ],
   "assassin's_creed": [
     {
       "filename": "xiaomi-2412dpc0ai-1784606060.json",
