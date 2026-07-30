@@ -189,6 +189,15 @@
     "mali_count": 1
   },
   {
+    "id": "bully",
+    "name": "Bully",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/6ffd717dc675c1ddf7fd9f7889aefd97.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "burnout_paradise",
     "name": "Burnout Paradise",
     "steam_id": null,

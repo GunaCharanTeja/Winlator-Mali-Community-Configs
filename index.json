@@ -361,6 +361,18 @@
       "timestamp": 1784345448
     }
   ],
+  "bully": [
+    {
+      "filename": "samsung-sm_a175f-1785417909.json",
+      "device_model": "Samsung SM-A175F",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "223GB",
+      "notes": "",
+      "config_title": "Bully",
+      "timestamp": 1785417909
+    }
+  ],
   "burnout_paradise": [
     {
       "filename": "samsung-sm_a155m-1783913151.json",
