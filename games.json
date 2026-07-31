@@ -666,6 +666,15 @@
     "mali_count": 1
   },
   {
+    "id": "megabonk",
+    "name": "Megabonk",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/f88a427eb9f8c04218fdd193884c0ac6.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "miside",
     "name": "MiSide",
     "steam_id": null,
