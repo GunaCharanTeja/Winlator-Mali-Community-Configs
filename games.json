@@ -450,6 +450,15 @@
     "mali_count": 1
   },
   {
+    "id": "fallout_new_vegas",
+    "name": "Fallout: New Vegas",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/37106917c624074de6a74af52ee51667.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "fear",
     "name": "FEAR",
     "steam_id": null,

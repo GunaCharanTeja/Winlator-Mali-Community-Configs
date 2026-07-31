@@ -839,6 +839,18 @@
       "timestamp": 1785358532
     }
   ],
+  "fallout_new_vegas": [
+    {
+      "filename": "samsung-sm_a156m-1785501292.json",
+      "device_model": "Samsung SM-A156M",
+      "gpu": "Mali-G57 MC2",
+      "ram": "4GB",
+      "storage": "106GB",
+      "notes": "",
+      "config_title": "Fallout New Vegas G57",
+      "timestamp": 1785501292
+    }
+  ],
   "fear": [
     {
       "filename": "xiaomi-2412dpc0ai-1784228750.json",
