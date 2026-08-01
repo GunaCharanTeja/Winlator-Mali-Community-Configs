@@ -1877,6 +1877,18 @@
       "timestamp": 1784238112
     }
   ],
+  "sniper_elite_v2": [
+    {
+      "filename": "tecno-tecno_ki5k-1785591991.json",
+      "device_model": "Tecno TECNO KI5k",
+      "gpu": "Mali-G57",
+      "ram": "4GB",
+      "storage": "113GB",
+      "notes": "15-20",
+      "config_title": "Mali G57mp1",
+      "timestamp": 1785591991
+    }
+  ],
   "sniper_ghost_warrior": [
     {
       "filename": "xiaomi-2412dpc0ai-1784045641.json",

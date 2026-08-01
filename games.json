@@ -1116,6 +1116,15 @@
     "mali_count": 1
   },
   {
+    "id": "sniper_elite_v2",
+    "name": "Sniper Elite V2",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "sniper_ghost_warrior",
     "name": "Sniper: Ghost Warrior",
     "steam_id": null,
