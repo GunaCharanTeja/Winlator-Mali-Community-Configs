@@ -432,6 +432,15 @@
     "mali_count": 1
   },
   {
+    "id": "f1®_25",
+    "name": "F1® 25",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/3c7c7895d092ede698ce476282c61099.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "fable_-_the_lost_chapters",
     "name": "Fable - The Lost Chapters",
     "steam_id": null,
