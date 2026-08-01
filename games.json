@@ -1089,6 +1089,15 @@
     "mali_count": 1
   },
   {
+    "id": "singularity",
+    "name": "Singularity",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/e99742e82abdac06942256f64c814c7f.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "skyrimselauncher",
     "name": "SkyrimSELauncher",
     "steam_id": null,

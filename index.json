@@ -1841,6 +1841,18 @@
       "timestamp": 1783821433
     }
   ],
+  "singularity": [
+    {
+      "filename": "realme-rmx5056-1785590204.json",
+      "device_model": "Realme RMX5056",
+      "gpu": "Mali-G615 MC2",
+      "ram": "8GB",
+      "storage": "222GB",
+      "notes": "best settings for Dimensity 7300 60 fps",
+      "config_title": "Singularity",
+      "timestamp": 1785590204
+    }
+  ],
   "skyrimselauncher": [
     {
       "filename": "xiaomi-2311drk48g-1784306587.json",
