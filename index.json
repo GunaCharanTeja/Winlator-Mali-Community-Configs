@@ -1595,6 +1595,18 @@
       "timestamp": 1784712764
     }
   ],
+  "re7": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1785584374.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "Use performance optimization files with lower settings to get 60 frames per second.",
+      "config_title": "Re7 Opti",
+      "timestamp": 1785584374
+    }
+  ],
   "red_dead_redemption_ii": [
     {
       "filename": "xiaomi-2412dpc0ag-1783999021.json",
