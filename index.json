@@ -491,6 +491,18 @@
       "timestamp": 1784420135
     }
   ],
+  "crysis": [
+    {
+      "filename": "xiaomi-2511fpc34g-1785847159.json",
+      "device_model": "Xiaomi 2511FPC34G",
+      "gpu": "Mali-G720 MC8",
+      "ram": "12GB",
+      "storage": "479GB",
+      "notes": "-Stable 40-50 fps if less action scenes\n-20-30 fps during high action scene",
+      "config_title": "Crysis (2007)",
+      "timestamp": 1785847159
+    }
+  ],
   "crysis_2_maximum_edition": [
     {
       "filename": "tecno-tecno_ki5k-1783910459.json",
