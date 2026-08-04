@@ -1271,6 +1271,16 @@
   ],
   "monster_hunter_stories_2_wings_of_ruin": [
     {
+      "filename": "infinix-infinix_x6871-1785887955.json",
+      "device_model": "Infinix Infinix X6871",
+      "gpu": "Mali-G610 MC6",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "-Stabil 30 fps\n\n-D8200U\n\n-Ram 8",
+      "config_title": "MHS2",
+      "timestamp": 1785887955
+    },
+    {
       "filename": "xiaomi-22041216i-1785252403.json",
       "device_model": "Xiaomi 22041216I",
       "gpu": "Mali-G610 MC6",
