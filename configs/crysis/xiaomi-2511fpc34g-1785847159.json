@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "Crysis",
+    "config_title": "Crysis (2007)",
+    "community_image": "https://cdn2.steamgriddb.com/grid/ae1b1cff76570e181856445bca185674.png",
+    "notes": "-Stable 40-50 fps if less action scenes\n-20-30 fps during high action scene",
+    "device": {
+      "manufacturer": "Xiaomi",
+      "model": "2511FPC34G",
+      "soc": "klee",
+      "gpu": "Mali-G720 MC8",
+      "ram": "12GB",
+      "storage": "479GB"
+    },
+    "timestamp": 1785847159
+  },
+  "container": {
+    "wineVersion": "proton-10-arm64ec",
+    "graphicsDriver": "wrapper-leegao",
+    "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=;maxDeviceMemory=0;presentMode=mailbox;syncFrame=1;disablePresentWait=1;astcTranscode=1;etc2Transcode=0;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=0;gpuName=Device",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.10.3-async,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+    "audioDriver": "pulseaudio",
+    "emulator": "fexcore",
+    "box64Version": "0.4.3",
+    "box64Preset": "CUSTOM",
+    "box64PresetName": "Performance (1)",
+    "box64PresetVars": "BOX64_DYNAREC_SAFEFLAGS=0 BOX64_DYNAREC_FASTNAN=1 BOX64_DYNAREC_FASTROUND=1 BOX64_DYNAREC_X87DOUBLE=0 BOX64_DYNAREC_BIGBLOCK=3 BOX64_DYNAREC_STRONGMEM=0 BOX64_DYNAREC_FORWARD=512 BOX64_DYNAREC_CALLRET=1 BOX64_DYNAREC_WAIT=1 BOX64_AVX=0 BOX64_MAXCPU=0 BOX64_UNITYPLAYER=0 BOX64_DYNAREC_WEAKBARRIER=0 BOX64_DYNAREC_ALIGNED_ATOMICS=0 BOX64_DYNAREC_DF=1 BOX64_DYNAREC_DIRTY=0 BOX64_DYNAREC_NATIVEFLAGS=1 BOX64_DYNAREC_PAUSE=0 BOX64_MMAP32=1",
+    "fexcoreVersion": "2605",
+    "fexcorePreset": "PERFORMANCE_TSO",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "0,1,2,3,4,5,6,7",
+    "screenSize": "1280x720",
+    "wincomponents": "direct3d=0,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": false,
+    "fullscreenStretched": true,
+    "startupSelection": 1,
+    "envVars": "WRAPPER_MAX_IMAGE_COUNT=0 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=512mb mesa_glthread=true WINEESYNC=1 DXVK_HUD=fps PULSE_LATENCY_MSEC=40 WRAPPER_NO_PATCH_OPCONSTCOMP=1 MESA_GL_VERSION_OVERRIDE=4.5 WINE_STEAM_DELAY=10 DXVK_ASYNC=1"
+  },
+  "shortcut": {
+    "name": "Crysis64",
+    "path": "F:\\Crysis\\Bin64\\Crysis64.exe",
+    "extraData": {
+      "emulationMode": "GAME_CONTROLLER",
+      "simTouchScreen": "0",
+      "screenSize": "1280x720",
+      "graphicsDriver": "wrapper-leegao",
+      "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=;maxDeviceMemory=0;presentMode=mailbox;syncFrame=1;disablePresentWait=1;astcTranscode=1;etc2Transcode=0;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=0;gpuName=Device",
+      "dxwrapper": "dxvk+vkd3d",
+      "dxwrapperConfig": "version=1.10.3-async,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+      "audioDriver": "pulseaudio",
+      "emulator": "fexcore",
+      "midiSoundFont": "",
+      "lc_all": "en_US.UTF-8",
+      "wincomponents": "direct3d=0,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+      "fexcoreVersion": "2605",
+      "fexcorePreset": "PERFORMANCE_TSO",
+      "box64Preset": "CUSTOM",
+      "startupSelection": "1",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "cpuList": "0,1,2,3,4,5,6,7"
+    }
+  }
+}
