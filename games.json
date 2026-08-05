@@ -513,6 +513,15 @@
     "mali_count": 1
   },
   {
+    "id": "five_nights_at_freddy's_into_the_pit",
+    "name": "Five Nights at Freddy's: Into the Pit",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/ce160bc3e8c54db8dc6bdfa4fac75b8d.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "five_nights_at_freddy's_security_breach",
     "name": "Five Nights at Freddy's: Security Breach",
     "steam_id": null,

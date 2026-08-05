@@ -933,6 +933,18 @@
       "timestamp": 1783464024
     }
   ],
+  "five_nights_at_freddy's_into_the_pit": [
+    {
+      "filename": "samsung-sm_a356e-1785940239.json",
+      "device_model": "Samsung SM-A356E",
+      "gpu": "Mali-G68",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "",
+      "config_title": "Fnaf Into The Pit Fica A 30 Fps",
+      "timestamp": 1785940239
+    }
+  ],
   "five_nights_at_freddy's_security_breach": [
     {
       "filename": "daria-dm_b70104-1784396196.json",
