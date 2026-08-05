@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "DmC: Devil May Cry",
+    "config_title": "For Mali G720 MC7(Dimensity 8400)",
+    "community_image": "https://cdn2.steamgriddb.com/grid/3ace1262532bf6b34aead15cf7e1142f.jpg",
+    "notes": "max settings 45-60fps.",
+    "device": {
+      "manufacturer": "Xiaomi",
+      "model": "2412DPC0AG",
+      "soc": "rodin",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB"
+    },
+    "timestamp": 1785943710
+  },
+  "container": {
+    "wineVersion": "proton-10-arm64ec",
+    "graphicsDriver": "wrapper",
+    "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=;maxDeviceMemory=4096;presentMode=mailbox;syncFrame=1;disablePresentWait=1;astcTranscode=0;etc2Transcode=0;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=1;gpuName=Device",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.11.1-sarek,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=3",
+    "audioDriver": "pulseaudio",
+    "emulator": "fexcore",
+    "box64Version": "0.4.3",
+    "box64Preset": "COMPATIBILITY",
+    "fexcoreVersion": "2601",
+    "fexcorePreset": "CUSTOM",
+    "fexcorePresetName": "Performance +",
+    "fexcorePresetVars": "FEX_TSOENABLED=0 FEX_VECTORTSOENABLED=0 FEX_HALFBARRIERTSOENABLED=0 FEX_MEMCPYSETTSOENABLED=0 FEX_X87REDUCEDPRECISION=1 FEX_MULTIBLOCK=1 FEX_MAXINST=3500\n3500 FEX_HOSTFEATURES=enablesve FEX_SMALLTSCSCALE=1 FEX_SMC_CHECKS=none FEX_VOLATILEMETADATA=1 FEX_MONOHACKS=1 FEX_HIDEHYPERVISORBIT=0 FEX_DISABLEL2CACHE=0 FEX_DYNAMICL1CACHE=0",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "0,1,2,3,4,5,6,7",
+    "screenSize": "1560x720",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": true,
+    "fullscreenStretched": false,
+    "startupSelection": 2,
+    "envVars": "DXVK_HUD=devinfo,fps,gpuload,version DXVK_FRAME_RATE=0 DXVK_NUM_COMPILER_THREADS=8 DXVK_ENABLE_NVAPI=0 MESA_VK_WSI_PRESENT_MODE=mailbox"
+  },
+  "shortcut": {
+    "name": "DMC Devil May Cry",
+    "path": "C:\\DMC Devil May Cry\\Binaries\\Win32\\DMC-DevilMayCry.exe",
+    "extraData": {
+      "emulationMode": "GAME_CONTROLLER",
+      "simTouchScreen": "0",
+      "screenSize": "1600x720",
+      "graphicsDriver": "wrapper-v2",
+      "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=;maxDeviceMemory=4096;presentMode=mailbox;syncFrame=1;disablePresentWait=1;astcTranscode=1;etc2Transcode=0;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=1;gpuName=Device",
+      "dxwrapper": "dxvk+vkd3d",
+      "dxwrapperConfig": "version=1.9.4-async-0,framerate=0,async=1,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=cnc-ddraw,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+      "audioDriver": "pulseaudio",
+      "emulator": "fexcore",
+      "midiSoundFont": "",
+      "lc_all": "en_US.UTF-8",
+      "wincomponents": "direct3d=0,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+      "fexcoreVersion": "2601",
+      "fexcorePreset": "CUSTOM",
+      "box64Preset": "COMPATIBILITY",
+      "startupSelection": "2",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "fullscreenStretched": "1",
+      "envVars": "FEX_DISASM=0"
+    }
+  }
+}
