@@ -1475,6 +1475,18 @@
       "timestamp": 1784390590
     }
   ],
+  "norland_story_generating_strategy": [
+    {
+      "filename": "xiaomi-22041216g-1785906487.json",
+      "device_model": "Xiaomi 22041216G",
+      "gpu": "Mali-G610 MC6",
+      "ram": "8GB",
+      "storage": "226GB",
+      "notes": "",
+      "config_title": "Norland",
+      "timestamp": 1785906487
+    }
+  ],
   "one_piece_pirate_warriors_4": [
     {
       "filename": "anbernic-rg557-1783776222.json",
