@@ -663,6 +663,16 @@
   ],
   "dmc_devil_may_cry": [
     {
+      "filename": "xiaomi-2412dpc0ag-1785943710.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "max settings 45-60fps.",
+      "config_title": "For Mali G720 MC7(Dimensity 8400)",
+      "timestamp": 1785943710
+    },
+    {
       "filename": "motorola-motorola_edge_40-1785324241.json",
       "device_model": "Motorola motorola edge 40",
       "gpu": "Mali-G77 MC9",
