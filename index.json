@@ -1223,6 +1223,18 @@
       "timestamp": 1784770573
     }
   ],
+  "left_4_dead": [
+    {
+      "filename": "samsung-sm_a175f-1785942475.json",
+      "device_model": "Samsung SM-A175F",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "223GB",
+      "notes": "",
+      "config_title": "Left4dead",
+      "timestamp": 1785942475
+    }
+  ],
   "lego_marvel's_avengers": [
     {
       "filename": "xiaomi-2412dpc0ai-1783821379.json",

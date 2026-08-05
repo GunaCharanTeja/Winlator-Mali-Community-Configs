@@ -693,6 +693,15 @@
     "mali_count": 1
   },
   {
+    "id": "left_4_dead",
+    "name": "Left 4 Dead",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/9a5d81f34639eaa91d156df2de026527.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "lego_marvel's_avengers",
     "name": "LEGO Marvel's Avengers",
     "steam_id": null,
