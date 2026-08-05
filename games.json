@@ -1039,9 +1039,9 @@
     "name": "Resident Evil 6",
     "steam_id": null,
     "community_image": "https://cdn2.steamgriddb.com/grid/ce807175282f65b86fa22f6663128d7c.png",
-    "config_count": 2,
+    "config_count": 3,
     "adreno_count": 0,
-    "mali_count": 2
+    "mali_count": 3
   },
   {
     "id": "resident_evil_7_biohazard",

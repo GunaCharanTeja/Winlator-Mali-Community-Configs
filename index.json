@@ -1771,6 +1771,16 @@
   ],
   "resident_evil_6": [
     {
+      "filename": "xiaomi-2412dpc0ai-1785941921.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "Important: You need to have the new FEX 2608 stable version. \nFPS between 55-75 varying with rare drops to 22 in moments with many enemies and effects.",
+      "config_title": "V2",
+      "timestamp": 1785941921
+    },
+    {
       "filename": "xiaomi-2412dpc0ai-1785901205.json",
       "device_model": "Xiaomi 2412DPC0AI",
       "gpu": "Mali-G720 MC7",
