@@ -1711,6 +1711,16 @@
   ],
   "resident_evil_6": [
     {
+      "filename": "xiaomi-2412dpc0ai-1785901205.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "Maximum graphics available in 720p. \n\nFPS between 30-40 with rare drops to 25 at specific moments, but stability remains above 30 most of the time when entering the game for gameplay.\nIf you experience stuttering, go to Documents and in config.ini change the jobthread to 1, save, and enter the game to test.",
+      "config_title": "Poco X7 Pro",
+      "timestamp": 1785901205
+    },
+    {
       "filename": "tecno-tecno_ki5k-1784034406.json",
       "device_model": "Tecno TECNO KI5k",
       "gpu": "Mali-G57",
