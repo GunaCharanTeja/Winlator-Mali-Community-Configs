@@ -503,6 +503,18 @@
       "timestamp": 1784420135
     }
   ],
+  "crow_country": [
+    {
+      "filename": "samsung-sm_a346e-1785972456.json",
+      "device_model": "Samsung SM-A346E",
+      "gpu": "Mali-G68 MC4",
+      "ram": "6GB",
+      "storage": "106GB",
+      "notes": "30 to 60",
+      "config_title": "Crow Country",
+      "timestamp": 1785972456
+    }
+  ],
   "crysis": [
     {
       "filename": "xiaomi-2511fpc34g-1785847159.json",
