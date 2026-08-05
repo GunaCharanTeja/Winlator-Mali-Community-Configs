@@ -162,6 +162,15 @@
     "mali_count": 3
   },
   {
+    "id": "blasphemous_ii",
+    "name": "Blasphemous II",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/70613a1d1b7ea6c038f543ebdef7bf7f.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "borderlands_the_pre-sequel",
     "name": "Borderlands: The Pre-Sequel",
     "steam_id": null,

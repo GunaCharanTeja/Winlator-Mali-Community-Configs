@@ -325,6 +325,18 @@
       "timestamp": 1783727821
     }
   ],
+  "blasphemous_ii": [
+    {
+      "filename": "lenovo-tb373fu-1785925439.json",
+      "device_model": "Lenovo TB373FU",
+      "gpu": "Mali-G615 MC5",
+      "ram": "12GB",
+      "storage": "228GB",
+      "notes": "50-60 fps",
+      "config_title": "Blasphemous 2",
+      "timestamp": 1785925439
+    }
+  ],
   "borderlands_the_pre-sequel": [
     {
       "filename": "xiaomi-2412dpc0ag-1784214348.json",
