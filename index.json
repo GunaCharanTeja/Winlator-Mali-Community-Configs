@@ -1083,6 +1083,16 @@
   ],
   "gtavlauncher": [
     {
+      "filename": "tecno-tecno_ki7-1785888120.json",
+      "device_model": "Tecno TECNO KI7",
+      "gpu": "Mali-G52 MC2",
+      "ram": "8GB",
+      "storage": "222GB",
+      "notes": "",
+      "config_title": "GTAV Helio G88",
+      "timestamp": 1785888120
+    },
+    {
       "filename": "samsung-sm_g975f-1783880569.json",
       "device_model": "Samsung SM-G975F",
       "gpu": "Mali-G76",
