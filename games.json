@@ -648,6 +648,15 @@
     "mali_count": 1
   },
   {
+    "id": "k-1_grand_prix",
+    "name": "K-1 Grand Prix",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "katamari_damacy_reroll",
     "name": "Katamari Damacy Reroll",
     "steam_id": null,
