@@ -423,6 +423,15 @@
     "mali_count": 3
   },
   {
+    "id": "dragon_ball_sparking!_zero",
+    "name": "Dragon Ball: Sparking! Zero",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/3b5ef58c2d3b80157ed77ccb74d59b7b.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "dragon's_dogma_dark_arisen",
     "name": "Dragon's Dogma: Dark Arisen",
     "steam_id": null,

@@ -825,6 +825,18 @@
       "timestamp": 1783728635
     }
   ],
+  "dragon_ball_sparking!_zero": [
+    {
+      "filename": "vivo-v2311-1786011929.json",
+      "device_model": "Vivo V2311",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "107GB",
+      "notes": "Mali G57 MC2",
+      "config_title": "Dragon Ball Z Sparking Zero",
+      "timestamp": 1786011929
+    }
+  ],
   "easy_red_2": [
     {
       "filename": "vivo-v2310-1784777664.json",
