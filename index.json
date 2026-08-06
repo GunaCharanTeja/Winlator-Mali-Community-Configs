@@ -599,6 +599,16 @@
   ],
   "desktop_mate": [
     {
+      "filename": "tecno-tecno_cm7-1785989062.json",
+      "device_model": "Tecno TECNO CM7",
+      "gpu": "Mali-G615 MC2",
+      "ram": "8GB",
+      "storage": "224GB",
+      "notes": "Dimensity 7300 Ultra (40 to 60 FPS)",
+      "config_title": "Afterfall Insanity",
+      "timestamp": 1785989062
+    },
+    {
       "filename": "realme-rmx5377-1784968699.json",
       "device_model": "Realme RMX5377",
       "gpu": "Mali-G57",
