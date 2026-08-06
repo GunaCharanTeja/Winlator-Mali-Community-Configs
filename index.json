@@ -293,6 +293,18 @@
       "timestamp": 1783794813
     }
   ],
+  "ben_10": [
+    {
+      "filename": "samsung-sm_a346e-1785984101.json",
+      "device_model": "Samsung SM-A346E",
+      "gpu": "Mali-G68 MC4",
+      "ram": "6GB",
+      "storage": "106GB",
+      "notes": "the game is playable but u need 8 gb of ram mandatory for me it crashes on 6gb also if u encounter graphic glitches like ben 10 not showing up and missing alien texture change from dx11 to dx9",
+      "config_title": "Ben 10 2017",
+      "timestamp": 1785984101
+    }
+  ],
   "biohazard_re2_z_version": [
     {
       "filename": "xiaomi-2412dpc0ag-1784000560.json",

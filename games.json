@@ -153,6 +153,15 @@
     "mali_count": 1
   },
   {
+    "id": "ben_10",
+    "name": "Ben 10",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "biohazard_re2_z_version",
     "name": "BIOHAZARD RE:2 Z Version",
     "steam_id": null,
