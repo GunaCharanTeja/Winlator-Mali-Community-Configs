@@ -599,6 +599,16 @@
   ],
   "desktop_mate": [
     {
+      "filename": "unknown-gammaos_full-1786018555.json",
+      "device_model": "Unknown GammaOS Full",
+      "gpu": "Mali-G57",
+      "ram": "8GB",
+      "storage": "112GB",
+      "notes": "Run with 800 x 600 resolution.\n\nDevice : RG406H",
+      "config_title": "Peggle",
+      "timestamp": 1786018555
+    },
+    {
       "filename": "tecno-tecno_cm7-1785989062.json",
       "device_model": "Tecno TECNO CM7",
       "gpu": "Mali-G615 MC2",
