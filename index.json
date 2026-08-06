@@ -421,6 +421,18 @@
       "timestamp": 1784461018
     }
   ],
+  "call_of_duty_modern_warfare": [
+    {
+      "filename": "itel-itel_s665l-1786040478.json",
+      "device_model": "Itel itel S665L",
+      "gpu": "Mali-G57",
+      "ram": "4GB",
+      "storage": "114GB",
+      "notes": "Codmw4 original for G57(single core)",
+      "config_title": "CODMW container",
+      "timestamp": 1786040478
+    }
+  ],
   "castle_crashers": [
     {
       "filename": "samsung-sm_a176b-1784386375.json",

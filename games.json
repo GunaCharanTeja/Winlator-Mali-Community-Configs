@@ -234,6 +234,15 @@
     "mali_count": 1
   },
   {
+    "id": "call_of_duty_modern_warfare",
+    "name": "Call of Duty: Modern Warfare",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/d8c2f253fdee98128b088174b9acbc4c.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "castle_crashers",
     "name": "Castle Crashers",
     "steam_id": null,
