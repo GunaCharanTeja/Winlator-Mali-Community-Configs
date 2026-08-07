@@ -1787,6 +1787,18 @@
       "timestamp": 1783931834
     }
   ],
+  "pop": [
+    {
+      "filename": "itel-itel_s666ln-1786136522.json",
+      "device_model": "Itel itel S666LN",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "109GB",
+      "notes": "for helio g99\n60 fps",
+      "config_title": "Prince of persia: The Sands of time",
+      "timestamp": 1786136522
+    }
+  ],
   "portal": [
     {
       "filename": "samsung-sm_a176b-1784386448.json",
