@@ -1799,6 +1799,18 @@
       "timestamp": 1784386448
     }
   ],
+  "prince_of_persia": [
+    {
+      "filename": "xiaomi-2412dpc0ai-1786129483.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "test on Poco X7 Pro \n720p resolution, high graphics settings, high-resolution textures enabled, anti-aliasing off.\n\nGame running above 90 FPS on unlocked FPS. \nNo buggy or broken graphics (except for the first scene where it will be flickering and choppy, but everything stabilizes and normalizes when you get into the gameplay). \n\nThe game was downloaded via Steam rip, and in addition to installing the container components, it also installed the VCredist and DirectX folders inside the game's executable. For some reason, the launcher only opens after this procedure.\nTo adjust the resolution, enable widescreen, and change the language. \n\nFor now, this will only work for those who have a keyboard/mouse setup because the controller conflicts with it, and I haven't been able to resolve the issue since the controller mapping programs I downloaded won't open.",
+      "config_title": "Dimensity 8400U",
+      "timestamp": 1786129483
+    }
+  ],
   "profootball_(pes_2013_mod)": [
     {
       "filename": "xiaomi-2412dpc0ai-1784582497.json",
