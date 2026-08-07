@@ -1053,6 +1053,15 @@
     "mali_count": 1
   },
   {
+    "id": "prince_of_persia_the_sands_of_time",
+    "name": "Prince of Persia: The Sands of Time",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/f08daf7f5a71270a0e2b159adf63844a.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "profootball_(pes_2013_mod)",
     "name": "ProFootball (PES 2013 Mod)",
     "steam_id": null,
