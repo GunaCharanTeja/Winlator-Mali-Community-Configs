@@ -666,6 +666,15 @@
     "mali_count": 2
   },
   {
+    "id": "guilty_gear_xrd_rev_2",
+    "name": "GUILTY GEAR Xrd REV 2",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/08aa73fecc22b81363a348a672498209.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "half-life_2",
     "name": "Half-Life 2",
     "steam_id": null,
@@ -729,10 +738,28 @@
     "mali_count": 1
   },
   {
+    "id": "katana_zero",
+    "name": "Katana ZERO",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/df968d10e33432f7abc848a8b963a3c4.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "left_4_dead",
     "name": "Left 4 Dead",
     "steam_id": null,
     "community_image": "https://cdn2.steamgriddb.com/grid/9a5d81f34639eaa91d156df2de026527.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
+    "id": "lego_marvel_super_heroes",
+    "name": "LEGO Marvel Super Heroes",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/803fdbffce638b1017a94baa885fa062.png",
     "config_count": 1,
     "adreno_count": 0,
     "mali_count": 1

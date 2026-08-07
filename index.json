@@ -1217,6 +1217,18 @@
       "timestamp": 1783880569
     }
   ],
+  "guilty_gear_xrd_rev_2": [
+    {
+      "filename": "xiaomi-2311drk48i-1786050447.json",
+      "device_model": "Xiaomi 2311DRK48I",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "60 fps, High settings. don't change anything in preset, it is optimised for best performance already.",
+      "config_title": "Dimensity 8300 8gb",
+      "timestamp": 1786050447
+    }
+  ],
   "half-life_2": [
     {
       "filename": "motorola-motorola_edge_60_pro-1783606441.json",
@@ -1311,6 +1323,18 @@
       "timestamp": 1784770573
     }
   ],
+  "katana_zero": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1786042614.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "The game runs between 60 and 90 frames per second, and you can use a frame rate booster to reach 120 frames per second without any problem. It is recommended not to change the settings.",
+      "config_title": "Poco X7 Pro (8GB RAM)- MediaTek Dimensity 8400-Ultra Processor",
+      "timestamp": 1786042614
+    }
+  ],
   "left_4_dead": [
     {
       "filename": "samsung-sm_a175f-1785942475.json",
@@ -1333,6 +1357,18 @@
       "notes": "60 fps,720p, high settings",
       "config_title": "Dimensity 8400 Ultra",
       "timestamp": 1783821379
+    }
+  ],
+  "lego_marvel_super_heroes": [
+    {
+      "filename": "samsung-sm_a346e-1786066296.json",
+      "device_model": "Samsung SM-A346E",
+      "gpu": "Mali-G68 MC4",
+      "ram": "6GB",
+      "storage": "106GB",
+      "notes": "25 to 50 \nuhhh it can crash randomly but rarely i recommend using tso on",
+      "config_title": "Lego Marvel Super Heroes 1",
+      "timestamp": 1786066296
     }
   ],
   "lok_digital": [
