@@ -1053,6 +1053,15 @@
     "mali_count": 1
   },
   {
+    "id": "postal_2",
+    "name": "Postal 2",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/aa8bdfd210436f9c9c81898b56cbf76b.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "prince_of_persia",
     "name": "Prince of Persia",
     "steam_id": null,

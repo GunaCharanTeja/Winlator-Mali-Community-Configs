@@ -1833,6 +1833,18 @@
       "timestamp": 1784386448
     }
   ],
+  "postal_2": [
+    {
+      "filename": "realme-rmx3741-1786208448.json",
+      "device_model": "Realme RMX3741",
+      "gpu": "Mali-G68 MC4",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "",
+      "config_title": "Mail G68 Mc4",
+      "timestamp": 1786208448
+    }
+  ],
   "prince_of_persia": [
     {
       "filename": "xiaomi-2412dpc0ai-1786129483.json",
