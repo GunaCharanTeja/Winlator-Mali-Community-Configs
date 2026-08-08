@@ -525,6 +525,18 @@
       "timestamp": 1785364333
     }
   ],
+  "condemned_criminal_origins": [
+    {
+      "filename": "xiaomi-2412dpc0ai-1786152758.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "Tested at 720p resolution and unlocked FPS, achieving 72 FPS with maximum settings. \n\nThe game has a resolution locked at 800x600 naturally; this is resolved by downloading the widescreen fix mod from ThirteenAG on your Github page \n\nDownload the widescreen fix and the Steam missing files fix that he provides along with it. \n\nIt provides installation instructions and how to manually configure the gamepad in the game to play with it if you prefer.",
+      "config_title": "Dimensity 8400U",
+      "timestamp": 1786152758
+    }
+  ],
   "counter-strike": [
     {
       "filename": "realme-rmx5377-1784382475.json",

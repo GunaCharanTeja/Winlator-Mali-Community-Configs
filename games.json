@@ -297,6 +297,15 @@
     "mali_count": 1
   },
   {
+    "id": "condemned_criminal_origins",
+    "name": "Condemned: Criminal Origins",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/11fb95ff05cc28bb107e4a920c60b6cf.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "counter-strike",
     "name": "Counter-Strike",
     "steam_id": null,
