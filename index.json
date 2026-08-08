@@ -1485,6 +1485,18 @@
       "timestamp": 1785469910
     }
   ],
+  "metal_gear_rising_revengeance": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1786226713.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "I tried it in Poco x7 pro it runs 40 fps with resolution 800x600 Fullscreen",
+      "config_title": "Mgs Rising Poco X7 Pro",
+      "timestamp": 1786226713
+    }
+  ],
   "miside": [
     {
       "filename": "tecno-tecno_ki5k-1785364242.json",

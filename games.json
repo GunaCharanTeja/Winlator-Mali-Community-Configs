@@ -837,6 +837,15 @@
     "mali_count": 1
   },
   {
+    "id": "metal_gear_rising_revengeance",
+    "name": "Metal Gear Rising: Revengeance",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/7f8d89e94683d6899314ca17fca35c6f.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "miside",
     "name": "MiSide",
     "steam_id": null,
