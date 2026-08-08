@@ -459,6 +459,15 @@
     "mali_count": 1
   },
   {
+    "id": "dragon_ball_xenoverse",
+    "name": "Dragon Ball: Xenoverse",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/2891c881542c97c29a01865fd41fbe09.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "dragon's_dogma_dark_arisen",
     "name": "Dragon's Dogma: Dark Arisen",
     "steam_id": null,

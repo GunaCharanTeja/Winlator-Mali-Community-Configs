@@ -893,6 +893,18 @@
       "timestamp": 1786011929
     }
   ],
+  "dragon_ball_xenoverse": [
+    {
+      "filename": "realme-rmx3741-1786208476.json",
+      "device_model": "Realme RMX3741",
+      "gpu": "Mali-G68 MC4",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "",
+      "config_title": "Mail G68 Mc4",
+      "timestamp": 1786208476
+    }
+  ],
   "easy_red_2": [
     {
       "filename": "vivo-v2310-1784777664.json",
