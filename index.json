@@ -315,6 +315,18 @@
       "timestamp": 1785984101
     }
   ],
+  "bfbc2game": [
+    {
+      "filename": "samsung-sm_a566e-1786317642.json",
+      "device_model": "Samsung SM-A566E",
+      "gpu": "Samsung Xclipse 540",
+      "ram": "8GB",
+      "storage": "104GB",
+      "notes": "samsung exynos",
+      "config_title": "Battlefield Bad Company 2",
+      "timestamp": 1786317642
+    }
+  ],
   "biohazard_re2_z_version": [
     {
       "filename": "xiaomi-2412dpc0ag-1784000560.json",

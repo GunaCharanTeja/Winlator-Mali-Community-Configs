@@ -162,6 +162,15 @@
     "mali_count": 1
   },
   {
+    "id": "bfbc2game",
+    "name": "BFBC2Game",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 0
+  },
+  {
     "id": "biohazard_re2_z_version",
     "name": "BIOHAZARD RE:2 Z Version",
     "steam_id": null,
