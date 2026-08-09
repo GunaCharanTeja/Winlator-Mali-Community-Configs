@@ -2001,6 +2001,16 @@
   ],
   "resident_evil_5": [
     {
+      "filename": "tecno-tecno_lh7n-1786286236.json",
+      "device_model": "Tecno TECNO LH7n",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "229GB",
+      "notes": "perfecto para procesadores con helio g99",
+      "config_title": "Resident Evil 5",
+      "timestamp": 1786286236
+    },
+    {
       "filename": "samsung-sm_m336bu-1784341109.json",
       "device_model": "Samsung SM-M336BU",
       "gpu": "Mali-G68",
