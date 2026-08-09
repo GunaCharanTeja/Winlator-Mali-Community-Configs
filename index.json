@@ -2381,6 +2381,18 @@
       "timestamp": 1783879862
     }
   ],
+  "the_sims_4": [
+    {
+      "filename": "xiaomi-24117rn76g-1786288500.json",
+      "device_model": "Xiaomi 24117RN76G",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "229GB",
+      "notes": "",
+      "config_title": "The Sims 4",
+      "timestamp": 1786288500
+    }
+  ],
   "the_witcher_2_assassins_of_kings_enhanced_edition": [
     {
       "filename": "xiaomi-2511fpc34g-1785027046.json",
