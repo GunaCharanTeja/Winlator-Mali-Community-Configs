@@ -567,6 +567,15 @@
     "mali_count": 1
   },
   {
+    "id": "far_cry_2",
+    "name": "Far Cry 2",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/6d2373d957ae60de2c1dc6f555c8d5bd.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "fear",
     "name": "FEAR",
     "steam_id": null,

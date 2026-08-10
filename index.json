@@ -1045,6 +1045,18 @@
       "timestamp": 1785501292
     }
   ],
+  "far_cry_2": [
+    {
+      "filename": "itel-itel_s665l-1786374529.json",
+      "device_model": "Itel itel S665L",
+      "gpu": "Mali-G57",
+      "ram": "4GB",
+      "storage": "114GB",
+      "notes": "Farcry 2 Cfg for MaliG57 (MP1) recommended to set the graphics to LOW but leave the geometry to HIGH because of graphical issue that shows brown fog covering the landscape, playable",
+      "config_title": "Far Cry 2",
+      "timestamp": 1786374529
+    }
+  ],
   "fear": [
     {
       "filename": "xiaomi-2412dpc0ai-1784228750.json",
