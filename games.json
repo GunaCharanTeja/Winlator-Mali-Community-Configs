@@ -18,6 +18,15 @@
     "mali_count": 1
   },
   {
+    "id": "aliens_vs._predator",
+    "name": "Aliens vs. Predator",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/f4b9ec30ad9f68f89b29639786cb62ef.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "assassin's_creed",
     "name": "Assassin's Creed",
     "steam_id": null,
