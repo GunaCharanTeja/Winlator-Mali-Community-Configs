@@ -2544,5 +2544,17 @@
       "config_title": "Poco X7 Pro",
       "timestamp": 1784648322
     }
+  ],
+  "zero_hour": [
+    {
+      "filename": "tecno-tecno_cl8-1786356862.json",
+      "device_model": "Tecno TECNO CL8",
+      "gpu": "Mali-G610 MC6",
+      "ram": "12GB",
+      "storage": "227GB",
+      "notes": "10 fps",
+      "config_title": "zero hour",
+      "timestamp": 1786356862
+    }
   ]
 }
