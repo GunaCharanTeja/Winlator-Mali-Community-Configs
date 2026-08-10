@@ -2619,6 +2619,16 @@
   ],
   "zero_hour": [
     {
+      "filename": "tecno-tecno_cl8-1786391433.json",
+      "device_model": "Tecno TECNO CL8",
+      "gpu": "Mali-G610 MC6",
+      "ram": "12GB",
+      "storage": "227GB",
+      "notes": "20 fps",
+      "config_title": "ZERO HOUR",
+      "timestamp": 1786391433
+    },
+    {
       "filename": "tecno-tecno_cl8-1786361368.json",
       "device_model": "Tecno TECNO CL8",
       "gpu": "Mali-G610 MC6",
