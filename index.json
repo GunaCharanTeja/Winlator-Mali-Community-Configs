@@ -1129,6 +1129,18 @@
       "timestamp": 1783803340
     }
   ],
+  "glaive": [
+    {
+      "filename": "infinix-infinix_x6876-1786370673.json",
+      "device_model": "Infinix Infinix X6876",
+      "gpu": "Mali-G615 MC2",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "Stable 30fps On Lowest Graphics Preset",
+      "config_title": "Mali G615 MC2",
+      "timestamp": 1786370673
+    }
+  ],
   "god_of_war": [
     {
       "filename": "daria-dm_b70104-1784109596.json",
