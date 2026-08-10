@@ -1497,6 +1497,18 @@
       "timestamp": 1784979075
     }
   ],
+  "manhunt": [
+    {
+      "filename": "tecno-tecno_cl8-1786356908.json",
+      "device_model": "Tecno TECNO CL8",
+      "gpu": "Mali-G610 MC6",
+      "ram": "12GB",
+      "storage": "227GB",
+      "notes": "60 fps",
+      "config_title": "manhunt 1",
+      "timestamp": 1786356908
+    }
+  ],
   "megabonk": [
     {
       "filename": "xiaomi-2311drk48g-1785469910.json",
