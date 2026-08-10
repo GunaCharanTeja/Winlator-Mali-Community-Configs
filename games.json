@@ -1431,6 +1431,15 @@
     "mali_count": 1
   },
   {
+    "id": "street_fighter_x_tekken",
+    "name": "Street Fighter X Tekken",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/45cfc4f57a94ba627fd90305c7e90f5b.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "tekken_7",
     "name": "Tekken 7",
     "steam_id": null,

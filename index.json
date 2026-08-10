@@ -2417,6 +2417,18 @@
       "timestamp": 1784849761
     }
   ],
+  "street_fighter_x_tekken": [
+    {
+      "filename": "itel-itel_s665l-1786374419.json",
+      "device_model": "Itel itel S665L",
+      "gpu": "Mali-G57",
+      "ram": "4GB",
+      "storage": "114GB",
+      "notes": "SFTK Config for MaliG57 working though may be slow because of gpu limitation but very playable",
+      "config_title": "Street fighter X Tekken",
+      "timestamp": 1786374419
+    }
+  ],
   "tekken_7": [
     {
       "filename": "xiaomi-23090ra98c-1784345840.json",
