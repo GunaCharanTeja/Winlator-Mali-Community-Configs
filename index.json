@@ -1021,6 +1021,18 @@
       "timestamp": 1785358532
     }
   ],
+  "fallout_3_game_of_the_year_edition": [
+    {
+      "filename": "itel-itel_s665l-1786374342.json",
+      "device_model": "Itel itel S665L",
+      "gpu": "Mali-G57",
+      "ram": "4GB",
+      "storage": "114GB",
+      "notes": "Container for F03 Goty to work for mali G57 with (MP1)\nWorking set up, just remember to edit the registry if your game are pre-installed",
+      "config_title": "Fallout 3:GOTY",
+      "timestamp": 1786374342
+    }
+  ],
   "fallout_new_vegas": [
     {
       "filename": "samsung-sm_a156m-1785501292.json",
