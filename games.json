@@ -742,9 +742,9 @@
     "name": "GTA5",
     "steam_id": null,
     "community_image": null,
-    "config_count": 2,
+    "config_count": 3,
     "adreno_count": 0,
-    "mali_count": 1
+    "mali_count": 2
   },
   {
     "id": "gtavlauncher",

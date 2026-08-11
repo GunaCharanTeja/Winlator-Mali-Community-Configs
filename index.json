@@ -1283,6 +1283,16 @@
   ],
   "gta5": [
     {
+      "filename": "motorola-motorola_edge_60_fusion-1786455106.json",
+      "device_model": "Motorola motorola edge 60 fusion",
+      "gpu": "Mali-G615 MC2",
+      "ram": "8GB",
+      "storage": "223GB",
+      "notes": "GTA 5 config for mali g615 mc2 by DrK\n(device: moto edge 60 fusion)",
+      "config_title": "GTA 5 DrK",
+      "timestamp": 1786455106
+    },
+    {
       "filename": "samsung-sm_a556e-1785553216.json",
       "device_model": "Samsung SM-A556E",
       "gpu": "Samsung Xclipse 530",
