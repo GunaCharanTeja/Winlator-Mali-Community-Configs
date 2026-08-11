@@ -1489,9 +1489,9 @@
     "name": "Tekken 7",
     "steam_id": null,
     "community_image": "https://cdn2.steamgriddb.com/grid/935f13c316d6c885f59b2cc26bde10c3.png",
-    "config_count": 1,
+    "config_count": 2,
     "adreno_count": 0,
-    "mali_count": 1
+    "mali_count": 2
   },
   {
     "id": "the_darkness_ii",
