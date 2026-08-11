@@ -455,6 +455,18 @@
       "timestamp": 1784461018
     }
   ],
+  "call_of_duty_black_ops": [
+    {
+      "filename": "samsung-sm_x230-1786480580.json",
+      "device_model": "Samsung SM-X230",
+      "gpu": "Mali-G615 MC2",
+      "ram": "6GB",
+      "storage": "104GB",
+      "notes": "40 to 90 fps low 720p,60 to 120 fps on 600p high.",
+      "config_title": "Call Of Duty: Black ops",
+      "timestamp": 1786480580
+    }
+  ],
   "call_of_duty_modern_warfare": [
     {
       "filename": "itel-itel_s665l-1786040478.json",
