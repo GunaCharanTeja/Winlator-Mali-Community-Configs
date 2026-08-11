@@ -1293,6 +1293,16 @@
   ],
   "gta5": [
     {
+      "filename": "motorola-motorola_edge_60_fusion-1786479192.json",
+      "device_model": "Motorola motorola edge 60 fusion",
+      "gpu": "Mali-G615 MC2",
+      "ram": "8GB",
+      "storage": "223GB",
+      "notes": "mali g615 mc2",
+      "config_title": "GTA 5 refined DrK",
+      "timestamp": 1786479192
+    },
+    {
       "filename": "motorola-motorola_edge_60_fusion-1786455106.json",
       "device_model": "Motorola motorola edge 60 fusion",
       "gpu": "Mali-G615 MC2",
