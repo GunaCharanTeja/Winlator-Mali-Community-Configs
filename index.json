@@ -765,6 +765,16 @@
   ],
   "devil_may_cry_5": [
     {
+      "filename": "xiaomi-2412dpc0ag-1786531492.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "50+fps",
+      "config_title": "Dmc5",
+      "timestamp": 1786531492
+    },
+    {
       "filename": "google-pixel_9-1783684359.json",
       "device_model": "Google Pixel 9",
       "gpu": "Mali-G715",
