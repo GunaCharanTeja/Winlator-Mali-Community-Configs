@@ -657,6 +657,16 @@
   ],
   "darksiders_ii_deathinitive_edition": [
     {
+      "filename": "xiaomi-2412dpc0ag-1786546059.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "40-60 FPS But The Game Took Loading To Much, Maybe You Should Try Darksiders 2 without Deathinitive Edition With Same Settings",
+      "config_title": "D8400U or Less Is Fine",
+      "timestamp": 1786546059
+    },
+    {
       "filename": "xiaomi-2412dpc0ag-1786531443.json",
       "device_model": "Xiaomi 2412DPC0AG",
       "gpu": "Mali-G720 MC7",
