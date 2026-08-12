@@ -387,6 +387,15 @@
     "mali_count": 2
   },
   {
+    "id": "darksiders_ii_deathinitive_edition",
+    "name": "Darksiders II Deathinitive Edition",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/6ac7cb7d2913d4e39373cc873360c576.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "dead_space_3",
     "name": "Dead Space 3",
     "steam_id": null,

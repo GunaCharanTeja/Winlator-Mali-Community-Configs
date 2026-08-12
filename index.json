@@ -655,6 +655,18 @@
       "timestamp": 1783632123
     }
   ],
+  "darksiders_ii_deathinitive_edition": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1786531443.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "40+fps",
+      "config_title": "Darksiders 2 DE",
+      "timestamp": 1786531443
+    }
+  ],
   "dead_space_3": [
     {
       "filename": "xiaomi-2412dpc0ag-1784953992.json",
