@@ -655,6 +655,18 @@
       "timestamp": 1783632123
     }
   ],
+  "dark_souls_iii": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1786548690.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "Whether at the lowest or maximum settings, the fps will still be 30 fps or drop in certain places, what I feel is that it is playable because I have finished it with all the DLC.",
+      "config_title": "D8400U or less Is Fine",
+      "timestamp": 1786548690
+    }
+  ],
   "darksiders_ii_deathinitive_edition": [
     {
       "filename": "xiaomi-2412dpc0ag-1786546059.json",
