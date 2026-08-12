@@ -2790,5 +2790,17 @@
       "config_title": "zero hour",
       "timestamp": 1786356862
     }
+  ],
+  "‎‎‎‎‎‎": [
+    {
+      "filename": "samsung-sm_x230-1786554453.json",
+      "device_model": "Samsung SM-X230",
+      "gpu": "Mali-G615 MC2",
+      "ram": "6GB",
+      "storage": "104GB",
+      "notes": "mandatory resolution is 800x600 or above",
+      "config_title": "NFSMW2012",
+      "timestamp": 1786554453
+    }
   ]
 }
