@@ -765,6 +765,16 @@
   ],
   "devil_may_cry_5": [
     {
+      "filename": "xiaomi-2412dpc0ag-1786545482.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "Notes: Go lowest settings and you Will get 50-60 fps gameplay even with 720P on Dimensity 8400U",
+      "config_title": "D8400U or Less Is fine",
+      "timestamp": 1786545482
+    },
+    {
       "filename": "xiaomi-2412dpc0ag-1786531492.json",
       "device_model": "Xiaomi 2412DPC0AG",
       "gpu": "Mali-G720 MC7",
