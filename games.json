@@ -1359,6 +1359,15 @@
     "mali_count": 1
   },
   {
+    "id": "scania_truck_driving_simulator",
+    "name": "Scania Truck Driving Simulator",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "scorn",
     "name": "Scorn",
     "steam_id": null,

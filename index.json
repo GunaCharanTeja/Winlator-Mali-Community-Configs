@@ -2371,6 +2371,18 @@
       "timestamp": 1784570598
     }
   ],
+  "scania_truck_driving_simulator": [
+    {
+      "filename": "xiaomi-2412dpc0ai-1786651573.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "varied graphics settings between high/low \nFPS between 45-55 FPS \nwithout stutters or drastic drops \nThe game has gamepad support, but it's not natively implemented; it requires detailed configuration. \nTherefore, the game is only viable for those who have a keyboard and mouse or prefer to configure on-screen buttons for touchscreen use.",
+      "config_title": "D8400U",
+      "timestamp": 1786651573
+    }
+  ],
   "scorn": [
     {
       "filename": "xiaomi-2412dpc0ag-1784259948.json",
