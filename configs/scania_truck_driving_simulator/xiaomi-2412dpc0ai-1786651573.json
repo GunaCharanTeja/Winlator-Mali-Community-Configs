@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "Scania Truck Driving Simulator",
+    "config_title": "D8400U",
+    "notes": "varied graphics settings between high/low \nFPS between 45-55 FPS \nwithout stutters or drastic drops \nThe game has gamepad support, but it's not natively implemented; it requires detailed configuration. \nTherefore, the game is only viable for those who have a keyboard and mouse or prefer to configure on-screen buttons for touchscreen use.",
+    "device": {
+      "manufacturer": "Xiaomi",
+      "model": "2412DPC0AI",
+      "soc": "rodin",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB"
+    },
+    "timestamp": 1786651573
+  },
+  "container": {
+    "wineVersion": "proton-10-arm64ec",
+    "graphicsDriver": "wrapper",
+    "graphicsDriverConfig": "gpuName=Device;presentMode=mailbox;blacklistedExtensions=;syncFrame=0;vulkanVersion=1.3;version=System;bcnEmulation=auto;maxDeviceMemory=0;bcnEmulationType=compute;bcnEmulationCache=0;disablePresentWait=0;astcTranscode=1;etc2Transcode=0;resourceType=auto",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.7.3-async,framerate=0,async=1,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=4096,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+    "audioDriver": "pulseaudio",
+    "emulator": "fexcore",
+    "box64Version": "0.4.3",
+    "box64Preset": "CUSTOM",
+    "box64PresetName": "Performance (1)",
+    "box64PresetVars": "BOX64_DYNAREC_SAFEFLAGS=1 BOX64_DYNAREC_FASTNAN=1 BOX64_DYNAREC_FASTROUND=1 BOX64_DYNAREC_X87DOUBLE=0 BOX64_DYNAREC_BIGBLOCK=3 BOX64_DYNAREC_STRONGMEM=0 BOX64_DYNAREC_FORWARD=512 BOX64_DYNAREC_CALLRET=1 BOX64_DYNAREC_WAIT=1 BOX64_AVX=0 BOX64_UNITYPLAYER=0 BOX64_MMAP32=1",
+    "fexcoreVersion": "2608-0",
+    "fexcorePreset": "CUSTOM",
+    "fexcorePresetName": "Performance (1)",
+    "fexcorePresetVars": "FEX_TSOENABLED=0 FEX_VECTORTSOENABLED=0 FEX_MEMCPYSETTSOENABLED=0 FEX_HALFBARRIERTSOENABLED=0 FEX_X87REDUCEDPRECISION=1 FEX_MULTIBLOCK=1",
+    "cpuList": "4,5,6,7",
+    "cpuListWoW64": "4,5,6,7",
+    "screenSize": "1280x720",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": true,
+    "fullscreenStretched": false,
+    "startupSelection": 1
+  },
+  "shortcut": {
+    "name": "Scania Truck Driving Simulator",
+    "path": "D:\\PC\\Scania-Truck-Driving-Simulator\\Scania.Truck Driving Simulator.v 1.5.0\\bin\\win_x86\\scania_truck_driving_simulator.exe",
+    "extraData": {}
+  }
+}
