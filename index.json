@@ -2801,6 +2801,18 @@
       "timestamp": 1786356862
     }
   ],
+  "zombie_army_trilogy": [
+    {
+      "filename": "xiaomi-2412dpc0ai-1786580344.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "Running at 40-45 FPS in 720p, textures on high and anti-aliasing on high, everything else on medium, and effects turned off. \nIn larger hordes and with explosions, the frame rate drops to 30 FPS.",
+      "config_title": "Dimensity 8400U",
+      "timestamp": 1786580344
+    }
+  ],
   "‎‎‎‎‎‎": [
     {
       "filename": "samsung-sm_x230-1786554453.json",
