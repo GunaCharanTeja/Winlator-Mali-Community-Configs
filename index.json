@@ -679,6 +679,16 @@
   ],
   "dark_souls_ii": [
     {
+      "filename": "xiaomi-2412dpc0ag-1786636582.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "I think this is the best setting for dark souls 2 so far that I've tried, less stuttering and the good thing is that if you use the bearer of the curse edition mod you can still get 40-60 fps with 720p-1080p resolution",
+      "config_title": "Dimensity 8400 or Less Is Fine",
+      "timestamp": 1786636582
+    },
+    {
       "filename": "xiaomi-2412dpc0ag-1786611329.json",
       "device_model": "Xiaomi 2412DPC0AG",
       "gpu": "Mali-G720 MC7",
