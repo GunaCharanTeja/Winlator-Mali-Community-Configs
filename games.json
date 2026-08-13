@@ -256,9 +256,9 @@
     "name": "Call of Duty: Black Ops",
     "steam_id": null,
     "community_image": "https://cdn2.steamgriddb.com/grid/634ae52bcbcc0f54ef3ccbdb211b1d00.png",
-    "config_count": 1,
+    "config_count": 2,
     "adreno_count": 0,
-    "mali_count": 1
+    "mali_count": 2
   },
   {
     "id": "call_of_duty_modern_warfare",
