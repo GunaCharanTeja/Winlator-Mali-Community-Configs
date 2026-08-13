@@ -1467,6 +1467,16 @@
   ],
   "half-life_2": [
     {
+      "filename": "xiaomi-2412dpc0ai-1786580429.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "50 FPS in 720p\nMove it to drive C to avoid lengthy loading times.",
+      "config_title": "Poco X7 Pro",
+      "timestamp": 1786580429
+    },
+    {
       "filename": "motorola-motorola_edge_60_pro-1783606441.json",
       "device_model": "Motorola motorola edge 60 pro",
       "gpu": "Mali-G615 MC6",
