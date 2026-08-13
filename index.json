@@ -863,6 +863,16 @@
   ],
   "devil_may_cry_hd_collection": [
     {
+      "filename": "samsung-sm_x230-1786661472.json",
+      "device_model": "Samsung SM-X230",
+      "gpu": "Mali-G615 MC2",
+      "ram": "6GB",
+      "storage": "104GB",
+      "notes": "all games work fine 60 fps rock hard",
+      "config_title": "Devil May Cry HD Collection",
+      "timestamp": 1786661472
+    },
+    {
       "filename": "samsung-sm_a155m-1785068109.json",
       "device_model": "Samsung SM-A155M",
       "gpu": "Mali-G57 MC2",
