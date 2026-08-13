@@ -2743,6 +2743,18 @@
       "timestamp": 1783728895
     }
   ],
+  "tpp_main_win64": [
+    {
+      "filename": "xiaomi-2511fpc34g-1786608127.json",
+      "device_model": "Xiaomi 2511FPC34G",
+      "gpu": "Mali-G720 MC8",
+      "ram": "8GB",
+      "storage": "479GB",
+      "notes": "steamless version",
+      "config_title": "Metal Gear Solid V Phantom Pain",
+      "timestamp": 1786608127
+    }
+  ],
   "ultra_street_fighter_iv": [
     {
       "filename": "tecno-tecno_ki5k-1784678724.json",
