@@ -677,6 +677,18 @@
       "timestamp": 1783632123
     }
   ],
+  "dark_souls_ii": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1786611329.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "60fps",
+      "config_title": "Dimensi 8400 or Less Is Fine",
+      "timestamp": 1786611329
+    }
+  ],
   "dark_souls_iii": [
     {
       "filename": "xiaomi-2412dpc0ag-1786548690.json",
