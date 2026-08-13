@@ -1134,6 +1134,15 @@
     "mali_count": 1
   },
   {
+    "id": "outlast",
+    "name": "Outlast",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/2f5c144531b316a819f61e78392e3d6d.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "papers,_please",
     "name": "Papers, Please",
     "steam_id": null,

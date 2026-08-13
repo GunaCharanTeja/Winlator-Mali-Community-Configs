@@ -2011,6 +2011,18 @@
       "timestamp": 1784661135
     }
   ],
+  "outlast": [
+    {
+      "filename": "realme-rmx3741-1786639619.json",
+      "device_model": "Realme RMX3741",
+      "gpu": "Mali-G68 MC4",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "",
+      "config_title": "30,40 Fps",
+      "timestamp": 1786639619
+    }
+  ],
   "papers,_please": [
     {
       "filename": "samsung-sm_a750gn-1785062712.json",
