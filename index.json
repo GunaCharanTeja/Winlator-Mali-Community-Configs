@@ -643,6 +643,18 @@
       "timestamp": 1783910459
     }
   ],
+  "crysis_warhead": [
+    {
+      "filename": "xiaomi-2511fpc34g-1786596050.json",
+      "device_model": "Xiaomi 2511FPC34G",
+      "gpu": "Mali-G720 MC8",
+      "ram": "12GB",
+      "storage": "479GB",
+      "notes": "-40-60fps running depends on the scenario\n-set the game setting to mainstream for better fps\n-tested on Poco x8 Pro 12/512gb",
+      "config_title": "Crysis Warhead",
+      "timestamp": 1786596050
+    }
+  ],
   "cuphead": [
     {
       "filename": "vivo-v2446-1785528777.json",

@@ -378,6 +378,15 @@
     "mali_count": 1
   },
   {
+    "id": "crysis_warhead",
+    "name": "Crysis Warhead",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/74cc43e4c4a46ba4a7d93aa0d9791061.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "cuphead",
     "name": "Cuphead",
     "steam_id": null,
