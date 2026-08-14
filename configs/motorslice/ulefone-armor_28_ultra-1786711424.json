@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "MOTORSLICE",
+    "config_title": "pro",
+    "notes": "30 40 fps dim 9300+",
+    "device": {
+      "manufacturer": "Ulefone",
+      "model": "Armor 28 Ultra",
+      "soc": "Armor_28_Ultra",
+      "gpu": "Mali-G720-Immortalis MC12",
+      "ram": "16GB",
+      "storage": "943GB"
+    },
+    "timestamp": 1786711424
+  },
+  "container": {
+    "wineVersion": "proton-10-arm64ec",
+    "graphicsDriver": "wrapper-leegao",
+    "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=;maxDeviceMemory=16384;presentMode=mailbox;syncFrame=0;disablePresentWait=0;astcTranscode=0;etc2Transcode=1;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=0;gpuName=Device",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.5.5,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=5",
+    "audioDriver": "pulseaudio",
+    "emulator": "fexcore",
+    "box64Version": "0.4.3",
+    "box64Preset": "INTERMEDIATE",
+    "fexcoreVersion": "hybrid-x86",
+    "fexcorePreset": "PERFORMANCE",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "0,1,2,3,4,5,6,7",
+    "screenSize": "1920x1080",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": false,
+    "fullscreenStretched": false,
+    "startupSelection": 2
+  },
+  "shortcut": {
+    "name": "MotorSlice",
+    "path": "D:\\MOTORSLICE\\MotorSlice.exe",
+    "extraData": {
+      "emulationMode": "GAME_CONTROLLER",
+      "simTouchScreen": "0",
+      "screenSize": "1920x1080",
+      "graphicsDriver": "wrapper",
+      "graphicsDriverConfig": "gpuName=Device;presentMode=mailbox;blacklistedExtensions=;syncFrame=0;vulkanVersion=1.3;version=System;bcnEmulation=auto;maxDeviceMemory=0;bcnEmulationType=compute;bcnEmulationCache=0;disablePresentWait=0;astcTranscode=1;etc2Transcode=0;resourceType=auto",
+      "dxwrapper": "dxvk+vkd3d",
+      "dxwrapperConfig": "version=v2.3.1-stripped,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+      "audioDriver": "pulseaudio",
+      "emulator": "box64",
+      "midiSoundFont": "",
+      "lc_all": "pl_PL.UTF-8",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+      "fexcoreVersion": "2605",
+      "fexcorePreset": "INTERMEDIATE",
+      "box64Preset": "COMPATIBILITY",
+      "startupSelection": "0",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "cpuList": "0,1,2,3,4,5,6,7"
+    }
+  }
+}
