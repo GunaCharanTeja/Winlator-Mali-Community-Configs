@@ -1857,6 +1857,16 @@
   ],
   "motorslice": [
     {
+      "filename": "ulefone-armor_28_ultra-1786711424.json",
+      "device_model": "Ulefone Armor 28 Ultra",
+      "gpu": "Mali-G720-Immortalis MC12",
+      "ram": "16GB",
+      "storage": "943GB",
+      "notes": "30 40 fps dim 9300+",
+      "config_title": "pro",
+      "timestamp": 1786711424
+    },
+    {
       "filename": "daria-dm_b70104-1784110686.json",
       "device_model": "Daria DM-B70104",
       "gpu": "Mali-G615 MC6",
