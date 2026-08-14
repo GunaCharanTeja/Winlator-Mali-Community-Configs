@@ -1707,6 +1707,16 @@
   ],
   "lost_planet_extreme_condition": [
     {
+      "filename": "xiaomi-2412dpc0ai-1786745202.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "This configuration uses the Proton 9 X86_64; the FPS remains in the same range as the other configuration with the same graphics settings.",
+      "config_title": "Dimensity 8400U V2",
+      "timestamp": 1786745202
+    },
+    {
       "filename": "xiaomi-2412dpc0ai-1786739740.json",
       "device_model": "Xiaomi 2412DPC0AI",
       "gpu": "Mali-G720 MC7",
