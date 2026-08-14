@@ -711,6 +711,18 @@
       "timestamp": 1786548690
     }
   ],
+  "darksiders_ii": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1786680937.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "35-60 fps, better than very long loading (darksiders 2 without Deathinitive Edition okay!)",
+      "config_title": "D8400 or Less Is Fine",
+      "timestamp": 1786680937
+    }
+  ],
   "darksiders_ii_deathinitive_edition": [
     {
       "filename": "xiaomi-2412dpc0ag-1786546059.json",

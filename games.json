@@ -414,6 +414,15 @@
     "mali_count": 1
   },
   {
+    "id": "darksiders_ii",
+    "name": "Darksiders II",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/b3ea48242bdd6eb890e59a9d21e01785.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "darksiders_ii_deathinitive_edition",
     "name": "Darksiders II Deathinitive Edition",
     "steam_id": null,
