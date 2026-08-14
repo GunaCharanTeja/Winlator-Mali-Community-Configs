@@ -927,6 +927,15 @@
     "mali_count": 1
   },
   {
+    "id": "lost_planet_extreme_condition",
+    "name": "Lost Planet: Extreme Condition",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "mad_max",
     "name": "Mad Max",
     "steam_id": null,

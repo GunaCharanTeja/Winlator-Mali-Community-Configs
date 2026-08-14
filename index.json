@@ -1705,6 +1705,18 @@
       "timestamp": 1783892739
     }
   ],
+  "lost_planet_extreme_condition": [
+    {
+      "filename": "xiaomi-2412dpc0ai-1786739740.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "Tested on a Poco X7 Pro with varying graphics settings from high to low; disable anisotropic filtering and antialiasing to avoid resource overload. \nin 720p\nFPS Between 45-50 in battles and open spaces.\nUse the DX9 executable, game downloaded from the repack games website.",
+      "config_title": "Dimensity 8400U",
+      "timestamp": 1786739740
+    }
+  ],
   "mad_max": [
     {
       "filename": "xiaomi-2511fpc34g-1784685228.json",
