@@ -55,6 +55,18 @@
       "timestamp": 1786386029
     }
   ],
+  "area_51": [
+    {
+      "filename": "infinix-infinix_x6827-1786797773.json",
+      "device_model": "Infinix Infinix X6827",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "108GB",
+      "notes": "CPU Mali G96",
+      "config_title": "A51",
+      "timestamp": 1786797773
+    }
+  ],
   "assassin's_creed": [
     {
       "filename": "xiaomi-2412dpc0ai-1784606060.json",

@@ -27,6 +27,15 @@
     "mali_count": 1
   },
   {
+    "id": "area_51",
+    "name": "Area 51",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/75a74d2ababfaaf57097845bea76b5a2.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "assassin's_creed",
     "name": "Assassin's Creed",
     "steam_id": null,
