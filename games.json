@@ -1233,6 +1233,15 @@
     "mali_count": 1
   },
   {
+    "id": "prince_of_persia_the_forgotten_sands",
+    "name": "Prince of Persia: The Forgotten Sands",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/77143f2d1416d33f93b5018853417f60.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "prince_of_persia_the_sands_of_time",
     "name": "Prince of Persia: The Sands of Time",
     "steam_id": null,

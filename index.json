@@ -2213,6 +2213,18 @@
       "timestamp": 1786129483
     }
   ],
+  "prince_of_persia_the_forgotten_sands": [
+    {
+      "filename": "tecno-tecno_km4-1786752803.json",
+      "device_model": "Tecno TECNO KM4",
+      "gpu": "Mali-G57",
+      "ram": "3GB",
+      "storage": "106GB",
+      "notes": "",
+      "config_title": "Pop",
+      "timestamp": 1786752803
+    }
+  ],
   "prince_of_persia_the_sands_of_time": [
     {
       "filename": "itel-itel_s666ln-1786136748.json",
