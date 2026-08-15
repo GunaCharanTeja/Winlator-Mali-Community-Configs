@@ -432,6 +432,15 @@
     "mali_count": 2
   },
   {
+    "id": "dave_the_diver",
+    "name": "Dave the Diver",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/0e59022fb5fe870f8effc4c847df15b6.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "dead_space_3",
     "name": "Dead Space 3",
     "steam_id": null,
