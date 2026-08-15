@@ -489,6 +489,18 @@
       "timestamp": 1786040478
     }
   ],
+  "call_of_duty_world_at_war": [
+    {
+      "filename": "infinix-infinix_x6827-1786796619.json",
+      "device_model": "Infinix Infinix X6827",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "108GB",
+      "notes": "CPU Mali G96",
+      "config_title": "Call of Duty World at War",
+      "timestamp": 1786796619
+    }
+  ],
   "castle_crashers": [
     {
       "filename": "samsung-sm_a176b-1784386375.json",
