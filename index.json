@@ -1421,6 +1421,16 @@
   ],
   "grand_theft_auto_v_enhanced": [
     {
+      "filename": "xiaomi-2602brt18c-1786780166.json",
+      "device_model": "Xiaomi 2602BRT18C",
+      "gpu": "Mali-G925-Immortalis MC12",
+      "ram": "12GB",
+      "storage": "233GB",
+      "notes": "For those users who are having issues with memory leaks, give this config a shot. I managed to fix mine, where the Vid Mem Heap 0 would keep increasing up to 4GB the longer I played, which is \nabnormal. Now, it stays around 1.8–1.9GB consistently. 🗿\n\nEnvironment variable:\nMALI_NO_DEFERRED_CTX - 1\n\nGALLIUM_THREAD - 1\n\nBOX64_DYNAREC_FASTNAN - 1\n\nDXVK_CONFIG = dxvk.memoryTrack = True",
+      "config_title": "GTA 5 - Memory leak Fix",
+      "timestamp": 1786780166
+    },
+    {
       "filename": "tecno-tecno_kn4n-1786776855.json",
       "device_model": "Tecno TECNO KN4n",
       "gpu": "Mali-G52 MC2",
