@@ -1,5 +1,14 @@
 [
   {
+    "id": "agent_64_spies_never_die",
+    "name": "Agent 64: Spies Never Die",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "alan_wake",
     "name": "Alan Wake",
     "steam_id": null,

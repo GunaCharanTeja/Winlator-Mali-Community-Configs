@@ -1,4 +1,16 @@
 {
+  "agent_64_spies_never_die": [
+    {
+      "filename": "infinix-infinix_x6827-1786821885.json",
+      "device_model": "Infinix Infinix X6827",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "108GB",
+      "notes": "CPU Mali G96 \n8 de Ram\n\n\nFuncionan a 30fps necesitas el fix wrapper para direct11 en CPU Mali",
+      "config_title": "Agent 64 spies Nevera die",
+      "timestamp": 1786821885
+    }
+  ],
   "alan_wake": [
     {
       "filename": "xiaomi-24117rn76g-1784169448.json",
