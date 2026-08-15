@@ -1899,6 +1899,16 @@
   ],
   "miside": [
     {
+      "filename": "tecno_mobile_limited-tecno_le6h-1786810727.json",
+      "device_model": "Tecno mobile limited TECNO LE6h",
+      "gpu": "Mali-G57",
+      "ram": "6GB",
+      "storage": "109GB",
+      "notes": "I have a G57 GPU with 6GB of RAM and a 1.6 GHz clock speed. I recommend creating a special preset for this game.",
+      "config_title": "30 fps almost stable",
+      "timestamp": 1786810727
+    },
+    {
       "filename": "tecno-tecno_ki5k-1785364242.json",
       "device_model": "Tecno TECNO KI5k",
       "gpu": "Mali-G57",
