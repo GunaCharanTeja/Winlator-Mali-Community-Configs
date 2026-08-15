@@ -1713,6 +1713,18 @@
       "timestamp": 1785942475
     }
   ],
+  "left_4_dead_2": [
+    {
+      "filename": "infinix-infinix_x6827-1786796783.json",
+      "device_model": "Infinix Infinix X6827",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "108GB",
+      "notes": "GPU Mali G96",
+      "config_title": "Left 4 Dead 2",
+      "timestamp": 1786796783
+    }
+  ],
   "lego_marvel's_avengers": [
     {
       "filename": "xiaomi-2412dpc0ai-1783821379.json",

@@ -918,6 +918,15 @@
     "mali_count": 1
   },
   {
+    "id": "left_4_dead_2",
+    "name": "Left 4 Dead 2",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/281295a1f0e200cd7dc417d82bb4b045.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "lego_marvel_super_heroes",
     "name": "LEGO Marvel Super Heroes",
     "steam_id": null,
