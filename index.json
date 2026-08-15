@@ -1421,6 +1421,16 @@
   ],
   "grand_theft_auto_v_enhanced": [
     {
+      "filename": "tecno-tecno_kn4n-1786776855.json",
+      "device_model": "Tecno TECNO KN4n",
+      "gpu": "Mali-G52 MC2",
+      "ram": "4GB",
+      "storage": "105GB",
+      "notes": "",
+      "config_title": "Helio G81 ,Mali",
+      "timestamp": 1786776855
+    },
+    {
       "filename": "xiaomi-2311drk48g-1786315280.json",
       "device_model": "Xiaomi 2311DRK48G",
       "gpu": "Mali-G615 MC6",
