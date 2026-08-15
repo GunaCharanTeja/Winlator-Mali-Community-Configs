@@ -805,6 +805,16 @@
   ],
   "deadpool": [
     {
+      "filename": "infinix-infinix_x6827-1786797989.json",
+      "device_model": "Infinix Infinix X6827",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "108GB",
+      "notes": "CPU Mali G96",
+      "config_title": "Deadpool®",
+      "timestamp": 1786797989
+    },
+    {
       "filename": "infinix-infinix_x6882-1783780602.json",
       "device_model": "Infinix Infinix X6882",
       "gpu": "Mali-G57 MC2",
