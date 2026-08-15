@@ -513,6 +513,18 @@
       "timestamp": 1786796619
     }
   ],
+  "call_of_duty_wwii": [
+    {
+      "filename": "honor-rea_nx9-1786803136.json",
+      "device_model": "Honor REA-NX9",
+      "gpu": "Adreno (TM) 644",
+      "ram": "12GB",
+      "storage": "462GB",
+      "notes": "",
+      "config_title": "Call Of duty Ww2",
+      "timestamp": 1786803136
+    }
+  ],
   "castle_crashers": [
     {
       "filename": "samsung-sm_a176b-1784386375.json",

@@ -288,6 +288,15 @@
     "mali_count": 1
   },
   {
+    "id": "call_of_duty_wwii",
+    "name": "Call of Duty: WWII",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/819d0622647b5796fe00a13608c12c1f.jpg",
+    "config_count": 1,
+    "adreno_count": 1,
+    "mali_count": 0
+  },
+  {
     "id": "castle_crashers",
     "name": "Castle Crashers",
     "steam_id": null,
