@@ -180,6 +180,15 @@
     "mali_count": 1
   },
   {
+    "id": "battlefield_1",
+    "name": "Battlefield 1",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/e12a8099f35ba48631fa0b56989bc995.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 0
+  },
+  {
     "id": "ben_10",
     "name": "Ben 10",
     "steam_id": null,

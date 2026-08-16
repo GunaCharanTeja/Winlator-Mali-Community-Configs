@@ -349,6 +349,18 @@
       "timestamp": 1783794813
     }
   ],
+  "battlefield_1": [
+    {
+      "filename": "samsung-sm_a556e-1786907783.json",
+      "device_model": "Samsung SM-A556E",
+      "gpu": "Samsung Xclipse 530",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "",
+      "config_title": ".",
+      "timestamp": 1786907783
+    }
+  ],
   "ben_10": [
     {
       "filename": "samsung-sm_a346e-1785984101.json",
