@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "Left 4 Dead 2",
+    "config_title": "L4d Config by S4nF0rd",
+    "community_image": "https://cdn2.steamgriddb.com/grid/281295a1f0e200cd7dc417d82bb4b045.jpg",
+    "notes": "idk",
+    "device": {
+      "manufacturer": "vivo",
+      "model": "V2342",
+      "soc": "bengal",
+      "gpu": "Adreno (TM) 610",
+      "ram": "8GB",
+      "storage": "223GB"
+    },
+    "timestamp": 1786868583
+  },
+  "container": {
+    "wineVersion": "proton-10-arm64ec",
+    "graphicsDriver": "wrapper-gamenative",
+    "graphicsDriverConfig": "gpuName=Device;presentMode=mailbox;blacklistedExtensions=;syncFrame=0;vulkanVersion=1.3;version=turnip25.1.0;bcnEmulation=auto;maxDeviceMemory=0;bcnEmulationType=compute;bcnEmulationCache=0;disablePresentWait=0;astcTranscode=1;etc2Transcode=0;resourceType=auto",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.9.3,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+    "audioDriver": "pulseaudio",
+    "emulator": "fexcore",
+    "box64Version": "0.3.7",
+    "box64Preset": "PERFORMANCE",
+    "fexcoreVersion": "2601",
+    "fexcorePreset": "PERFORMANCE",
+    "cpuList": "1,2,3,4,5,6,7",
+    "cpuListWoW64": "1,2,3,4,5,6,7",
+    "screenSize": "800x480",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": false,
+    "fullscreenStretched": true,
+    "startupSelection": 2,
+    "envVars": "WRAPPER_MAX_IMAGE_COUNT=0 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=512MB mesa_glthread=true WINEESYNC=1 DXVK_HUD=devinfo,fps,gpuload,version PULSE_LATENCY_MSEC=40 WRAPPER_NO_PATCH_OPCONSTCOMP=1"
+  },
+  "shortcut": {
+    "name": "L4D2 Launcher",
+    "path": "D:\\Left 4 Dead 2\\L4D2 Launcher.exe",
+    "extraData": {
+      "box64Version": "0.3.7",
+      "emulationMode": "GAME_CONTROLLER",
+      "simTouchScreen": "0",
+      "screenSize": "800x480",
+      "graphicsDriver": "wrapper-gamenative",
+      "graphicsDriverConfig": "gpuName=Device;presentMode=mailbox;blacklistedExtensions=;syncFrame=0;vulkanVersion=1.3;version=turnip25.1.0;bcnEmulation=auto;maxDeviceMemory=0;bcnEmulationType=compute;bcnEmulationCache=0;disablePresentWait=0;astcTranscode=1;etc2Transcode=0;resourceType=auto",
+      "dxwrapper": "dxvk+vkd3d",
+      "dxwrapperConfig": "version=1.9.3,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+      "audioDriver": "pulseaudio",
+      "emulator": "fexcore",
+      "midiSoundFont": "",
+      "lc_all": "vi_VN.UTF-8",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,directinput=0,xaudio=0,vcrun2010=1",
+      "fexcoreVersion": "2601",
+      "fexcorePreset": "PERFORMANCE",
+      "box64Preset": "PERFORMANCE",
+      "startupSelection": "1",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "cpuList": "1,2,3,4,5,6,7"
+    }
+  }
+}
