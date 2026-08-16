@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "Crysis",
+    "config_title": "Helio G100 Mali-G57 MC2",
+    "community_image": "https://cdn2.steamgriddb.com/grid/ae1b1cff76570e181856445bca185674.png",
+    "notes": "IMPORTANT: Set all advanced in-game settings to low for max performance EXCEPT Shader Quality. Personally, I discovered that on my Mali-G57 that reducing Shader Quality to anything below HIGH caused graphical glitches and flickering.",
+    "device": {
+      "manufacturer": "INFINIX",
+      "model": "Infinix X6858",
+      "soc": "Infinix-X6858",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "224GB"
+    },
+    "timestamp": 1786894197
+  },
+  "container": {
+    "wineVersion": "proton-10-arm64ec",
+    "graphicsDriver": "wrapper",
+    "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=;maxDeviceMemory=0;presentMode=mailbox;syncFrame=0;disablePresentWait=1;astcTranscode=1;etc2Transcode=0;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=0;gpuName=Device",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.10.3-async,framerate=0,async=1,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+    "audioDriver": "pulseaudio",
+    "emulator": "fexcore",
+    "box64Version": "0.4.3",
+    "box64Preset": "COMPATIBILITY",
+    "fexcoreVersion": "2605",
+    "fexcorePreset": "INTERMEDIATE",
+    "cpuList": "4,5,6,7",
+    "cpuListWoW64": "4,5,6,7",
+    "screenSize": "800x600",
+    "wincomponents": "direct3d=1,directsound=1,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": true,
+    "fullscreenStretched": false,
+    "startupSelection": 1
+  },
+  "shortcut": {
+    "name": "Crysis",
+    "path": "C:\\1crisis\\Crysis\\Bin32\\Crysis.exe",
+    "extraData": {
+      "emulationMode": "GAME_CONTROLLER",
+      "simTouchScreen": "0",
+      "execArgs": "--force-d3d9",
+      "screenSize": "960x544",
+      "graphicsDriver": "wrapper",
+      "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=;maxDeviceMemory=0;presentMode=fifo;syncFrame=0;disablePresentWait=1;astcTranscode=1;etc2Transcode=0;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=0;gpuName=Device",
+      "dxwrapper": "dxvk+vkd3d",
+      "dxwrapperConfig": "version=1.5.5-async,framerate=0,async=1,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+      "audioDriver": "pulseaudio",
+      "emulator": "box64",
+      "midiSoundFont": "",
+      "lc_all": "en_US.UTF-8",
+      "wincomponents": "direct3d=1,directsound=1,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+      "fexcoreVersion": "2605",
+      "fexcorePreset": "PERFORMANCE",
+      "box64Preset": "PERFORMANCE",
+      "startupSelection": "2",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "cpuList": "2,3,4,5,6,7",
+      "controlsProfile": "1",
+      "envVars": "DXVK_CONFIG=dxvk.maxFrameRate=30",
+      "box64Version": "0.4.3"
+    }
+  }
+}
