@@ -621,6 +621,15 @@
     "mali_count": 1
   },
   {
+    "id": "enslaved_odyssey_to_the_west_-_premium_edition",
+    "name": "Enslaved: Odyssey to the West - Premium Edition",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/1f080c0ecf0f0d7e260b1aed88cc61b7.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "f1_2013",
     "name": "F1 2013",
     "steam_id": null,

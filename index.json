@@ -1207,6 +1207,18 @@
       "timestamp": 1784327116
     }
   ],
+  "enslaved_odyssey_to_the_west_-_premium_edition": [
+    {
+      "filename": "nothing-a015-1786903557.json",
+      "device_model": "Nothing A015",
+      "gpu": "Mali-G615 MC2",
+      "ram": "6GB",
+      "storage": "108GB",
+      "notes": "G615 15-20 fps",
+      "config_title": "CMF Phone 1",
+      "timestamp": 1786903557
+    }
+  ],
   "f1_2013": [
     {
       "filename": "xiaomi-2412dpc0ai-1784590701.json",
