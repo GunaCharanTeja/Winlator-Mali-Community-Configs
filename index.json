@@ -679,6 +679,16 @@
   ],
   "crysis": [
     {
+      "filename": "infinix-infinix_x6858-1786894197.json",
+      "device_model": "Infinix Infinix X6858",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "224GB",
+      "notes": "IMPORTANT: Set all advanced in-game settings to low for max performance EXCEPT Shader Quality. Personally, I discovered that on my Mali-G57 that reducing Shader Quality to anything below HIGH caused graphical glitches and flickering.",
+      "config_title": "Helio G100 Mali-G57 MC2",
+      "timestamp": 1786894197
+    },
+    {
       "filename": "xiaomi-2511fpc34g-1785847159.json",
       "device_model": "Xiaomi 2511FPC34G",
       "gpu": "Mali-G720 MC8",
@@ -1321,6 +1331,18 @@
       "notes": "Farcry 2 Cfg for MaliG57 (MP1) recommended to set the graphics to LOW but leave the geometry to HIGH because of graphical issue that shows brown fog covering the landscape, playable",
       "config_title": "Far Cry 2",
       "timestamp": 1786374529
+    }
+  ],
+  "far_cry_3": [
+    {
+      "filename": "xiaomi-2511fpc34g-1786894190.json",
+      "device_model": "Xiaomi 2511FPC34G",
+      "gpu": "Mali-G720 MC8",
+      "ram": "8GB",
+      "storage": "479GB",
+      "notes": "",
+      "config_title": "Px8pro",
+      "timestamp": 1786894190
     }
   ],
   "fear": [
