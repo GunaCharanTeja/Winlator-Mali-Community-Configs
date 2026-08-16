@@ -1761,6 +1761,16 @@
   ],
   "left_4_dead_2": [
     {
+      "filename": "vivo-v2342-1786868583.json",
+      "device_model": "Vivo V2342",
+      "gpu": "Adreno (TM) 610",
+      "ram": "8GB",
+      "storage": "223GB",
+      "notes": "idk",
+      "config_title": "L4d Config by S4nF0rd",
+      "timestamp": 1786868583
+    },
+    {
       "filename": "infinix-infinix_x6827-1786796783.json",
       "device_model": "Infinix Infinix X6827",
       "gpu": "Mali-G57 MC2",
