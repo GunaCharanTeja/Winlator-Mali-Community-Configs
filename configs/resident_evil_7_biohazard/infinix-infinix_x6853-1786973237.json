@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "Resident Evil 7: Biohazard",
+    "config_title": "RESIDENT EVIL 7",
+    "community_image": "https://cdn2.steamgriddb.com/grid/0a07b1fa170a20367be5f0cea478a669.jpg",
+    "notes": "SETTINGS BY NOYSZ FOURFECT \n\n20-25 FPS LOW GRAPHICS",
+    "device": {
+      "manufacturer": "INFINIX",
+      "model": "Infinix X6853",
+      "soc": "Infinix-X6853",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "228GB"
+    },
+    "timestamp": 1786973237
+  },
+  "container": {
+    "wineVersion": "proton-10-arm64ec",
+    "graphicsDriver": "wrapper",
+    "graphicsDriverConfig": "gpuName=Device;presentMode=mailbox;blacklistedExtensions=;syncFrame=0;vulkanVersion=1.3;version=System;bcnEmulation=auto;maxDeviceMemory=0;bcnEmulationType=compute;bcnEmulationCache=1;disablePresentWait=0;astcTranscode=1;bcnQualityPreset=auto;etc2Transcode=0;resourceType=auto",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.7.2,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1",
+    "audioDriver": "pulseaudio",
+    "emulator": "fexcore",
+    "box64Version": "0.4.3",
+    "box64Preset": "COMPATIBILITY",
+    "fexcoreVersion": "2605",
+    "fexcorePreset": "INTERMEDIATE",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "4,5,6,7",
+    "screenSize": "1280x720",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": false,
+    "fullscreenStretched": false,
+    "startupSelection": 1,
+    "envVars": "WRAPPER_MAX_IMAGE_COUNT=0 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=512MB mesa_glthread=true WINEESYNC=1 DXVK_HUD=scale=0.7,fps,gpuload PULSE_LATENCY_MSEC=90 WRAPPER_NO_PATCH_OPCONSTCOMP=1 DXVK_LOG_LEVEL=none WINEDEBUG=-all MESA_NO_ERROR=1 FEX_SILENTLOG=1 FEX_OUTPUTLEVEL=SILENT DXVK_STATE_CACHE=1 DXVK_STATE_CACHE_PATH=/storage/emulated/0/DXVK_CACHE"
+  },
+  "shortcut": {
+    "name": "re7",
+    "path": "F:\\ROMS\\RESIDENT EVIL 7 biohazard\\re7.exe",
+    "extraData": {
+      "emulationMode": "GAME_CONTROLLER",
+      "simTouchScreen": "0",
+      "screenSize": "640x360",
+      "graphicsDriver": "wrapper-gamenative",
+      "graphicsDriverConfig": "gpuName=Device;presentMode=immediate;blacklistedExtensions=;syncFrame=0;vulkanVersion=1.3;version=System;bcnEmulation=auto;maxDeviceMemory=0;bcnEmulationType=compute;bcnEmulationCache=1;disablePresentWait=0;astcTranscode=1;bcnQualityPreset=fast;etc2Transcode=0;resourceType=auto",
+      "dxwrapper": "dxvk+vkd3d",
+      "dxwrapperConfig": "version=dxvk-async-1.7.2-0,framerate=0,async=1,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=dd7to9,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=3",
+      "audioDriver": "pulseaudio",
+      "emulator": "fexcore",
+      "midiSoundFont": "",
+      "lc_all": "in_ID.UTF-8",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+      "fexcoreVersion": "2605",
+      "fexcorePreset": "CUSTOM",
+      "box64Preset": "COMPATIBILITY",
+      "startupSelection": "1",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "cpuList": "1,2,3,4,5,6,7",
+      "execArgs": "-force-d3d11",
+      "envVars": "MALI_NO_DEFERRED_CTX=1 GALLIUM_THREAD=1 BOX64_DYNAREC_FASTNAN=1 DXVK_CONFIG=dxvk.memoryTrack=True"
+    }
+  }
+}
