@@ -1983,6 +1983,18 @@
       "timestamp": 1784979075
     }
   ],
+  "mafia_ii_definitive_edition": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1786980000.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "45-70fps",
+      "config_title": "Mafia 2 DE For Mali G720",
+      "timestamp": 1786980000
+    }
+  ],
   "manhunt": [
     {
       "filename": "tecno-tecno_cl8-1786356908.json",

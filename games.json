@@ -1053,6 +1053,15 @@
     "mali_count": 1
   },
   {
+    "id": "mafia_ii_definitive_edition",
+    "name": "Mafia II: Definitive Edition",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/74141ecbbe85a54f9283bd78c55bf9f5.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "manhunt",
     "name": "Manhunt",
     "steam_id": null,
