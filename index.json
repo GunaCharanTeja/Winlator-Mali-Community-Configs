@@ -1753,6 +1753,18 @@
       "timestamp": 1783606441
     }
   ],
+  "hitman_absolution": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1786980060.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "65-100fps",
+      "config_title": "For D8400",
+      "timestamp": 1786980060
+    }
+  ],
   "idledownloadmanager": [
     {
       "filename": "samsung-sm_m066b-1784222080.json",

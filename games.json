@@ -918,6 +918,15 @@
     "mali_count": 2
   },
   {
+    "id": "hitman_absolution",
+    "name": "Hitman: Absolution",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/b3bbdea5d74b12578eb6f398a9cfe3f1.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "idledownloadmanager",
     "name": "IdleDownloadManager",
     "steam_id": null,
