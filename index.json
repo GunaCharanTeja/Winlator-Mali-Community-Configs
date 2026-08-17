@@ -2429,6 +2429,16 @@
   ],
   "profootball_(pes_2013_mod)": [
     {
+      "filename": "tecno-tecno_lj8k-1786961420.json",
+      "device_model": "Tecno TECNO LJ8k",
+      "gpu": "Mali-G615 MC2",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "Don't forget to add the frame gen, cause make game more stable and no microstuttering",
+      "config_title": "Config Pes13 For Mali Devices",
+      "timestamp": 1786961420
+    },
+    {
       "filename": "xiaomi-2412dpc0ai-1784582497.json",
       "device_model": "Xiaomi 2412DPC0AI",
       "gpu": "Mali-G720 MC7",
