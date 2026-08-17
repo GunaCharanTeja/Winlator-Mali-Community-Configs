@@ -245,6 +245,16 @@
   ],
   "assassin's_creed_rogue": [
     {
+      "filename": "xiaomi-2412dpc0ag-1786979917.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "",
+      "config_title": "AC Rogue For Mali G720",
+      "timestamp": 1786979917
+    },
+    {
       "filename": "infinix-infinix_x6882-1784319970.json",
       "device_model": "Infinix Infinix X6882",
       "gpu": "Mali-G57 MC2",
