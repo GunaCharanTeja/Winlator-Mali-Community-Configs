@@ -2623,6 +2623,16 @@
   ],
   "resident_evil_7_biohazard": [
     {
+      "filename": "infinix-infinix_x6853-1786973237.json",
+      "device_model": "Infinix Infinix X6853",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "SETTINGS BY NOYSZ FOURFECT \n\n20-25 FPS LOW GRAPHICS",
+      "config_title": "RESIDENT EVIL 7",
+      "timestamp": 1786973237
+    },
+    {
       "filename": "samsung-sm_a556e-1786907732.json",
       "device_model": "Samsung SM-A556E",
       "gpu": "Samsung Xclipse 530",

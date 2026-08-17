@@ -1453,9 +1453,9 @@
     "name": "Resident Evil 7: Biohazard",
     "steam_id": null,
     "community_image": "https://cdn2.steamgriddb.com/grid/0a07b1fa170a20367be5f0cea478a669.jpg",
-    "config_count": 2,
+    "config_count": 3,
     "adreno_count": 0,
-    "mali_count": 1
+    "mali_count": 2
   },
   {
     "id": "rimworld",
