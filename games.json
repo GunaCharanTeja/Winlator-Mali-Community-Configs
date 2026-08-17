@@ -1728,6 +1728,15 @@
     "mali_count": 2
   },
   {
+    "id": "the_witcher_3_wild_hunt",
+    "name": "The Witcher 3: Wild Hunt",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/bf415edce50b7c7fb4c043039fc922da.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "thekillingantidote-win64-shipping",
     "name": "TheKillingAntidote-Win64-Shipping",
     "steam_id": null,

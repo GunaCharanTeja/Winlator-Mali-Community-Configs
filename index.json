@@ -3093,6 +3093,18 @@
       "timestamp": 1784689899
     }
   ],
+  "the_witcher_3_wild_hunt": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1786980031.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "",
+      "config_title": "For D8400",
+      "timestamp": 1786980031
+    }
+  ],
   "thekillingantidote-win64-shipping": [
     {
       "filename": "xiaomi-21061110ag-1783874530.json",
