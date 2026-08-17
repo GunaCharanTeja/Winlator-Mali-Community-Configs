@@ -791,6 +791,18 @@
       "timestamp": 1786548690
     }
   ],
+  "dark_souls_remastered": [
+    {
+      "filename": "xiaomi-2311drk48g-1786966587.json",
+      "device_model": "Xiaomi 2311DRK48G",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "466GB",
+      "notes": "This setting was created by (@EmuCollection12) he has yt and I recommend you to see his chanel\n\nI got 45-50 fps with Poco x6 pro(dimsitsy 8300)\nif you have Poco x7 pro (dimsitsy 8400) or more power chips you will get 60fps",
+      "config_title": "Dark Souls Remastered",
+      "timestamp": 1786966587
+    }
+  ],
   "darksiders_ii": [
     {
       "filename": "xiaomi-2412dpc0ag-1786681157.json",
