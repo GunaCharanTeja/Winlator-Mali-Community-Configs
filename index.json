@@ -1521,6 +1521,18 @@
       "timestamp": 1783803340
     }
   ],
+  "gearblocks": [
+    {
+      "filename": "xiaomi-zte_a2020g_pro-1787059859.json",
+      "device_model": "Xiaomi ZTE A2020G Pro",
+      "gpu": "Mali-G57 MC2",
+      "ram": "4GB",
+      "storage": "108GB",
+      "notes": "",
+      "config_title": "God Eater 2 Rage Burst",
+      "timestamp": 1787059859
+    }
+  ],
   "glaive": [
     {
       "filename": "infinix-infinix_x6876-1786370673.json",
