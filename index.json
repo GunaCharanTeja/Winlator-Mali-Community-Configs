@@ -2871,6 +2871,18 @@
       "timestamp": 1783631774
     }
   ],
+  "shift2u": [
+    {
+      "filename": "xiaomi-2311drk48i-1787062697.json",
+      "device_model": "Xiaomi 2311DRK48I",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "you need to install PhysX 9.17, Mono, Gecko\n\n4 cores enabled (you can change it according to device)",
+      "config_title": "D8300 8gb",
+      "timestamp": 1787062697
+    }
+  ],
   "silent_hill_2": [
     {
       "filename": "xiaomi-2412dpc0ai-1783821433.json",

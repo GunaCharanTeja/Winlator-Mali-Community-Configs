@@ -1584,6 +1584,15 @@
     "mali_count": 1
   },
   {
+    "id": "shift2u",
+    "name": "shift2u",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "silent_hill_2",
     "name": "Silent Hill 2",
     "steam_id": null,
