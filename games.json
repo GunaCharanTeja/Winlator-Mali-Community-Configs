@@ -1836,6 +1836,15 @@
     "mali_count": 1
   },
   {
+    "id": "yakuza_0",
+    "name": "Yakuza 0",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/536f0d7b8749c24913c8fb41c8f5a7d1.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "zero_hour",
     "name": "Zero Hour",
     "steam_id": null,

@@ -3247,6 +3247,18 @@
       "timestamp": 1784648322
     }
   ],
+  "yakuza_0": [
+    {
+      "filename": "tecno-tecno_li7-1787036013.json",
+      "device_model": "Tecno TECNO LI7",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "227GB",
+      "notes": "helio g99",
+      "config_title": "Better Performance Than Gamehub",
+      "timestamp": 1787036013
+    }
+  ],
   "zero_hour": [
     {
       "filename": "tecno-tecno_cl8-1786391433.json",
