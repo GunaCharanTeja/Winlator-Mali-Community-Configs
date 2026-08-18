@@ -1415,6 +1415,16 @@
   ],
   "far_cry_3": [
     {
+      "filename": "xiaomi-2511fpc34g-1787067797.json",
+      "device_model": "Xiaomi 2511FPC34G",
+      "gpu": "Mali-G720 MC8",
+      "ram": "8GB",
+      "storage": "479GB",
+      "notes": "pocox8pro 8gb ram 512storage\n50 to 80 FPS highest in game setting",
+      "config_title": "Farcry3",
+      "timestamp": 1787067797
+    },
+    {
       "filename": "xiaomi-2511fpc34g-1786894190.json",
       "device_model": "Xiaomi 2511FPC34G",
       "gpu": "Mali-G720 MC8",
