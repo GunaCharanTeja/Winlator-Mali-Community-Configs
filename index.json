@@ -569,6 +569,18 @@
       "timestamp": 1786803136
     }
   ],
+  "captain_tsubasa_rise_of_new_champions": [
+    {
+      "filename": "tecno-tecno_li7-1787035909.json",
+      "device_model": "Tecno TECNO LI7",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "227GB",
+      "notes": "",
+      "config_title": "Mediatek Helio G99",
+      "timestamp": 1787035909
+    }
+  ],
   "castle_crashers": [
     {
       "filename": "samsung-sm_a176b-1784386375.json",

@@ -315,6 +315,15 @@
     "mali_count": 0
   },
   {
+    "id": "captain_tsubasa_rise_of_new_champions",
+    "name": "Captain Tsubasa: Rise of New Champions",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "castle_crashers",
     "name": "Castle Crashers",
     "steam_id": null,
