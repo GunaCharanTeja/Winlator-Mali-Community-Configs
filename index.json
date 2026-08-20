@@ -1493,6 +1493,18 @@
       "timestamp": 1783464024
     }
   ],
+  "fifa_18": [
+    {
+      "filename": "xiaomi-2602dpt53g-1787234856.json",
+      "device_model": "Xiaomi 2602DPT53G",
+      "gpu": "Mali-G720 MC8",
+      "ram": "12GB",
+      "storage": "232GB",
+      "notes": "",
+      "config_title": "fifa18",
+      "timestamp": 1787234856
+    }
+  ],
   "firewatch": [
     {
       "filename": "samsung-sm_a356e-1785940274.json",

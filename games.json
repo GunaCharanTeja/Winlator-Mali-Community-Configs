@@ -783,6 +783,15 @@
     "mali_count": 1
   },
   {
+    "id": "fifa_18",
+    "name": "FIFA 18",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "firewatch",
     "name": "Firewatch",
     "steam_id": null,
