@@ -441,6 +441,16 @@
   ],
   "blur": [
     {
+      "filename": "xiaomi-2311drk48i-1787233791.json",
+      "device_model": "Xiaomi 2311DRK48I",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "Don't change anything I somehow made xinput work and avoid the pink headlights ✌🏻😭, High with 50fps+ stable",
+      "config_title": "D8300 8gb",
+      "timestamp": 1787233791
+    },
+    {
       "filename": "xiaomi-2412dpc0ag-1787197048.json",
       "device_model": "Xiaomi 2412DPC0AG",
       "gpu": "Mali-G720 MC7",
