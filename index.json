@@ -1437,6 +1437,16 @@
   ],
   "far_cry_3": [
     {
+      "filename": "infinix-infinix_x6870-1787262975.json",
+      "device_model": "Infinix Infinix X6870",
+      "gpu": "Mali-G615 MC2",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "30~35 with subtle flickering.",
+      "config_title": "Mali G615 MC2",
+      "timestamp": 1787262975
+    },
+    {
       "filename": "xiaomi-2511fpc34g-1787067797.json",
       "device_model": "Xiaomi 2511FPC34G",
       "gpu": "Mali-G720 MC8",
