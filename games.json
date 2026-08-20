@@ -225,6 +225,15 @@
     "mali_count": 1
   },
   {
+    "id": "blur",
+    "name": "Blur",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/03bfc1d4783966c69cc6aef8247e0103.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "borderlands_the_pre-sequel",
     "name": "Borderlands: The Pre-Sequel",
     "steam_id": null,
