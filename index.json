@@ -3348,5 +3348,17 @@
       "config_title": "NFSMW2012",
       "timestamp": 1786554453
     }
+  ],
+  "迷离_blurred": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1787191911.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "god",
+      "config_title": "Blur",
+      "timestamp": 1787191911
+    }
   ]
 }
