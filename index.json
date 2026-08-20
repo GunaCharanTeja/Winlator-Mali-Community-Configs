@@ -2587,6 +2587,16 @@
   ],
   "prototype": [
     {
+      "filename": "google-pixel_9a-1787252880.json",
+      "device_model": "Google Pixel 9a",
+      "gpu": "Mali-G715",
+      "ram": "8GB",
+      "storage": "110GB",
+      "notes": "Have to limit to 1 core or gets stuck on boot, sometimes works with the last 2 cores and way better performance but i cant make it stable, 1core at least works.",
+      "config_title": "Pixel 9a",
+      "timestamp": 1787252880
+    },
+    {
       "filename": "tecno-tecno_ki5k-1784160994.json",
       "device_model": "Tecno TECNO KI5k",
       "gpu": "Mali-G57",

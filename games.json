@@ -1426,9 +1426,9 @@
     "name": "Prototype",
     "steam_id": null,
     "community_image": "https://cdn2.steamgriddb.com/grid/729100d35b8a3be8767d7edfa0aaf433.png",
-    "config_count": 1,
+    "config_count": 2,
     "adreno_count": 0,
-    "mali_count": 1
+    "mali_count": 2
   },
   {
     "id": "ravenfield",
