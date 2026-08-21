@@ -279,6 +279,15 @@
     "mali_count": 1
   },
   {
+    "id": "burnout_paradise_the_ultimate_box",
+    "name": "Burnout Paradise: The Ultimate Box",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/2d3c73fdc2a55b5b91795c566cd666f3.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "cad_xr",
     "name": "CAD XR",
     "steam_id": null,

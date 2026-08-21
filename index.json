@@ -521,6 +521,18 @@
       "timestamp": 1783913151
     }
   ],
+  "burnout_paradise_the_ultimate_box": [
+    {
+      "filename": "xiaomi-2412dpc0ai-1787343638.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "poco X7 pro 12gb ram \nGraphics on high with anti-aliasing and shadows off/low.\n60 FPS no drops below 50",
+      "config_title": "D8400U",
+      "timestamp": 1787343638
+    }
+  ],
   "cad_xr": [
     {
       "filename": "itel-itel_s665l-1784461018.json",
