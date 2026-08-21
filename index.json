@@ -2979,6 +2979,18 @@
       "timestamp": 1787062697
     }
   ],
+  "ship,_inc.": [
+    {
+      "filename": "infinix-infinix_x6853-1787325788.json",
+      "device_model": "Infinix Infinix X6853",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "SETTINGS BY NOYSZ FOURFECT FPS 30 - 35",
+      "config_title": "HADES 2",
+      "timestamp": 1787325788
+    }
+  ],
   "silent_hill_2": [
     {
       "filename": "xiaomi-2412dpc0ai-1783821433.json",
