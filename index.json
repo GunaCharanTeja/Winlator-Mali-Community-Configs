@@ -849,6 +849,16 @@
   ],
   "dark_souls_remastered": [
     {
+      "filename": "vivo-v2507a-1787283047.json",
+      "device_model": "Vivo V2507A",
+      "gpu": "Mali-G925-Immortalis MC12",
+      "ram": "12GB",
+      "storage": "221GB",
+      "notes": "fix lag",
+      "config_title": "Dark Souls",
+      "timestamp": 1787283047
+    },
+    {
       "filename": "xiaomi-2311drk48g-1786966587.json",
       "device_model": "Xiaomi 2311DRK48G",
       "gpu": "Mali-G615 MC6",
