@@ -2981,6 +2981,16 @@
   ],
   "ship,_inc.": [
     {
+      "filename": "infinix-infinix_x6853-1787325877.json",
+      "device_model": "Infinix Infinix X6853",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "SETTINGS BY NOYSZ FOURFECT FPS 30",
+      "config_title": "HADES 2",
+      "timestamp": 1787325877
+    },
+    {
       "filename": "infinix-infinix_x6853-1787325788.json",
       "device_model": "Infinix Infinix X6853",
       "gpu": "Mali-G57 MC2",
