@@ -2943,6 +2943,18 @@
       "timestamp": 1784050514
     }
   ],
+  "sgre_steam": [
+    {
+      "filename": "vivo-v2338a-1787336306.json",
+      "device_model": "Vivo V2338A",
+      "gpu": "Adreno (TM) 740",
+      "ram": "15GB",
+      "storage": "224GB",
+      "notes": "",
+      "config_title": "石头门",
+      "timestamp": 1787336306
+    }
+  ],
   "shadow_warrior": [
     {
       "filename": "xiaomi-2412dpc0ag-1785069965.json",

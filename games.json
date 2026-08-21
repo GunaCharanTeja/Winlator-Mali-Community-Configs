@@ -1593,6 +1593,15 @@
     "mali_count": 4
   },
   {
+    "id": "sgre_steam",
+    "name": "sgre_steam",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 1,
+    "mali_count": 0
+  },
+  {
     "id": "shadow_warrior",
     "name": "Shadow Warrior",
     "steam_id": null,
