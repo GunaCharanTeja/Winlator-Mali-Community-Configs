@@ -1099,6 +1099,16 @@
   ],
   "dispatch": [
     {
+      "filename": "infinix-infinix_x6853-1787293690.json",
+      "device_model": "Infinix Infinix X6853",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "SETTINGS BY NOYSZ FOURFECT FECT 30 FPS",
+      "config_title": "DISPATCH",
+      "timestamp": 1787293690
+    },
+    {
       "filename": "infinix-infinix_x6853-1787293466.json",
       "device_model": "Infinix Infinix X6853",
       "gpu": "Mali-G57 MC2",
