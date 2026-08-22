@@ -1422,6 +1422,15 @@
     "mali_count": 1
   },
   {
+    "id": "portal_2",
+    "name": "Portal 2",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/9fd15d31837278f41e39da273fc7ef0b.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "postal_2",
     "name": "Postal 2",
     "steam_id": null,

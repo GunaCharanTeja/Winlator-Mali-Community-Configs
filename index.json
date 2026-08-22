@@ -2615,6 +2615,18 @@
       "timestamp": 1784386448
     }
   ],
+  "portal_2": [
+    {
+      "filename": "samsung-sm_a175f-1787429762.json",
+      "device_model": "Samsung SM-A175F",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "223GB",
+      "notes": "",
+      "config_title": "Portal 2 Helio G99 By 666",
+      "timestamp": 1787429762
+    }
+  ],
   "postal_2": [
     {
       "filename": "realme-rmx3741-1786208448.json",
