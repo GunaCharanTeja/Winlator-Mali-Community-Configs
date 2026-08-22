@@ -1667,6 +1667,18 @@
       "timestamp": 1784109596
     }
   ],
+  "gothic": [
+    {
+      "filename": "xiaomi-2409brn2ca-1787408592.json",
+      "device_model": "Xiaomi 2409BRN2CA",
+      "gpu": "Mali-G52 MC2",
+      "ram": "8GB",
+      "storage": "224GB",
+      "notes": "Ok, for some reason this config got caught as the remake one. Just know that you can run the og gothic around 25-30 fps. But, there are stutters because of how the game engine loads textures. It is playable\nBut, expect stutters.",
+      "config_title": "Gothic 1",
+      "timestamp": 1787408592
+    }
+  ],
   "gothic_1_remake": [
     {
       "filename": "xiaomi-2409brn2ca-1787408330.json",
