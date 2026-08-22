@@ -891,6 +891,15 @@
     "mali_count": 1
   },
   {
+    "id": "gothic_1_remake",
+    "name": "Gothic 1 Remake",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "grand_theft_auto_iv_the_complete_edition",
     "name": "Grand Theft Auto IV: The Complete Edition",
     "steam_id": null,
