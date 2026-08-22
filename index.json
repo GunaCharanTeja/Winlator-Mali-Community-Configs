@@ -1467,6 +1467,18 @@
       "timestamp": 1785501292
     }
   ],
+  "far_cry": [
+    {
+      "filename": "xiaomi-2409brn2ca-1787408104.json",
+      "device_model": "Xiaomi 2409BRN2CA",
+      "gpu": "Mali-G52 MC2",
+      "ram": "8GB",
+      "storage": "224GB",
+      "notes": "Running on a g81 ultra cpu. Basically a mali g52 mc2. The game is getting around 50-60fps on the lowest settings. when expoltions happen expect 30fps. That's the only time I've seen a drop,",
+      "config_title": "Far Cry 1",
+      "timestamp": 1787408104
+    }
+  ],
   "far_cry_2": [
     {
       "filename": "itel-itel_s665l-1786374529.json",
