@@ -2189,6 +2189,18 @@
       "timestamp": 1785469910
     }
   ],
+  "mercenaries_2_world_in_flames": [
+    {
+      "filename": "infinix-infinix_x6827-1787434579.json",
+      "device_model": "Infinix Infinix X6827",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "108GB",
+      "notes": "CPU Mali mediatek G96\n\nnecesitas el Fix wrapper gamenative fix va regular se puede jugar",
+      "config_title": "Mercenaries 2 World in Flames",
+      "timestamp": 1787434579
+    }
+  ],
   "metal_gear_rising_revengeance": [
     {
       "filename": "xiaomi-2412dpc0ag-1786226713.json",
