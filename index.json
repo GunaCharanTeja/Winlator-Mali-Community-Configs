@@ -2383,6 +2383,16 @@
   ],
   "nfsc": [
     {
+      "filename": "xiaomi-23117ra68g-1787359304.json",
+      "device_model": "Xiaomi 23117RA68G",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "",
+      "config_title": "Need For Speed: Carbon Config For Helio G99 Ultra",
+      "timestamp": 1787359304
+    },
+    {
       "filename": "tecno-tecno_ki5k-1783880754.json",
       "device_model": "Tecno TECNO KI5k",
       "gpu": "Mali-G57",
