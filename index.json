@@ -3095,6 +3095,18 @@
       "timestamp": 1787325788
     }
   ],
+  "shovel_knight_treasure_trove": [
+    {
+      "filename": "xiaomi-2409brn2ca-1787457366.json",
+      "device_model": "Xiaomi 2409BRN2CA",
+      "gpu": "Mali-G52 MC2",
+      "ram": "8GB",
+      "storage": "224GB",
+      "notes": "Running around constant 60fps on a helio g81 ultra/Mali g52 mc2. Nothing to add, the game works perfectly from what I've seen, well, expect when the phone gets more than 46C then the fps drops to 50 and when it hits 47, the games runs around 25-30. just keep your phone cool and it will run fine. I was testing the game while some downloads were happening.",
+      "config_title": "Shovel knight",
+      "timestamp": 1787457366
+    }
+  ],
   "silent_hill_2": [
     {
       "filename": "xiaomi-2412dpc0ai-1783821433.json",

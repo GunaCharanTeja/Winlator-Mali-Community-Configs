@@ -1692,6 +1692,15 @@
     "mali_count": 2
   },
   {
+    "id": "shovel_knight_treasure_trove",
+    "name": "Shovel Knight: Treasure Trove",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/470f5c14b3dd20a9ee9c6df2938b137a.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "silent_hill_2",
     "name": "Silent Hill 2",
     "steam_id": null,
