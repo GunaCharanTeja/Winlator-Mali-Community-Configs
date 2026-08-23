@@ -179,6 +179,16 @@
   ],
   "assassin's_creed_iii_remastered": [
     {
+      "filename": "xiaomi-2511fpc34g-1787476430.json",
+      "device_model": "Xiaomi 2511FPC34G",
+      "gpu": "Mali-G720 MC8",
+      "ram": "8GB",
+      "storage": "479GB",
+      "notes": "Poco x8pro",
+      "config_title": "Ac3 remastered",
+      "timestamp": 1787476430
+    },
+    {
       "filename": "xiaomi-2412dpc0ag-1784558506.json",
       "device_model": "Xiaomi 2412DPC0AG",
       "gpu": "Mali-G720 MC7",
