@@ -3423,6 +3423,18 @@
       "timestamp": 1783728895
     }
   ],
+  "tomb_raider_legend": [
+    {
+      "filename": "xiaomi-2412dpc0ai-1787457022.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "poco X7 Pro \n12GB RAM\n\nTested in 900p, with all effects enabled (except fullscreen anti-aliasing).\nFixed FPS of 60 whether next-gen is enabled or disabled. \nWinlator Mali 1.2 Antutu",
+      "config_title": "D8400U",
+      "timestamp": 1787457022
+    }
+  ],
   "tpp_main_win64": [
     {
       "filename": "xiaomi-2511fpc34g-1786608127.json",

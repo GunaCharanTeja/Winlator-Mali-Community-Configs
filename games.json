@@ -1908,6 +1908,15 @@
     "mali_count": 2
   },
   {
+    "id": "tomb_raider_legend",
+    "name": "Tomb Raider: Legend",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/c6d5f5171cd82698ac48887890374f56.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "tpp_main_win64",
     "name": "Tpp_main_win64",
     "steam_id": null,
