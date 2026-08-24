@@ -1909,6 +1909,18 @@
       "timestamp": 1786050447
     }
   ],
+  "hades_ii": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1787536601.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "lock 60 fps in-game",
+      "config_title": "Hades 2",
+      "timestamp": 1787536601
+    }
+  ],
   "half-life_2": [
     {
       "filename": "xiaomi-2412dpc0ai-1786580429.json",

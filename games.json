@@ -990,6 +990,15 @@
     "mali_count": 1
   },
   {
+    "id": "hades_ii",
+    "name": "Hades II",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/8e578f16244ec68a2f29e6aa47eab621.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "half-life_2",
     "name": "Half-Life 2",
     "steam_id": null,
