@@ -3115,6 +3115,18 @@
       "timestamp": 1787325788
     }
   ],
+  "shipshaper": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1787536386.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "lock 60 in-game",
+      "config_title": "hades2",
+      "timestamp": 1787536386
+    }
+  ],
   "shovel_knight_treasure_trove": [
     {
       "filename": "xiaomi-2409brn2ca-1787457366.json",
