@@ -2741,6 +2741,18 @@
       "timestamp": 1784582497
     }
   ],
+  "projectmage": [
+    {
+      "filename": "xiaomi-2412dpc0ai-1787538314.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "tested on poco X7 pro",
+      "config_title": "Salt And Sacrifice",
+      "timestamp": 1787538314
+    }
+  ],
   "prototype": [
     {
       "filename": "google-pixel_9a-1787252880.json",
