@@ -1044,6 +1044,15 @@
     "mali_count": 1
   },
   {
+    "id": "james_bond_blood_stone",
+    "name": "James Bond: Blood Stone",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/ede7e2b6d13a41ddf9f4bdef84fdc737.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "just_cause_2",
     "name": "Just Cause 2",
     "steam_id": null,
