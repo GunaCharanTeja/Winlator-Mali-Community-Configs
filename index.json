@@ -1997,6 +1997,18 @@
       "timestamp": 1786980060
     }
   ],
+  "how_to_fish": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1787692081.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "Disable the grass 🌿 and adjust the shadows ⚫ in the Community Settings. Use fan cooler ❄️💨 Because this is not a stable configuration, ok.",
+      "config_title": "How to Fish 50-55 fps Not stable yet. Improve if you can.",
+      "timestamp": 1787692081
+    }
+  ],
   "idledownloadmanager": [
     {
       "filename": "samsung-sm_m066b-1784222080.json",

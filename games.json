@@ -1026,6 +1026,15 @@
     "mali_count": 1
   },
   {
+    "id": "how_to_fish",
+    "name": "How to Fish",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "idledownloadmanager",
     "name": "IdleDownloadManager",
     "steam_id": null,
