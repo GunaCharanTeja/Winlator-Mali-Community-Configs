@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "Dark Souls II",
+    "config_title": "DarkSoulls..2 60_Fps HD Version 1.12 Calibration 1.15",
+    "community_image": "https://cdn2.steamgriddb.com/grid/fb1bb58316723460f2a4400fd5acd49d.png",
+    "notes": "Test Mali GPU Dimensity 8400-Ultra 12gRam 60Fps stable Use Fan-cooler❄️💨 to avoid thermal throttling",
+    "device": {
+      "manufacturer": "Xiaomi",
+      "model": "2412DPC0AG",
+      "soc": "rodin",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB"
+    },
+    "timestamp": 1787690972
+  },
+  "container": {
+    "wineVersion": "proton-10-arm64ec",
+    "graphicsDriver": "wrapper-gamenative",
+    "graphicsDriverConfig": "gpuName=Device;presentMode=mailbox;blacklistedExtensions=;syncFrame=1;vulkanVersion=1.3;version=System;bcnEmulation=auto;maxDeviceMemory=0;bcnEmulationType=compute;bcnEmulationCache=1;disablePresentWait=1;astcTranscode=1;bcnQualityPreset=auto;etc2Transcode=0;resourceType=auto",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=v2.3.1-stripped,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+    "audioDriver": "pulseaudio",
+    "emulator": "fexcore",
+    "box64Version": "0.4.3",
+    "box64Preset": "PERFORMANCE",
+    "fexcoreVersion": "2605",
+    "fexcorePreset": "PERFORMANCE_TSO",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "0,1,2,3,4,5,6,7",
+    "screenSize": "1280x720",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=1,vcrun2010=1,directinput=0",
+    "showFPS": true,
+    "fullscreenStretched": false,
+    "startupSelection": 2,
+    "envVars": "WRAPPER_MAX_IMAGE_COUNT=0 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=512MB mesa_glthread=true WINEESYNC=1 PULSE_LATENCY_MSEC=40 WRAPPER_NO_PATCH_OPCONSTCOMP=1 FEX_SMCCHECKS=none BCN_TRANSCODE_TO_ASTC=1"
+  },
+  "shortcut": {
+    "name": "DarkSoulsII",
+    "path": "F:\\Download\\game\\Pc_Jogos\\Dark.Souls.II.SteamRIP.com\\Dark Souls II\\Game\\DarkSoulsII.exe",
+    "extraData": {
+      "emulationMode": "GAME_CONTROLLER",
+      "simTouchScreen": "0",
+      "screenSize": "1280x720",
+      "graphicsDriver": "wrapper-gamenative",
+      "graphicsDriverConfig": "gpuName=Device;presentMode=mailbox;blacklistedExtensions=;syncFrame=1;vulkanVersion=1.3;version=System;bcnEmulation=auto;maxDeviceMemory=0;bcnEmulationType=compute;bcnEmulationCache=1;disablePresentWait=1;astcTranscode=1;bcnQualityPreset=auto;etc2Transcode=0;resourceType=auto",
+      "dxwrapper": "dxvk+vkd3d",
+      "dxwrapperConfig": "version=1.10.3-async,framerate=0,async=1,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=5",
+      "audioDriver": "pulseaudio",
+      "emulator": "fexcore",
+      "midiSoundFont": "",
+      "lc_all": "in_ID.UTF-8",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=1,vcrun2010=1,directinput=0",
+      "fexcoreVersion": "2605",
+      "fexcorePreset": "PERFORMANCE_TSO",
+      "box64Preset": "PERFORMANCE",
+      "startupSelection": "2",
+      "sharpnessEffect": "CAS",
+      "sharpnessLevel": "67",
+      "sharpnessDenoise": "59",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "gtaOptimization": "1",
+      "controlsProfile": "8"
+    }
+  }
+}
