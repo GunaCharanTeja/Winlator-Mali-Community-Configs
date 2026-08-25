@@ -837,6 +837,16 @@
   ],
   "dark_souls_ii": [
     {
+      "filename": "xiaomi-2412dpc0ag-1787690972.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "Test Mali GPU Dimensity 8400-Ultra 12gRam 60Fps stable Use Fan-cooler❄️💨 to avoid thermal throttling",
+      "config_title": "DarkSoulls..2 60_Fps HD Version 1.12 Calibration 1.15",
+      "timestamp": 1787690972
+    },
+    {
       "filename": "xiaomi-2412dpc0ag-1786636582.json",
       "device_model": "Xiaomi 2412DPC0AG",
       "gpu": "Mali-G720 MC7",
