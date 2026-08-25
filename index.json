@@ -993,6 +993,16 @@
   ],
   "desktop_mate": [
     {
+      "filename": "xiaomi-2412dpc0ag-1787691719.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "Test Gpu Dimensity 8400-Ultra This is a test configuration until someone in the community finds a more stable one. It's possible to complete the game entirely... I disabled the grass. 🌿 and adjust the shadows⚫",
+      "config_title": "How To Fishi 50-55 Fps Oscillating Config Test Mali Gpu",
+      "timestamp": 1787691719
+    },
+    {
       "filename": "unknown-gammaos_full-1786018555.json",
       "device_model": "Unknown GammaOS Full",
       "gpu": "Mali-G57",
