@@ -1663,6 +1663,18 @@
       "timestamp": 1787059859
     }
   ],
+  "ghost_song": [
+    {
+      "filename": "xiaomi-2412dpc0ai-1787669321.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "",
+      "config_title": "Ghost Song 8400u",
+      "timestamp": 1787669321
+    }
+  ],
   "glaive": [
     {
       "filename": "infinix-infinix_x6876-1786370673.json",
