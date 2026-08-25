@@ -1353,6 +1353,16 @@
   ],
   "enslaved_odyssey_to_the_west_-_premium_edition": [
     {
+      "filename": "oppo-cph2697-1787658052.json",
+      "device_model": "Oppo CPH2697",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "458GB",
+      "notes": "",
+      "config_title": "working on Mali",
+      "timestamp": 1787658052
+    },
+    {
       "filename": "nothing-a015-1786903557.json",
       "device_model": "Nothing A015",
       "gpu": "Mali-G615 MC2",
