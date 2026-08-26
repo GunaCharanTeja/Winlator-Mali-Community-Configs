@@ -1939,6 +1939,18 @@
       "timestamp": 1784130589
     }
   ],
+  "gta_underground": [
+    {
+      "filename": "xiaomi-2406apnfag-1787765515.json",
+      "device_model": "Xiaomi 2406APNFAG",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "235GB",
+      "notes": "Gta Vice City (Libya MOD) bY: Mohamed Alzintany",
+      "config_title": "GTA Libya",
+      "timestamp": 1787765515
+    }
+  ],
   "gtavlauncher": [
     {
       "filename": "tecno-tecno_ki7-1785888120.json",

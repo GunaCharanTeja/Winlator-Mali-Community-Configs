@@ -990,6 +990,15 @@
     "mali_count": 3
   },
   {
+    "id": "gta_underground",
+    "name": "GTA: Underground",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "gtavlauncher",
     "name": "GTAVLauncher",
     "steam_id": null,
