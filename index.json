@@ -1073,6 +1073,18 @@
       "timestamp": 1783902416
     }
   ],
+  "devil_may_cry_4_special_edition": [
+    {
+      "filename": "motorola-moto_g35_5g-1787754067.json",
+      "device_model": "Motorola moto g35 5G",
+      "gpu": "Mali-G57",
+      "ram": "4GB",
+      "storage": "231GB",
+      "notes": "4ram unisoc T8100 gpu -57",
+      "config_title": "800x600 WrapperV2 Immediate Dxvk 1.5.5",
+      "timestamp": 1787754067
+    }
+  ],
   "devil_may_cry_5": [
     {
       "filename": "xiaomi-2412dpc0ag-1786545482.json",

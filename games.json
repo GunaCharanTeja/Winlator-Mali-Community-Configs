@@ -558,6 +558,15 @@
     "mali_count": 8
   },
   {
+    "id": "devil_may_cry_4_special_edition",
+    "name": "Devil May Cry 4: Special Edition",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/4eeb1115ee2f0d88fbddce8ae44b7ed4.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "devil_may_cry_5",
     "name": "Devil May Cry 5",
     "steam_id": null,
