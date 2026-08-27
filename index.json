@@ -977,6 +977,18 @@
       "timestamp": 1786762015
     }
   ],
+  "dbfighterz": [
+    {
+      "filename": "xiaomi-2311drk48g-1787847034.json",
+      "device_model": "Xiaomi 2311DRK48G",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "466GB",
+      "notes": "AzUcA",
+      "config_title": "60fps Medium Graph",
+      "timestamp": 1787847034
+    }
+  ],
   "dead_space_3": [
     {
       "filename": "xiaomi-2412dpc0ag-1784953992.json",
