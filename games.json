@@ -481,9 +481,9 @@
     "name": "Dark Souls II",
     "steam_id": null,
     "community_image": "https://cdn2.steamgriddb.com/grid/fb1bb58316723460f2a4400fd5acd49d.png",
-    "config_count": 3,
+    "config_count": 4,
     "adreno_count": 0,
-    "mali_count": 3
+    "mali_count": 4
   },
   {
     "id": "dark_souls_iii",

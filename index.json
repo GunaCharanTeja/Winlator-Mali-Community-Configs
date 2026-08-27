@@ -837,6 +837,16 @@
   ],
   "dark_souls_ii": [
     {
+      "filename": "xiaomi-22071219cg-1787797959.json",
+      "device_model": "Xiaomi 22071219CG",
+      "gpu": "Mali-G57 MC2",
+      "ram": "6GB",
+      "storage": "108GB",
+      "notes": "25-30",
+      "config_title": "Dark Souls 2 Poco M5",
+      "timestamp": 1787797959
+    },
+    {
       "filename": "xiaomi-2412dpc0ag-1787690972.json",
       "device_model": "Xiaomi 2412DPC0AG",
       "gpu": "Mali-G720 MC7",
