@@ -2369,6 +2369,16 @@
   ],
   "miside": [
     {
+      "filename": "tecno-tecno_lj7-1787843131.json",
+      "device_model": "Tecno TECNO LJ7",
+      "gpu": "Mali-G615 MC2",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "Tecno LJ7 dimesity 7300 (40-60fps)\n,puede que la configuración sea compatible con la serie mediatek helio g,y dimensity,",
+      "config_title": "Miside Mita MDimensity",
+      "timestamp": 1787843131
+    },
+    {
       "filename": "tecno_mobile_limited-tecno_le6h-1786810727.json",
       "device_model": "Tecno mobile limited TECNO LE6h",
       "gpu": "Mali-G57",
