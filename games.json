@@ -765,6 +765,15 @@
     "mali_count": 1
   },
   {
+    "id": "fallout_3",
+    "name": "Fallout 3",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/a423b182b90f568cd7459e04b4d86644.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "fallout_3_game_of_the_year_edition",
     "name": "Fallout 3: Game of the Year Edition",
     "steam_id": null,

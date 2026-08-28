@@ -1529,6 +1529,18 @@
       "timestamp": 1785358532
     }
   ],
+  "fallout_3": [
+    {
+      "filename": "realme-rmx5030-1787885967.json",
+      "device_model": "Realme RMX5030",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "223GB",
+      "notes": "",
+      "config_title": "Fallout 3 Config",
+      "timestamp": 1787885967
+    }
+  ],
   "fallout_3_game_of_the_year_edition": [
     {
       "filename": "itel-itel_s665l-1786374342.json",
