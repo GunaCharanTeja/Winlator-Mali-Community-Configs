@@ -1739,6 +1739,18 @@
       "timestamp": 1783803340
     }
   ],
+  "game": [
+    {
+      "filename": "samsung-sm_e066b-1787907878.json",
+      "device_model": "Samsung SM-E066B",
+      "gpu": "Mali-G57 MC2",
+      "ram": "4GB",
+      "storage": "47GB",
+      "notes": "low",
+      "config_title": "Spiderman",
+      "timestamp": 1787907878
+    }
+  ],
   "gearblocks": [
     {
       "filename": "xiaomi-zte_a2020g_pro-1787059859.json",
