@@ -1105,6 +1105,18 @@
       "timestamp": 1783902416
     }
   ],
+  "devil_may_cry_4": [
+    {
+      "filename": "samsung-sm_a155m-1787879158.json",
+      "device_model": "Samsung SM-A155M",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "It runs at 60 fps in Bloody Palace, but that doesn't depend so much on the hardware specs as it does on the config.ini file you use. If the game stutters, switch the wrapper to v2.",
+      "config_title": "Devil May Cry 4",
+      "timestamp": 1787879158
+    }
+  ],
   "devil_may_cry_4_special_edition": [
     {
       "filename": "motorola-moto_g35_5g-1787754067.json",
