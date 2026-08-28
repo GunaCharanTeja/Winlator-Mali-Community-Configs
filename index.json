@@ -2793,6 +2793,18 @@
       "timestamp": 1783864288
     }
   ],
+  "pes2017": [
+    {
+      "filename": "infinix-infinix_x6873-1787932395.json",
+      "device_model": "Infinix Infinix X6873",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "224GB",
+      "notes": "",
+      "config_title": "pes 17",
+      "timestamp": 1787932395
+    }
+  ],
   "playgtav": [
     {
       "filename": "samsung-sm_s936b-1784306779.json",
