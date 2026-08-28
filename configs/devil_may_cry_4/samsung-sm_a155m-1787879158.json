@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "Devil May Cry 4",
+    "config_title": "Devil May Cry 4",
+    "community_image": "https://cdn2.steamgriddb.com/grid/f85454e8279be180185cac7d243c5eb3.png",
+    "notes": "It runs at 60 fps in Bloody Palace, but that doesn't depend so much on the hardware specs as it does on the config.ini file you use. If the game stutters, switch the wrapper to v2.",
+    "device": {
+      "manufacturer": "samsung",
+      "model": "SM-A155M",
+      "soc": "a15",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "225GB"
+    },
+    "timestamp": 1787879158
+  },
+  "container": {
+    "wineVersion": "proton-10-arm64ec",
+    "graphicsDriver": "wrapper-v2",
+    "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=;maxDeviceMemory=2048;presentMode=mailbox;syncFrame=0;disablePresentWait=1;astcTranscode=1;etc2Transcode=0;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=1;gpuName=NVIDIA GeForce GTX 960M",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.10.3-async,framerate=0,async=1,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=3",
+    "audioDriver": "alsa",
+    "emulator": "box64",
+    "box64Version": "0.4.3",
+    "box64Preset": "PERFORMANCE",
+    "fexcoreVersion": "2605",
+    "fexcorePreset": "PERFORMANCE_TSO",
+    "cpuList": "4,5,6,7",
+    "cpuListWoW64": "4,5,6,7",
+    "screenSize": "1224x616",
+    "wincomponents": "direct3d=1,directsound=1,directmusic=1,directshow=0,directplay=0,xaudio=1,vcrun2010=1,directinput=0",
+    "showFPS": true,
+    "fullscreenStretched": false,
+    "startupSelection": 2,
+    "envVars": "WRAPPER_MAX_IMAGE_COUNT=3 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=512MB mesa_glthread=true WINEESYNC=1 PULSE_LATENCY_MSEC=40 WRAPPER_NO_PATCH_OPCONSTCOMP=1"
+  },
+  "shortcut": {
+    "name": "Devil May Cry 4",
+    "path": "F:\\Download\\JOGOS DE PC\\Devil May Cry 4\\DevilMayCry4_DX9.exe",
+    "extraData": {
+      "emulationMode": "GAME_CONTROLLER",
+      "disableXinput": "1",
+      "simTouchScreen": "0",
+      "screenSize": "1224x616",
+      "graphicsDriver": "wrapper-gamenative",
+      "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=;maxDeviceMemory=2048;presentMode=immediate;syncFrame=0;disablePresentWait=1;astcTranscode=1;etc2Transcode=0;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=1;gpuName=NVIDIA GeForce GTX 960M",
+      "dxwrapper": "dxvk+vkd3d",
+      "dxwrapperConfig": "version=1.5.5-async,framerate=0,async=1,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=3",
+      "audioDriver": "alsa",
+      "emulator": "fexcore",
+      "midiSoundFont": "",
+      "lc_all": "pt_BR.UTF-8",
+      "gtaOptimization": "1",
+      "wincomponents": "direct3d=1,directsound=1,directmusic=1,directshow=0,directplay=0,xaudio=1,vcrun2010=1,directinput=0",
+      "fexcoreVersion": "2605",
+      "fexcorePreset": "PERFORMANCE_TSO",
+      "box64Preset": "PERFORMANCE",
+      "startupSelection": "2",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "controlsProfile": "5",
+      "cpuList": "4,5,6,7",
+      "envVars": "FEX_SMCCHECKS=none"
+    }
+  }
+}
