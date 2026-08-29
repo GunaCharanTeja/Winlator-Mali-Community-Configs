@@ -1801,6 +1801,16 @@
   ],
   "gothic": [
     {
+      "filename": "xiaomi-2409brn2ca-1788010152.json",
+      "device_model": "Xiaomi 2409BRN2CA",
+      "gpu": "Mali-G52 MC2",
+      "ram": "8GB",
+      "storage": "224GB",
+      "notes": "I improved performance trying out a diffrent version of proton. a 10+fps boostfrom the 25-30fps. The stuttering is still there but less frequent. with a more powerful processor than my g81 ultra. well, you can use this or the other one and won't notice any diifrence. but, if you are interested to play this on a weak mali device, I got around 35-40fps.",
+      "config_title": "Gothic",
+      "timestamp": 1788010152
+    },
+    {
       "filename": "xiaomi-2409brn2ca-1787408592.json",
       "device_model": "Xiaomi 2409BRN2CA",
       "gpu": "Mali-G52 MC2",
