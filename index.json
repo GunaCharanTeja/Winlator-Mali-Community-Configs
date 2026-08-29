@@ -2979,6 +2979,18 @@
       "timestamp": 1784160994
     }
   ],
+  "prototype_2": [
+    {
+      "filename": "infinix-infinix_x6827-1787968433.json",
+      "device_model": "Infinix Infinix X6827",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "108GB",
+      "notes": "Albert ®",
+      "config_title": "Prototype 2",
+      "timestamp": 1787968433
+    }
+  ],
   "ravenfield": [
     {
       "filename": "vivo-v2430-1784712764.json",
