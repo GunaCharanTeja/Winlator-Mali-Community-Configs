@@ -1021,9 +1021,9 @@
     "name": "GTA5",
     "steam_id": null,
     "community_image": null,
-    "config_count": 4,
+    "config_count": 5,
     "adreno_count": 0,
-    "mali_count": 3
+    "mali_count": 4
   },
   {
     "id": "gta_underground",

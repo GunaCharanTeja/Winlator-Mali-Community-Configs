@@ -1955,6 +1955,16 @@
   ],
   "gta5": [
     {
+      "filename": "infinix-infinix_x6871-1788022660.json",
+      "device_model": "Infinix Infinix X6871",
+      "gpu": "Mali-G610 MC6",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "gta v",
+      "config_title": "Infinix Gt 20 Pro",
+      "timestamp": 1788022660
+    },
+    {
       "filename": "motorola-motorola_edge_60_fusion-1786479192.json",
       "device_model": "Motorola motorola edge 60 fusion",
       "gpu": "Mali-G615 MC2",
