@@ -2667,6 +2667,16 @@
   ],
   "nfsc": [
     {
+      "filename": "anbernic-rg557-1787987264.json",
+      "device_model": "Anbernic RG557",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "228GB",
+      "notes": "",
+      "config_title": "Need For Speed Carbon",
+      "timestamp": 1787987264
+    },
+    {
       "filename": "anbernic-rg557-1787987172.json",
       "device_model": "Anbernic RG557",
       "gpu": "Mali-G615 MC6",

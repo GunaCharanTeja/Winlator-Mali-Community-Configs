@@ -1426,9 +1426,9 @@
     "name": "NFSC",
     "steam_id": null,
     "community_image": null,
-    "config_count": 3,
+    "config_count": 4,
     "adreno_count": 0,
-    "mali_count": 3
+    "mali_count": 4
   },
   {
     "id": "nier_automata",
