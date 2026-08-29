@@ -3129,6 +3129,16 @@
   ],
   "resident_evil_6": [
     {
+      "filename": "infinix-infinix_x6850-1787990677.json",
+      "device_model": "Infinix Infinix X6850",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "Mediatek Helio G99 Ultimate,15-20 fps, более менее играбельно с геймпадом,на сенсорном управлении статеры и фризы",
+      "config_title": "Resident Evil 6",
+      "timestamp": 1787990677
+    },
+    {
       "filename": "xiaomi-2412dpc0ai-1785941921.json",
       "device_model": "Xiaomi 2412DPC0AI",
       "gpu": "Mali-G720 MC7",
