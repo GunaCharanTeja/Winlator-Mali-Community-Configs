@@ -1403,6 +1403,18 @@
       "timestamp": 1786208476
     }
   ],
+  "dyinglightgame": [
+    {
+      "filename": "xiaomi-2311drk48i-1788028842.json",
+      "device_model": "Xiaomi 2311DRK48I",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "30-60fps recommended resolution 960-544 8gb ram or more",
+      "config_title": "Dying Light",
+      "timestamp": 1788028842
+    }
+  ],
   "easy_red_2": [
     {
       "filename": "vivo-v2310-1784777664.json",
