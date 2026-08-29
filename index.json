@@ -3147,6 +3147,18 @@
       "timestamp": 1784404936
     }
   ],
+  "resident_evil_operation_raccoon_city": [
+    {
+      "filename": "infinix-infinix_x6827-1787968170.json",
+      "device_model": "Infinix Infinix X6827",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "108GB",
+      "notes": "",
+      "config_title": "Resident Evil - Operation Raccoon City",
+      "timestamp": 1787968170
+    }
+  ],
   "rimworld": [
     {
       "filename": "samsung-sm_s156v-1784588769.json",

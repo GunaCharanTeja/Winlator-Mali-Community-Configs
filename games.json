@@ -1701,6 +1701,15 @@
     "mali_count": 2
   },
   {
+    "id": "resident_evil_operation_raccoon_city",
+    "name": "Resident Evil: Operation Raccoon City",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/7fc7384b57ed54ae0b8845c492ff3ea6.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "rimworld",
     "name": "RimWorld",
     "steam_id": null,
