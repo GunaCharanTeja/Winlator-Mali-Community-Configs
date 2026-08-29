@@ -2641,6 +2641,18 @@
       "timestamp": 1784077411
     }
   ],
+  "nfs_shift_2": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1787965454.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "",
+      "config_title": "For Mali G720",
+      "timestamp": 1787965454
+    }
+  ],
   "nfsc": [
     {
       "filename": "xiaomi-23117ra68g-1787359304.json",

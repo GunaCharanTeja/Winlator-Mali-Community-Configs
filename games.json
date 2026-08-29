@@ -1404,6 +1404,15 @@
     "mali_count": 1
   },
   {
+    "id": "nfs_shift_2",
+    "name": "NFS Shift 2",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "nfsc",
     "name": "NFSC",
     "steam_id": null,
