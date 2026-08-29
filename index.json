@@ -2641,6 +2641,18 @@
       "timestamp": 1784077411
     }
   ],
+  "nfs": [
+    {
+      "filename": "realme-rmx3941-1787971604.json",
+      "device_model": "Realme RMX3941",
+      "gpu": "Mali-G52 MC2",
+      "ram": "8GB",
+      "storage": "221GB",
+      "notes": "",
+      "config_title": "NEED For Speed",
+      "timestamp": 1787971604
+    }
+  ],
   "nfs_shift_2": [
     {
       "filename": "xiaomi-2412dpc0ag-1787965454.json",
