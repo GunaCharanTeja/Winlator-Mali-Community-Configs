@@ -1825,6 +1825,16 @@
   ],
   "grand_theft_auto_iv_the_complete_edition": [
     {
+      "filename": "realme-rmx3269-1787993582.json",
+      "device_model": "Realme RMX3269",
+      "gpu": "Mali-G52",
+      "ram": "4GB",
+      "storage": "49GB",
+      "notes": "unisoc t610",
+      "config_title": "Gta 4 Complete Edition",
+      "timestamp": 1787993582
+    },
+    {
       "filename": "xiaomi-2511fpc34g-1787476281.json",
       "device_model": "Xiaomi 2511FPC34G",
       "gpu": "Mali-G720 MC8",
