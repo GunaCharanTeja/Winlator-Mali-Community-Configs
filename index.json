@@ -3147,6 +3147,18 @@
       "timestamp": 1784977159
     }
   ],
+  "resident_evil_4": [
+    {
+      "filename": "itel-itel_p661n-1788055721.json",
+      "device_model": "Itel itel P661N",
+      "gpu": "Mali-G57 MC2",
+      "ram": "6GB",
+      "storage": "110GB",
+      "notes": "Tested in Dimensity 6080 perfectly well in 30 Fps low setting with HD texture",
+      "config_title": "Resident Evil 4 UHD",
+      "timestamp": 1788055721
+    }
+  ],
   "resident_evil_5": [
     {
       "filename": "tecno-tecno_lh7n-1786286236.json",
