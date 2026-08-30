@@ -1206,6 +1206,15 @@
     "mali_count": 1
   },
   {
+    "id": "lego_marvel_super_heroes_2",
+    "name": "LEGO Marvel Super Heroes 2",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "lego_marvel's_avengers",
     "name": "LEGO Marvel's Avengers",
     "steam_id": null,

@@ -2329,6 +2329,18 @@
       "timestamp": 1786066296
     }
   ],
+  "lego_marvel_super_heroes_2": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1788101973.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "",
+      "config_title": "Legomarvel",
+      "timestamp": 1788101973
+    }
+  ],
   "lok_digital": [
     {
       "filename": "xiaomi-2311drk48g-1783892739.json",
