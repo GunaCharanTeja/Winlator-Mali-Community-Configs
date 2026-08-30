@@ -3033,6 +3033,16 @@
   ],
   "prototype": [
     {
+      "filename": "xiaomi-2412dpc0ag-1788072897.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "",
+      "config_title": "Prototype Poco X7 Pro",
+      "timestamp": 1788072897
+    },
+    {
       "filename": "google-pixel_9a-1787252880.json",
       "device_model": "Google Pixel 9a",
       "gpu": "Mali-G715",
