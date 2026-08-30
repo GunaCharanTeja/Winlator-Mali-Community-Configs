@@ -1799,6 +1799,16 @@
   ],
   "glaive": [
     {
+      "filename": "samsung-sm_a146m-1788122215.json",
+      "device_model": "Samsung SM-A146M",
+      "gpu": "Mali-G68",
+      "ram": "4GB",
+      "storage": "110GB",
+      "notes": "gta 4 lite configuração melhorada",
+      "config_title": "Config Gta Iv",
+      "timestamp": 1788122215
+    },
+    {
       "filename": "infinix-infinix_x6876-1786370673.json",
       "device_model": "Infinix Infinix X6876",
       "gpu": "Mali-G615 MC2",
