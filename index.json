@@ -1127,6 +1127,16 @@
   ],
   "devil_may_cry_4": [
     {
+      "filename": "motorola-moto_g15-1788211674.json",
+      "device_model": "Motorola moto g15",
+      "gpu": "Mali-G52 MC2",
+      "ram": "4GB",
+      "storage": "224GB",
+      "notes": "configuration for a low-end phone with 4GB of RAM",
+      "config_title": "Devil Cry 4 settings Gpu Mali",
+      "timestamp": 1788211674
+    },
+    {
       "filename": "samsung-sm_a155m-1787879158.json",
       "device_model": "Samsung SM-A155M",
       "gpu": "Mali-G57 MC2",
