@@ -879,6 +879,16 @@
   ],
   "dark_souls_iii": [
     {
+      "filename": "infinix-infinix_x6873-1788175400.json",
+      "device_model": "Infinix Infinix X6873",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "224GB",
+      "notes": "this is really not what you are looking for",
+      "config_title": "this is not the setting you are looking for",
+      "timestamp": 1788175400
+    },
+    {
       "filename": "infinix-infinix_x6873-1787757030.json",
       "device_model": "Infinix Infinix X6873",
       "gpu": "Mali-G615 MC6",
