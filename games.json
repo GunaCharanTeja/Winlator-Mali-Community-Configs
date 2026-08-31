@@ -1386,6 +1386,15 @@
     "mali_count": 1
   },
   {
+    "id": "naruto_shippuden_ultimate_ninja_storm_2",
+    "name": "Naruto Shippuden: Ultimate Ninja STORM 2",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/5798d02b36d1ca22986901f9144c5499.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "naruto_ultimate_ninja_storm",
     "name": "Naruto: Ultimate Ninja STORM",
     "steam_id": null,

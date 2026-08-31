@@ -2667,6 +2667,18 @@
       "timestamp": 1785419618
     }
   ],
+  "naruto_shippuden_ultimate_ninja_storm_2": [
+    {
+      "filename": "xiaomi-22041216c-1788197968.json",
+      "device_model": "Xiaomi 22041216C",
+      "gpu": "Mali-G610 MC6",
+      "ram": "8GB",
+      "storage": "107GB",
+      "notes": "",
+      "config_title": "NARUTO STORM 2",
+      "timestamp": 1788197968
+    }
+  ],
   "naruto_ultimate_ninja_storm": [
     {
       "filename": "infinix-infinix_x6853-1783683151.json",
