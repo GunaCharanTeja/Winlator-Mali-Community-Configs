@@ -1795,6 +1795,18 @@
       "timestamp": 1787059859
     }
   ],
+  "gears_of_war_2": [
+    {
+      "filename": "tecno-tecno_lh7n-1788194012.json",
+      "device_model": "Tecno TECNO LH7n",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "229GB",
+      "notes": "WINEESYNC = 1\nWINENTSYNC = 1",
+      "config_title": "Gears Of War 2",
+      "timestamp": 1788194012
+    }
+  ],
   "ghost_song": [
     {
       "filename": "xiaomi-2412dpc0ai-1787669321.json",
