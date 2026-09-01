@@ -3185,6 +3185,16 @@
   ],
   "prototype_2": [
     {
+      "filename": "infinix-infinix_x6873-1788245638.json",
+      "device_model": "Infinix Infinix X6873",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "224GB",
+      "notes": "Jhongzkie",
+      "config_title": "Photo",
+      "timestamp": 1788245638
+    },
+    {
       "filename": "infinix-infinix_x6827-1787968433.json",
       "device_model": "Infinix Infinix X6827",
       "gpu": "Mali-G57 MC2",
