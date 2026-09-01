@@ -1089,6 +1089,15 @@
     "mali_count": 2
   },
   {
+    "id": "hellblade_senua's_sacrifice",
+    "name": "Hellblade: Senua's Sacrifice",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/3fc06f67aee6f5b0ba81b9b81385b0ad.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "hitman_absolution",
     "name": "Hitman: Absolution",
     "steam_id": null,

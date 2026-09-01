@@ -2171,6 +2171,18 @@
       "timestamp": 1783606441
     }
   ],
+  "hellblade_senua's_sacrifice": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1788243520.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "hell",
+      "config_title": "hell",
+      "timestamp": 1788243520
+    }
+  ],
   "hitman_absolution": [
     {
       "filename": "realme-realme_note_60-1788114419.json",
