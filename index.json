@@ -3817,6 +3817,18 @@
       "timestamp": 1786374419
     }
   ],
+  "tales_from_the_borderlands": [
+    {
+      "filename": "xiaomi-2412dpc0ai-1788283585.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "+100fps \neverything on Max  \n720p\nNo major issues, native gamepad support.",
+      "config_title": "D8400U",
+      "timestamp": 1788283585
+    }
+  ],
   "tekken_7": [
     {
       "filename": "infinix-infinix_x6853-1786482873.json",

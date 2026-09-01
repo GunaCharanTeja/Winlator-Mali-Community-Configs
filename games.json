@@ -2061,6 +2061,15 @@
     "mali_count": 1
   },
   {
+    "id": "tales_from_the_borderlands",
+    "name": "Tales from the Borderlands",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/d444c179d8e56c98939b1696d1f4f201.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "tekken_7",
     "name": "Tekken 7",
     "steam_id": null,
