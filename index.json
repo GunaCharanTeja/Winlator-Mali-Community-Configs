@@ -651,6 +651,16 @@
   ],
   "castlevania_lords_of_shadow_2": [
     {
+      "filename": "samsung-sm_a165m-1788376076.json",
+      "device_model": "Samsung SM-A165M",
+      "gpu": "Mali-G57 MC2",
+      "ram": "4GB",
+      "storage": "106GB",
+      "notes": "",
+      "config_title": "Jose",
+      "timestamp": 1788376076
+    },
+    {
       "filename": "tecno-tecno_ki5k-1785364297.json",
       "device_model": "Tecno TECNO KI5k",
       "gpu": "Mali-G57",
