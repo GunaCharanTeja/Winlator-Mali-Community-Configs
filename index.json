@@ -1,4 +1,16 @@
 {
+  "1": [
+    {
+      "filename": "xiaomi-2311drk48g-1788365820.json",
+      "device_model": "Xiaomi 2311DRK48G",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "466GB",
+      "notes": "",
+      "config_title": "Cuphead Poco X6 Pro O Dimensity 8300 ultra",
+      "timestamp": 1788365820
+    }
+  ],
   "agent_64_spies_never_die": [
     {
       "filename": "infinix-infinix_x6827-1786821885.json",
