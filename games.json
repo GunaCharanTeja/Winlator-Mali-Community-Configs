@@ -1477,12 +1477,12 @@
   },
   {
     "id": "nfs_shift_2",
-    "name": "NFS Shift 2",
+    "name": "NFS SHIFT 2",
     "steam_id": null,
     "community_image": null,
-    "config_count": 1,
+    "config_count": 2,
     "adreno_count": 0,
-    "mali_count": 1
+    "mali_count": 2
   },
   {
     "id": "nfs11",

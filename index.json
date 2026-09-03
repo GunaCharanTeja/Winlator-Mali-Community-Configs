@@ -2861,6 +2861,16 @@
   ],
   "nfs_shift_2": [
     {
+      "filename": "xiaomi-2511fpc34g-1788469561.json",
+      "device_model": "Xiaomi 2511FPC34G",
+      "gpu": "Mali-G720 MC8",
+      "ram": "8GB",
+      "storage": "479GB",
+      "notes": "POCO X8 PRO 8+8/528 45FPS CON TODO AL MÁXIMO",
+      "config_title": "NFS SHIFT 2",
+      "timestamp": 1788469561
+    },
+    {
       "filename": "xiaomi-2412dpc0ag-1787965454.json",
       "device_model": "Xiaomi 2412DPC0AG",
       "gpu": "Mali-G720 MC7",
