@@ -2847,6 +2847,18 @@
       "timestamp": 1787971604
     }
   ],
+  "nfs11": [
+    {
+      "filename": "xiaomi-2511fpc34g-1788461134.json",
+      "device_model": "Xiaomi 2511FPC34G",
+      "gpu": "Mali-G720 MC8",
+      "ram": "8GB",
+      "storage": "479GB",
+      "notes": "POCO X8 PRO 8+8 virtual /528 a 60fps sin caída",
+      "config_title": "Need For Speed Hot Pursuit 2010",
+      "timestamp": 1788461134
+    }
+  ],
   "nfs_shift_2": [
     {
       "filename": "xiaomi-2412dpc0ag-1787965454.json",
