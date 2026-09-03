@@ -1593,6 +1593,15 @@
     "mali_count": 1
   },
   {
+    "id": "pes_dream_patch_(program)",
+    "name": "PES Dream Patch (Program)",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "pes2017",
     "name": "PES2017",
     "steam_id": null,

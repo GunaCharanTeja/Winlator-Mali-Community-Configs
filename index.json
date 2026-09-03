@@ -3065,6 +3065,18 @@
       "timestamp": 1787932395
     }
   ],
+  "pes_dream_patch_(program)": [
+    {
+      "filename": "xiaomi-2412dpc0ai-1788476383.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "",
+      "config_title": "Pes",
+      "timestamp": 1788476383
+    }
+  ],
   "playgtav": [
     {
       "filename": "samsung-sm_s936b-1784306779.json",
