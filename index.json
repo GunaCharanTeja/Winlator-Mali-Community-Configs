@@ -1921,6 +1921,16 @@
   ],
   "grand_theft_auto_iv_the_complete_edition": [
     {
+      "filename": "xiaomi-2412dpc0ag-1788454677.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "",
+      "config_title": "Poco",
+      "timestamp": 1788454677
+    },
+    {
       "filename": "realme-rmx3269-1787993582.json",
       "device_model": "Realme RMX3269",
       "gpu": "Mali-G52",
