@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "Mafia II: Definitive Edition",
+    "config_title": "Low Settings 1312*610",
+    "community_image": "https://cdn2.steamgriddb.com/grid/74141ecbbe85a54f9283bd78c55bf9f5.png",
+    "notes": "stable 30fps at 3-4.5watt on md 8400 in ultra battery saver mode",
+    "device": {
+      "manufacturer": "Xiaomi",
+      "model": "2412DPC0AI",
+      "soc": "rodin",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB"
+    },
+    "timestamp": 1788547479
+  },
+  "container": {
+    "wineVersion": "proton-10-arm64ec",
+    "graphicsDriver": "wrapper-gamenative",
+    "graphicsDriverConfig": "gpuName=Device;presentMode=mailbox;blacklistedExtensions=;syncFrame=0;vulkanVersion=1.3;version=System;bcnEmulation=auto;maxDeviceMemory=0;bcnEmulationType=compute;bcnEmulationCache=0;disablePresentWait=0;astcTranscode=1;etc2Transcode=0;resourceType=auto",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.7.2,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1",
+    "audioDriver": "pulseaudio",
+    "emulator": "fexcore",
+    "box64Version": "0.4.3",
+    "box64Preset": "PERFORMANCE",
+    "fexcoreVersion": "2601",
+    "fexcorePreset": "CUSTOM",
+    "fexcorePresetName": "Performance +",
+    "fexcorePresetVars": "FEX_TSOENABLED=0 FEX_VECTORTSOENABLED=0 FEX_HALFBARRIERTSOENABLED=0 FEX_MEMCPYSETTSOENABLED=0 FEX_X87REDUCEDPRECISION=0 FEX_MULTIBLOCK=0 FEX_MAXINST=10000 FEX_HOSTFEATURES=enablesve FEX_SMALLTSCSCALE=1 FEX_SMC_CHECKS=none FEX_VOLATILEMETADATA=1 FEX_MONOHACKS=1 FEX_HIDEHYPERVISORBIT=0 FEX_DISABLEL2CACHE=0 FEX_DYNAMICL1CACHE=0",
+    "cpuList": "4,5,6,7",
+    "cpuListWoW64": "4,5,6,7",
+    "screenSize": "1920x1080",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": false,
+    "fullscreenStretched": true,
+    "startupSelection": 2
+  },
+  "shortcut": {
+    "name": "Mafia II: Definitive Edition",
+    "path": "F:\\Download\\1DM\\Programs\\Mafia II - Definitive Edition\\pc\\Mafia II Definitive Edition.exe",
+    "extraData": {
+      "box64Version": "0.4.3",
+      "emulationMode": "GAME_CONTROLLER",
+      "simTouchScreen": "0",
+      "screenSize": "1312x610",
+      "graphicsDriver": "wrapper-gamenative",
+      "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=;maxDeviceMemory=0;presentMode=mailbox;syncFrame=0;disablePresentWait=0;astcTranscode=1;etc2Transcode=0;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=0;gpuName=Device",
+      "dxwrapper": "dxvk+vkd3d",
+      "dxwrapperConfig": "version=2.6.2-1-gplasync-0,framerate=0,async=1,asyncCache=1,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+      "audioDriver": "pulseaudio",
+      "emulator": "fexcore",
+      "midiSoundFont": "",
+      "lc_all": "en_IN.UTF-8",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+      "fexcoreVersion": "hybrid-x86",
+      "fexcorePreset": "CUSTOM",
+      "box64Preset": "PERFORMANCE",
+      "startupSelection": "2",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "cpuList": "4,5,6,7"
+    }
+  }
+}
