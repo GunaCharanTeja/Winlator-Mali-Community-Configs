@@ -2527,6 +2527,16 @@
   ],
   "mafia_ii_definitive_edition": [
     {
+      "filename": "xiaomi-2412dpc0ai-1788547479.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "stable 30fps at 3-4.5watt on md 8400 in ultra battery saver mode",
+      "config_title": "Low Settings 1312*610",
+      "timestamp": 1788547479
+    },
+    {
       "filename": "xiaomi-2412dpc0ag-1786980000.json",
       "device_model": "Xiaomi 2412DPC0AG",
       "gpu": "Mali-G720 MC7",
