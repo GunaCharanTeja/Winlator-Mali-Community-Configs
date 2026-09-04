@@ -2809,6 +2809,16 @@
   ],
   "need_for_speed_hot_pursuit": [
     {
+      "filename": "samsung-sm_x230-1788533342.json",
+      "device_model": "Samsung SM-X230",
+      "gpu": "Mali-G615 MC2",
+      "ram": "6GB",
+      "storage": "104GB",
+      "notes": "use this dxvk.conf its very important for 30 fps\n LINK:https://www.mediafire.com/file/p041lx20h2k4rvk/dxvk.conf%252B_controller_fix_if_bugged%255Bpaste_in_game_folder%255D.zip/file",
+      "config_title": "30 Fps Pretty Stable",
+      "timestamp": 1788533342
+    },
+    {
       "filename": "xiaomi-2311drk48g-1787748699.json",
       "device_model": "Xiaomi 2311DRK48G",
       "gpu": "Mali-G615 MC6",

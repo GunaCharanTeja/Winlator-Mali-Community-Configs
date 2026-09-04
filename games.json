@@ -1435,9 +1435,9 @@
     "name": "Need for Speed: Hot Pursuit",
     "steam_id": null,
     "community_image": "https://cdn2.steamgriddb.com/grid/bd6bb145d621e39c53017470ab6b1fb5.png",
-    "config_count": 1,
+    "config_count": 2,
     "adreno_count": 0,
-    "mali_count": 1
+    "mali_count": 2
   },
   {
     "id": "need_for_speed_most_wanted",
