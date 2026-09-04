@@ -2051,6 +2051,16 @@
   ],
   "gta5": [
     {
+      "filename": "google-pixel_8-1788508323.json",
+      "device_model": "Google Pixel 8",
+      "gpu": "Mali-G715",
+      "ram": "8GB",
+      "storage": "110GB",
+      "notes": "- 14-22 FPS with stutters\n- Tested on GrapheneOS (Android 17)\n- No graphical glitches\n- Doesnt crash on prologue and on franklin/trevor/michael missions\n- Remove other background processes\n- Dont install winlator mali on google container (If using GrapheneOS)\n- Consider installing GrapheneOS (for performance boost and more ram available)",
+      "config_title": "GTA V mali-G715 (Google Pixel 8)",
+      "timestamp": 1788508323
+    },
+    {
       "filename": "infinix-infinix_x6871-1788022660.json",
       "device_model": "Infinix Infinix X6871",
       "gpu": "Mali-G610 MC6",
