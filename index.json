@@ -3653,6 +3653,18 @@
       "timestamp": 1785069965
     }
   ],
+  "shadowofmordor": [
+    {
+      "filename": "realme-rmx5030-1788520409.json",
+      "device_model": "Realme RMX5030",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "223GB",
+      "notes": "",
+      "config_title": "Middle Earth Shadow Of Mordor",
+      "timestamp": 1788520409
+    }
+  ],
   "shank_2": [
     {
       "filename": "samsung-sm_a346e-1783631774.json",
