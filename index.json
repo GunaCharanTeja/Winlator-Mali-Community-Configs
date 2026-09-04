@@ -2747,6 +2747,16 @@
   ],
   "nba_2k14": [
     {
+      "filename": "tecno-tecno_cl6-1788484377.json",
+      "device_model": "Tecno TECNO CL6",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "227GB",
+      "notes": "30fps+",
+      "config_title": "Mali Configs",
+      "timestamp": 1788484377
+    },
+    {
       "filename": "xiaomi-24117rn76g-1784036514.json",
       "device_model": "Xiaomi 24117RN76G",
       "gpu": "Mali-G57 MC2",
