@@ -2575,6 +2575,16 @@
   ],
   "metal_gear_rising_revengeance": [
     {
+      "filename": "xiaomi-2511fpc34g-1788524415.json",
+      "device_model": "Xiaomi 2511FPC34G",
+      "gpu": "Mali-G720 MC8",
+      "ram": "8GB",
+      "storage": "479GB",
+      "notes": "poco x8 pro con todo al máximo 30fps estables",
+      "config_title": "METAL GEAR RISING",
+      "timestamp": 1788524415
+    },
+    {
       "filename": "xiaomi-2412dpc0ag-1786226713.json",
       "device_model": "Xiaomi 2412DPC0AG",
       "gpu": "Mali-G720 MC7",
