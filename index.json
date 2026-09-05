@@ -2147,6 +2147,16 @@
   ],
   "gtavlauncher": [
     {
+      "filename": "samsung-sm_a546e-1788624934.json",
+      "device_model": "Samsung SM-A546E",
+      "gpu": "Mali-G68",
+      "ram": "8GB",
+      "storage": "106GB",
+      "notes": "configuração para não dar crash no gta 5 completo de pc no winlator mali, é para bom funcionamento nos dispositivos exatamente exynos1380 ou acima deste processador",
+      "config_title": "GTAV-72GB LEGACY - configuração",
+      "timestamp": 1788624934
+    },
+    {
       "filename": "tecno-tecno_ki7-1785888120.json",
       "device_model": "Tecno TECNO KI7",
       "gpu": "Mali-G52 MC2",
