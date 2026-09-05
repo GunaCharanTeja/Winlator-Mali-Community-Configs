@@ -4069,6 +4069,18 @@
       "timestamp": 1786980031
     }
   ],
+  "the_witcher_enhanced_edition": [
+    {
+      "filename": "xiaomi-2311drk48i-1788589524.json",
+      "device_model": "Xiaomi 2311DRK48I",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "30 to 55 FPS; 8 GB of RAM recommended.",
+      "config_title": "Witcher 3 Wid Hunt",
+      "timestamp": 1788589524
+    }
+  ],
   "thekillingantidote-win64-shipping": [
     {
       "filename": "xiaomi-21061110ag-1783874530.json",
