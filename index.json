@@ -3585,6 +3585,18 @@
       "timestamp": 1784588769
     }
   ],
+  "rise_of_the_tomb_raider": [
+    {
+      "filename": "infinix-infinix_x6870-1788718817.json",
+      "device_model": "Infinix Infinix X6870",
+      "gpu": "Mali-G615 MC2",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "Dimensity 7300",
+      "config_title": "Infinix Not 50 S",
+      "timestamp": 1788718817
+    }
+  ],
   "robloxstudiobeta": [
     {
       "filename": "xiaomi-2412dpc0ag-1784858614.json",
