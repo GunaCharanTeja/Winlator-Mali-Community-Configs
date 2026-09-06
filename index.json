@@ -301,6 +301,16 @@
   ],
   "at_the_mountains_of_madness": [
     {
+      "filename": "xiaomi-2511fpc34g-1788702071.json",
+      "device_model": "Xiaomi 2511FPC34G",
+      "gpu": "Mali-G720 MC8",
+      "ram": "8GB",
+      "storage": "479GB",
+      "notes": "POCO X8 PRO 30FPS ESTABLES",
+      "config_title": "DBZ KAKAROT OPTI",
+      "timestamp": 1788702071
+    },
+    {
       "filename": "xiaomi-2311drk48g-1785237834.json",
       "device_model": "Xiaomi 2311DRK48G",
       "gpu": "Mali-G615 MC6",
