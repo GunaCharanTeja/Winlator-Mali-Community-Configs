@@ -567,6 +567,16 @@
   ],
   "cad_xr": [
     {
+      "filename": "samsung-sm_m307f-1788707170.json",
+      "device_model": "Samsung SM-M307F",
+      "gpu": "Mali-G72",
+      "ram": "6GB",
+      "storage": "113GB",
+      "notes": "45 fps lock",
+      "config_title": "S.T.A.L.K.E.R : Shadow Of Chernobyl",
+      "timestamp": 1788707170
+    },
+    {
       "filename": "itel-itel_s665l-1784461018.json",
       "device_model": "Itel itel S665L",
       "gpu": "Mali-G57",
