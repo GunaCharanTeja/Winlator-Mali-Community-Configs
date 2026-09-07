@@ -1467,6 +1467,15 @@
     "mali_count": 1
   },
   {
+    "id": "need_for_speed_underground_2",
+    "name": "Need for Speed: Underground 2",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/5668d47be85d5ae4f6a19a1a165ac009.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "nfs",
     "name": "nfs",
     "steam_id": null,

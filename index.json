@@ -2925,6 +2925,18 @@
       "timestamp": 1784077411
     }
   ],
+  "need_for_speed_underground_2": [
+    {
+      "filename": "xiaomi-25028rn03a-1788793269.json",
+      "device_model": "Xiaomi 25028RN03A",
+      "gpu": "Mali-G57",
+      "ram": "3GB",
+      "storage": "50GB",
+      "notes": "",
+      "config_title": "G85",
+      "timestamp": 1788793269
+    }
+  ],
   "nfs": [
     {
       "filename": "realme-rmx3941-1787971604.json",
