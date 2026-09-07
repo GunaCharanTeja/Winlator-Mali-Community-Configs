@@ -3169,6 +3169,16 @@
   ],
   "playgtav": [
     {
+      "filename": "xiaomi-2311drk48i-1788775539.json",
+      "device_model": "Xiaomi 2311DRK48I",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "mediatek dimensitiy 8300ultra 40-50fps stabile",
+      "config_title": "Gta 5",
+      "timestamp": 1788775539
+    },
+    {
       "filename": "samsung-sm_s936b-1784306779.json",
       "device_model": "Samsung SM-S936B",
       "gpu": "Adreno (TM) 830",
