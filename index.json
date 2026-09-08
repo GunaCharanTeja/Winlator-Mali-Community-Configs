@@ -405,6 +405,16 @@
   ],
   "beastofreincarnation": [
     {
+      "filename": "oppo-cph2737-1788855149.json",
+      "device_model": "Oppo CPH2737",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "457GB",
+      "notes": "",
+      "config_title": "BeastOfReincarnation",
+      "timestamp": 1788855149
+    },
+    {
       "filename": "oppo-cph2737-1788849940.json",
       "device_model": "Oppo CPH2737",
       "gpu": "Mali-G615 MC6",
