@@ -1543,6 +1543,18 @@
       "timestamp": 1786903557
     }
   ],
+  "f1_2011": [
+    {
+      "filename": "infinix-infinix_x6858-1788847130.json",
+      "device_model": "Infinix Infinix X6858",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "224GB",
+      "notes": "FPS: 20-30. Fps reduces when turning using virtual gamepad. So I either olay the game using a Bluetooth controller or Keyboard controls.\n\nIMPORTANT \n\nWhen you launch the game, go to \"MY F1\" in main menu. Then go to \"Graphics\"\n\nTurn off 4x MSAA Anti aliasing and put the preset for settings on \"Ultra Low\"\n\nThe game uses DirectX11 by default. It also supports DirectX9.\n\nUsing DirectX9 could \"potentially\" give more performance if you're using a low end Mali gpu. But I'm not sure because I haven't tested it.\n\nDirectX9 has much slower loading times than DirectX11 though.\n\n\n\n\nIf you want to use Direct X9, either change it in the Graphics settings of the game or follow this other method:\n\nLaunch the game for the first time so that Winlator creates the settings and save file path in C: drive. Go to your File Manager in Winlator Mali.\n\nThen go to C: drive. Follow this path:\n\nusers > xuser(or whatever username you have) > Documents > My Games > FormulaOne2011 > hardwaresettings \n\nlook for the file ending in config.xml. Cut and paste it to your D: drive (Downloads folder) so that you can edit it using ZArchiver. \n\nOpen it in ZArchiver with the option \"ZArchiver Text\". Look for where it says \"directX9 = \"false\" .\n\nchange it to true and save changes. Now go back to Winlator and enter the file manager.\n\nMake sure you're in D: drive. look for the config file you edited. Using Winlator file manager, cut and paste it back to the this path in your C: drive:\n\nusers > xuser(or whatever username you have) > Documents > My Games > FormulaOne2011 > hardwaresettings \n\nmake sure the newly edited config file is in hardwaresettings folder.\n\nnow launch the game. it will start using DirectX9",
+      "config_title": "LOW END CONFIG",
+      "timestamp": 1788847130
+    }
+  ],
   "f1_2013": [
     {
       "filename": "xiaomi-2412dpc0ai-1784590701.json",
