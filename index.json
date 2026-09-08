@@ -879,6 +879,16 @@
   ],
   "cuphead": [
     {
+      "filename": "blackview-tab_12-1788900654.json",
+      "device_model": "Blackview Tab 12",
+      "gpu": "PowerVR Rogue GE8322",
+      "ram": "4GB",
+      "storage": "53GB",
+      "notes": "",
+      "config_title": "Ccx",
+      "timestamp": 1788900654
+    },
+    {
       "filename": "vivo-v2446-1785528777.json",
       "device_model": "Vivo V2446",
       "gpu": "Mali-G57 MC2",
