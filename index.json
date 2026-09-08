@@ -2659,6 +2659,16 @@
   ],
   "miside": [
     {
+      "filename": "samsung-sm_n975f-1788838206.json",
+      "device_model": "Samsung SM-N975F",
+      "gpu": "Mali-G76",
+      "ram": "12GB",
+      "storage": "230GB",
+      "notes": "",
+      "config_title": "MiSide Sam Note 10 Plus",
+      "timestamp": 1788838206
+    },
+    {
       "filename": "tecno-tecno_lj7-1787843131.json",
       "device_model": "Tecno TECNO LJ7",
       "gpu": "Mali-G615 MC2",
