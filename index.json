@@ -3883,6 +3883,18 @@
       "timestamp": 1785590204
     }
   ],
+  "skdig64": [
+    {
+      "filename": "realme-rmx3501-1788844181.json",
+      "device_model": "Realme RMX3501",
+      "gpu": "Mali-G57",
+      "ram": "3GB",
+      "storage": "20GB",
+      "notes": "for mali low end",
+      "config_title": "Shovel Knight Dig",
+      "timestamp": 1788844181
+    }
+  ],
   "skyrimselauncher": [
     {
       "filename": "xiaomi-2311drk48g-1784306587.json",
