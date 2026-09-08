@@ -2115,6 +2115,16 @@
   ],
   "gta5": [
     {
+      "filename": "xiaomi-2311drk48g-1788886200.json",
+      "device_model": "Xiaomi 2311DRK48G",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "gta 5",
+      "config_title": "poxo x6 pro",
+      "timestamp": 1788886200
+    },
+    {
       "filename": "google-pixel_8-1788508323.json",
       "device_model": "Google Pixel 8",
       "gpu": "Mali-G715",
