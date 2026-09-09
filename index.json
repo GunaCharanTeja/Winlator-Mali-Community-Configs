@@ -1235,6 +1235,16 @@
   ],
   "devil_may_cry_4_special_edition": [
     {
+      "filename": "xiaomi-23100rn82l-1788974339.json",
+      "device_model": "Xiaomi 23100RN82L",
+      "gpu": "Mali-G52 MC2",
+      "ram": "4GB",
+      "storage": "106GB",
+      "notes": "sla",
+      "config_title": "Sla",
+      "timestamp": 1788974339
+    },
+    {
       "filename": "motorola-moto_g35_5g-1787754067.json",
       "device_model": "Motorola moto g35 5G",
       "gpu": "Mali-G57",
