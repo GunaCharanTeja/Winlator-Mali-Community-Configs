@@ -609,6 +609,18 @@
       "timestamp": 1784461018
     }
   ],
+  "call_of_duty_4_modern_warfare": [
+    {
+      "filename": "xiaomi-25028rn03a-1788935178.json",
+      "device_model": "Xiaomi 25028RN03A",
+      "gpu": "Mali-G57",
+      "ram": "3GB",
+      "storage": "50GB",
+      "notes": "",
+      "config_title": "Call Of Duty Modern Warfare 1",
+      "timestamp": 1788935178
+    }
+  ],
   "call_of_duty_black_ops": [
     {
       "filename": "xiaomi-2311drk48g-1786580099.json",

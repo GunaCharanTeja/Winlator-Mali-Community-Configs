@@ -315,6 +315,15 @@
     "mali_count": 2
   },
   {
+    "id": "call_of_duty_4_modern_warfare",
+    "name": "Call of Duty 4: Modern Warfare",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/31754bacf7f85334b4671bcb1ae6c2c0.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "call_of_duty_black_ops",
     "name": "Call of Duty: Black Ops",
     "steam_id": null,
