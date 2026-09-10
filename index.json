@@ -1085,6 +1085,18 @@
       "timestamp": 1787847034
     }
   ],
+  "dead_space": [
+    {
+      "filename": "samsung-sm_a217m-1789058047.json",
+      "device_model": "Samsung SM-A217M",
+      "gpu": "Mali-G52",
+      "ram": "4GB",
+      "storage": "52GB",
+      "notes": "",
+      "config_title": "Dead SPACE",
+      "timestamp": 1789058047
+    }
+  ],
   "dead_space_3": [
     {
       "filename": "xiaomi-2412dpc0ag-1784953992.json",
