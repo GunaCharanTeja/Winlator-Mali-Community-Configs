@@ -1606,9 +1606,9 @@
     "name": "Outlast",
     "steam_id": null,
     "community_image": "https://cdn2.steamgriddb.com/grid/2f5c144531b316a819f61e78392e3d6d.png",
-    "config_count": 1,
+    "config_count": 2,
     "adreno_count": 0,
-    "mali_count": 1
+    "mali_count": 2
   },
   {
     "id": "papers,_please",

@@ -3197,6 +3197,16 @@
   ],
   "outlast": [
     {
+      "filename": "xiaomi-21061110ag-1789117640.json",
+      "device_model": "Xiaomi 21061110AG",
+      "gpu": "Mali-G77 MC9",
+      "ram": "8GB",
+      "storage": "108GB",
+      "notes": "60fps but unstable",
+      "config_title": "Mali G77 MC9",
+      "timestamp": 1789117640
+    },
+    {
       "filename": "realme-rmx3741-1786639619.json",
       "device_model": "Realme RMX3741",
       "gpu": "Mali-G68 MC4",
