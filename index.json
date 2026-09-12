@@ -3597,6 +3597,16 @@
   ],
   "resident_evil_4": [
     {
+      "filename": "xiaomi-23100rn82l-1789221684.json",
+      "device_model": "Xiaomi 23100RN82L",
+      "gpu": "Mali-G52 MC2",
+      "ram": "8GB",
+      "storage": "223GB",
+      "notes": "",
+      "config_title": "Residente Evel",
+      "timestamp": 1789221684
+    },
+    {
       "filename": "itel-itel_p661n-1788055721.json",
       "device_model": "Itel itel P661N",
       "gpu": "Mali-G57 MC2",
