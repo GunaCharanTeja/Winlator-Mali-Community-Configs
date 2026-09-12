@@ -4205,6 +4205,18 @@
       "timestamp": 1784345840
     }
   ],
+  "the_amazing_spider-man_2": [
+    {
+      "filename": "xiaomi-2311drk48g-1789216702.json",
+      "device_model": "Xiaomi 2311DRK48G",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "466GB",
+      "notes": "Poco X6 Pro",
+      "config_title": "TASM2",
+      "timestamp": 1789216702
+    }
+  ],
   "the_darkness_ii": [
     {
       "filename": "tecno-tecno_ki5k-1783879862.json",

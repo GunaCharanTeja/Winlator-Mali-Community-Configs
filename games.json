@@ -2187,6 +2187,15 @@
     "mali_count": 2
   },
   {
+    "id": "the_amazing_spider-man_2",
+    "name": "The Amazing Spider-Man 2",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/7b2e4f42d8c723aa7828128a09168287.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "the_darkness_ii",
     "name": "The Darkness II",
     "steam_id": null,
