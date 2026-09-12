@@ -1563,6 +1563,18 @@
       "timestamp": 1786208476
     }
   ],
+  "dreadout": [
+    {
+      "filename": "xiaomi-21061110ag-1789222857.json",
+      "device_model": "Xiaomi 21061110AG",
+      "gpu": "Mali-G77 MC9",
+      "ram": "8GB",
+      "storage": "108GB",
+      "notes": "added new fex 2609",
+      "config_title": "Zhenx",
+      "timestamp": 1789222857
+    }
+  ],
   "dyinglightgame": [
     {
       "filename": "xiaomi-2311drk48i-1788028842.json",
