@@ -3505,6 +3505,16 @@
   ],
   "prototype_2": [
     {
+      "filename": "xiaomi-m2007j3sg-1789256432.json",
+      "device_model": "Xiaomi M2007J3SG",
+      "gpu": "Adreno (TM) 650",
+      "ram": "8GB",
+      "storage": "227GB",
+      "notes": "",
+      "config_title": "Prototype 2 Sd 865 Sapee",
+      "timestamp": 1789256432
+    },
+    {
       "filename": "infinix-infinix_x6873-1788245638.json",
       "device_model": "Infinix Infinix X6873",
       "gpu": "Mali-G615 MC6",
