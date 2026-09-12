@@ -2531,6 +2531,16 @@
   ],
   "left_4_dead": [
     {
+      "filename": "xiaomi-m2007j3sg-1789256493.json",
+      "device_model": "Xiaomi M2007J3SG",
+      "gpu": "Adreno (TM) 650",
+      "ram": "8GB",
+      "storage": "227GB",
+      "notes": "",
+      "config_title": "L4d1 865sapee",
+      "timestamp": 1789256493
+    },
+    {
       "filename": "samsung-sm_a175f-1785942475.json",
       "device_model": "Samsung SM-A175F",
       "gpu": "Mali-G57 MC2",

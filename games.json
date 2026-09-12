@@ -1264,8 +1264,8 @@
     "name": "Left 4 Dead",
     "steam_id": null,
     "community_image": "https://cdn2.steamgriddb.com/grid/9a5d81f34639eaa91d156df2de026527.png",
-    "config_count": 1,
-    "adreno_count": 0,
+    "config_count": 2,
+    "adreno_count": 1,
     "mali_count": 1
   },
   {
