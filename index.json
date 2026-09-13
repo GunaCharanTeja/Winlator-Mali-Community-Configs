@@ -3115,6 +3115,18 @@
       "timestamp": 1787965454
     }
   ],
+  "nfs_u2": [
+    {
+      "filename": "samsung-sm_g973f-1789261271.json",
+      "device_model": "Samsung SM-G973F",
+      "gpu": "Mali-G76",
+      "ram": "8GB",
+      "storage": "110GB",
+      "notes": "",
+      "config_title": "NFSU2 Galaxy S10",
+      "timestamp": 1789261271
+    }
+  ],
   "nfsc": [
     {
       "filename": "anbernic-rg557-1787987264.json",
