@@ -4307,6 +4307,18 @@
       "timestamp": 1783879862
     }
   ],
+  "the_elder_scrolls_iv_oblivion": [
+    {
+      "filename": "unknown-gammaos_lite-1789300666.json",
+      "device_model": "Unknown GammaOS Lite",
+      "gpu": "Mali-G57",
+      "ram": "8GB",
+      "storage": "112GB",
+      "notes": "stable 25- 30 fps mid-low setting 800x600 on  t8200",
+      "config_title": "Oblivion With Obse",
+      "timestamp": 1789300666
+    }
+  ],
   "the_evil_farming_game_replanted": [
     {
       "filename": "realme-rmx3830-1787853535.json",
