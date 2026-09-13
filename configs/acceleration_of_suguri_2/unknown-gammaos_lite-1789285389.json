@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "Acceleration of SUGURI 2",
+    "config_title": "Aos 2",
+    "notes": "60 fps on t8200\n\n800×600 low setting",
+    "device": {
+      "manufacturer": "unknown",
+      "model": "GammaOS Lite",
+      "soc": "ums9620_2h10",
+      "gpu": "Mali-G57",
+      "ram": "8GB",
+      "storage": "112GB"
+    },
+    "timestamp": 1789285389
+  },
+  "container": {
+    "wineVersion": "proton-10-arm64ec",
+    "graphicsDriver": "wrapper-v2",
+    "graphicsDriverConfig": "vulkanVersion=1.2;version=System;blacklistedExtensions=;maxDeviceMemory=0;presentMode=mailbox;syncFrame=0;disablePresentWait=0;astcTranscode=1;etc2Transcode=0;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=0;gpuName=Device",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=v2.3.1-stripped,framerate=0,async=0,asyncCache=0,vkd3dVersion=2.8,vkd3dLevel=9_2,ddrawrapper=dd7to9,csmt=3,gpuName=NVIDIA GeForce GT 720,videoMemorySize=512,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gdi,dxvkConfig=1,maxDeviceMemory=3",
+    "audioDriver": "pulseaudio",
+    "emulator": "fexcore",
+    "box64Version": "0.3.7",
+    "box64Preset": "STABILITY",
+    "fexcoreVersion": "2508",
+    "fexcorePreset": "PERFORMANCE_X87_OFF",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "4,5,6,7",
+    "screenSize": "800x600",
+    "wincomponents": "direct3d=0,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": false,
+    "fullscreenStretched": false,
+    "startupSelection": 0,
+    "envVars": "WRAPPER_MAX_IMAGE_COUNT=0 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=512MB mesa_glthread=true WINEESYNC=1 DXVK_HUD=devinfo,fps,memory,gpuload,version,api PULSE_LATENCY_MSEC=40 WRAPPER_NO_PATCH_OPCONSTCOMP=1 WINE_DO_NOT_CREATE_DXGI_DEVICE_MANAGER=1 MESA_GL_VERSION_OVERRIDE=3.1 WINE_LARGE_ADDRESS_AWARE=1 GALLIUM_HUD=simple"
+  },
+  "shortcut": {
+    "name": "aos2",
+    "path": "D:\\Image-Line.FL.Studio.Producer.Edition.v12.3.Incl.Keygen.PROPER-R2R\\Acceleration-of-SUGURI-2-SteamRIP.com\\Acceleration of SUGURI 2\\aos2.exe",
+    "extraData": {}
+  }
+}
