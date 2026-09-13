@@ -1911,6 +1911,18 @@
       "timestamp": 1784396196
     }
   ],
+  "fl_studio": [
+    {
+      "filename": "unknown-gammaos_lite-1789285271.json",
+      "device_model": "Unknown GammaOS Lite",
+      "gpu": "Mali-G57",
+      "ram": "8GB",
+      "storage": "112GB",
+      "notes": "install FlexAsio driver\n\non startup if you get black screen tap the screen",
+      "config_title": "Fl Studio 12 X86",
+      "timestamp": 1789285271
+    }
+  ],
   "folk_tale": [
     {
       "filename": "xiaomi-2412dpc0ag-1784362778.json",
