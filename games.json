@@ -9,6 +9,15 @@
     "mali_count": 1
   },
   {
+    "id": "acceleration_of_suguri_2",
+    "name": "Acceleration of SUGURI 2",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "agent_64_spies_never_die",
     "name": "Agent 64: Spies Never Die",
     "steam_id": null,

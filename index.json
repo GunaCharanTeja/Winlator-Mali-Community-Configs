@@ -11,6 +11,18 @@
       "timestamp": 1788365820
     }
   ],
+  "acceleration_of_suguri_2": [
+    {
+      "filename": "unknown-gammaos_lite-1789285389.json",
+      "device_model": "Unknown GammaOS Lite",
+      "gpu": "Mali-G57",
+      "ram": "8GB",
+      "storage": "112GB",
+      "notes": "60 fps on t8200\n\n800×600 low setting",
+      "config_title": "Aos 2",
+      "timestamp": 1789285389
+    }
+  ],
   "agent_64_spies_never_die": [
     {
       "filename": "infinix-infinix_x6827-1786821885.json",
