@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "FL Studio",
+    "config_title": "Fl Studio 12 X86",
+    "notes": "install FlexAsio driver\n\non startup if you get black screen tap the screen",
+    "device": {
+      "manufacturer": "unknown",
+      "model": "GammaOS Lite",
+      "soc": "ums9620_2h10",
+      "gpu": "Mali-G57",
+      "ram": "8GB",
+      "storage": "112GB"
+    },
+    "timestamp": 1789285271
+  },
+  "container": {
+    "wineVersion": "proton-10-arm64ec",
+    "graphicsDriver": "wrapper-v2",
+    "graphicsDriverConfig": "vulkanVersion=1.2;version=System;blacklistedExtensions=;maxDeviceMemory=0;presentMode=mailbox;syncFrame=0;disablePresentWait=0;astcTranscode=1;etc2Transcode=0;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=0;gpuName=Device",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=v2.3.1-stripped,framerate=0,async=0,asyncCache=0,vkd3dVersion=2.8,vkd3dLevel=9_2,ddrawrapper=dd7to9,csmt=3,gpuName=NVIDIA GeForce GT 720,videoMemorySize=512,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gdi,dxvkConfig=1,maxDeviceMemory=3",
+    "audioDriver": "pulseaudio",
+    "emulator": "fexcore",
+    "box64Version": "0.3.7",
+    "box64Preset": "STABILITY",
+    "fexcoreVersion": "2508",
+    "fexcorePreset": "PERFORMANCE_X87_OFF",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "4,5,6,7",
+    "screenSize": "800x600",
+    "wincomponents": "direct3d=0,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": false,
+    "fullscreenStretched": false,
+    "startupSelection": 0,
+    "envVars": "WRAPPER_MAX_IMAGE_COUNT=0 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=512MB mesa_glthread=true WINEESYNC=1 DXVK_HUD=devinfo,fps,memory,gpuload,version,api PULSE_LATENCY_MSEC=40 WRAPPER_NO_PATCH_OPCONSTCOMP=1 WINE_DO_NOT_CREATE_DXGI_DEVICE_MANAGER=1 MESA_GL_VERSION_OVERRIDE=3.1 WINE_LARGE_ADDRESS_AWARE=1 GALLIUM_HUD=simple"
+  },
+  "shortcut": {
+    "name": "FL Studio 12",
+    "path": "C:\\Program Files (x86)\\Image-Line\\FL Studio 12\\FL.exe",
+    "extraData": {
+      "emulationMode": "GAME_CONTROLLER",
+      "simTouchScreen": "0",
+      "screenSize": "1024x768",
+      "graphicsDriver": "wrapper-gamenative",
+      "graphicsDriverConfig": "vulkanVersion=1.1;version=System;blacklistedExtensions=;maxDeviceMemory=0;presentMode=mailbox;syncFrame=0;disablePresentWait=1;astcTranscode=0;etc2Transcode=1;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=0;gpuName=Device",
+      "dxwrapper": "dxvk+vkd3d",
+      "dxwrapperConfig": "version=v2.3.1-stripped,framerate=0,async=0,asyncCache=0,vkd3dVersion=2.14.1,vkd3dLevel=12_1,ddrawrapper=dd7to9,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=1",
+      "audioDriver": "pulseaudio",
+      "emulator": "fexcore",
+      "midiSoundFont": "",
+      "lc_all": "en_US.UTF-8",
+      "wincomponents": "direct3d=0,directsound=0,directmusic=1,directshow=0,directplay=1,xaudio=0,vcrun2010=0,directinput=1",
+      "fexcoreVersion": "2605",
+      "fexcorePreset": "PERFORMANCE_X87_OFF",
+      "box64Preset": "PERFORMANCE",
+      "startupSelection": "0",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "90",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "box64Version": "0.4.3",
+      "envVars": "PULSE_LATENCY_MSEC=3 WINE_LARGE_ADDRESS_AWARE=1"
+    }
+  }
+}
