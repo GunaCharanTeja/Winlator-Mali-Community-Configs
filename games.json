@@ -1197,6 +1197,15 @@
     "mali_count": 1
   },
   {
+    "id": "hollow_knight",
+    "name": "Hollow Knight",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/5e73c0679c21d6267e3279cfe09ebf56.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "how_to_fish",
     "name": "How to Fish",
     "steam_id": null,

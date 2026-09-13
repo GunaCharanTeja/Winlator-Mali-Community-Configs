@@ -2435,6 +2435,18 @@
       "timestamp": 1788099425
     }
   ],
+  "hollow_knight": [
+    {
+      "filename": "samsung-sm_a145f-1789324689.json",
+      "device_model": "Samsung SM-A145F",
+      "gpu": "Mali-G52",
+      "ram": "4GB",
+      "storage": "108GB",
+      "notes": "Samsung Galaxy A14",
+      "config_title": "Mali",
+      "timestamp": 1789324689
+    }
+  ],
   "how_to_fish": [
     {
       "filename": "xiaomi-2412dpc0ag-1787692081.json",
