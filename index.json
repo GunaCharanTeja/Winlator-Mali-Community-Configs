@@ -37,6 +37,16 @@
   ],
   "alan_wake": [
     {
+      "filename": "xiaomi-2412dpc0ai-1789392036.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "Don't over tweak the settings, copy this and paste it and run the container, add the game as a shortcut, play it.",
+      "config_title": "Alan Sleep ( Poco X7 Pro 8/256 Gb )",
+      "timestamp": 1789392036
+    },
+    {
       "filename": "samsung-sm_a156u-1786872621.json",
       "device_model": "Samsung SM-A156U",
       "gpu": "Mali-G57 MC2",
