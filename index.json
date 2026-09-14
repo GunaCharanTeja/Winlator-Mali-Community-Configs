@@ -621,6 +621,18 @@
       "timestamp": 1784461018
     }
   ],
+  "call_of_duty_2": [
+    {
+      "filename": "nothing-a015-1789380832.json",
+      "device_model": "Nothing A015",
+      "gpu": "Mali-G615 MC2",
+      "ram": "6GB",
+      "storage": "108GB",
+      "notes": "mali",
+      "config_title": "Cod",
+      "timestamp": 1789380832
+    }
+  ],
   "call_of_duty_4_modern_warfare": [
     {
       "filename": "xiaomi-25028rn03a-1788935178.json",

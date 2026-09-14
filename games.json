@@ -324,6 +324,15 @@
     "mali_count": 2
   },
   {
+    "id": "call_of_duty_2",
+    "name": "Call of Duty 2",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/06042388e66f7f6ec5a432a8d3faceaa.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "call_of_duty_4_modern_warfare",
     "name": "Call of Duty 4: Modern Warfare",
     "steam_id": null,
