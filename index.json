@@ -1123,6 +1123,16 @@
   ],
   "deadpool": [
     {
+      "filename": "realme-rmx3870-1789371711.json",
+      "device_model": "Realme RMX3870",
+      "gpu": "Mali-G68 MC4",
+      "ram": "6GB",
+      "storage": "104GB",
+      "notes": "smooth play...",
+      "config_title": "30 Fps",
+      "timestamp": 1789371711
+    },
+    {
       "filename": "infinix-infinix_x6827-1786797989.json",
       "device_model": "Infinix Infinix X6827",
       "gpu": "Mali-G57 MC2",
