@@ -3125,6 +3125,16 @@
   ],
   "need_for_speed_the_run": [
     {
+      "filename": "realme-rmx3870-1789501989.json",
+      "device_model": "Realme RMX3870",
+      "gpu": "Mali-G68 MC4",
+      "ram": "6GB",
+      "storage": "104GB",
+      "notes": "best comparability",
+      "config_title": "Nfs The Run",
+      "timestamp": 1789501989
+    },
+    {
       "filename": "xiaomi-2412dpc0ag-1784077411.json",
       "device_model": "Xiaomi 2412DPC0AG",
       "gpu": "Mali-G720 MC7",
