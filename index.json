@@ -2355,6 +2355,16 @@
   ],
   "gtavlauncher": [
     {
+      "filename": "xiaomi-2511fpc34g-1789503631.json",
+      "device_model": "Xiaomi 2511FPC34G",
+      "gpu": "Mali-G720 MC8",
+      "ram": "8GB",
+      "storage": "479GB",
+      "notes": "..",
+      "config_title": "Hola",
+      "timestamp": 1789503631
+    },
+    {
       "filename": "samsung-sm_a546e-1788624934.json",
       "device_model": "Samsung SM-A546E",
       "gpu": "Mali-G68",
