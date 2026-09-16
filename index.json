@@ -3359,6 +3359,18 @@
       "timestamp": 1783776222
     }
   ],
+  "optiqraft": [
+    {
+      "filename": "samsung-sm_a217m-1789602352.json",
+      "device_model": "Samsung SM-A217M",
+      "gpu": "Mali-G52",
+      "ram": "4GB",
+      "storage": "110GB",
+      "notes": "(exynos 850)\na21s",
+      "config_title": "OptiCraft java",
+      "timestamp": 1789602352
+    }
+  ],
   "opu3": [
     {
       "filename": "infinix-infinix_x6711-1785415014.json",
