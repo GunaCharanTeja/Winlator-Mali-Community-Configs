@@ -1395,6 +1395,15 @@
     "mali_count": 1
   },
   {
+    "id": "maxpayne3",
+    "name": "MaxPayne3",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "megabonk",
     "name": "Megabonk",
     "steam_id": null,
