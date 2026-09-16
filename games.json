@@ -1210,9 +1210,9 @@
     "name": "Hollow Knight",
     "steam_id": null,
     "community_image": "https://cdn2.steamgriddb.com/grid/5e73c0679c21d6267e3279cfe09ebf56.png",
-    "config_count": 1,
+    "config_count": 2,
     "adreno_count": 0,
-    "mali_count": 1
+    "mali_count": 2
   },
   {
     "id": "how_to_fish",

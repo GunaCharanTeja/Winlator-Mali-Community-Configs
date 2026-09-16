@@ -2489,6 +2489,16 @@
   ],
   "hollow_knight": [
     {
+      "filename": "huawei-yal_l21-1789553633.json",
+      "device_model": "Huawei YAL-L21",
+      "gpu": "Mali-G76",
+      "ram": "6GB",
+      "storage": "111GB",
+      "notes": "Mii 76 p 10",
+      "config_title": "Moi 76 P10",
+      "timestamp": 1789553633
+    },
+    {
       "filename": "samsung-sm_a145f-1789324689.json",
       "device_model": "Samsung SM-A145F",
       "gpu": "Mali-G52",
