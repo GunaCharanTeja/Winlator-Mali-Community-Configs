@@ -1476,6 +1476,15 @@
     "mali_count": 2
   },
   {
+    "id": "mortal_kombat_11",
+    "name": "Mortal Kombat 11",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/6485e155b68af07d28b73d334de4861b.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "mortal_kombat_x",
     "name": "Mortal Kombat X",
     "steam_id": null,

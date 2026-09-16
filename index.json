@@ -2987,6 +2987,18 @@
       "timestamp": 1784003005
     }
   ],
+  "mortal_kombat_11": [
+    {
+      "filename": "samsung-sm_a266b-1789553946.json",
+      "device_model": "Samsung SM-A266B",
+      "gpu": "Mali-G68",
+      "ram": "8GB",
+      "storage": "224GB",
+      "notes": "mk 11",
+      "config_title": "Mortal Kombat 11 Mali Gpu",
+      "timestamp": 1789553946
+    }
+  ],
   "mortal_kombat_x": [
     {
       "filename": "xiaomi-2412dpc0ag-1784902152.json",
