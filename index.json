@@ -191,6 +191,16 @@
   ],
   "assassin's_creed_iii": [
     {
+      "filename": "oscal-pad_13-1789672078.json",
+      "device_model": "Oscal Pad 13",
+      "gpu": "Mali-G57",
+      "ram": "8GB",
+      "storage": "233GB",
+      "notes": "open with mail-g57",
+      "config_title": "Assassin's Creed III",
+      "timestamp": 1789672078
+    },
+    {
       "filename": "tecno-tecno_lh8n-1784862751.json",
       "device_model": "Tecno TECNO LH8n",
       "gpu": "Mali-G57 MC2",
