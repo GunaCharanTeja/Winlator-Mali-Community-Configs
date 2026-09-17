@@ -3325,6 +3325,16 @@
   ],
   "no,_i'm_not_a_human": [
     {
+      "filename": "oneplus-pgz110-1789611508.json",
+      "device_model": "Oneplus PGZ110",
+      "gpu": "Mali-G610 MC6",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "Dimensity 8100",
+      "config_title": "Perfeito",
+      "timestamp": 1789611508
+    },
+    {
       "filename": "xiaomi-2412dpc0ag-1784390590.json",
       "device_model": "Xiaomi 2412DPC0AG",
       "gpu": "Mali-G720 MC7",
