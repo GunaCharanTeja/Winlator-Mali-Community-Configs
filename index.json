@@ -2953,6 +2953,18 @@
       "timestamp": 1784391163
     }
   ],
+  "monster_hunter_frontier_z": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1789665251.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "",
+      "config_title": "Monster Hunter Frontier Z - Poco X7 Pro",
+      "timestamp": 1789665251
+    }
+  ],
   "monster_hunter_stories_2_wings_of_ruin": [
     {
       "filename": "infinix-infinix_x6871-1785887955.json",

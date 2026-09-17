@@ -1458,6 +1458,15 @@
     "mali_count": 1
   },
   {
+    "id": "monster_hunter_frontier_z",
+    "name": "Monster Hunter Frontier Z",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "monster_hunter_stories_2_wings_of_ruin",
     "name": "Monster Hunter Stories 2: Wings of Ruin",
     "steam_id": null,
