@@ -2681,6 +2681,16 @@
   ],
   "left_4_dead_2": [
     {
+      "filename": "tecno-tecno_cm7-1789705458.json",
+      "device_model": "Tecno TECNO CM7",
+      "gpu": "Mali-G615 MC2",
+      "ram": "8GB",
+      "storage": "224GB",
+      "notes": "this is for Mali devices like dimensity 7300 specs\n\nmaybe this can be also use for Helio g99+  \n\n\n\n\nand turn all low  settings  except the multicore",
+      "config_title": "L4D2 (Left For Dead 2)",
+      "timestamp": 1789705458
+    },
+    {
       "filename": "vivo-v2342-1786868583.json",
       "device_model": "Vivo V2342",
       "gpu": "Adreno (TM) 610",
