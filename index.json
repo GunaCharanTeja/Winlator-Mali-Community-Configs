@@ -2993,6 +2993,18 @@
       "timestamp": 1784391163
     }
   ],
+  "mkke": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1789804205.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "To avoid crashes, you need to install fexcore/box64 presets: intermediate",
+      "config_title": "MK9",
+      "timestamp": 1789804205
+    }
+  ],
   "monster_hunter_frontier_z": [
     {
       "filename": "xiaomi-2412dpc0ag-1789665251.json",
