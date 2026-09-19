@@ -4627,6 +4627,18 @@
       "timestamp": 1783874530
     }
   ],
+  "thetrollgame": [
+    {
+      "filename": "xiaomi-2311drk48i-1789855568.json",
+      "device_model": "Xiaomi 2311DRK48I",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "процессор медиатек дименсити 8300ультра игра идёт в 80-100 фпс есть просадки до 60фпс и рекомендуется поставить низкие настройки графики",
+      "config_title": "The Troll Game",
+      "timestamp": 1789855568
+    }
+  ],
   "tom_clancy's_splinter_cell_chaos_theory": [
     {
       "filename": "xiaomi-2412dpc0ai-1783888058.json",
