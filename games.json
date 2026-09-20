@@ -1539,6 +1539,15 @@
     "mali_count": 1
   },
   {
+    "id": "multiwindows",
+    "name": "MultiWindows",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "naruto_shippuden_ultimate_ninja_storm_2",
     "name": "Naruto Shippuden: Ultimate Ninja STORM 2",
     "steam_id": null,

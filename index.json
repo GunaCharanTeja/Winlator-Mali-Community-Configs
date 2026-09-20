@@ -3161,6 +3161,18 @@
       "timestamp": 1785419618
     }
   ],
+  "multiwindows": [
+    {
+      "filename": "xiaomi-25028pc03g-1789930193.json",
+      "device_model": "Xiaomi 25028PC03G",
+      "gpu": "Mali-G57",
+      "ram": "4GB",
+      "storage": "108GB",
+      "notes": "",
+      "config_title": "Shelter Of Sursur 7",
+      "timestamp": 1789930193
+    }
+  ],
   "naruto_shippuden_ultimate_ninja_storm_2": [
     {
       "filename": "xiaomi-22041216c-1788197968.json",
