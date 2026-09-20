@@ -3017,6 +3017,16 @@
   ],
   "monster_hunter_frontier_z": [
     {
+      "filename": "xiaomi-2412dpc0ag-1789873368.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "Works better on the base version. The High Grade Edition run at low fps",
+      "config_title": "Monster Hunter Frontier Z - 30fps Stable",
+      "timestamp": 1789873368
+    },
+    {
       "filename": "xiaomi-2412dpc0ag-1789665251.json",
       "device_model": "Xiaomi 2412DPC0AG",
       "gpu": "Mali-G720 MC7",
