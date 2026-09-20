@@ -1147,9 +1147,9 @@
     "name": "GTAVLauncher",
     "steam_id": null,
     "community_image": null,
-    "config_count": 5,
+    "config_count": 6,
     "adreno_count": 0,
-    "mali_count": 5
+    "mali_count": 6
   },
   {
     "id": "guilty_gear_xrd_rev_2",
