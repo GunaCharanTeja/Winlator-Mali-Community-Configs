@@ -2043,6 +2043,16 @@
   ],
   "game": [
     {
+      "filename": "samsung-sm_a156m-1789939511.json",
+      "device_model": "Samsung SM-A156M",
+      "gpu": "Mali-G57 MC2",
+      "ram": "4GB",
+      "storage": "106GB",
+      "notes": "",
+      "config_title": "mafia 1 mali",
+      "timestamp": 1789939511
+    },
+    {
       "filename": "samsung-sm_e066b-1787907878.json",
       "device_model": "Samsung SM-E066B",
       "gpu": "Mali-G57 MC2",
