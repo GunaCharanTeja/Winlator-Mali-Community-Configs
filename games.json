@@ -616,8 +616,8 @@
     "name": "Desktop Mate",
     "steam_id": null,
     "community_image": null,
-    "config_count": 9,
-    "adreno_count": 0,
+    "config_count": 10,
+    "adreno_count": 1,
     "mali_count": 9
   },
   {

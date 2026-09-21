@@ -1207,6 +1207,16 @@
   ],
   "desktop_mate": [
     {
+      "filename": "motorola-moto_g_30_-1790020391.json",
+      "device_model": "Motorola moto g(30)",
+      "gpu": "Adreno (TM) 610",
+      "ram": "4GB",
+      "storage": "105GB",
+      "notes": "para poder jogar",
+      "config_title": "Quero Melhorar A Configuração",
+      "timestamp": 1790020391
+    },
+    {
       "filename": "oppo-cph2681-1788089440.json",
       "device_model": "Oppo CPH2681",
       "gpu": "Mali-G57 MC2",
