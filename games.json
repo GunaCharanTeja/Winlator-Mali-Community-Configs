@@ -1152,6 +1152,15 @@
     "mali_count": 6
   },
   {
+    "id": "gtr_2_-_fia_gt_racing_game",
+    "name": "GTR 2 - FIA GT Racing Game",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "guilty_gear_xrd_rev_2",
     "name": "GUILTY GEAR Xrd REV 2",
     "steam_id": null,

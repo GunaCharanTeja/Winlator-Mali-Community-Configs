@@ -2465,6 +2465,18 @@
       "timestamp": 1783880569
     }
   ],
+  "gtr_2_-_fia_gt_racing_game": [
+    {
+      "filename": "infinix-infinix_x6858-1789961318.json",
+      "device_model": "Infinix Infinix X6858",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "224GB",
+      "notes": "Very good performance.\n\nIn a race with 36 cars on Medium in-game graphis settings: 30-50 FPS. Just cap the fps to 30 and be happy.\n\nOn solo practice runs or time trials 45-60FPS on Medium in-game graphics settings. Lower graphics settings can even give up to 75FPS\n\nInstall vcredist 2005 and 2008 into your container if game doesn't boot. Find them in the internet.",
+      "config_title": "GTR2: FIA RACING",
+      "timestamp": 1789961318
+    }
+  ],
   "guilty_gear_xrd_rev_2": [
     {
       "filename": "xiaomi-2311drk48i-1786050447.json",
