@@ -4763,6 +4763,16 @@
   ],
   "tomb_raider": [
     {
+      "filename": "xiaomi-21061110ag-1790057810.json",
+      "device_model": "Xiaomi 21061110AG",
+      "gpu": "Mali-G77 MC9",
+      "ram": "8GB",
+      "storage": "108GB",
+      "notes": "not stable on mine but yeah",
+      "config_title": "Zhenx",
+      "timestamp": 1790057810
+    },
+    {
       "filename": "daria-dm_b70104-1784730272.json",
       "device_model": "Daria DM-B70104",
       "gpu": "Mali-G615 MC6",
