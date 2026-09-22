@@ -4143,6 +4143,18 @@
       "timestamp": 1784570598
     }
   ],
+  "saintsrowiv": [
+    {
+      "filename": "xiaomi-2412dpc0ai-1790086840.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "around 60fps on MD8400",
+      "config_title": "Saints Row 4",
+      "timestamp": 1790086840
+    }
+  ],
   "scania_truck_driving_simulator": [
     {
       "filename": "xiaomi-2412dpc0ai-1786651573.json",
