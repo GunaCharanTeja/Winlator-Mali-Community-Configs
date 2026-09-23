@@ -245,6 +245,16 @@
   ],
   "assassin's_creed_iv_black_flag": [
     {
+      "filename": "xiaomi-2412dpc0ai-1790126419.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "Poco X7 Pro 8gb/256gb Specifically for Mali-G720 MC7. \nDo not alter any settings unless you wanna spend a month looking at the void... it's already refined to its core to produce as much stable frame as possible.",
+      "config_title": "Assassinated",
+      "timestamp": 1790126419
+    },
+    {
       "filename": "xiaomi-2412dpc0ag-1785320042.json",
       "device_model": "Xiaomi 2412DPC0AG",
       "gpu": "Mali-G720 MC7",
