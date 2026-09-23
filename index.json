@@ -2741,6 +2741,18 @@
       "timestamp": 1786042614
     }
   ],
+  "l4d2_launcher": [
+    {
+      "filename": "infinix-infinix_x6525-1790152883.json",
+      "device_model": "Infinix Infinix X6525",
+      "gpu": "Mali-G57",
+      "ram": "4GB",
+      "storage": "113GB",
+      "notes": "firu",
+      "config_title": "Elek",
+      "timestamp": 1790152883
+    }
+  ],
   "left_4_dead": [
     {
       "filename": "xiaomi-m2007j3sg-1789256493.json",
