@@ -9,6 +9,15 @@
     "mali_count": 1
   },
   {
+    "id": "6_nights",
+    "name": "6 Nights",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "acceleration_of_suguri_2",
     "name": "Acceleration of SUGURI 2",
     "steam_id": null,

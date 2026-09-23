@@ -11,6 +11,18 @@
       "timestamp": 1788365820
     }
   ],
+  "6_nights": [
+    {
+      "filename": "samsung-sm_a155m-1790131595.json",
+      "device_model": "Samsung SM-A155M",
+      "gpu": "Mali-G57 MC2",
+      "ram": "4GB",
+      "storage": "106GB",
+      "notes": "",
+      "config_title": "Gta 4",
+      "timestamp": 1790131595
+    }
+  ],
   "acceleration_of_suguri_2": [
     {
       "filename": "unknown-gammaos_lite-1789285389.json",
