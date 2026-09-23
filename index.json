@@ -3905,6 +3905,18 @@
       "timestamp": 1784712764
     }
   ],
+  "re5dx9": [
+    {
+      "filename": "itel-itel_p661n-1790149540.json",
+      "device_model": "Itel itel P661N",
+      "gpu": "Mali-G57 MC2",
+      "ram": "6GB",
+      "storage": "110GB",
+      "notes": "",
+      "config_title": "Resident Evil 5 Gold Edition",
+      "timestamp": 1790149540
+    }
+  ],
   "re7": [
     {
       "filename": "xiaomi-2412dpc0ag-1785584374.json",
