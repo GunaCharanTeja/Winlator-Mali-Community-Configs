@@ -3025,6 +3025,18 @@
       "timestamp": 1786226713
     }
   ],
+  "metro_2033": [
+    {
+      "filename": "google-pixel_6-1790189057.json",
+      "device_model": "Google Pixel 6",
+      "gpu": "Mali-G78",
+      "ram": "8GB",
+      "storage": "111GB",
+      "notes": "Config for best perfomance.\nProton 10/9 recommended.\nNeed to install physx.",
+      "config_title": "Metro 2033 Original",
+      "timestamp": 1790189057
+    }
+  ],
   "mhoj": [
     {
       "filename": "xiaomi-2311drk48i-1786821718.json",
