@@ -4907,6 +4907,18 @@
       "timestamp": 1787457022
     }
   ],
+  "touhou_youyoumu_perfect_cherry_blossom_(touhou_7)": [
+    {
+      "filename": "infinix-infinix_x678b-1790276095.json",
+      "device_model": "Infinix Infinix X678B",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "226GB",
+      "notes": "NOTE: this has only been tested with an Helio g99 CPU (Mali G57 MC2)",
+      "config_title": "Touhou Mali gpu's config",
+      "timestamp": 1790276095
+    }
+  ],
   "tpp_main_win64": [
     {
       "filename": "xiaomi-2511fpc34g-1787476252.json",

@@ -2511,6 +2511,15 @@
     "mali_count": 1
   },
   {
+    "id": "touhou_youyoumu_perfect_cherry_blossom_(touhou_7)",
+    "name": "Touhou Youyoumu: Perfect Cherry Blossom (Touhou 7)",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "tpp_main_win64",
     "name": "Tpp_main_win64",
     "steam_id": null,
