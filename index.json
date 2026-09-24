@@ -4539,6 +4539,16 @@
   ],
   "sparkingzero": [
     {
+      "filename": "samsung-sm_a155m-1790225733.json",
+      "device_model": "Samsung SM-A155M",
+      "gpu": "Mali-G57 MC2",
+      "ram": "6GB",
+      "storage": "106GB",
+      "notes": "",
+      "config_title": "Sparking Zero",
+      "timestamp": 1790225733
+    },
+    {
       "filename": "vivo-v2311-1785199507.json",
       "device_model": "Vivo V2311",
       "gpu": "Mali-G57 MC2",
