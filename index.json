@@ -2437,6 +2437,16 @@
   ],
   "gtavlauncher": [
     {
+      "filename": "xiaomi-2311drk48i-1790311597.json",
+      "device_model": "Xiaomi 2311DRK48I",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "очень хороший фпс процессор медиатек дименсити 8300ультра а фпс 35-45",
+      "config_title": "Поко Х6про",
+      "timestamp": 1790311597
+    },
+    {
       "filename": "xiaomi-2311drk48i-1790309942.json",
       "device_model": "Xiaomi 2311DRK48I",
       "gpu": "Mali-G615 MC6",
