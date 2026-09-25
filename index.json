@@ -203,6 +203,16 @@
   ],
   "assassin's_creed_iii": [
     {
+      "filename": "vivo-v2437-1790353488.json",
+      "device_model": "Vivo V2437",
+      "gpu": "Mali-G615 MC2",
+      "ram": "6GB",
+      "storage": "104GB",
+      "notes": "",
+      "config_title": "20-25 Fps",
+      "timestamp": 1790353488
+    },
+    {
       "filename": "oscal-pad_13-1789672078.json",
       "device_model": "Oscal Pad 13",
       "gpu": "Mali-G57",
