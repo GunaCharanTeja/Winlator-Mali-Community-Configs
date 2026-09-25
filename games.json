@@ -927,6 +927,15 @@
     "mali_count": 1
   },
   {
+    "id": "fever_meme",
+    "name": "Fever Meme",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/67ac3c57fbbc88347538a5bc65a0a65f.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "fguy",
     "name": "FGUY",
     "steam_id": null,
