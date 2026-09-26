@@ -1749,6 +1749,18 @@
       "timestamp": 1786903557
     }
   ],
+  "eurotrucks2": [
+    {
+      "filename": "tecno-tecno_ki5k-1790410855.json",
+      "device_model": "Tecno TECNO KI5k",
+      "gpu": "Mali-G57",
+      "ram": "8GB",
+      "storage": "113GB",
+      "notes": "",
+      "config_title": "ETS2 ON MOBILE",
+      "timestamp": 1790410855
+    }
+  ],
   "f1_2011": [
     {
       "filename": "infinix-infinix_x6858-1788847130.json",
