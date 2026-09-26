@@ -801,6 +801,15 @@
     "mali_count": 1
   },
   {
+    "id": "enemy_front",
+    "name": "Enemy Front",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "enslaved_odyssey_to_the_west_-_premium_edition",
     "name": "Enslaved: Odyssey to the West - Premium Edition",
     "steam_id": null,

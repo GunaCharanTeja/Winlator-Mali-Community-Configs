@@ -1727,6 +1727,18 @@
       "timestamp": 1784327116
     }
   ],
+  "enemy_front": [
+    {
+      "filename": "realme-rmx5030-1790441763.json",
+      "device_model": "Realme RMX5030",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "223GB",
+      "notes": "",
+      "config_title": "Enemy Front On Mali Gpu",
+      "timestamp": 1790441763
+    }
+  ],
   "enslaved_odyssey_to_the_west_-_premium_edition": [
     {
       "filename": "oppo-cph2697-1787658052.json",
