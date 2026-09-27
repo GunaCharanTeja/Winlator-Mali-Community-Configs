@@ -4045,6 +4045,16 @@
   ],
   "resident_evil_2": [
     {
+      "filename": "tecno-tecno_lk7k-1790524033.json",
+      "device_model": "Tecno TECNO LK7k",
+      "gpu": "Mali-G610 MC2",
+      "ram": "8GB",
+      "storage": "223GB",
+      "notes": "",
+      "config_title": "Re2",
+      "timestamp": 1790524033
+    },
+    {
       "filename": "tecno-tecno_cl8-1785006901.json",
       "device_model": "Tecno TECNO CL8",
       "gpu": "Mali-G610 MC6",
