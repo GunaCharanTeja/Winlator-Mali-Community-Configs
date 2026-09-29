@@ -3745,6 +3745,16 @@
   ],
   "people_playground": [
     {
+      "filename": "moorechip-retroid_pocket_4_pro-1790673120.json",
+      "device_model": "Moorechip Retroid Pocket 4 Pro",
+      "gpu": "Mali-G77 MC9",
+      "ram": "8GB",
+      "storage": "112GB",
+      "notes": "x86_64",
+      "config_title": "Retroid 4 Pro",
+      "timestamp": 1790673120
+    },
+    {
       "filename": "samsung-sm_a065f-1784545070.json",
       "device_model": "Samsung SM-A065F",
       "gpu": "Mali-G52 MC2",
