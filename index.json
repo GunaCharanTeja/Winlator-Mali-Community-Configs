@@ -2843,6 +2843,16 @@
   ],
   "left_4_dead_2": [
     {
+      "filename": "infinix-infinix_x6827-1790642213.json",
+      "device_model": "Infinix Infinix X6827",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "108GB",
+      "notes": "G96 \n\n8 de ram\n\n845X480\n\n50fps gráficos bajos",
+      "config_title": "Left 4 Dead 2",
+      "timestamp": 1790642213
+    },
+    {
       "filename": "tecno-tecno_cm7-1789705458.json",
       "device_model": "Tecno TECNO CM7",
       "gpu": "Mali-G615 MC2",
