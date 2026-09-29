@@ -3081,6 +3081,16 @@
   ],
   "metal_gear_rising_revengeance": [
     {
+      "filename": "xiaomi-2412dpc0ag-1790643507.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "entre 40 FPS a 60 FPS em algumas areas",
+      "config_title": "Poco X7 Pro",
+      "timestamp": 1790643507
+    },
+    {
       "filename": "xiaomi-2511fpc34g-1788524415.json",
       "device_model": "Xiaomi 2511FPC34G",
       "gpu": "Mali-G720 MC8",
