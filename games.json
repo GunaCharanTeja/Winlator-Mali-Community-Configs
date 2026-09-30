@@ -2592,6 +2592,15 @@
     "mali_count": 1
   },
   {
+    "id": "worms_armageddon",
+    "name": "Worms Armageddon",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/2aff7a1f41904b1a2268051a7c4db0bf.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "x-blades",
     "name": "X-Blades",
     "steam_id": null,
