@@ -2751,6 +2751,16 @@
   ],
   "just_cause_2": [
     {
+      "filename": "samsung-sm_a346m-1790742328.json",
+      "device_model": "Samsung SM-A346M",
+      "gpu": "Mali-G68 MC4",
+      "ram": "6GB",
+      "storage": "106GB",
+      "notes": "",
+      "config_title": "G68 A 34 5g",
+      "timestamp": 1790742328
+    },
+    {
       "filename": "xiaomi-2511fpc34g-1786003643.json",
       "device_model": "Xiaomi 2511FPC34G",
       "gpu": "Mali-G720 MC8",
