@@ -2565,6 +2565,15 @@
     "mali_count": 2
   },
   {
+    "id": "trails_in_the_sky_1st_chapter",
+    "name": "Trails in the Sky 1st Chapter",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/478721af859ef9acaa239fa6e07c2cae.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "ultra_street_fighter_iv",
     "name": "Ultra Street Fighter IV",
     "steam_id": null,
