@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "JSB",
+    "config_title": "Just Shapes And Beats",
+    "notes": "helio g99 4-8gb",
+    "device": {
+      "manufacturer": "samsung",
+      "model": "SM-A175F",
+      "soc": "a17",
+      "gpu": "Mali-G57 MC2",
+      "ram": "4GB",
+      "storage": "103GB"
+    },
+    "timestamp": 1790865973
+  },
+  "container": {
+    "wineVersion": "proton-10-arm64ec",
+    "graphicsDriver": "wrapper-leegao",
+    "graphicsDriverConfig": "vulkanVersion=1.1;version=System;blacklistedExtensions=;maxDeviceMemory=2048;presentMode=mailbox;syncFrame=1;disablePresentWait=0;astcTranscode=1;etc2Transcode=0;resourceType=auto;bcnEmulation=full;bcnEmulationType=compute;bcnEmulationCache=1;gpuName=NVIDIA GeForce 256",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=v2.3.1-stripped,framerate=0,async=0,asyncCache=0,vkd3dVersion=2.14.1,vkd3dLevel=12_1,ddrawrapper=cnc-ddraw,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=3",
+    "audioDriver": "alsa",
+    "emulator": "fexcore",
+    "box64Version": "0.4.3",
+    "box64Preset": "PERFORMANCE",
+    "fexcoreVersion": "2605",
+    "fexcorePreset": "PERFORMANCE",
+    "cpuList": "6,7",
+    "cpuListWoW64": "6,7",
+    "screenSize": "1280x720",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": true,
+    "fullscreenStretched": false,
+    "startupSelection": 2,
+    "envVars": "WRAPPER_MAX_IMAGE_COUNT=0 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=1024MB mesa_glthread=true WINEESYNC=1 DXVK_HUD=scale=0.5,scale=0.7,opacity=0.5,opacity=0.7,devinfo,fps,pipelines,memory,gpuload,version,api PULSE_LATENCY_MSEC=40 WRAPPER_NO_PATCH_OPCONSTCOMP=1 BOX64_DYNAREC_FASTNAN=1 BOX64_DYNAREC_FASTROUND=1 BOX64_DYNAREC_ALIGNED_ATOMICS=0"
+  },
+  "shortcut": {
+    "name": "JSB",
+    "path": "D:\\PC\\Just Shapes & Beats_b10307342_ElEnemigos\\JSB.exe",
+    "extraData": {
+      "emulationMode": "GAME_CONTROLLER",
+      "simTouchScreen": "0",
+      "screenSize": "640x480",
+      "graphicsDriver": "wrapper-gamenative",
+      "graphicsDriverConfig": "vulkanVersion=1.1;version=System;blacklistedExtensions=;maxDeviceMemory=4096;presentMode=mailbox;syncFrame=1;disablePresentWait=0;astcTranscode=1;etc2Transcode=0;resourceType=auto;bcnEmulation=full;bcnEmulationType=compute;bcnEmulationCache=1;gpuName=NVIDIA GeForce 256",
+      "dxwrapper": "wined3d",
+      "dxwrapperConfig": "version=v2.3.1-stripped,framerate=0,async=0,asyncCache=0,vkd3dVersion=2.14.1,vkd3dLevel=12_1,ddrawrapper=cnc-ddraw,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=4",
+      "audioDriver": "alsa",
+      "emulator": "fexcore",
+      "midiSoundFont": "wt_210k_G.sf2",
+      "lc_all": "en_US.UTF-8",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+      "fexcoreVersion": "2605",
+      "fexcorePreset": "INTERMEDIATE",
+      "box64Preset": "STABILITY",
+      "startupSelection": "2",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "controlsProfile": "3",
+      "fullscreenStretched": "1",
+      "envVars": "DXVK_HUD=devinfo,fps,memory,gpuload,version,api"
+    }
+  }
+}
