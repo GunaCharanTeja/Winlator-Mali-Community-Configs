@@ -2749,6 +2749,18 @@
       "timestamp": 1787568653
     }
   ],
+  "jsb": [
+    {
+      "filename": "samsung-sm_a175f-1790865973.json",
+      "device_model": "Samsung SM-A175F",
+      "gpu": "Mali-G57 MC2",
+      "ram": "4GB",
+      "storage": "103GB",
+      "notes": "helio g99 4-8gb",
+      "config_title": "Just Shapes And Beats",
+      "timestamp": 1790865973
+    }
+  ],
   "just_cause_2": [
     {
       "filename": "samsung-sm_a346m-1790742328.json",

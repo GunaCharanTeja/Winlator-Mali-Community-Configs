@@ -1305,6 +1305,15 @@
     "mali_count": 1
   },
   {
+    "id": "jsb",
+    "name": "JSB",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "just_cause_2",
     "name": "Just Cause 2",
     "steam_id": null,
