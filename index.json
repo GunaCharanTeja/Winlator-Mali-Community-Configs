@@ -4905,6 +4905,18 @@
       "timestamp": 1787853535
     }
   ],
+  "the_messenger": [
+    {
+      "filename": "xiaomi-2506bpn68g-1790924656.json",
+      "device_model": "Xiaomi 2506BPN68G",
+      "gpu": "Mali-G925-Immortalis MC12",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "",
+      "config_title": "The Messenger",
+      "timestamp": 1790924656
+    }
+  ],
   "the_sims_4": [
     {
       "filename": "xiaomi-24117rn76g-1786288500.json",
