@@ -5195,6 +5195,18 @@
       "timestamp": 1783982777
     }
   ],
+  "woh": [
+    {
+      "filename": "tecno-tecno_lh7n-1790968874.json",
+      "device_model": "Tecno TECNO LH7n",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "229GB",
+      "notes": "nnn",
+      "config_title": "Mahoyo",
+      "timestamp": 1790968874
+    }
+  ],
   "worms_armageddon": [
     {
       "filename": "moorechip-retroid_pocket_4_pro-1790762205.json",
