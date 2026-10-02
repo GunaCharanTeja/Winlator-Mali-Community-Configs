@@ -1239,6 +1239,16 @@
   ],
   "desktop_mate": [
     {
+      "filename": "samsung-sm_a175f-1790944689.json",
+      "device_model": "Samsung SM-A175F",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "223GB",
+      "notes": "you must have proton 9.0 x86_64,",
+      "config_title": "PARANOIA: the game edition",
+      "timestamp": 1790944689
+    },
+    {
       "filename": "motorola-moto_g_30_-1790020391.json",
       "device_model": "Motorola moto g(30)",
       "gpu": "Adreno (TM) 610",
