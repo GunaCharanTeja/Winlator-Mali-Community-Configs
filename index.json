@@ -3787,6 +3787,18 @@
       "timestamp": 1784431052
     }
   ],
+  "paranoia": [
+    {
+      "filename": "samsung-sm_a175f-1790944784.json",
+      "device_model": "Samsung SM-A175F",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "223GB",
+      "notes": "you must have proton x86_64",
+      "config_title": "PARANOIA: the game edition",
+      "timestamp": 1790944784
+    }
+  ],
   "people_playground": [
     {
       "filename": "moorechip-retroid_pocket_4_pro-1790762244.json",
