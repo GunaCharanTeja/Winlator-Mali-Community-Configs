@@ -1883,6 +1883,18 @@
       "timestamp": 1783874036
     }
   ],
+  "factorio": [
+    {
+      "filename": "xiaomi-2412dpc0ag-1791064807.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "basically i removed space age dlc from factorio and forced it to run on lower ram by changing config.ini file , once you try running factorio once, go to c drive, then like user xuser or however it is then appdata then roaming then factorio, if game hasn't launched create file name it config.ini use Zarchive to edit it put in\n\n\n [graphics]\ngraphics-quality=very-low\nvideo-memory-usage=low\nmax-texture-size=2048\nmax-sprite-loading-threads=1\ntexture-compression=low-quality\ncache-sprite-atlas=false\nforce-opengl=false\n\n\nthis and run it, once it runs close it, now it will create config folder and it's own config.ini delete that new config and move your created one to that config file, that config file will be in same area as your own now launch it again and it will not reset config file anymore\n\n[sound]\npreferred-audio-driver=pulseaudio",
+      "config_title": "Factorio,60fps Lowered Ram Usage",
+      "timestamp": 1791064807
+    }
+  ],
   "factory_town": [
     {
       "filename": "infinix-infinix_x6815d-1785358532.json",

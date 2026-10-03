@@ -873,6 +873,15 @@
     "mali_count": 3
   },
   {
+    "id": "factorio",
+    "name": "Factorio",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/f1eb850fc7a1c033ae10c3b0ae81b3f0.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "factory_town",
     "name": "Factory Town",
     "steam_id": null,
