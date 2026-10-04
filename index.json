@@ -2663,6 +2663,18 @@
       "timestamp": 1783606441
     }
   ],
+  "halo_reach": [
+    {
+      "filename": "xiaomi-2311drk48g-1791133108.json",
+      "device_model": "Xiaomi 2311DRK48G",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "466GB",
+      "notes": "Best config for mali G615",
+      "config_title": "Halo Reach Mali G615",
+      "timestamp": 1791133108
+    }
+  ],
   "hellblade_senua's_sacrifice": [
     {
       "filename": "xiaomi-2412dpc0ag-1788243520.json",

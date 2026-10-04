@@ -1233,6 +1233,15 @@
     "mali_count": 2
   },
   {
+    "id": "halo_reach",
+    "name": "Halo: Reach",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/9c65d25a52f1b7b40f420150da9677ed.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "hellblade_senua's_sacrifice",
     "name": "Hellblade: Senua's Sacrifice",
     "steam_id": null,
