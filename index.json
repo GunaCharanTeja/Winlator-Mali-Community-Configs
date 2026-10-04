@@ -1783,6 +1783,16 @@
   ],
   "eurotrucks2": [
     {
+      "filename": "samsung-sm_a256e-1791081904.json",
+      "device_model": "Samsung SM-A256E",
+      "gpu": "Mali-G68",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "v1.21-1.36",
+      "config_title": "Ets2 Mediatek",
+      "timestamp": 1791081904
+    },
+    {
       "filename": "tecno-tecno_ki5k-1790410855.json",
       "device_model": "Tecno TECNO KI5k",
       "gpu": "Mali-G57",
