@@ -4807,6 +4807,16 @@
   ],
   "speed": [
     {
+      "filename": "samsung-sm_a155m-1791094181.json",
+      "device_model": "Samsung SM-A155M",
+      "gpu": "Mali-G57 MC2",
+      "ram": "6GB",
+      "storage": "106GB",
+      "notes": "mali g57 cm2 , mediatek gelio g99",
+      "config_title": "Need for speed wanted Black edicion",
+      "timestamp": 1791094181
+    },
+    {
       "filename": "realme-rmx3870-1789501951.json",
       "device_model": "Realme RMX3870",
       "gpu": "Mali-G68 MC4",
