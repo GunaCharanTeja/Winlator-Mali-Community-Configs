@@ -3819,6 +3819,16 @@
   ],
   "outlast": [
     {
+      "filename": "samsung-sm_a075f-1791213216.json",
+      "device_model": "Samsung SM-A075F",
+      "gpu": "Mali-G57 MC2",
+      "ram": "4GB",
+      "storage": "106GB",
+      "notes": "SM-A075F Mediatek Helio 2.00 ghz 2.20 ghz mali G57 MC2",
+      "config_title": "Outlast 15/30 Fps Config",
+      "timestamp": 1791213216
+    },
+    {
       "filename": "xiaomi-21061110ag-1789117640.json",
       "device_model": "Xiaomi 21061110AG",
       "gpu": "Mali-G77 MC9",
