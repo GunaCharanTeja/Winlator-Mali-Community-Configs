@@ -1793,6 +1793,16 @@
   ],
   "eurotrucks2": [
     {
+      "filename": "xiaomi-2409brn2cy-1791312933.json",
+      "device_model": "Xiaomi 2409BRN2CY",
+      "gpu": "Mali-G52 MC2",
+      "ram": "8GB",
+      "storage": "224GB",
+      "notes": "",
+      "config_title": "Euro Truck Simulador",
+      "timestamp": 1791312933
+    },
+    {
       "filename": "samsung-sm_a256e-1791081904.json",
       "device_model": "Samsung SM-A256E",
       "gpu": "Mali-G68",
