@@ -3151,6 +3151,16 @@
   ],
   "media_circus": [
     {
+      "filename": "samsung-sm_a566b-1791293472.json",
+      "device_model": "Samsung SM-A566B",
+      "gpu": "Samsung Xclipse 540",
+      "ram": "8GB",
+      "storage": "223GB",
+      "notes": "",
+      "config_title": "Judgment",
+      "timestamp": 1791293472
+    },
+    {
       "filename": "xiaomi-2511fpc34g-1789900960.json",
       "device_model": "Xiaomi 2511FPC34G",
       "gpu": "Mali-G720 MC8",
