@@ -2061,6 +2061,18 @@
       "timestamp": 1784228750
     }
   ],
+  "fears_to_fathom_-_ironbark_lookout": [
+    {
+      "filename": "xiaomi-2311drk48i-1791357858.json",
+      "device_model": "Xiaomi 2311DRK48I",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "30-60фпс на средних процессор медиатек дименсити 8300ультра 8гб опры",
+      "config_title": "Fears To Fathom Iron",
+      "timestamp": 1791357858
+    }
+  ],
   "fever_meme": [
     {
       "filename": "xiaomi-2311drk48i-1790329758.json",
