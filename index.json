@@ -2739,6 +2739,18 @@
       "timestamp": 1786980060
     }
   ],
+  "hitmanbloodmoney": [
+    {
+      "filename": "realme-rmx3930-1791334882.json",
+      "device_model": "Realme RMX3930",
+      "gpu": "Mali-G57",
+      "ram": "6GB",
+      "storage": "107GB",
+      "notes": "",
+      "config_title": "Hitman Blood Money",
+      "timestamp": 1791334882
+    }
+  ],
   "hma": [
     {
       "filename": "infinix-infinix_x6873-1788099425.json",

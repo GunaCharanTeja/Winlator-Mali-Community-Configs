@@ -1260,6 +1260,15 @@
     "mali_count": 2
   },
   {
+    "id": "hitmanbloodmoney",
+    "name": "HitmanBloodMoney",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "hma",
     "name": "HMA",
     "steam_id": null,
