@@ -3005,6 +3005,16 @@
   ],
   "left_4_dead_2": [
     {
+      "filename": "xiaomi-23078pnd5g-1791448363.json",
+      "device_model": "Xiaomi 23078PND5G",
+      "gpu": "Mali-G715-Immortalis MC11",
+      "ram": "12GB",
+      "storage": "464GB",
+      "notes": "Dimensity +9300",
+      "config_title": "Xiaomi 13t Pro Left 4 Dead 2",
+      "timestamp": 1791448363
+    },
+    {
       "filename": "infinix-infinix_x6827-1790642213.json",
       "device_model": "Infinix Infinix X6827",
       "gpu": "Mali-G57 MC2",
