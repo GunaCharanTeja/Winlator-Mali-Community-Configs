@@ -2239,6 +2239,18 @@
       "timestamp": 1788194012
     }
   ],
+  "gears_of_war_3": [
+    {
+      "filename": "anbernic-rgcube-1791435990.json",
+      "device_model": "Anbernic RGCUBE",
+      "gpu": "Mali-G57",
+      "ram": "8GB",
+      "storage": "112GB",
+      "notes": "Coloque o jogo no disco C: Assim ele vai iniciar mais rapidamente e o desempenho será melhor.",
+      "config_title": "Mali G57",
+      "timestamp": 1791435990
+    }
+  ],
   "ghost_song": [
     {
       "filename": "xiaomi-2412dpc0ai-1787669321.json",

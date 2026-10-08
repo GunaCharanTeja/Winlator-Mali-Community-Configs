@@ -1080,6 +1080,15 @@
     "mali_count": 1
   },
   {
+    "id": "gears_of_war_3",
+    "name": "Gears of War 3",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/1819d08cea6d25c7ea7b06e910013940.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "ghost_song",
     "name": "Ghost Song",
     "steam_id": null,
