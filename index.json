@@ -4409,6 +4409,16 @@
   ],
   "resident_evil_6": [
     {
+      "filename": "xiaomi-2511fpc34g-1791418818.json",
+      "device_model": "Xiaomi 2511FPC34G",
+      "gpu": "Mali-G720 MC8",
+      "ram": "8GB",
+      "storage": "233GB",
+      "notes": "jc",
+      "config_title": "Resident Evil 6 Config",
+      "timestamp": 1791418818
+    },
+    {
       "filename": "infinix-infinix_x6850-1787990677.json",
       "device_model": "Infinix Infinix X6850",
       "gpu": "Mali-G57 MC2",
