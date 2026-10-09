@@ -2765,6 +2765,16 @@
   ],
   "hitmanbloodmoney": [
     {
+      "filename": "realme-rmx3930-1791507185.json",
+      "device_model": "Realme RMX3930",
+      "gpu": "Mali-G57",
+      "ram": "6GB",
+      "storage": "107GB",
+      "notes": "12",
+      "config_title": "47",
+      "timestamp": 1791507185
+    },
+    {
       "filename": "realme-rmx3930-1791334932.json",
       "device_model": "Realme RMX3930",
       "gpu": "Mali-G57",
