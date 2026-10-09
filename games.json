@@ -1134,6 +1134,15 @@
     "mali_count": 1
   },
   {
+    "id": "grand_theft_auto",
+    "name": "Grand Theft Auto",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/48abfe453ad628738c1dc95800592fb8.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "grand_theft_auto_iv_the_complete_edition",
     "name": "Grand Theft Auto IV: The Complete Edition",
     "steam_id": null,

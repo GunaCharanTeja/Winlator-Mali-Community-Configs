@@ -2341,6 +2341,18 @@
       "timestamp": 1787408330
     }
   ],
+  "grand_theft_auto": [
+    {
+      "filename": "itel-itel_s666ln-1791569472.json",
+      "device_model": "Itel itel S666LN",
+      "gpu": "Mali-G57 MC2",
+      "ram": "12GB",
+      "storage": "228GB",
+      "notes": "idk try it asap if it work for u",
+      "config_title": "G99",
+      "timestamp": 1791569472
+    }
+  ],
   "grand_theft_auto_iv_the_complete_edition": [
     {
       "filename": "xiaomi-2412dpc0ag-1788454677.json",
