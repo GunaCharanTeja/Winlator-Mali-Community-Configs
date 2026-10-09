@@ -181,6 +181,16 @@
   ],
   "assassin's_creed_ii": [
     {
+      "filename": "lenovo-tb336fu-1791522832.json",
+      "device_model": "Lenovo TB336FU",
+      "gpu": "Mali-G57 MC2",
+      "ram": "6GB",
+      "storage": "107GB",
+      "notes": "",
+      "config_title": "Assassin's Cred II",
+      "timestamp": 1791522832
+    },
+    {
       "filename": "nothing-a142p-1784660874.json",
       "device_model": "Nothing A142P",
       "gpu": "Mali-G610 MC4",
