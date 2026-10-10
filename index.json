@@ -2933,6 +2933,18 @@
       "timestamp": 1790865973
     }
   ],
+  "jujutsu_kaisen_cursed_clash": [
+    {
+      "filename": "tecno-tecno_kl5-1791632312.json",
+      "device_model": "Tecno TECNO KL5",
+      "gpu": "Mali-G52 MC2",
+      "ram": "4GB",
+      "storage": "224GB",
+      "notes": "best performance for jujutsu kaisen MUGEN V9 on Mali processor and 4G ram",
+      "config_title": "JUJUTSU OPTIMISED MUGEN",
+      "timestamp": 1791632312
+    }
+  ],
   "just_cause_2": [
     {
       "filename": "samsung-sm_a346m-1790742328.json",
