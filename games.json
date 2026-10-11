@@ -2119,9 +2119,9 @@
     "name": "Resident Evil 3",
     "steam_id": null,
     "community_image": "https://cdn2.steamgriddb.com/grid/2aed67896816d863aa9307b52b80a5a0.jpg",
-    "config_count": 1,
+    "config_count": 2,
     "adreno_count": 0,
-    "mali_count": 1
+    "mali_count": 2
   },
   {
     "id": "resident_evil_4",
