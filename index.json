@@ -2449,6 +2449,16 @@
   ],
   "grand_theft_auto_v_enhanced": [
     {
+      "filename": "xiaomi-2412dpc0ag-1791727770.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "Roda liso em celulares com 8gb ram sem crashar",
+      "config_title": "GTA V RODANDO LISO",
+      "timestamp": 1791727770
+    },
+    {
       "filename": "xiaomi-2311drk48g-1791137684.json",
       "device_model": "Xiaomi 2311DRK48G",
       "gpu": "Mali-G615 MC6",
