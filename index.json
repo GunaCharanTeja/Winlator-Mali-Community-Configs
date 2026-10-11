@@ -3971,6 +3971,16 @@
   ],
   "outlast": [
     {
+      "filename": "realme-rmx3085-1791714353.json",
+      "device_model": "Realme RMX3085",
+      "gpu": "Mali-G76 MC4",
+      "ram": "6GB",
+      "storage": "109GB",
+      "notes": "",
+      "config_title": "Outlast win64 app Helio g95",
+      "timestamp": 1791714353
+    },
+    {
       "filename": "samsung-sm_a075f-1791213216.json",
       "device_model": "Samsung SM-A075F",
       "gpu": "Mali-G57 MC2",
