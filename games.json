@@ -2439,6 +2439,15 @@
     "mali_count": 3
   },
   {
+    "id": "speedball_2_tournament",
+    "name": "Speedball 2: Tournament",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "state_of_decay",
     "name": "State of Decay",
     "steam_id": null,

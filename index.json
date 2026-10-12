@@ -5101,6 +5101,18 @@
       "timestamp": 1783660627
     }
   ],
+  "speedball_2_tournament": [
+    {
+      "filename": "motorola-moto_g06-1791778294.json",
+      "device_model": "Motorola moto g06",
+      "gpu": "Mali-G52 MC2",
+      "ram": "4GB",
+      "storage": "108GB",
+      "notes": "",
+      "config_title": "Melhor Config Para Os Bombas.!",
+      "timestamp": 1791778294
+    }
+  ],
   "state_of_decay": [
     {
       "filename": "xiaomi-2511fpc34g-1784849761.json",
