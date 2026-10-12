@@ -2023,6 +2023,18 @@
       "timestamp": 1785501292
     }
   ],
+  "family_guy_back_to_the_multiverse": [
+    {
+      "filename": "infinix-infinix_x6858-1791825497.json",
+      "device_model": "Infinix Infinix X6858",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "224GB",
+      "notes": "30-40 FPS during gameplay at 1280x720.\n\nGame isn't CPU and GPU heavy.\n\nonly problem is black outlines on characters look blurry and low quality. Very noticeable during close ups on characters in cutscenes and main menu because it features the family guy family sitting in the living room watching TV. Not that noticeable during gameplay.\n\nEnjoy.",
+      "config_title": "Good Performance",
+      "timestamp": 1791825497
+    }
+  ],
   "far_cry": [
     {
       "filename": "xiaomi-2409brn2ca-1787408104.json",
