@@ -4251,6 +4251,16 @@
   ],
   "profootball_(pes_2013_mod)": [
     {
+      "filename": "tecno-tecno_kl5-1791808973.json",
+      "device_model": "Tecno TECNO KL5",
+      "gpu": "Mali-G52 MC2",
+      "ram": "4GB",
+      "storage": "106GB",
+      "notes": "",
+      "config_title": "Pes 2013 Mali 52",
+      "timestamp": 1791808973
+    },
+    {
       "filename": "xiaomi-2412dpc0ai-1788476348.json",
       "device_model": "Xiaomi 2412DPC0AI",
       "gpu": "Mali-G720 MC7",
