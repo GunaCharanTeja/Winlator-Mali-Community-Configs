@@ -2471,6 +2471,16 @@
   ],
   "grand_theft_auto_v_enhanced": [
     {
+      "filename": "xiaomi-2412dpc0ag-1791862355.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "..",
+      "config_title": "72GB.Version.",
+      "timestamp": 1791862355
+    },
+    {
       "filename": "xiaomi-2412dpc0ag-1791727770.json",
       "device_model": "Xiaomi 2412DPC0AG",
       "gpu": "Mali-G720 MC7",
