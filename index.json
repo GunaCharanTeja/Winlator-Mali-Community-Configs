@@ -5273,6 +5273,18 @@
       "timestamp": 1783879862
     }
   ],
+  "the_elder_scrolls_iv__oblivion_": [
+    {
+      "filename": "google_pixel_9a-1792698485.json",
+      "device_model": "Google Pixel 9a",
+      "gpu": "Mali-G715",
+      "ram": "8GB",
+      "storage": "229GB",
+      "notes": "works good but I'm new so I dunno how to change resolution 🥲",
+      "config_title": "For Pixel 9a",
+      "timestamp": 1792698485
+    }
+  ],
   "the_elder_scrolls_iv_oblivion": [
     {
       "filename": "unknown-gammaos_lite-1789300666.json",
