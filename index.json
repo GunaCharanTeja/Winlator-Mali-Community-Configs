@@ -191,6 +191,16 @@
   ],
   "assassin's_creed_ii": [
     {
+      "filename": "oppo-cph2763-1792689095.json",
+      "device_model": "Oppo CPH2763",
+      "gpu": "Mali-G615 MC2",
+      "ram": "8GB",
+      "storage": "224GB",
+      "notes": "",
+      "config_title": "Test Don't Use",
+      "timestamp": 1792689095
+    },
+    {
       "filename": "lenovo-tb336fu-1791522832.json",
       "device_model": "Lenovo TB336FU",
       "gpu": "Mali-G57 MC2",
