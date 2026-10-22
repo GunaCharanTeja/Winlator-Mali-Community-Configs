@@ -675,6 +675,15 @@
     "mali_count": 1
   },
   {
+    "id": "disco_elysium",
+    "name": "Disco Elysium",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/06e52751e78dc926e46e19daf5c5ff45.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "dishonored",
     "name": "Dishonored",
     "steam_id": null,

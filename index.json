@@ -1529,6 +1529,18 @@
       "timestamp": 1784142207
     }
   ],
+  "disco_elysium": [
+    {
+      "filename": "motorola_motorola_edge_60_pro-1792708132.json",
+      "device_model": "Motorola motorola edge 60 pro",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "221GB",
+      "notes": "Moto Edge 60 Pro, G615 MC6",
+      "config_title": "Disco Elysium",
+      "timestamp": 1792708132
+    }
+  ],
   "dishonored": [
     {
       "filename": "realme-rmx5030-1789170438.json",
