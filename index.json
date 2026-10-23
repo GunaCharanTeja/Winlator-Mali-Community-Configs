@@ -4615,6 +4615,16 @@
   ],
   "resident_evil_5": [
     {
+      "filename": "infinix_infinix_x6739-1792780841.json",
+      "device_model": "Infinix Infinix X6739",
+      "gpu": "Mali-G77 MC9",
+      "ram": "8GB",
+      "storage": "227GB",
+      "notes": "",
+      "config_title": "Re 5",
+      "timestamp": 1792780841
+    },
+    {
       "filename": "xiaomi-2511fpc34g-1791418784.json",
       "device_model": "Xiaomi 2511FPC34G",
       "gpu": "Mali-G720 MC8",
