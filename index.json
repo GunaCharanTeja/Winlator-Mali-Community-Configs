@@ -5601,6 +5601,18 @@
       "timestamp": 1790968874
     }
   ],
+  "wolverine": [
+    {
+      "filename": "samsung_sm_a356e-1792715162.json",
+      "device_model": "Samsung SM-A356E",
+      "gpu": "Mali-G68",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "",
+      "config_title": "Wolverine",
+      "timestamp": 1792715162
+    }
+  ],
   "worms_armageddon": [
     {
       "filename": "moorechip-retroid_pocket_4_pro-1790762205.json",
