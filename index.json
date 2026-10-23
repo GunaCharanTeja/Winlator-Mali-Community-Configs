@@ -427,6 +427,18 @@
       "timestamp": 1785237834
     }
   ],
+  "avatar_legends__the_fighting_game_": [
+    {
+      "filename": "infinix_infinix_x6833b-1792742021.json",
+      "device_model": "Infinix Infinix X6833B",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "40fps",
+      "config_title": "MaliG57 MC2 Avatar Fighting Games",
+      "timestamp": 1792742021
+    }
+  ],
   "avatar_legends_the_fighting_game": [
     {
       "filename": "oppo-cph2763-1785055623.json",
