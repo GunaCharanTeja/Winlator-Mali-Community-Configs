@@ -4069,6 +4069,16 @@
   ],
   "ori_and_the_blind_forest": [
     {
+      "filename": "xiaomi_2311drk48i-1792754060.json",
+      "device_model": "Xiaomi 2311DRK48I",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "Had texture glitches and colour swap at first, but fixed it after some tweaking. initial loading takes time, fps may drop to 0-2 but after reaching menu works normally. Changing bcn settings may cause texture glitches",
+      "config_title": "Poco X6 Pro 8gb ram [60fps]",
+      "timestamp": 1792754060
+    },
+    {
       "filename": "motorola-motorola_edge_40_neo-1784661135.json",
       "device_model": "Motorola motorola edge 40 neo",
       "gpu": "Mali-G610 MC3",
