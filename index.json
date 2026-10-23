@@ -2375,6 +2375,16 @@
   ],
   "glaive": [
     {
+      "filename": "tecno_mobile_limited_tecno_cg8h-1792753710.json",
+      "device_model": "Tecno mobile limited TECNO CG8h",
+      "gpu": "Mali-G76 MC4",
+      "ram": "8GB",
+      "storage": "230GB",
+      "notes": "gta4",
+      "config_title": "Gta4",
+      "timestamp": 1792753710
+    },
+    {
       "filename": "samsung-sm_a146m-1788122215.json",
       "device_model": "Samsung SM-A146M",
       "gpu": "Mali-G68",
