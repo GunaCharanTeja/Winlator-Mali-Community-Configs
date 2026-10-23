@@ -99,6 +99,18 @@
       "timestamp": 1783797574
     }
   ],
+  "alice__madness_returns": [
+    {
+      "filename": "anbernic_rg556-1792730774.json",
+      "device_model": "Anbernic RG556",
+      "gpu": "Mali-G57",
+      "ram": "8GB",
+      "storage": "112GB",
+      "notes": "",
+      "config_title": "Mali G57 By Rodaliso™",
+      "timestamp": 1792730774
+    }
+  ],
   "alice_madness_returns": [
     {
       "filename": "xiaomi-2511fpc34g-1791637690.json",
