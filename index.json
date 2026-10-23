@@ -629,6 +629,18 @@
       "timestamp": 1787197048
     }
   ],
+  "borderlands_4": [
+    {
+      "filename": "samsung_sm_a356e-1792715173.json",
+      "device_model": "Samsung SM-A356E",
+      "gpu": "Mali-G68",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "",
+      "config_title": "Borderlands",
+      "timestamp": 1792715173
+    }
+  ],
   "borderlands_the_pre-sequel": [
     {
       "filename": "xiaomi-2412dpc0ag-1784214348.json",

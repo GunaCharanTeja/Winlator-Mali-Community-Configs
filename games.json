@@ -270,6 +270,15 @@
     "mali_count": 3
   },
   {
+    "id": "borderlands_4",
+    "name": "Borderlands 4",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/522fa0e79841d1b226546e41e8845f98.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "borderlands_the_pre-sequel",
     "name": "Borderlands: The Pre-Sequel",
     "steam_id": null,
