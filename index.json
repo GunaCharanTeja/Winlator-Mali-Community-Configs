@@ -5353,6 +5353,16 @@
   ],
   "the_elder_scrolls_iv__oblivion_": [
     {
+      "filename": "google_pixel_9a-1792797385.json",
+      "device_model": "Google Pixel 9a",
+      "gpu": "Mali-G715",
+      "ram": "8GB",
+      "storage": "229GB",
+      "notes": "1. 40 to 70 fps \n2. for resolution edit the ini file in c: \n3. for controller support use OBSE",
+      "config_title": "For Pixel 9a",
+      "timestamp": 1792797385
+    },
+    {
       "filename": "google_pixel_9a-1792698485.json",
       "device_model": "Google Pixel 9a",
       "gpu": "Mali-G715",
