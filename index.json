@@ -3763,6 +3763,18 @@
       "timestamp": 1789930193
     }
   ],
+  "naruto_shippuden__ultimate_ninja_storm_4": [
+    {
+      "filename": "oppo_cph2481-1792879395.json",
+      "device_model": "Oppo CPH2481",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "Helio G99",
+      "config_title": "NARUTO STROM 4",
+      "timestamp": 1792879395
+    }
+  ],
   "naruto_shippuden_ultimate_ninja_storm_2": [
     {
       "filename": "xiaomi-22041216c-1788197968.json",
