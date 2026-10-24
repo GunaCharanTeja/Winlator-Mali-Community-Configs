@@ -633,6 +633,18 @@
       "timestamp": 1785925439
     }
   ],
+  "blazblue_entropy_effect_x": [
+    {
+      "filename": "xiaomi_2311drk48i-1792869491.json",
+      "device_model": "Xiaomi 2311DRK48I",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "needs 12 gb for comfortable gameplay, 30 fps and heavy dips in 8 gb",
+      "config_title": "Poco X6 Pro 8gb",
+      "timestamp": 1792869491
+    }
+  ],
   "blur": [
     {
       "filename": "xiaomi-24117rn76g-1791653179.json",

@@ -288,6 +288,15 @@
     "mali_count": 1
   },
   {
+    "id": "blazblue_entropy_effect_x",
+    "name": "BlazBlue Entropy Effect X",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "blur",
     "name": "Blur",
     "steam_id": null,
