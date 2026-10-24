@@ -4513,6 +4513,18 @@
       "timestamp": 1785584374
     }
   ],
+  "re7_opti": [
+    {
+      "filename": "samsung_sm_a556e-1792805630.json",
+      "device_model": "Samsung SM-A556E",
+      "gpu": "Samsung Xclipse 530",
+      "ram": "8GB",
+      "storage": "106GB",
+      "notes": "GALAXY A55 CONFG",
+      "config_title": "RESIDENT EVIL 2 REMAKE",
+      "timestamp": 1792805630
+    }
+  ],
   "red_dead_redemption_ii": [
     {
       "filename": "xiaomi-2412dpc0ag-1783999021.json",
