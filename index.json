@@ -2399,6 +2399,16 @@
   ],
   "glaive": [
     {
+      "filename": "xiaomi_2412dpc0ag-1792872295.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "479GB",
+      "notes": "",
+      "config_title": "high gpu usage for mali g720 mc7",
+      "timestamp": 1792872295
+    },
+    {
       "filename": "tecno_mobile_limited_tecno_cg8h-1792753710.json",
       "device_model": "Tecno mobile limited TECNO CG8h",
       "gpu": "Mali-G76 MC4",
