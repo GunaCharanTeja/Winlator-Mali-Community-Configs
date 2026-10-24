@@ -3491,6 +3491,18 @@
       "timestamp": 1786226713
     }
   ],
+  "metal_gear_solid_v__the_phantom_pain": [
+    {
+      "filename": "oppo_cph2763-1792871181.json",
+      "device_model": "Oppo CPH2763",
+      "gpu": "Mali-G615 MC2",
+      "ram": "8GB",
+      "storage": "224GB",
+      "notes": "Switch To Legacy Bcn Layer If Any Problem , Downloaded Game From Ankergames",
+      "config_title": "20-30fps Dimensity 7300",
+      "timestamp": 1792871181
+    }
+  ],
   "metro_2033": [
     {
       "filename": "google-pixel_6-1790189057.json",

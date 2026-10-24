@@ -1629,6 +1629,15 @@
     "mali_count": 3
   },
   {
+    "id": "metal_gear_solid_v__the_phantom_pain",
+    "name": "Metal Gear Solid V: The Phantom Pain",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/c527b6462c03e0bca38ea9b55015e883.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "metro_2033",
     "name": "Metro 2033",
     "steam_id": null,
