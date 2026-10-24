@@ -4691,6 +4691,16 @@
   ],
   "resident_evil_6": [
     {
+      "filename": "infinix_infinix_x6879-1792858286.json",
+      "device_model": "Infinix Infinix X6879",
+      "gpu": "Mali-G615 MC2",
+      "ram": "8GB",
+      "storage": "221GB",
+      "notes": "untuk fps yang di dapatkan 40 fps sampai 60 fps di tempat tertentu saja, oke aja itu dari pada dapet 20 fps kan yah",
+      "config_title": "Mediatek D7400",
+      "timestamp": 1792858286
+    },
+    {
       "filename": "infinix_infinix_x6879-1792857557.json",
       "device_model": "Infinix Infinix X6879",
       "gpu": "Mali-G615 MC2",
