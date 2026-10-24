@@ -5109,6 +5109,18 @@
       "timestamp": 1784306587
     }
   ],
+  "sleeping_dogs__definitive_edition": [
+    {
+      "filename": "oppo_cph2483-1792857398.json",
+      "device_model": "Oppo CPH2483",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "108GB",
+      "notes": "",
+      "config_title": "Game Harapan",
+      "timestamp": 1792857398
+    }
+  ],
   "sleeping_dogs_definitive_edition": [
     {
       "filename": "tecno-tecno_ki5k-1784238112.json",

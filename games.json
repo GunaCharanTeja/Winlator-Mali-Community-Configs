@@ -2430,6 +2430,15 @@
     "mali_count": 1
   },
   {
+    "id": "sleeping_dogs__definitive_edition",
+    "name": "Sleeping Dogs: Definitive Edition",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/7a8c7633b9f3285c2b3565c2159cf1fe.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "sleeping_dogs_definitive_edition",
     "name": "Sleeping Dogs: Definitive Edition",
     "steam_id": null,
