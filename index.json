@@ -393,6 +393,18 @@
       "timestamp": 1784319970
     }
   ],
+  "assassin_s_creed__revelations": [
+    {
+      "filename": "infinix_infinix_x6728-1792833179.json",
+      "device_model": "Infinix Infinix X6728",
+      "gpu": "Mali-G52 MC2",
+      "ram": "8GB",
+      "storage": "222GB",
+      "notes": "Mediatek Helio G85",
+      "config_title": "Low End Mali",
+      "timestamp": 1792833179
+    }
+  ],
   "assassinscreedii": [
     {
       "filename": "tecno-tecno_ki5k-1784477080.json",
