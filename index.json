@@ -2765,6 +2765,16 @@
   ],
   "gtavlauncher": [
     {
+      "filename": "samsung_sm_a346e-1792880562.json",
+      "device_model": "Samsung SM-A346E",
+      "gpu": "Mali-G68 MC4",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "jggghh",
+      "config_title": "Hghu",
+      "timestamp": 1792880562
+    },
+    {
       "filename": "xiaomi-2311drk48i-1790311597.json",
       "device_model": "Xiaomi 2311DRK48I",
       "gpu": "Mali-G615 MC6",
