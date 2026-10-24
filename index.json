@@ -5363,6 +5363,18 @@
       "timestamp": 1789216702
     }
   ],
+  "the_amazing_spider_man": [
+    {
+      "filename": "motorola_motorola_edge_50_neo-1792845321.json",
+      "device_model": "Motorola motorola edge 50 neo",
+      "gpu": "Mali-G615 MC2",
+      "ram": "8GB",
+      "storage": "215GB",
+      "notes": "Motorola Edge 50 Neo",
+      "config_title": "The Amazing Spiderman",
+      "timestamp": 1792845321
+    }
+  ],
   "the_darkness_ii": [
     {
       "filename": "tecno-tecno_ki5k-1783879862.json",
