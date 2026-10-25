@@ -4177,6 +4177,18 @@
       "timestamp": 1785906487
     }
   ],
+  "octopath_traveler_ii": [
+    {
+      "filename": "shenqijiyuan_z2570n-1792965334.json",
+      "device_model": "Shenqijiyuan Z2570N",
+      "gpu": "Mali-G615 MC2",
+      "ram": "8GB",
+      "storage": "222GB",
+      "notes": "",
+      "config_title": "Octapath Travelers 2 (Mali)",
+      "timestamp": 1792965334
+    }
+  ],
   "one_piece_pirate_warriors_4": [
     {
       "filename": "anbernic-rg557-1783776222.json",

@@ -1971,6 +1971,15 @@
     "mali_count": 1
   },
   {
+    "id": "octopath_traveler_ii",
+    "name": "Octopath Traveler II",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/daeb505c51af2b9389c4bace3fa79675.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "one_piece_pirate_warriors_4",
     "name": "One Piece: Pirate Warriors 4",
     "steam_id": null,
