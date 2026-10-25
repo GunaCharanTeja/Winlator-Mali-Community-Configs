@@ -1872,6 +1872,15 @@
     "mali_count": 1
   },
   {
+    "id": "neon_white",
+    "name": "Neon White",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/ac01e3290438398e6705d6d818fb94b3.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "nfs",
     "name": "nfs",
     "steam_id": null,

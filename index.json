@@ -3965,6 +3965,18 @@
       "timestamp": 1788793269
     }
   ],
+  "neon_white": [
+    {
+      "filename": "xiaomi_2311drk48i-1792936029.json",
+      "device_model": "Xiaomi 2311DRK48I",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "60 fps, increasing fov will lower the fps slightly",
+      "config_title": "Poco X6 Pro 8gb ram",
+      "timestamp": 1792936029
+    }
+  ],
   "nfs": [
     {
       "filename": "realme-rmx3941-1787971604.json",
