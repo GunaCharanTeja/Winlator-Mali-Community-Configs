@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "5.84 Wing",
+    "config_title": "GTA 4 Helio G 81 Ultimate",
+    "notes": "Nose pero me va bien está configuración",
+    "device": {
+      "manufacturer": "INFINIX",
+      "model": "Infinix X6728",
+      "soc": "Infinix-X6728",
+      "gpu": "Mali-G52 MC2",
+      "ram": "4GB",
+      "storage": "222GB"
+    },
+    "timestamp": 1792938044
+  },
+  "container": {
+    "wineVersion": "proton-10-arm64ec",
+    "graphicsDriver": "wrapper-v2",
+    "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=;maxDeviceMemory=0;presentMode=mailbox;syncFrame=0;disablePresentWait=0;astcTranscode=1;etc2Transcode=0;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=0;gpuName=NVIDIA GeForce RTX 3070",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.7.2,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1",
+    "audioDriver": "pulseaudio",
+    "emulator": "fexcore",
+    "box64Version": "0.4.3",
+    "box64Preset": "PERFORMANCE",
+    "fexcoreVersion": "2605",
+    "fexcorePreset": "PERFORMANCE",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "4,5,6,7",
+    "screenSize": "640x360",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": false,
+    "fullscreenStretched": false,
+    "startupSelection": 2
+  },
+  "shortcut": {
+    "name": "5-GTA IV - OPTIMIZACION - DIRECTX",
+    "path": "D:\\GTA IV RIP COMPATIBLE\\5-GTA IV - OPTIMIZACION - DIRECTX.bat",
+    "extraData": {
+      "emulationMode": "GAME_CONTROLLER",
+      "simTouchScreen": "0",
+      "screenSize": "960x544",
+      "graphicsDriver": "wrapper-v2",
+      "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=;maxDeviceMemory=0;presentMode=mailbox;syncFrame=0;disablePresentWait=0;astcTranscode=1;etc2Transcode=0;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=0;gpuName=NVIDIA GeForce RTX 3070",
+      "dxwrapper": "dxvk+vkd3d",
+      "dxwrapperConfig": "version=1.7.2,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1",
+      "audioDriver": "pulseaudio",
+      "emulator": "fexcore",
+      "midiSoundFont": "",
+      "lc_all": "es_MX.UTF-8",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+      "fexcoreVersion": "2605",
+      "fexcorePreset": "PERFORMANCE",
+      "box64Preset": "PERFORMANCE",
+      "startupSelection": "1",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "cpuList": "0,1,2,3,4,5,6,7"
+    }
+  }
+}
