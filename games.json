@@ -9,6 +9,15 @@
     "mali_count": 1
   },
   {
+    "id": "5_84_wing",
+    "name": "5.84 Wing",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "6_nights",
     "name": "6 Nights",
     "steam_id": null,
