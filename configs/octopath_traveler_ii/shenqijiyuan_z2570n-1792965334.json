@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "Octopath Traveler II",
+    "config_title": "Octapath Travelers 2 (Mali)",
+    "community_image": "https://cdn2.steamgriddb.com/grid/daeb505c51af2b9389c4bace3fa79675.png",
+    "device": {
+      "manufacturer": "SHENQIJIYUAN",
+      "model": "Z2570N",
+      "soc": "mwaloe",
+      "gpu": "Mali-G615 MC2",
+      "ram": "8GB",
+      "storage": "222GB"
+    },
+    "timestamp": 1792965334
+  },
+  "container": {
+    "wineVersion": "10.0-arm64ec-0",
+    "graphicsDriver": "wrapper",
+    "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=;maxDeviceMemory=4096;presentMode=relaxed;syncFrame=0;disablePresentWait=0;astcTranscode=0;etc2Transcode=1;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=0;gpuName=Device",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.5.5,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=0,maxDeviceMemory=5",
+    "audioDriver": "pulseaudio",
+    "emulator": "fexcore",
+    "box64Version": "0.4.3",
+    "box64Preset": "COMPATIBILITY",
+    "fexcoreVersion": "2605",
+    "fexcorePreset": "STABILITY",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "1,2,4,5,6,7",
+    "screenSize": "960x544",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": false,
+    "fullscreenStretched": false,
+    "startupSelection": 2,
+    "ramBoosterEnabled": true,
+    "ramBoosterProfile": "smart",
+    "ramBoosterCrisisThreshold": 90,
+    "ramBoosterPreCrisisThreshold": 83,
+    "ramBoosterCrisisIntensity": 45,
+    "ramBoosterPreCrisisIntensity": 20,
+    "exclusiveXInput": true,
+    "emulationMode": "GAME_CONTROLLER",
+    "envVars": "WRAPPER_MAX_IMAGE_COUNT=0 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact WINEESYNC=1 PULSE_LATENCY_MSEC=40 WRAPPER_NO_PATCH_OPCONSTCOMP=1 GLADIO_NO_ERROR=1"
+  },
+  "shortcut": {
+    "name": "Octopath_Traveler2-Win64-Shipping",
+    "path": "D:\\PC Games\\Octopath Traveler II\\Octopath_Traveler2\\Binaries\\Win64\\Octopath_Traveler2-Win64-Shipping.exe",
+    "extraData": {
+      "extraData": {
+        "maliEnvMigration": 3
+      },
+      "gameVersion": "1.0"
+    }
+  }
+}
