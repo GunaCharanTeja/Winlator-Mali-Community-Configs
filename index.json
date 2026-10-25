@@ -1615,6 +1615,16 @@
   ],
   "disco_elysium": [
     {
+      "filename": "motorola_motorola_edge_60_pro-1792940875.json",
+      "device_model": "Motorola motorola edge 60 pro",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "221GB",
+      "notes": "19:9 screen ratio, stable fps",
+      "config_title": "G615 MC6",
+      "timestamp": 1792940875
+    },
+    {
       "filename": "motorola_motorola_edge_60_pro-1792708132.json",
       "device_model": "Motorola motorola edge 60 pro",
       "gpu": "Mali-G615 MC6",

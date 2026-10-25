@@ -742,9 +742,9 @@
     "name": "Disco Elysium",
     "steam_id": null,
     "community_image": "https://cdn2.steamgriddb.com/grid/06e52751e78dc926e46e19daf5c5ff45.png",
-    "config_count": 1,
+    "config_count": 2,
     "adreno_count": 0,
-    "mali_count": 1
+    "mali_count": 2
   },
   {
     "id": "dishonored",
