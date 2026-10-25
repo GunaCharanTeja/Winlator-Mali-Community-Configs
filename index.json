@@ -3037,6 +3037,18 @@
       "timestamp": 1789324689
     }
   ],
+  "hollow_knight__silksong": [
+    {
+      "filename": "xiaomi_2311drk48i-1792935969.json",
+      "device_model": "Xiaomi 2311DRK48I",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "60 fps",
+      "config_title": "Poco x6 Pro 8gb ram",
+      "timestamp": 1792935969
+    }
+  ],
   "how_to_fish": [
     {
       "filename": "xiaomi-2412dpc0ag-1787692081.json",
