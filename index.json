@@ -145,6 +145,18 @@
       "timestamp": 1786386029
     }
   ],
+  "amtrucks": [
+    {
+      "filename": "xiaomi_25028rn03l-1792893978.json",
+      "device_model": "Xiaomi 25028RN03L",
+      "gpu": "Mali-G57",
+      "ram": "3GB",
+      "storage": "50GB",
+      "notes": "akls",
+      "config_title": "Hola",
+      "timestamp": 1792893978
+    }
+  ],
   "area_51": [
     {
       "filename": "infinix-infinix_x6827-1786797773.json",

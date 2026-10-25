@@ -72,6 +72,15 @@
     "mali_count": 1
   },
   {
+    "id": "amtrucks",
+    "name": "amtrucks",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "area_51",
     "name": "Area 51",
     "steam_id": null,
