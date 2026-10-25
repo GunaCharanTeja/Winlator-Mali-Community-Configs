@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "Neon White",
+    "config_title": "Poco X6 Pro 8gb ram",
+    "community_image": "https://cdn2.steamgriddb.com/grid/ac01e3290438398e6705d6d818fb94b3.png",
+    "notes": "60 fps, increasing fov will lower the fps slightly",
+    "device": {
+      "manufacturer": "Xiaomi",
+      "model": "2311DRK48I",
+      "soc": "duchamp",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "228GB"
+    },
+    "timestamp": 1792936029
+  },
+  "container": {
+    "wineVersion": "10-arm64ec-0",
+    "graphicsDriver": "wrapper",
+    "graphicsDriverConfig": "gpuName=Device;presentMode=mailbox;bcnVersion=current;bcnEnabled=1;blacklistedExtensions=;syncFrame=0;bcnQuality=auto;vulkanVersion=1.3;version=System;bcnEmulation=auto;maxDeviceMemory=0;bcnKeepRaw=0;bcnEmulationCache=1;disablePresentWait=0;bcnTranscode=astc;bcnNativeDirect=1;resourceType=auto",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.7.2,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+    "audioDriver": "pulseaudio-gn",
+    "emulator": "fexcore",
+    "box64Version": "0.3.7",
+    "box64Preset": "PERFORMANCE",
+    "fexcoreVersion": "2605",
+    "fexcorePreset": "PERFORMANCE",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "0,1,2,3,4,5,6,7",
+    "screenSize": "1280x720",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": true,
+    "fullscreenStretched": false,
+    "startupSelection": 2,
+    "ramBoosterEnabled": true,
+    "ramBoosterProfile": "smart",
+    "ramBoosterCrisisThreshold": 90,
+    "ramBoosterPreCrisisThreshold": 83,
+    "ramBoosterCrisisIntensity": 45,
+    "ramBoosterPreCrisisIntensity": 20,
+    "exclusiveXInput": true,
+    "emulationMode": "GAME_CONTROLLER",
+    "lc_all": "en_IN.UTF-8",
+    "envVars": "WRAPPER_MAX_IMAGE_COUNT=0 WINEESYNC=1 PULSE_LATENCY_MSEC=40 WRAPPER_NO_PATCH_OPCONSTCOMP=1 GLADIO_NO_ERROR=1"
+  },
+  "shortcut": {
+    "name": "Neon White",
+    "path": "C:\\Games\\Neon White\\Neon White.exe",
+    "extraData": {
+      "extraData": {
+        "maliEnvMigration": 3
+      },
+      "gameVersion": "2020.3.16.302446",
+      "simTouchScreen": "0",
+      "screenSize": "1280x720",
+      "graphicsDriver": "wrapper",
+      "graphicsDriverConfig": "gpuName=Device;presentMode=mailbox;bcnVersion=current;bcnEnabled=1;blacklistedExtensions=;syncFrame=0;bcnQuality=auto;vulkanVersion=1.3;version=System;bcnEmulation=auto;maxDeviceMemory=0;bcnKeepRaw=0;bcnEmulationCache=1;disablePresentWait=0;bcnTranscode=astc;bcnNativeDirect=1;resourceType=auto",
+      "dxwrapper": "dxvk+vkd3d",
+      "dxwrapperConfig": "version=1.7.2,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+      "audioDriver": "pulseaudio-gn",
+      "emulator": "fexcore",
+      "midiSoundFont": "",
+      "lc_all": "en_IN.UTF-8",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,directinput=0,xaudio=0,vcrun2010=1",
+      "envVars": "GLADIO_NO_ERROR=1",
+      "fexcoreVersion": "2605",
+      "fexcorePreset": "PERFORMANCE",
+      "box64Preset": "PERFORMANCE",
+      "ramBoosterEnabled": "1",
+      "ramBoosterToastEnabled": "0",
+      "ramBoosterProfile": "smart",
+      "ramBoosterCrisisThreshold": "90",
+      "ramBoosterPreCrisisThreshold": "83",
+      "ramBoosterCrisisIntensity": "45",
+      "ramBoosterPreCrisisIntensity": "20",
+      "startupSelection": "2",
+      "cpuList": "0,1,2,3,4,5,6,7"
+    }
+  }
+}
