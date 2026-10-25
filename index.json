@@ -4653,6 +4653,18 @@
       "timestamp": 1792936088
     }
   ],
+  "redout__enhanced_edition": [
+    {
+      "filename": "xiaomi_2311drk48i-1792936249.json",
+      "device_model": "Xiaomi 2311DRK48I",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "40-60fps depending on Epic-Low settings, this is REdout Enhanced Edition!! NOT redout 2",
+      "config_title": "Poco X6 Pro 8gb ram",
+      "timestamp": 1792936249
+    }
+  ],
   "rerev2": [
     {
       "filename": "tecno-tecno_lj8k-1784698374.json",
