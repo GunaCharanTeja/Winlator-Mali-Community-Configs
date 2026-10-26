@@ -1980,6 +1980,15 @@
     "mali_count": 1
   },
   {
+    "id": "one_piece__pirate_warriors_3",
+    "name": "One Piece: Pirate Warriors 3",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/d8106b4a7922ecb190a026748b0c159a.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "one_piece_pirate_warriors_4",
     "name": "One Piece: Pirate Warriors 4",
     "steam_id": null,

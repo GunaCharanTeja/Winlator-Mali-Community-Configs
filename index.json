@@ -4199,6 +4199,18 @@
       "timestamp": 1792965334
     }
   ],
+  "one_piece__pirate_warriors_3": [
+    {
+      "filename": "vivo_v2507a-1792977745.json",
+      "device_model": "Vivo V2507A",
+      "gpu": "Mali-G925-Immortalis MC12",
+      "ram": "12GB",
+      "storage": "221GB",
+      "notes": "stable 60 fps",
+      "config_title": "OPW3",
+      "timestamp": 1792977745
+    }
+  ],
   "one_piece_pirate_warriors_4": [
     {
       "filename": "anbernic-rg557-1783776222.json",
