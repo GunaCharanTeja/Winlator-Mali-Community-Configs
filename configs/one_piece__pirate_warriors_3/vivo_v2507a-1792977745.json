@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "One Piece: Pirate Warriors 3",
+    "config_title": "OPW3",
+    "community_image": "https://cdn2.steamgriddb.com/grid/d8106b4a7922ecb190a026748b0c159a.png",
+    "notes": "stable 60 fps",
+    "device": {
+      "manufacturer": "vivo",
+      "model": "V2507A",
+      "soc": "k6991v1_64",
+      "gpu": "Mali-G925-Immortalis MC12",
+      "ram": "12GB",
+      "storage": "221GB"
+    },
+    "timestamp": 1792977745
+  },
+  "container": {
+    "wineVersion": "10.0-4-arm64ec-15",
+    "graphicsDriver": "wrapper",
+    "graphicsDriverConfig": "gpuName=Device;presentMode=mailbox;bcnVersion=current;bcnEnabled=1;blacklistedExtensions=;syncFrame=0;bcnQuality=auto;vulkanVersion=1.3;version=System;bcnEmulation=auto;maxDeviceMemory=0;bcnKeepRaw=0;bcnEmulationCache=1;disablePresentWait=0;bcnTranscode=astc;bcnNativeDirect=1;resourceType=auto",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.7.2,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1",
+    "audioDriver": "pulseaudio-gn",
+    "emulator": "fexcore",
+    "box64Version": "0.4.3",
+    "box64Preset": "COMPATIBILITY",
+    "fexcoreVersion": "2605",
+    "fexcorePreset": "INTERMEDIATE",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "4,5,6,7",
+    "screenSize": "1280x720",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": false,
+    "fullscreenStretched": true,
+    "startupSelection": 1,
+    "ramBoosterEnabled": false,
+    "exclusiveXInput": true,
+    "emulationMode": "GAME_CONTROLLER",
+    "lc_all": "ar_DZ.UTF-8",
+    "envVars": "WRAPPER_MAX_IMAGE_COUNT=0 WINEESYNC=1 PULSE_LATENCY_MSEC=40 WRAPPER_NO_PATCH_OPCONSTCOMP=1 GLADIO_NO_ERROR=1"
+  },
+  "shortcut": {
+    "name": "oppw3",
+    "path": "D:\\One Piece Pirate Warriors 3\\oppw3.exe",
+    "extraData": {
+      "extraData": {
+        "maliEnvMigration": 3
+      },
+      "gameVersion": "1.0.1",
+      "simTouchScreen": "1",
+      "screenSize": "1280x720",
+      "graphicsDriver": "wrapper-gamenative",
+      "graphicsDriverConfig": "gpuName=Device;presentMode=mailbox;bcnVersion=current;bcnEnabled=1;blacklistedExtensions=;syncFrame=0;bcnQuality=auto;vulkanVersion=1.3;version=System;bcnEmulation=auto;maxDeviceMemory=0;bcnKeepRaw=1;bcnEmulationCache=1;disablePresentWait=0;bcnTranscode=astc;bcnNativeDirect=1;resourceType=auto",
+      "dxwrapper": "dxvk+vkd3d",
+      "dxwrapperConfig": "version=1.12.1-sarek,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+      "audioDriver": "alsa",
+      "emulator": "fexcore",
+      "midiSoundFont": "",
+      "lc_all": "ar_DZ.UTF-8",
+      "fullscreenStretched": "1",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,directinput=0,xaudio=0,vcrun2010=1",
+      "fexcoreVersion": "hybrid-x86",
+      "fexcorePreset": "PERFORMANCE",
+      "box64Preset": "PERFORMANCE",
+      "ramBoosterEnabled": "1",
+      "ramBoosterToastEnabled": "1",
+      "ramBoosterProfile": "smart",
+      "ramBoosterCrisisThreshold": "90",
+      "ramBoosterPreCrisisThreshold": "83",
+      "ramBoosterCrisisIntensity": "45",
+      "ramBoosterPreCrisisIntensity": "20",
+      "startupSelection": "2",
+      "controlsProfile": "3",
+      "cpuList": "4,5,6,7",
+      "postProcessing": "upscaler=0,upscalerSharpness=0.500,preset=0,presetStrength=0.650,brightness=0.000,contrast=0.000,gamma=1.000,hdr=0,fxaa=0,toon=0,crt=0,ntsc=0,sharpenMode=-1,sharpenLevel=3.000,fitWindow=0,frameGen=0,fgTarget=0,fgQuality=0,fpsLimit=0"
+    }
+  }
+}
