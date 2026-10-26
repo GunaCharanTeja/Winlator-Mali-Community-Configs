@@ -5705,6 +5705,18 @@
       "timestamp": 1790924656
     }
   ],
+  "the_sims_3": [
+    {
+      "filename": "samsung_sm_a346m-1793025015.json",
+      "device_model": "Samsung SM-A346M",
+      "gpu": "Mali-G68 MC4",
+      "ram": "6GB",
+      "storage": "106GB",
+      "notes": "",
+      "config_title": "The sims 3",
+      "timestamp": 1793025015
+    }
+  ],
   "the_sims_4": [
     {
       "filename": "xiaomi-24117rn76g-1786288500.json",
