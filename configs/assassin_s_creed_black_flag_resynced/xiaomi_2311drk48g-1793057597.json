@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "Assassin's Creed Black Flag Resynced",
+    "config_title": "Configuração assassin's Creed black flag",
+    "community_image": "https://cdn2.steamgriddb.com/grid/dc00bc3e5cd28d0a999e294bfce7fb9f.png",
+    "notes": "Para poco x6 pro 5g 8 Ram",
+    "device": {
+      "manufacturer": "Xiaomi",
+      "model": "2311DRK48G",
+      "soc": "duchamp",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "228GB"
+    },
+    "timestamp": 1793057597
+  },
+  "container": {
+    "wineVersion": "10.0-4-arm64ec-0",
+    "graphicsDriver": "wrapper-v2",
+    "graphicsDriverConfig": "gpuName=Device;presentMode=mailbox;bcnVersion=current;bcnEnabled=1;blacklistedExtensions=;syncFrame=0;bcnQuality=auto;vulkanVersion=1.3;version=System;bcnEmulation=auto;maxDeviceMemory=0;bcnKeepRaw=0;bcnEmulationCache=1;disablePresentWait=0;bcnTranscode=astc;bcnNativeDirect=1;resourceType=auto",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.7.2,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1",
+    "audioDriver": "pulseaudio",
+    "emulator": "fexcore",
+    "box64Version": "0.4.3",
+    "box64Preset": "PERFORMANCE",
+    "fexcoreVersion": "2605",
+    "fexcorePreset": "PERFORMANCE_X87_OFF",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "4,5,6,7",
+    "screenSize": "800x600",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": false,
+    "fullscreenStretched": false,
+    "startupSelection": 2,
+    "ramBoosterEnabled": false,
+    "exclusiveXInput": true,
+    "emulationMode": "GAME_CONTROLLER",
+    "lc_all": "pt_BR.UTF-8"
+  },
+  "shortcut": {
+    "name": "Assassin's Creed black flag",
+    "path": "D:\\Assassins Creed IV Black Flag Opti\\gamedata\\AC4BFSP.exe",
+    "extraData": {
+      "extraData": {
+        "maliEnvMigration": 3
+      },
+      "gameVersion": "1.0",
+      "postProcessing": "upscaler=0,upscalerSharpness=1.000,preset=0,presetStrength=0.650,brightness=0.000,contrast=1.000,gamma=1.000,hdr=0,fxaa=0,toon=0,crt=0,ntsc=0,sharpenMode=-1,sharpenLevel=3.000,fitWindow=0,frameGen=1,fgTarget=0,fgQuality=0,fpsLimit=45",
+      "box64Version": "0.4.3",
+      "simTouchScreen": "0",
+      "screenSize": "800x600",
+      "graphicsDriver": "wrapper-v2",
+      "graphicsDriverConfig": "gpuName=Device;presentMode=mailbox;bcnVersion=current;bcnEnabled=1;blacklistedExtensions=;syncFrame=0;bcnQuality=auto;vulkanVersion=1.3;version=System;bcnEmulation=auto;maxDeviceMemory=0;bcnKeepRaw=0;bcnEmulationCache=1;disablePresentWait=0;bcnTranscode=astc;bcnNativeDirect=1;resourceType=auto",
+      "dxwrapper": "dxvk+vkd3d",
+      "dxwrapperConfig": "version=1.7.2,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1",
+      "audioDriver": "pulseaudio",
+      "emulator": "fexcore",
+      "midiSoundFont": "",
+      "lc_all": "pt_BR.UTF-8",
+      "fullscreenStretched": "1",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+      "fexcoreVersion": "2605",
+      "fexcorePreset": "PERFORMANCE_X87_OFF",
+      "box64Preset": "PERFORMANCE",
+      "ramBoosterEnabled": "0",
+      "ramBoosterToastEnabled": "1",
+      "ramBoosterProfile": "smart",
+      "ramBoosterCrisisThreshold": "90",
+      "ramBoosterPreCrisisThreshold": "83",
+      "ramBoosterCrisisIntensity": "45",
+      "ramBoosterPreCrisisIntensity": "20",
+      "startupSelection": "2",
+      "cpuList": "0,1,2,3,4,5,6,7"
+    }
+  }
+}
