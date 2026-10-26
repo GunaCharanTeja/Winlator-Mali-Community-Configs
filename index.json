@@ -2091,6 +2091,16 @@
   ],
   "factorio": [
     {
+      "filename": "gevo_gevo_s6801-1792976049.json",
+      "device_model": "Gevo Gevo S6801",
+      "gpu": "Mali-G57",
+      "ram": "4GB",
+      "storage": "110GB",
+      "notes": "Device: Gevo V20 \n4GB RAM, Mali-G57 GPU Settings: Resolution 1280x720, \nGraphics Driver: Wrapper-gamenative,\n DX Wrapper: \nDXVK+VKD3D\nDXVK Version: v2.3.1-stripped\nMax Device Memory\n2048 MB\nPresent Mode\nmailbox\nMemory Resource Type: auto.\ntip\ni tried Avery wrapper with Avery Dxvk version Intel i get it right 👍",
+      "config_title": "My Run For Factorio In Low Phone",
+      "timestamp": 1792976049
+    },
+    {
       "filename": "xiaomi-2412dpc0ag-1791064807.json",
       "device_model": "Xiaomi 2412DPC0AG",
       "gpu": "Mali-G720 MC7",

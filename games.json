@@ -948,10 +948,10 @@
     "id": "factorio",
     "name": "Factorio",
     "steam_id": null,
-    "community_image": "https://cdn2.steamgriddb.com/grid/f1eb850fc7a1c033ae10c3b0ae81b3f0.png",
-    "config_count": 1,
+    "community_image": "https://cdn2.steamgriddb.com/grid/6894a85767cdde638cf9b9038b5fa5a1.png",
+    "config_count": 2,
     "adreno_count": 0,
-    "mali_count": 1
+    "mali_count": 2
   },
   {
     "id": "factory_town",
