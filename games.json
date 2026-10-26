@@ -108,6 +108,15 @@
     "mali_count": 2
   },
   {
+    "id": "assassin_s_creed_black_flag_resynced",
+    "name": "Assassin's Creed Black Flag Resynced",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/dc00bc3e5cd28d0a999e294bfce7fb9f.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "assassin's_creed_ii",
     "name": "Assassin's Creed II",
     "steam_id": null,
