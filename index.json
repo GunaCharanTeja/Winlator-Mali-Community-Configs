@@ -1369,6 +1369,18 @@
       "timestamp": 1787847034
     }
   ],
+  "dbxv": [
+    {
+      "filename": "xiaomi_23028ra60l-1793027497.json",
+      "device_model": "Xiaomi 23028RA60L",
+      "gpu": "Adreno (TM) 610",
+      "ram": "4GB",
+      "storage": "108GB",
+      "notes": "Snapdragon 685",
+      "config_title": "Dragón Ball Xenoverse1",
+      "timestamp": 1793027497
+    }
+  ],
   "dead_space": [
     {
       "filename": "samsung-sm_a217m-1789058047.json",
