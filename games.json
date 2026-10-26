@@ -2223,6 +2223,15 @@
     "mali_count": 1
   },
   {
+    "id": "raw_data",
+    "name": "Raw Data",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 1,
+    "mali_count": 0
+  },
+  {
     "id": "re5dx9",
     "name": "re5dx9",
     "steam_id": null,
