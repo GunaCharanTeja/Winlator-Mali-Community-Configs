@@ -333,6 +333,15 @@
     "mali_count": 1
   },
   {
+    "id": "borderlands__game_of_the_year_edition",
+    "name": "Borderlands: Game of the Year Edition",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/329e6581efbc90bd92a1f22c4ba2103d.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "borderlands_the_pre-sequel",
     "name": "Borderlands: The Pre-Sequel",
     "steam_id": null,

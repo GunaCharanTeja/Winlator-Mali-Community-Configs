@@ -723,6 +723,18 @@
       "timestamp": 1792715173
     }
   ],
+  "borderlands__game_of_the_year_edition": [
+    {
+      "filename": "xiaomi_25069ptebg-1792983110.json",
+      "device_model": "Xiaomi 25069PTEBG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "233GB",
+      "notes": "if the game runs at quarter of the screen \n1. Navigate to: My Games ➔ Borderlands (or Borderlands GOTY Enhanced) ➔ WillowGame ➔ Config.\n2. Open the file named WillowEngine.ini using Notepad.\n3.  Search for ResX and ResY to manually type out your exact monitor resolution ResX=1920 and ResY=1080 (or what ever resolution you want)\n\nyou can lock frame rate to 30 turn every graphic settings to ultra use frame gen and every upscaler you want with almost if not completely without an artifact or any issue and NO DELAY.\n\n(this is original not enhanced and with everything above it looked 10× better then enhanced)",
+      "config_title": "ULTRA Graphics",
+      "timestamp": 1792983110
+    }
+  ],
   "borderlands_the_pre-sequel": [
     {
       "filename": "xiaomi-2412dpc0ag-1784214348.json",
