@@ -735,6 +735,18 @@
       "timestamp": 1784214348
     }
   ],
+  "borderlandsgoty": [
+    {
+      "filename": "xiaomi_25069ptebg-1792980980.json",
+      "device_model": "Xiaomi 25069PTEBG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "233GB",
+      "notes": "Phone used for testing is Xiaomi 15T\n\n1- go to game folder and then willowgame folder then movies and delete every file that ends with .bk2 then leave movie folder and go to DLC folder and do the same\n\n2- move borderlands goty enhanced folder to C if you don't want to spend eternity waiting for it to load\n\n3- you can limit FPS to 30 and go for native resolution and ultra settings but make sure you keep AA off because it will force shutdown the game for some reason and same applies to texture settings\n\n4- using this config you should be capable of enabling Frame gen ×2 and it will be at 1ms for low settings not sure about higher settings since I didn't try\n\n(I had memory for wrapper and dxvk both at 4096 you can try to increase or decrease according to your phone or just to see what is best for you)",
+      "config_title": "Borderlands Goty Enhanced",
+      "timestamp": 1792980980
+    }
+  ],
   "bot_vice": [
     {
       "filename": "samsung-sm_a346e-1784078093.json",
