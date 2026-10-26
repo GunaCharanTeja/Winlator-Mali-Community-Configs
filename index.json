@@ -5553,6 +5553,18 @@
       "timestamp": 1790047833
     }
   ],
+  "stoneshard": [
+    {
+      "filename": "doogee_s_punk_pro-1793034523.json",
+      "device_model": "Doogee S Punk Pro",
+      "gpu": "Mali-G57",
+      "ram": "8GB",
+      "storage": "470GB",
+      "notes": "30 a 20 fps",
+      "config_title": "stoneshard mali g57",
+      "timestamp": 1793034523
+    }
+  ],
   "story_of_seasons__friends_of_mineral_town": [
     {
       "filename": "infinix_infinix_x6873-1792905912.json",
