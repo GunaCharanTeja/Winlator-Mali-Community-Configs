@@ -443,6 +443,16 @@
   ],
   "assassin_s_creed_iv__black_flag": [
     {
+      "filename": "xiaomi_2311drk48g-1793062727.json",
+      "device_model": "Xiaomi 2311DRK48G",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "V2 ainda precisa do cooler e do freme gen",
+      "config_title": "Assassin's Creed black flag 2013 poco x6 pro 5g 8ram",
+      "timestamp": 1793062727
+    },
+    {
       "filename": "xiaomi_2311drk48g-1793059007.json",
       "device_model": "Xiaomi 2311DRK48G",
       "gpu": "Mali-G615 MC6",
