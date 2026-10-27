@@ -1125,6 +1125,15 @@
     "mali_count": 1
   },
   {
+    "id": "fifa_22",
+    "name": "FIFA 22",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/74cda0200cf3a634764295f12a863305.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "firewatch",
     "name": "Firewatch",
     "steam_id": null,

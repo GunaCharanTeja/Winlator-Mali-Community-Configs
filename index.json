@@ -2389,6 +2389,18 @@
       "timestamp": 1787234856
     }
   ],
+  "fifa_22": [
+    {
+      "filename": "xiaomi_2602bpc18g-1793062971.json",
+      "device_model": "Xiaomi 2602BPC18G",
+      "gpu": "Mali-G925-Immortalis MC11",
+      "ram": "12GB",
+      "storage": "479GB",
+      "notes": "don't try on Helio processor,this is so heavy game",
+      "config_title": "FIFA 22 MEDIATEK ONLY",
+      "timestamp": 1793062971
+    }
+  ],
   "firewatch": [
     {
       "filename": "samsung-sm_a356e-1785940274.json",
