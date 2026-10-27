@@ -47,6 +47,18 @@
       "timestamp": 1789285389
     }
   ],
+  "ace_combat_7__skies_unknown": [
+    {
+      "filename": "infinix_infinix_x6871-1793130705.json",
+      "device_model": "Infinix Infinix X6871",
+      "gpu": "Mali-G610 MC6",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "D8200U\ngrafik medium 30fps+\n\nby ikel",
+      "config_title": "Ace Combat 7",
+      "timestamp": 1793130705
+    }
+  ],
   "agent_64_spies_never_die": [
     {
       "filename": "infinix-infinix_x6827-1786821885.json",
