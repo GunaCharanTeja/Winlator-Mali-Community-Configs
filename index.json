@@ -2741,6 +2741,16 @@
   ],
   "grand_theft_auto_v_enhanced": [
     {
+      "filename": "infinix_infinix_x6873-1793113496.json",
+      "device_model": "Infinix Infinix X6873",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "463GB",
+      "notes": "",
+      "config_title": "Gta5 INFINIX GT30 PRO MALI",
+      "timestamp": 1793113496
+    },
+    {
       "filename": "xiaomi-2412dpc0ag-1791862355.json",
       "device_model": "Xiaomi 2412DPC0AG",
       "gpu": "Mali-G720 MC7",
