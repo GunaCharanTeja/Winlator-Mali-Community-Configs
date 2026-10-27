@@ -3753,6 +3753,16 @@
   ],
   "miside": [
     {
+      "filename": "xiaomi_2404arn45a-1793109480.json",
+      "device_model": "Xiaomi 2404ARN45A",
+      "gpu": "Mali-G52 MC2",
+      "ram": "6GB",
+      "storage": "108GB",
+      "notes": "dxvk 1.10.3",
+      "config_title": "Misde Mali Gpu Cpu X86-64",
+      "timestamp": 1793109480
+    },
+    {
       "filename": "samsung-sm_n975f-1788838206.json",
       "device_model": "Samsung SM-N975F",
       "gpu": "Mali-G76",
