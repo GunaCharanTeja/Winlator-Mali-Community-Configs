@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "Ace Combat 7: Skies Unknown",
+    "config_title": "Ace Combat 7",
+    "community_image": "https://cdn2.steamgriddb.com/grid/89cb3dfe89b5f17d509eb8a113feccf9.png",
+    "notes": "D8200U\ngrafik medium 30fps+\n\nby ikel",
+    "device": {
+      "manufacturer": "INFINIX",
+      "model": "Infinix X6871",
+      "soc": "Infinix-X6871",
+      "gpu": "Mali-G610 MC6",
+      "ram": "8GB",
+      "storage": "225GB"
+    },
+    "timestamp": 1793130705
+  },
+  "container": {
+    "wineVersion": "10.0-arm64ec-0",
+    "graphicsDriver": "wrapper-gamenative",
+    "graphicsDriverConfig": "gpuName=Device;presentMode=mailbox;bcnVersion=current;bcnEnabled=1;blacklistedExtensions=;syncFrame=0;bcnQuality=auto;vulkanVersion=1.3;version=System;bcnEmulation=auto;maxDeviceMemory=0;bcnKeepRaw=0;bcnEmulationCache=1;disablePresentWait=0;bcnTranscode=astc;bcnNativeDirect=1;resourceType=auto",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.7.2,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1",
+    "audioDriver": "pulseaudio-gn",
+    "emulator": "fexcore",
+    "box64Version": "0.3.7",
+    "box64Preset": "PERFORMANCE",
+    "fexcoreVersion": "2508",
+    "fexcorePreset": "PERFORMANCE_TSO",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "0,1,2,3,4,5,6,7",
+    "screenSize": "1280x720",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": true,
+    "fullscreenStretched": false,
+    "startupSelection": 2,
+    "ramBoosterEnabled": true,
+    "ramBoosterProfile": "smart",
+    "ramBoosterCrisisThreshold": 90,
+    "ramBoosterPreCrisisThreshold": 83,
+    "ramBoosterCrisisIntensity": 45,
+    "ramBoosterPreCrisisIntensity": 20,
+    "exclusiveXInput": true,
+    "emulationMode": "GAME_CONTROLLER",
+    "lc_all": "in_ID.UTF-8",
+    "envVars": "WRAPPER_MAX_IMAGE_COUNT=0 WINEESYNC=1 PULSE_LATENCY_MSEC=40 WRAPPER_NO_PATCH_OPCONSTCOMP=1 GLADIO_NO_ERROR=1"
+  },
+  "shortcut": {
+    "name": "Ace7Game",
+    "path": "D:\\ACE COMBAT 7\\Ace7Game.exe",
+    "extraData": {
+      "extraData": {
+        "maliEnvMigration": 3
+      },
+      "gameVersion": "2.2.1.16",
+      "simTouchScreen": "0",
+      "screenSize": "1366x768",
+      "graphicsDriver": "wrapper-gamenative",
+      "graphicsDriverConfig": "gpuName=Device;presentMode=mailbox;bcnVersion=current;bcnEnabled=1;blacklistedExtensions=;syncFrame=0;bcnQuality=auto;vulkanVersion=1.3;version=System;bcnEmulation=auto;maxDeviceMemory=0;bcnKeepRaw=0;bcnEmulationCache=1;disablePresentWait=0;bcnTranscode=astc;bcnNativeDirect=1;resourceType=auto",
+      "dxwrapper": "dxvk+vkd3d",
+      "dxwrapperConfig": "version=1.7.2,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+      "audioDriver": "pulseaudio-gn",
+      "emulator": "fexcore",
+      "midiSoundFont": "",
+      "lc_all": "in_ID.UTF-8",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+      "fexcoreVersion": "2508",
+      "fexcorePreset": "PERFORMANCE_TSO",
+      "box64Preset": "PERFORMANCE",
+      "ramBoosterEnabled": "1",
+      "ramBoosterToastEnabled": "0",
+      "ramBoosterProfile": "smart",
+      "ramBoosterCrisisThreshold": "90",
+      "ramBoosterPreCrisisThreshold": "83",
+      "ramBoosterCrisisIntensity": "45",
+      "ramBoosterPreCrisisIntensity": "20",
+      "startupSelection": "2",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "customHeroArtPath": "/data/user/0/com.ludashi.benchmark/files/imagefs/home/xuser-1/app_data/hero_arts/Ace7Game.png"
+    }
+  }
+}
