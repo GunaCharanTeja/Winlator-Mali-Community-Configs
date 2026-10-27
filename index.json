@@ -5457,6 +5457,18 @@
       "timestamp": 1788844181
     }
   ],
+  "skyrimse": [
+    {
+      "filename": "infinix_infinix_x6871-1793130759.json",
+      "device_model": "Infinix Infinix X6871",
+      "gpu": "Mali-G610 MC6",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "buat ram 8 bisa di coba sett ane\n\nby ikel",
+      "config_title": "Skyrim AE",
+      "timestamp": 1793130759
+    }
+  ],
   "skyrimselauncher": [
     {
       "filename": "xiaomi-2311drk48g-1784306587.json",
