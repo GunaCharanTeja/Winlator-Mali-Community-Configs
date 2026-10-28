@@ -2285,6 +2285,18 @@
       "timestamp": 1791825497
     }
   ],
+  "family_time": [
+    {
+      "filename": "motorola_moto_g24-1793149442.json",
+      "device_model": "Motorola moto g24",
+      "gpu": "Mali-G52 MC2",
+      "ram": "4GB",
+      "storage": "108GB",
+      "notes": "lol",
+      "config_title": "Family Time",
+      "timestamp": 1793149442
+    }
+  ],
   "far_cry": [
     {
       "filename": "xiaomi-2409brn2ca-1787408104.json",
