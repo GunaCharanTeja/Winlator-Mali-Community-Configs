@@ -5363,6 +5363,18 @@
       "timestamp": 1785069965
     }
   ],
+  "shadow_warrior_2": [
+    {
+      "filename": "infinix_infinix_x6887-1793182716.json",
+      "device_model": "Infinix Infinix X6887",
+      "gpu": "Mali-G610 MC2",
+      "ram": "8GB",
+      "storage": "223GB",
+      "notes": "works on all device",
+      "config_title": "Mediatek 7100",
+      "timestamp": 1793182716
+    }
+  ],
   "shadowofmordor": [
     {
       "filename": "realme-rmx5030-1788520409.json",

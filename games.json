@@ -2538,6 +2538,15 @@
     "mali_count": 1
   },
   {
+    "id": "shadow_warrior_2",
+    "name": "Shadow Warrior 2",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/6ad0baa936cb6f1052eac7aa58953444.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "shadowofmordor",
     "name": "ShadowOfMordor",
     "steam_id": null,
