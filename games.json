@@ -918,6 +918,15 @@
     "mali_count": 1
   },
   {
+    "id": "duck__desktop_mascot_",
+    "name": "Duck (Desktop Mascot)",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "dyinglightgame",
     "name": "DyingLightGame",
     "steam_id": null,

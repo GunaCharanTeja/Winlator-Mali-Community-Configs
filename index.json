@@ -2013,6 +2013,18 @@
       "timestamp": 1789222857
     }
   ],
+  "duck__desktop_mascot_": [
+    {
+      "filename": "oppo_cph2629-1793196704.json",
+      "device_model": "Oppo CPH2629",
+      "gpu": "Mali-G615 MC2",
+      "ram": "12GB",
+      "storage": "460GB",
+      "notes": "Proton Version - 11.0.5 arm64\nDxvk - 3.0.2 arm64",
+      "config_title": "Tally Prime",
+      "timestamp": 1793196704
+    }
+  ],
   "dyinglightgame": [
     {
       "filename": "xiaomi-2311drk48i-1788028842.json",
