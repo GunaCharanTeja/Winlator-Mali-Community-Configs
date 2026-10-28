@@ -5855,6 +5855,16 @@
   ],
   "the_elder_scrolls_iv__oblivion_": [
     {
+      "filename": "google_pixel_9a-1793208049.json",
+      "device_model": "Google Pixel 9a",
+      "gpu": "Mali-G715",
+      "ram": "8GB",
+      "storage": "229GB",
+      "notes": "28 oct) gets u 30 to 70 fps",
+      "config_title": "Oblivion Ahhh",
+      "timestamp": 1793208049
+    },
+    {
       "filename": "google_pixel_9a-1792797385.json",
       "device_model": "Google Pixel 9a",
       "gpu": "Mali-G715",
