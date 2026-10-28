@@ -1627,6 +1627,18 @@
       "timestamp": 1783902416
     }
   ],
+  "deus_ex__human_revolution___director_s_cut": [
+    {
+      "filename": "realme_rmx5030-1793153751.json",
+      "device_model": "Realme RMX5030",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "223GB",
+      "notes": "game runs at locked 45 fps on mali g615",
+      "config_title": "Deus Ex Human Revolution For Mali Gpu",
+      "timestamp": 1793153751
+    }
+  ],
   "devil_may_cry_4": [
     {
       "filename": "motorola-moto_g15-1788211674.json",
