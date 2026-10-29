@@ -3132,6 +3132,15 @@
     "mali_count": 1
   },
   {
+    "id": "yakuza_0__director_s_cut",
+    "name": "Yakuza 0: Director's Cut",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/6e4dadda5b13477860332f74325260b3.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "zero_hour",
     "name": "Zero Hour",
     "steam_id": null,

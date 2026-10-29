@@ -6295,6 +6295,18 @@
       "timestamp": 1787036013
     }
   ],
+  "yakuza_0__director_s_cut": [
+    {
+      "filename": "infinix_infinix_x6870-1793266011.json",
+      "device_model": "Infinix Infinix X6870",
+      "gpu": "Mali-G615 MC2",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "Dimensity 7300",
+      "config_title": "Yakuza 0",
+      "timestamp": 1793266011
+    }
+  ],
   "zero_hour": [
     {
       "filename": "tecno-tecno_cl8-1786391433.json",
