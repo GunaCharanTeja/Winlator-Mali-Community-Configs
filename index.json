@@ -1263,6 +1263,18 @@
       "timestamp": 1783632123
     }
   ],
+  "dark_souls__remastered": [
+    {
+      "filename": "infinix_infinix_x6871-1793258285.json",
+      "device_model": "Infinix Infinix X6871",
+      "gpu": "Mali-G610 MC6",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "",
+      "config_title": "Dark Souls Remaster",
+      "timestamp": 1793258285
+    }
+  ],
   "dark_souls_ii": [
     {
       "filename": "xiaomi-22071219cg-1787797959.json",

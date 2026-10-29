@@ -666,6 +666,15 @@
     "mali_count": 3
   },
   {
+    "id": "dark_souls__remastered",
+    "name": "Dark Souls: Remastered",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/236c229b3fef409369d6f91f991a215a.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "dark_souls_remastered",
     "name": "Dark Souls: Remastered",
     "steam_id": null,
