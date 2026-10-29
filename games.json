@@ -3033,6 +3033,15 @@
     "mali_count": 1
   },
   {
+    "id": "triple_pairing",
+    "name": "Triple Pairing",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "ultra_street_fighter_iv",
     "name": "Ultra Street Fighter IV",
     "steam_id": null,

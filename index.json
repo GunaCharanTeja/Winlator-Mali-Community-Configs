@@ -6153,6 +6153,18 @@
       "timestamp": 1790827284
     }
   ],
+  "triple_pairing": [
+    {
+      "filename": "itel_itel_p661n-1793242515.json",
+      "device_model": "Itel itel P661N",
+      "gpu": "Mali-G57 MC2",
+      "ram": "6GB",
+      "storage": "110GB",
+      "notes": "Mali-god",
+      "config_title": "Triple Pairing VN",
+      "timestamp": 1793242515
+    }
+  ],
   "ultra_street_fighter_iv": [
     {
       "filename": "tecno-tecno_ki5k-1784678724.json",
