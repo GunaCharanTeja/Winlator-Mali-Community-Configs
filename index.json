@@ -2589,6 +2589,16 @@
   ],
   "game": [
     {
+      "filename": "infinix_infinix_x6879-1793313887.json",
+      "device_model": "Infinix Infinix X6879",
+      "gpu": "Mali-G615 MC2",
+      "ram": "8GB",
+      "storage": "221GB",
+      "notes": "30 sampai 60 fps",
+      "config_title": "Mediatek D7400",
+      "timestamp": 1793313887
+    },
+    {
       "filename": "samsung-sm_a156m-1789939511.json",
       "device_model": "Samsung SM-A156M",
       "gpu": "Mali-G57 MC2",
