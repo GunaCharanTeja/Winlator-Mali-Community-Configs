@@ -751,6 +751,16 @@
   ],
   "blur": [
     {
+      "filename": "xiaomi_2412dpc0ag-1793306150.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "It works with high efficiency on G720",
+      "config_title": "Blur",
+      "timestamp": 1793306150
+    },
+    {
       "filename": "infinix_infinix_x6871-1792952683.json",
       "device_model": "Infinix Infinix X6871",
       "gpu": "Mali-G610 MC6",
