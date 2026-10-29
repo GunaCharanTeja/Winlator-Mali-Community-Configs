@@ -4923,6 +4923,16 @@
   ],
   "re7": [
     {
+      "filename": "realme_rmx5061-1793293203.json",
+      "device_model": "Realme RMX5061",
+      "gpu": "Mali-G720-Immortalis MC12",
+      "ram": "12GB",
+      "storage": "460GB",
+      "notes": "",
+      "config_title": "Resident Evil 7",
+      "timestamp": 1793293203
+    },
+    {
       "filename": "xiaomi-2412dpc0ag-1785584374.json",
       "device_model": "Xiaomi 2412DPC0AG",
       "gpu": "Mali-G720 MC7",
