@@ -3163,6 +3163,18 @@
       "timestamp": 1791133108
     }
   ],
+  "harvest_moon__the_winds_of_anthos": [
+    {
+      "filename": "oppo_cph2483-1793276616.json",
+      "device_model": "Oppo CPH2483",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "108GB",
+      "notes": "Proton 11, kalau masih lag diubah aja",
+      "config_title": "Harvest Moon Wind Of Anthos",
+      "timestamp": 1793276616
+    }
+  ],
   "hellblade_senua's_sacrifice": [
     {
       "filename": "xiaomi-2412dpc0ag-1788243520.json",
