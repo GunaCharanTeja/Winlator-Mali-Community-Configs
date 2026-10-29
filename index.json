@@ -5071,6 +5071,16 @@
   ],
   "resident_evil_5": [
     {
+      "filename": "infinix_infinix_x6871-1793278584.json",
+      "device_model": "Infinix Infinix X6871",
+      "gpu": "Mali-G610 MC6",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "",
+      "config_title": "Residents Evil 5",
+      "timestamp": 1793278584
+    },
+    {
       "filename": "infinix_infinix_x6871-1793258308.json",
       "device_model": "Infinix Infinix X6871",
       "gpu": "Mali-G610 MC6",
