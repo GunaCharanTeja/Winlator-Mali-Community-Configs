@@ -2664,6 +2664,15 @@
     "mali_count": 1
   },
   {
+    "id": "skse_loader",
+    "name": "skse_loader",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "skyrimse",
     "name": "SkyrimSE",
     "steam_id": null,

@@ -5611,6 +5611,18 @@
       "timestamp": 1788844181
     }
   ],
+  "skse_loader": [
+    {
+      "filename": "infinix_infinix_x6873-1793335193.json",
+      "device_model": "Infinix Infinix X6873",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "224GB",
+      "notes": "its more fps when there's no npc",
+      "config_title": "30fps And Even More",
+      "timestamp": 1793335193
+    }
+  ],
   "skyrimse": [
     {
       "filename": "infinix_infinix_x6871-1793130759.json",
