@@ -765,6 +765,15 @@
     "mali_count": 3
   },
   {
+    "id": "demon_slayer__kimetsu_no_yaiba__the_hinokami_chronicles",
+    "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "desktop_mate",
     "name": "Desktop Mate",
     "steam_id": null,

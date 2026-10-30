@@ -1549,6 +1549,18 @@
       "timestamp": 1783780602
     }
   ],
+  "demon_slayer__kimetsu_no_yaiba__the_hinokami_chronicles": [
+    {
+      "filename": "nothing_a001t-1793340714.json",
+      "device_model": "Nothing A001T",
+      "gpu": "Mali-G615 MC2",
+      "ram": "8GB",
+      "storage": "108GB",
+      "notes": "",
+      "config_title": "Demon Slayer Mali G615 Mc2",
+      "timestamp": 1793340714
+    }
+  ],
   "desktop_mate": [
     {
       "filename": "samsung-sm_m336bu-1791751151.json",
