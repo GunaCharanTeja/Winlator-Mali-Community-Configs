@@ -5157,6 +5157,16 @@
   ],
   "resident_evil_5": [
     {
+      "filename": "infinix_infinix_x6739-1793382591.json",
+      "device_model": "Infinix Infinix X6739",
+      "gpu": "Mali-G77 MC9",
+      "ram": "8GB",
+      "storage": "227GB",
+      "notes": "",
+      "config_title": "Ek Number",
+      "timestamp": 1793382591
+    },
+    {
       "filename": "infinix_infinix_x6871-1793278584.json",
       "device_model": "Infinix Infinix X6871",
       "gpu": "Mali-G610 MC6",
