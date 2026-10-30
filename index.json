@@ -4881,6 +4881,16 @@
   ],
   "prototype": [
     {
+      "filename": "motorola_moto_g15-1793397826.json",
+      "device_model": "Motorola moto g15",
+      "gpu": "Mali-G52 MC2",
+      "ram": "4GB",
+      "storage": "224GB",
+      "notes": "",
+      "config_title": "PROTOTYPE SETTIGS UPDATE MOTO G15 4 gb Ram",
+      "timestamp": 1793397826
+    },
+    {
       "filename": "motorola_moto_g15-1793162532.json",
       "device_model": "Motorola moto g15",
       "gpu": "Mali-G52 MC2",
