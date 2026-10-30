@@ -4911,6 +4911,16 @@
   ],
   "prototype_2": [
     {
+      "filename": "vivo_v2309-1793381934.json",
+      "device_model": "Vivo V2309",
+      "gpu": "Mali-G720-Immortalis MC12",
+      "ram": "15GB",
+      "storage": "463GB",
+      "notes": "60 fps",
+      "config_title": "Pro 22",
+      "timestamp": 1793381934
+    },
+    {
       "filename": "xiaomi-24117rn76g-1790668219.json",
       "device_model": "Xiaomi 24117RN76G",
       "gpu": "Mali-G57 MC2",
