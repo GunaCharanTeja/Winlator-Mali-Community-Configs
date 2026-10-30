@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "skse_loader",
+    "config_title": "30fps And Even More",
+    "notes": "its more fps when there's no npc",
+    "device": {
+      "manufacturer": "INFINIX",
+      "model": "Infinix X6873",
+      "soc": "Infinix-X6873",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "224GB"
+    },
+    "timestamp": 1793335193
+  },
+  "container": {
+    "wineVersion": "9.0-x86_64-0",
+    "graphicsDriver": "wrapper",
+    "graphicsDriverConfig": "gpuName=Device;presentMode=mailbox;bcnVersion=current;bcnEnabled=1;blacklistedExtensions=;syncFrame=0;bcnQuality=auto;vulkanVersion=1.3;version=System;bcnEmulation=auto;maxDeviceMemory=4096;bcnKeepRaw=0;bcnEmulationCache=1;disablePresentWait=0;bcnTranscode=astc;bcnNativeDirect=1;resourceType=auto",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.7.2,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=dd7to9,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+    "audioDriver": "pulseaudio",
+    "emulator": "box64",
+    "box64Version": "0.3.7",
+    "box64Preset": "PERFORMANCE",
+    "fexcoreVersion": "2605",
+    "fexcorePreset": "INTERMEDIATE",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "2,3,4,5,6,7",
+    "screenSize": "1280x720",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": false,
+    "fullscreenStretched": false,
+    "startupSelection": 1,
+    "ramBoosterEnabled": true,
+    "ramBoosterProfile": "smart",
+    "ramBoosterCrisisThreshold": 90,
+    "ramBoosterPreCrisisThreshold": 83,
+    "ramBoosterCrisisIntensity": 45,
+    "ramBoosterPreCrisisIntensity": 20,
+    "exclusiveXInput": true,
+    "emulationMode": "GAME_CONTROLLER",
+    "lc_all": "en_US.UTF-8",
+    "envVars": "WRAPPER_MAX_IMAGE_COUNT=0 WINEESYNC=1 DXVK_HUD=fps PULSE_LATENCY_MSEC=40 WRAPPER_NO_PATCH_OPCONSTCOMP=1 GLADIO_NO_ERROR=1"
+  },
+  "shortcut": {
+    "name": "skse_loader",
+    "path": "F:\\Game hub Games\\The.Elder.Scrolls.V-Skyrim-Legendary.Edition-SteamRIP.com\\The Elder Scrolls V - Skyrim - Legendary Edition\\skse_loader.exe",
+    "extraData": {
+      "extraData": {
+        "maliEnvMigration": 3
+      },
+      "gameVersion": "0.1.7.3",
+      "simTouchScreen": "0",
+      "screenSize": "1280x720",
+      "graphicsDriver": "wrapper",
+      "graphicsDriverConfig": "gpuName=Device;presentMode=mailbox;bcnVersion=current;bcnEnabled=1;blacklistedExtensions=;syncFrame=0;bcnQuality=auto;vulkanVersion=1.3;version=System;bcnEmulation=auto;maxDeviceMemory=4096;bcnKeepRaw=0;bcnEmulationCache=1;disablePresentWait=0;bcnTranscode=astc;bcnNativeDirect=1;resourceType=auto",
+      "dxwrapper": "dxvk+vkd3d",
+      "dxwrapperConfig": "version=1.7.2,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=dd7to9,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+      "audioDriver": "pulseaudio",
+      "emulator": "box64",
+      "midiSoundFont": "",
+      "lc_all": "en_US.UTF-8",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+      "fexcoreVersion": "2605",
+      "fexcorePreset": "INTERMEDIATE",
+      "box64Preset": "PERFORMANCE",
+      "ramBoosterEnabled": "1",
+      "ramBoosterToastEnabled": "0",
+      "ramBoosterProfile": "smart",
+      "ramBoosterCrisisThreshold": "90",
+      "ramBoosterPreCrisisThreshold": "83",
+      "ramBoosterCrisisIntensity": "45",
+      "ramBoosterPreCrisisIntensity": "20",
+      "startupSelection": "1",
+      "cpuList": "2,3,4,5,6,7",
+      "box64Version": "0.3.7",
+      "postProcessing": "upscaler=0,upscalerSharpness=0.500,preset=0,presetStrength=0.650,brightness=0.000,contrast=0.000,gamma=1.000,hdr=0,fxaa=0,toon=0,crt=0,ntsc=0,sharpenMode=-1,sharpenLevel=3.000,fitWindow=0,frameGen=0,fgTarget=0,fgQuality=0,fpsLimit=30"
+    }
+  }
+}
