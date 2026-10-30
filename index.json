@@ -1287,6 +1287,16 @@
   ],
   "dark_souls__remastered": [
     {
+      "filename": "oppo_cph2791-1793358873.json",
+      "device_model": "Oppo CPH2791",
+      "gpu": "Mali-G1-Ultra MC12",
+      "ram": "15GB",
+      "storage": "455GB",
+      "notes": "",
+      "config_title": "45+ FPS Dimensity 9500",
+      "timestamp": 1793358873
+    },
+    {
       "filename": "infinix_infinix_x6871-1793278550.json",
       "device_model": "Infinix Infinix X6871",
       "gpu": "Mali-G610 MC6",
