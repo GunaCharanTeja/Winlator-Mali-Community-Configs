@@ -3373,6 +3373,18 @@
       "timestamp": 1792935969
     }
   ],
+  "hot_lava": [
+    {
+      "filename": "infinix_infinix_x6833b-1793484866.json",
+      "device_model": "Infinix Infinix X6833B",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "Cap the frame rate at 30 to resolve audio issues during a scene.\n\nSet a memory limit of 4 or 8 to resolve crashing issues when using the PanVK-FristOneRR-V.3.5 (fix 3.0) driver.\n\nuse\nFristOneRR-Wrapper-3.0\nDXVK 1.12.0\n\n\n\n\nFrame rates with the driver: during recording, they range between 12 and 15 fps; without recording, they are between 16 and 19 fps, occasionally reaching 20 fps.",
+      "config_title": "crash bandicoot 4 it's about time",
+      "timestamp": 1793484866
+    }
+  ],
   "how_to_fish": [
     {
       "filename": "xiaomi-2412dpc0ag-1787692081.json",
