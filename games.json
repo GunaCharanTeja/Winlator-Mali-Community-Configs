@@ -1575,6 +1575,15 @@
     "mali_count": 0
   },
   {
+    "id": "insurgency__sandstorm",
+    "name": "Insurgency: Sandstorm",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/5c48cae1167931ddbfb3be7bbfa0d5a3.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "ironsagavs",
     "name": "IronSagaVS",
     "steam_id": null,

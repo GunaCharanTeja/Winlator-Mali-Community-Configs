@@ -3409,6 +3409,18 @@
       "timestamp": 1784326586
     }
   ],
+  "insurgency__sandstorm": [
+    {
+      "filename": "tecno_tecno_cl8-1793473665.json",
+      "device_model": "Tecno TECNO CL8",
+      "gpu": "Mali-G610 MC6",
+      "ram": "12GB",
+      "storage": "227GB",
+      "notes": "20 to 30 fps on 640x480 low settings and Resolution scale 40",
+      "config_title": "insurgency sandstorm",
+      "timestamp": 1793473665
+    }
+  ],
   "ironsagavs": [
     {
       "filename": "xiaomi-2412dpc0ag-1784653711.json",
