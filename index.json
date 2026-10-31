@@ -2435,6 +2435,16 @@
   ],
   "far_cry_3": [
     {
+      "filename": "motorola_moto_g35_5g-1793486887.json",
+      "device_model": "Motorola moto g35 5G",
+      "gpu": "Mali-G57",
+      "ram": "4GB",
+      "storage": "112GB",
+      "notes": "for Mali g57 \n\n\nmade for Brazil 🇧🇷",
+      "config_title": "Moto G 35 5g",
+      "timestamp": 1793486887
+    },
+    {
       "filename": "realme-rmx5061-1789553986.json",
       "device_model": "Realme RMX5061",
       "gpu": "Mali-G720-Immortalis MC12",
