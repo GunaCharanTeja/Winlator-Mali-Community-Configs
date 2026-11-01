@@ -153,6 +153,15 @@
     "mali_count": 4
   },
   {
+    "id": "assassin_s_creed_iii",
+    "name": "Assassin's Creed III",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/34689e94d9d19ed6df7818ca4fcca754.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "assassin's_creed_iii_remastered",
     "name": "Assassin's Creed III Remastered",
     "steam_id": null,

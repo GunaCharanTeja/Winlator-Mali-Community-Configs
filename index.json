@@ -465,6 +465,18 @@
       "timestamp": 1793057597
     }
   ],
+  "assassin_s_creed_iii": [
+    {
+      "filename": "xiaomi_21091116ag-1793518989.json",
+      "device_model": "Xiaomi 21091116AG",
+      "gpu": "Mali-G57 MC2",
+      "ram": "6GB",
+      "storage": "108GB",
+      "notes": "",
+      "config_title": "Assassin's Creed 3",
+      "timestamp": 1793518989
+    }
+  ],
   "assassin_s_creed_iii_remastered": [
     {
       "filename": "nothing_a001t-1793420188.json",
