@@ -1259,6 +1259,16 @@
   ],
   "cuphead": [
     {
+      "filename": "samsung_sm_a156m-1793569569.json",
+      "device_model": "Samsung SM-A156M",
+      "gpu": "Mali-G57 MC2",
+      "ram": "4GB",
+      "storage": "106GB",
+      "notes": "MALI G7 45G",
+      "config_title": "Yed",
+      "timestamp": 1793569569
+    },
+    {
       "filename": "samsung_sm_a156m-1793568415.json",
       "device_model": "Samsung SM-A156M",
       "gpu": "Mali-G57 MC2",
