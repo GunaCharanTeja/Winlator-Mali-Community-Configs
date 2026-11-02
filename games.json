@@ -3190,9 +3190,9 @@
     "name": "Ultra Street Fighter IV",
     "steam_id": null,
     "community_image": "https://cdn2.steamgriddb.com/grid/b18c830bee284968884c4741406c6e65.png",
-    "config_count": 1,
+    "config_count": 2,
     "adreno_count": 0,
-    "mali_count": 1
+    "mali_count": 2
   },
   {
     "id": "ultrakill",

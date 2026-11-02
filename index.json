@@ -6559,6 +6559,16 @@
   ],
   "ultra_street_fighter_iv": [
     {
+      "filename": "motorola_moto_g05-1793627266.json",
+      "device_model": "Motorola moto g05",
+      "gpu": "Mali-G52 MC2",
+      "ram": "4GB",
+      "storage": "108GB",
+      "notes": "🎮🎮🎮🎮🎮",
+      "config_title": "USTIV",
+      "timestamp": 1793627266
+    },
+    {
       "filename": "tecno-tecno_ki5k-1784678724.json",
       "device_model": "Tecno TECNO KI5k",
       "gpu": "Mali-G57",
