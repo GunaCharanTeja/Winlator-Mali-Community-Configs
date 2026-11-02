@@ -4807,6 +4807,16 @@
   ],
   "pes2017": [
     {
+      "filename": "vivo_i2505-1793599951.json",
+      "device_model": "Vivo I2505",
+      "gpu": "Mali-G615 MC2",
+      "ram": "12GB",
+      "storage": "221GB",
+      "notes": "dimensity 7300turbo",
+      "config_title": "Pes 2017",
+      "timestamp": 1793599951
+    },
+    {
       "filename": "infinix-infinix_x6873-1787932395.json",
       "device_model": "Infinix Infinix X6873",
       "gpu": "Mali-G615 MC6",
