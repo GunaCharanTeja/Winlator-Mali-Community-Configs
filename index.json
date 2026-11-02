@@ -6017,6 +6017,16 @@
   ],
   "speed": [
     {
+      "filename": "vivo_v2058-1793622085.json",
+      "device_model": "Vivo V2058",
+      "gpu": "Mali-G52 MC2",
+      "ram": "8GB",
+      "storage": "105GB",
+      "notes": "mayan",
+      "config_title": "NFS MW GEH85",
+      "timestamp": 1793622085
+    },
+    {
       "filename": "samsung_sm_a305g-1793421577.json",
       "device_model": "Samsung SM-A305G",
       "gpu": "Mali-G71",
