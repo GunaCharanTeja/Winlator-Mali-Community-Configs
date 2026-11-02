@@ -2286,6 +2286,15 @@
     "mali_count": 1
   },
   {
+    "id": "pharaoh__a_new_era",
+    "name": "Pharaoh: A New Era",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/53f03f46478f41b5ded240e6b5415ae4.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "playgtav",
     "name": "PlayGTAV",
     "steam_id": null,

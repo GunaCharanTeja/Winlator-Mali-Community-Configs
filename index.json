@@ -4817,6 +4817,18 @@
       "timestamp": 1788476383
     }
   ],
+  "pharaoh__a_new_era": [
+    {
+      "filename": "samsung_sm_x820-1793590507.json",
+      "device_model": "Samsung SM-X820",
+      "gpu": "Mali-G720-Immortalis MC12",
+      "ram": "12GB",
+      "storage": "221GB",
+      "notes": "",
+      "config_title": "PHARAOH",
+      "timestamp": 1793590507
+    }
+  ],
   "playgtav": [
     {
       "filename": "xiaomi-2311drk48i-1788775539.json",
