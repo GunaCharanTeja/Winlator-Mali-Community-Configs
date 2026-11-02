@@ -3637,6 +3637,16 @@
   ],
   "left_4_dead": [
     {
+      "filename": "xiaomi_2201116pg-1793578895.json",
+      "device_model": "Xiaomi 2201116PG",
+      "gpu": "Adreno (TM) 619",
+      "ram": "6GB",
+      "storage": "102GB",
+      "notes": "",
+      "config_title": "Left",
+      "timestamp": 1793578895
+    },
+    {
       "filename": "xiaomi-m2007j3sg-1789256493.json",
       "device_model": "Xiaomi M2007J3SG",
       "gpu": "Adreno (TM) 650",
