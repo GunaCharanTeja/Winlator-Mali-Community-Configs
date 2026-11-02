@@ -1259,6 +1259,16 @@
   ],
   "cuphead": [
     {
+      "filename": "xiaomi_2407fpn8eg-1793582860.json",
+      "device_model": "Xiaomi 2407FPN8EG",
+      "gpu": "Mali-G720-Immortalis MC12",
+      "ram": "11GB",
+      "storage": "974GB",
+      "notes": "",
+      "config_title": "Cuphead",
+      "timestamp": 1793582860
+    },
+    {
       "filename": "samsung_sm_a156m-1793569569.json",
       "device_model": "Samsung SM-A156M",
       "gpu": "Mali-G57 MC2",
