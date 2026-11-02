@@ -1287,6 +1287,15 @@
     "mali_count": 3
   },
   {
+    "id": "gang_beasts",
+    "name": "Gang Beasts",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 1,
+    "mali_count": 0
+  },
+  {
     "id": "gearblocks",
     "name": "GearBlocks",
     "steam_id": null,
