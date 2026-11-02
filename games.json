@@ -2277,6 +2277,15 @@
     "mali_count": 1
   },
   {
+    "id": "pes2010",
+    "name": "pes2010",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "pes2017",
     "name": "PES2017",
     "steam_id": null,

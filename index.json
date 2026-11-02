@@ -4793,6 +4793,18 @@
       "timestamp": 1783864288
     }
   ],
+  "pes2010": [
+    {
+      "filename": "samsung_sm_a256e-1793592222.json",
+      "device_model": "Samsung SM-A256E",
+      "gpu": "Mali-G68",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "malig68",
+      "config_title": "Pes10",
+      "timestamp": 1793592222
+    }
+  ],
   "pes2017": [
     {
       "filename": "infinix-infinix_x6873-1787932395.json",
