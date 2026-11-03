@@ -2155,6 +2155,18 @@
       "timestamp": 1789222857
     }
   ],
+  "driver": [
+    {
+      "filename": "samsung_sm_a035f-1793724662.json",
+      "device_model": "Samsung SM-A035F",
+      "gpu": "Mali-G57",
+      "ram": "4GB",
+      "storage": "51GB",
+      "notes": "Mali G57 MP1 3gb ram\n800x600\n20-30 fps",
+      "config_title": "Driver San Francisco",
+      "timestamp": 1793724662
+    }
+  ],
   "duck__desktop_mascot_": [
     {
       "filename": "oppo_cph2629-1793196704.json",

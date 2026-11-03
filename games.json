@@ -972,6 +972,15 @@
     "mali_count": 1
   },
   {
+    "id": "driver",
+    "name": "Driver",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/750a7ca2274e7f3dffb62666cea79b54.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "duck__desktop_mascot_",
     "name": "Duck (Desktop Mascot)",
     "steam_id": null,
