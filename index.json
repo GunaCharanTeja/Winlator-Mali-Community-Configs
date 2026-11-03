@@ -4817,6 +4817,16 @@
   ],
   "persona_5_royal": [
     {
+      "filename": "xiaomi_2311drk48g-1793685454.json",
+      "device_model": "Xiaomi 2311DRK48G",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "466GB",
+      "notes": "winlator ludashi,mali 8300",
+      "config_title": "P5r",
+      "timestamp": 1793685454
+    },
+    {
       "filename": "xiaomi-2311drk48g-1783864288.json",
       "device_model": "Xiaomi 2311DRK48G",
       "gpu": "Mali-G615 MC6",
