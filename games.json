@@ -1228,9 +1228,9 @@
     "name": "FIFA 22",
     "steam_id": null,
     "community_image": "https://cdn2.steamgriddb.com/grid/74cda0200cf3a634764295f12a863305.png",
-    "config_count": 1,
+    "config_count": 2,
     "adreno_count": 0,
-    "mali_count": 1
+    "mali_count": 2
   },
   {
     "id": "firewatch",

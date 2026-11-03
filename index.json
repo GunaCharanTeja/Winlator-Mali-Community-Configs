@@ -2613,6 +2613,16 @@
   ],
   "fifa_22": [
     {
+      "filename": "xiaomi_2412dpc0ag-1793685734.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "40-50fps",
+      "config_title": "Fifa 22",
+      "timestamp": 1793685734
+    },
+    {
       "filename": "xiaomi_2602bpc18g-1793062971.json",
       "device_model": "Xiaomi 2602BPC18G",
       "gpu": "Mali-G925-Immortalis MC11",
