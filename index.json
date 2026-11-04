@@ -6485,6 +6485,18 @@
       "timestamp": 1789855568
     }
   ],
+  "tod_stein": [
+    {
+      "filename": "xiaomi_24117rn76g-1793774729.json",
+      "device_model": "Xiaomi 24117RN76G",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "229GB",
+      "notes": "",
+      "config_title": "Total Over Dose",
+      "timestamp": 1793774729
+    }
+  ],
   "tom_clancy's_splinter_cell_chaos_theory": [
     {
       "filename": "xiaomi-2412dpc0ai-1783888058.json",
