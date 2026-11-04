@@ -1649,6 +1649,16 @@
   ],
   "desktop_mate": [
     {
+      "filename": "samsung_sm_a546e-1793805444.json",
+      "device_model": "Samsung SM-A546E",
+      "gpu": "Mali-G68",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "",
+      "config_title": "Oblivion",
+      "timestamp": 1793805444
+    },
+    {
       "filename": "samsung-sm_m336bu-1791751151.json",
       "device_model": "Samsung SM-M336BU",
       "gpu": "Mali-G68",
