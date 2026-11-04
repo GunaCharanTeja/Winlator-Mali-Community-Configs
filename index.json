@@ -1783,6 +1783,16 @@
   ],
   "devil_may_cry_4": [
     {
+      "filename": "xiaomi_2409fpcc4g-1793761761.json",
+      "device_model": "Xiaomi 2409FPCC4G",
+      "gpu": "PowerVR B-Series BXM-8-256",
+      "ram": "12GB",
+      "storage": "228GB",
+      "notes": "This config is specifically tweaked for phones with the BXM-IMG-8-256 GPU. Not sure if it'll work for Mali but you can go and try yourself. ^^",
+      "config_title": "Dimensity 7025",
+      "timestamp": 1793761761
+    },
+    {
       "filename": "motorola-moto_g15-1788211674.json",
       "device_model": "Motorola moto g15",
       "gpu": "Mali-G52 MC2",
