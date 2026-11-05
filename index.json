@@ -3585,6 +3585,18 @@
       "timestamp": 1784653711
     }
   ],
+  "iw4sp": [
+    {
+      "filename": "tecno_tecno_km6-1793847159.json",
+      "device_model": "Tecno TECNO KM6",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "",
+      "config_title": "Mw2",
+      "timestamp": 1793847159
+    }
+  ],
   "james_bond_blood_stone": [
     {
       "filename": "xiaomi-2311drk48i-1787568653.json",
