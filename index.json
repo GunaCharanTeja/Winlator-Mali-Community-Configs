@@ -4723,6 +4723,16 @@
   ],
   "octopath_traveler_ii": [
     {
+      "filename": "oppo_pjb110-1793890994.json",
+      "device_model": "Oppo PJB110",
+      "gpu": "Mali-G57 MC2",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "",
+      "config_title": "Mali g55",
+      "timestamp": 1793890994
+    },
+    {
       "filename": "shenqijiyuan_z2570n-1792965334.json",
       "device_model": "Shenqijiyuan Z2570N",
       "gpu": "Mali-G615 MC2",
