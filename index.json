@@ -3123,6 +3123,16 @@
   ],
   "gta5": [
     {
+      "filename": "honor_lab_lx2-1793887762.json",
+      "device_model": "Honor LAB-LX2",
+      "gpu": "Mali-G52 MC2",
+      "ram": "6GB",
+      "storage": "220GB",
+      "notes": "Ludashi_Mali-G52-G76_Settings.zip",
+      "config_title": "Ludashi_Mali-G52-G76_Settings.zip",
+      "timestamp": 1793887762
+    },
+    {
       "filename": "xiaomi-2311drk48g-1788886200.json",
       "device_model": "Xiaomi 2311DRK48G",
       "gpu": "Mali-G615 MC6",
