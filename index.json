@@ -4859,6 +4859,18 @@
       "timestamp": 1785415014
     }
   ],
+  "opws": [
+    {
+      "filename": "nothing_a001t-1793987589.json",
+      "device_model": "Nothing A001T",
+      "gpu": "Mali-G615 MC2",
+      "ram": "8GB",
+      "storage": "108GB",
+      "notes": "fully playable",
+      "config_title": "One Piece World Seeker",
+      "timestamp": 1793987589
+    }
+  ],
   "ori_and_the_blind_forest": [
     {
       "filename": "xiaomi_2311drk48i-1792754060.json",
