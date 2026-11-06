@@ -3251,6 +3251,16 @@
   ],
   "gtavlauncher": [
     {
+      "filename": "honor_lab_lx2-1793971498.json",
+      "device_model": "Honor LAB-LX2",
+      "gpu": "Mali-G52 MC2",
+      "ram": "6GB",
+      "storage": "220GB",
+      "notes": "https://t.me/c/4225897209/66262/66513",
+      "config_title": "https://t.me/c/4225897209/66262/66513",
+      "timestamp": 1793971498
+    },
+    {
       "filename": "samsung_sm_a346e-1792880562.json",
       "device_model": "Samsung SM-A346E",
       "gpu": "Mali-G68 MC4",
