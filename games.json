@@ -1557,6 +1557,15 @@
     "mali_count": 1
   },
   {
+    "id": "hello_neighbor_2",
+    "name": "Hello Neighbor 2",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/18127c51d2b5500b2bc02a158db13d82.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "hello_neighbor__hide_and_seek",
     "name": "Hello Neighbor: Hide and Seek",
     "steam_id": null,
