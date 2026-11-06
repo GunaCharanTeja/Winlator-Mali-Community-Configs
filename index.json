@@ -4361,6 +4361,18 @@
       "timestamp": 1792879395
     }
   ],
+  "naruto_shippuden__ultimate_ninja_storm_revolution": [
+    {
+      "filename": "infinix_infinix_x6882-1793968362.json",
+      "device_model": "Infinix Infinix X6882",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "107GB",
+      "notes": "Helio g99/g100",
+      "config_title": "NARUTO ULTIMATE NINJA STORM REVOLUTION",
+      "timestamp": 1793968362
+    }
+  ],
   "naruto_shippuden_ultimate_ninja_storm_2": [
     {
       "filename": "xiaomi-22041216c-1788197968.json",
