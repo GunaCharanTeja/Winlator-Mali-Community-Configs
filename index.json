@@ -2677,6 +2677,16 @@
   ],
   "firewatch": [
     {
+      "filename": "xiaomi_2311drk48g-1793973346.json",
+      "device_model": "Xiaomi 2311DRK48G",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "466GB",
+      "notes": "t.me/d8300u",
+      "config_title": "25+ fps Low Settings Poco X6 Pro",
+      "timestamp": 1793973346
+    },
+    {
       "filename": "samsung-sm_a356e-1785940274.json",
       "device_model": "Samsung SM-A356E",
       "gpu": "Mali-G68",
