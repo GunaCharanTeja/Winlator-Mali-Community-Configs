@@ -3203,6 +3203,18 @@
       "timestamp": 1784045660
     }
   ],
+  "gta__underground": [
+    {
+      "filename": "xiaomi_21061110ag-1793951988.json",
+      "device_model": "Xiaomi 21061110AG",
+      "gpu": "Mali-G77 MC9",
+      "ram": "8GB",
+      "storage": "108GB",
+      "notes": "uficico",
+      "config_title": "Ershx",
+      "timestamp": 1793951988
+    }
+  ],
   "gta_iv_san_andreas_(mod)": [
     {
       "filename": "samsung-sm_g970f-1785322265.json",
