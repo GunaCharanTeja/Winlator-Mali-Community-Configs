@@ -1557,6 +1557,15 @@
     "mali_count": 1
   },
   {
+    "id": "hello_neighbor__hide_and_seek",
+    "name": "Hello Neighbor: Hide and Seek",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/b57691f6d4a4431f15bec1986a43bdcf.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "hitman_absolution",
     "name": "Hitman: Absolution",
     "steam_id": null,
