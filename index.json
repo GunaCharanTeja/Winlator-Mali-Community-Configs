@@ -5037,6 +5037,16 @@
   ],
   "pes2017": [
     {
+      "filename": "samsung_sm_a156e-1794064238.json",
+      "device_model": "Samsung SM-A156E",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "",
+      "config_title": "HELIO G99",
+      "timestamp": 1794064238
+    },
+    {
       "filename": "samsung_sm_a156e-1794040293.json",
       "device_model": "Samsung SM-A156E",
       "gpu": "Mali-G57 MC2",
