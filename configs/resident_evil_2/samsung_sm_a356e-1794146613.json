@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "Resident Evil 2",
+    "config_title": "Resident Evil 2 Remake",
+    "community_image": "https://cdn2.steamgriddb.com/grid/b31fe202b1bff652c4f831b2106a5a87.jpg",
+    "notes": "liso",
+    "device": {
+      "manufacturer": "samsung",
+      "model": "SM-A356E",
+      "soc": "s5e8835",
+      "gpu": "Mali-G68",
+      "ram": "8GB",
+      "storage": "225GB"
+    },
+    "timestamp": 1794146613
+  },
+  "container": {
+    "wineVersion": "10-arm64ec-0",
+    "graphicsDriver": "wrapper-leegao",
+    "graphicsDriverConfig": "gpuName=Device;presentMode=mailbox;bcnVersion=current;bcnEnabled=1;blacklistedExtensions=;syncFrame=0;bcnQuality=auto;vulkanVersion=1.3;version=System;bcnEmulation=auto;maxDeviceMemory=0;bcnKeepRaw=0;bcnEmulationCache=1;disablePresentWait=0;bcnTranscode=astc;bcnNativeDirect=1;resourceType=auto",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.7.2,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+    "audioDriver": "pulseaudio-gn",
+    "emulator": "fexcore",
+    "box64Version": "0.4.3",
+    "box64Preset": "PERFORMANCE",
+    "fexcoreVersion": "2605",
+    "fexcorePreset": "CUSTOM",
+    "fexcorePresetName": "Unreal Engine 3 (1)",
+    "fexcorePresetVars": "FEX_TSOENABLED=1 FEX_VECTORTSOENABLED=1 FEX_HALFBARRIERTSOENABLED=1 FEX_MEMCPYSETTSOENABLED=1 FEX_X87REDUCEDPRECISION=1 FEX_MULTIBLOCK=1 FEX_MAXINST=5000 FEX_HOSTFEATURES=off FEX_SMALLTSCSCALE=1 FEX_SMCCHECKS=mtrack FEX_VOLATILEMETADATA=1 FEX_MONOHACKS=1 FEX_HIDEHYPERVISORBIT=0 FEX_DISABLEL2CACHE=0 FEX_DYNAMICL1CACHE=0",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "4,5,6,7",
+    "screenSize": "640x360",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": false,
+    "fullscreenStretched": false,
+    "startupSelection": 2,
+    "ramBoosterEnabled": false,
+    "exclusiveXInput": true,
+    "emulationMode": "GAME_CONTROLLER",
+    "lc_all": "pt_BR.UTF-8",
+    "envVars": "WRAPPER_MAX_IMAGE_COUNT=0 WINEESYNC=1 DXVK_HUD=fps PULSE_LATENCY_MSEC=40 WRAPPER_NO_PATCH_OPCONSTCOMP=1 GLADIO_NO_ERROR=1"
+  },
+  "shortcut": {
+    "name": "re2",
+    "path": "F:\\Download\\pc games\\Resident Evil 2\\re2.exe",
+    "extraData": {
+      "extraData": {
+        "maliEnvMigration": 3
+      },
+      "gameVersion": "1.0.0.1"
+    }
+  }
+}
