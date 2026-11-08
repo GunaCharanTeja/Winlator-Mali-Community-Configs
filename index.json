@@ -3145,6 +3145,16 @@
   ],
   "gta5": [
     {
+      "filename": "motorola_moto_g56_5g-1794100750.json",
+      "device_model": "Motorola moto g56 5G",
+      "gpu": "PowerVR B-Series BXM-8-256",
+      "ram": "8GB",
+      "storage": "229GB",
+      "notes": "moto g56 5G: Dimencity 7060,8 de ram,gta 5 lite 43 gb y que viva la emulación",
+      "config_title": "GTA V",
+      "timestamp": 1794100750
+    },
+    {
       "filename": "honor_lab_lx2-1793887762.json",
       "device_model": "Honor LAB-LX2",
       "gpu": "Mali-G52 MC2",
