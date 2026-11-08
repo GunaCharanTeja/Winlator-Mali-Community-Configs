@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "Batman: Arkham City - Game of the Year Edition",
+    "config_title": "Batman Arkhan City Goty (Tested On Poco X6 Pro 12gb Mali)",
+    "community_image": "https://cdn2.steamgriddb.com/grid/ea3d02727c1507caa455c90fb618c499.png",
+    "notes": "dxvk 1.7.3 async, wrapper, performance x86 precision reduced off, low resolution and more",
+    "device": {
+      "manufacturer": "Xiaomi",
+      "model": "2311DRK48G",
+      "soc": "duchamp",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "466GB"
+    },
+    "timestamp": 1794098489
+  },
+  "container": {
+    "wineVersion": "11.0-20261005-arm64ec-14",
+    "graphicsDriver": "wrapper",
+    "graphicsDriverConfig": "gpuName=Device;presentMode=mailbox;bcnVersion=current;bcnEnabled=1;blacklistedExtensions=;syncFrame=0;bcnQuality=auto;vulkanVersion=1.3;version=System;bcnEmulation=auto;maxDeviceMemory=0;bcnKeepRaw=0;bcnEmulationCache=1;disablePresentWait=0;bcnTranscode=astc;bcnNativeDirect=1;resourceType=auto",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.7.3-async,framerate=0,async=1,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+    "audioDriver": "pulseaudio-gn",
+    "emulator": "fexcore",
+    "box64Version": "0.4.3",
+    "box64Preset": "PERFORMANCE",
+    "fexcoreVersion": "2605",
+    "fexcorePreset": "PERFORMANCE_X87_OFF",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "4,5,6,7",
+    "screenSize": "1280x720",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": false,
+    "fullscreenStretched": false,
+    "startupSelection": 1,
+    "ramBoosterEnabled": false,
+    "exclusiveXInput": true,
+    "emulationMode": "GAME_CONTROLLER",
+    "lc_all": "pt_BR.UTF-8"
+  },
+  "shortcut": {
+    "name": "Batman Arkhan City goty",
+    "path": "D:\\Emulators\\Win\\Batman Arkham City GOTY\\Binaries\\Win32\\BmLauncher.exe",
+    "extraData": {
+      "extraData": {
+        "maliEnvMigration": 3
+      },
+      "gameVersion": "1.0",
+      "simTouchScreen": "0",
+      "screenSize": "854x480",
+      "graphicsDriver": "wrapper",
+      "graphicsDriverConfig": "gpuName=Device;presentMode=mailbox;bcnVersion=current;bcnEnabled=1;blacklistedExtensions=;syncFrame=0;bcnQuality=auto;vulkanVersion=1.3;version=System;bcnEmulation=auto;maxDeviceMemory=0;bcnKeepRaw=0;bcnEmulationCache=1;disablePresentWait=0;bcnTranscode=astc;bcnNativeDirect=1;resourceType=auto",
+      "dxwrapper": "dxvk+vkd3d",
+      "dxwrapperConfig": "version=1.7.3-async,framerate=0,async=1,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+      "audioDriver": "pulseaudio-gn",
+      "emulator": "fexcore",
+      "midiSoundFont": "",
+      "lc_all": "pt_BR.UTF-8",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,directinput=0,xaudio=0,vcrun2010=1",
+      "fexcoreVersion": "2605",
+      "fexcorePreset": "PERFORMANCE_X87_OFF",
+      "box64Preset": "PERFORMANCE",
+      "ramBoosterEnabled": "0",
+      "ramBoosterToastEnabled": "1",
+      "ramBoosterProfile": "smart",
+      "ramBoosterCrisisThreshold": "90",
+      "ramBoosterPreCrisisThreshold": "83",
+      "ramBoosterCrisisIntensity": "45",
+      "ramBoosterPreCrisisIntensity": "20",
+      "startupSelection": "2",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "postProcessing": "upscaler=0,upscalerSharpness=0.500,preset=0,presetStrength=0.650,brightness=0.000,contrast=0.000,gamma=1.000,hdr=0,fxaa=0,toon=0,crt=0,ntsc=0,sharpenMode=-1,sharpenLevel=3.000,fitWindow=0,frameGen=0,fgTarget=0,fgQuality=0,fpsLimit=30"
+    }
+  }
+}
