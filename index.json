@@ -5539,6 +5539,16 @@
   ],
   "resident_evil_2": [
     {
+      "filename": "samsung_sm_a356e-1794146613.json",
+      "device_model": "Samsung SM-A356E",
+      "gpu": "Mali-G68",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "liso",
+      "config_title": "Resident Evil 2 Remake",
+      "timestamp": 1794146613
+    },
+    {
       "filename": "tecno-tecno_lk7k-1790524033.json",
       "device_model": "Tecno TECNO LK7k",
       "gpu": "Mali-G610 MC2",
