@@ -579,6 +579,18 @@
       "timestamp": 1785055623
     }
   ],
+  "batman__arkham_city___game_of_the_year_edition": [
+    {
+      "filename": "xiaomi_2311drk48g-1794098489.json",
+      "device_model": "Xiaomi 2311DRK48G",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "466GB",
+      "notes": "dxvk 1.7.3 async, wrapper, performance x86 precision reduced off, low resolution and more",
+      "config_title": "Batman Arkhan City Goty (Tested On Poco X6 Pro 12gb Mali)",
+      "timestamp": 1794098489
+    }
+  ],
   "batman_arkham_asylum": [
     {
       "filename": "motorola-motorola_edge_40_neo-1786141199.json",
