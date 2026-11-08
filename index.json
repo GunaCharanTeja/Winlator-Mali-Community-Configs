@@ -2665,6 +2665,18 @@
       "timestamp": 1787234856
     }
   ],
+  "fifa_19": [
+    {
+      "filename": "samsung_sm_x730-1794125931.json",
+      "device_model": "Samsung SM-X730",
+      "gpu": "Mali-G925-Immortalis MC12",
+      "ram": "12GB",
+      "storage": "104GB",
+      "notes": "",
+      "config_title": "FIFA19-9400+ 60Fps Stable",
+      "timestamp": 1794125931
+    }
+  ],
   "fifa_22": [
     {
       "filename": "xiaomi_2412dpc0ag-1793685734.json",
