@@ -1449,6 +1449,16 @@
   ],
   "dark_souls_iii": [
     {
+      "filename": "xiaomi_2311drk48g-1794234760.json",
+      "device_model": "Xiaomi 2311DRK48G",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "466GB",
+      "notes": "720p \n25.30fps",
+      "config_title": "X6 Pro",
+      "timestamp": 1794234760
+    },
+    {
       "filename": "xiaomi_2311drk48g-1794169687.json",
       "device_model": "Xiaomi 2311DRK48G",
       "gpu": "Mali-G615 MC6",
