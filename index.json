@@ -535,6 +535,16 @@
   ],
   "at_the_mountains_of_madness": [
     {
+      "filename": "samsung_sm_a155m-1794227957.json",
+      "device_model": "Samsung SM-A155M",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "helio g99",
+      "config_title": "Config AT",
+      "timestamp": 1794227957
+    },
+    {
       "filename": "xiaomi-2511fpc34g-1788702071.json",
       "device_model": "Xiaomi 2511FPC34G",
       "gpu": "Mali-G720 MC8",
