@@ -4611,6 +4611,18 @@
       "timestamp": 1783882301
     }
   ],
+  "nba_2k23": [
+    {
+      "filename": "samsung_sm_x920-1794240505.json",
+      "device_model": "Samsung SM-X920",
+      "gpu": "Mali-G720-Immortalis MC12",
+      "ram": "16GB",
+      "storage": "936GB",
+      "notes": "Graphic Setting : Medium\nVsync : Halfrate",
+      "config_title": "NBA 2K23",
+      "timestamp": 1794240505
+    }
+  ],
   "need_for_speed__hot_pursuit": [
     {
       "filename": "infinix_infinix_x6873-1793337314.json",

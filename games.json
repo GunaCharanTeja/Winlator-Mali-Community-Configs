@@ -2124,6 +2124,15 @@
     "mali_count": 4
   },
   {
+    "id": "nba_2k23",
+    "name": "NBA 2K23",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "need_for_speed__hot_pursuit",
     "name": "Need for Speed: Hot Pursuit",
     "steam_id": null,
