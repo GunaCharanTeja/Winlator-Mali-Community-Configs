@@ -2682,6 +2682,15 @@
     "mali_count": 1
   },
   {
+    "id": "returner_77",
+    "name": "Returner 77",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "rimworld",
     "name": "RimWorld",
     "steam_id": null,
