@@ -702,6 +702,15 @@
     "mali_count": 1
   },
   {
+    "id": "crysis_3",
+    "name": "Crysis 3",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/2860ea1f332b8ecd6ddae9204d38e3e0.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "crysis_warhead",
     "name": "Crysis Warhead",
     "steam_id": null,
