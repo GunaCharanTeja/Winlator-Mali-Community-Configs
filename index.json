@@ -479,6 +479,16 @@
   ],
   "assassin_s_creed_iii_remastered": [
     {
+      "filename": "xiaomi_2412dpc0ag-1794433760.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "~50Fps",
+      "config_title": "For Mali G720 MC7",
+      "timestamp": 1794433760
+    },
+    {
       "filename": "nothing_a001t-1793420188.json",
       "device_model": "Nothing A001T",
       "gpu": "Mali-G615 MC2",
