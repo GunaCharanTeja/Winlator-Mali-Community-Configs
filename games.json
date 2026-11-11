@@ -2367,6 +2367,15 @@
     "mali_count": 4
   },
   {
+    "id": "painkiller_hell___damnation",
+    "name": "Painkiller Hell & Damnation",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "papers,_please",
     "name": "Papers, Please",
     "steam_id": null,

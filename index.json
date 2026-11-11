@@ -5115,6 +5115,18 @@
       "timestamp": 1786639619
     }
   ],
+  "painkiller_hell___damnation": [
+    {
+      "filename": "xiaomi_2412dpc0ag-1794433830.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "80-180FPS",
+      "config_title": "For Mali G720 MC7",
+      "timestamp": 1794433830
+    }
+  ],
   "papers,_please": [
     {
       "filename": "samsung-sm_a750gn-1785062712.json",
