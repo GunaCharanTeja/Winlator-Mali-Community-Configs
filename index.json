@@ -7149,6 +7149,18 @@
       "timestamp": 1790968874
     }
   ],
+  "wolfenstein": [
+    {
+      "filename": "xiaomi_2412dpc0ag-1794433956.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "60FPS",
+      "config_title": "For Mali G720 MC7",
+      "timestamp": 1794433956
+    }
+  ],
   "wolverine": [
     {
       "filename": "samsung_sm_a356e-1792715162.json",

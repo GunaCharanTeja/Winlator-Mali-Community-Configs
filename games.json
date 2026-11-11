@@ -3420,6 +3420,15 @@
     "mali_count": 1
   },
   {
+    "id": "wolfenstein",
+    "name": "Wolfenstein",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/89cb6c05dcc43cf6819e4d18d17a8a13.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "wolverine",
     "name": "Wolverine",
     "steam_id": null,
