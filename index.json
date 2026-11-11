@@ -6699,6 +6699,16 @@
   ],
   "the_darkness_ii": [
     {
+      "filename": "xiaomi_2412dpc0ag-1794433861.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "70-120FPS",
+      "config_title": "For Mali G720 MC7",
+      "timestamp": 1794433861
+    },
+    {
       "filename": "tecno-tecno_ki5k-1783879862.json",
       "device_model": "Tecno TECNO KI5k",
       "gpu": "Mali-G57",
