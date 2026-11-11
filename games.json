@@ -2493,6 +2493,15 @@
     "mali_count": 1
   },
   {
+    "id": "prey",
+    "name": "Prey",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/1f59ce7cb8518a7422a094f8b7282ca0.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "prince_of_persia",
     "name": "Prince of Persia",
     "steam_id": null,

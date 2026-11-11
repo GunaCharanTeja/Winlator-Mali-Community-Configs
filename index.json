@@ -5373,6 +5373,18 @@
       "timestamp": 1786208448
     }
   ],
+  "prey": [
+    {
+      "filename": "xiaomi_2412dpc0ag-1794433885.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "60-80FPS",
+      "config_title": "For Mali G720 MC7",
+      "timestamp": 1794433885
+    }
+  ],
   "prince_of_persia": [
     {
       "filename": "xiaomi-2412dpc0ai-1786129483.json",
