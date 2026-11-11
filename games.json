@@ -805,9 +805,9 @@
     "name": "Dead Space 3",
     "steam_id": null,
     "community_image": "https://cdn2.steamgriddb.com/grid/cb8f3ff648c1602007ed6a61d012fc66.jpg",
-    "config_count": 1,
+    "config_count": 2,
     "adreno_count": 0,
-    "mali_count": 1
+    "mali_count": 2
   },
   {
     "id": "deadpool",
