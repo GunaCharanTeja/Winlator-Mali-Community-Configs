@@ -793,6 +793,18 @@
       "timestamp": 1793277980
     }
   ],
+  "bioshock_infinite": [
+    {
+      "filename": "xiaomi_2412dpc0ag-1794433726.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "60-140fps",
+      "config_title": "For Mali G720",
+      "timestamp": 1794433726
+    }
+  ],
   "blasphemous_ii": [
     {
       "filename": "lenovo-tb373fu-1785925439.json",
