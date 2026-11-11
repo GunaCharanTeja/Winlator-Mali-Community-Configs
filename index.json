@@ -599,6 +599,18 @@
       "timestamp": 1785055623
     }
   ],
+  "batman__arkham_asylum": [
+    {
+      "filename": "xiaomi_2412dpc0ag-1794433911.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "~45FPS",
+      "config_title": "For Mali G720 MC7",
+      "timestamp": 1794433911
+    }
+  ],
   "batman__arkham_city___game_of_the_year_edition": [
     {
       "filename": "xiaomi_2311drk48g-1794098489.json",
