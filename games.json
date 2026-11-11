@@ -319,9 +319,9 @@
     "name": "Battlefield 1",
     "steam_id": null,
     "community_image": "https://cdn2.steamgriddb.com/grid/e12a8099f35ba48631fa0b56989bc995.jpg",
-    "config_count": 1,
+    "config_count": 2,
     "adreno_count": 0,
-    "mali_count": 0
+    "mali_count": 1
   },
   {
     "id": "beastofreincarnation",
