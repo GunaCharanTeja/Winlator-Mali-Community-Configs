@@ -903,6 +903,18 @@
       "timestamp": 1787197048
     }
   ],
+  "borderlands_2": [
+    {
+      "filename": "xiaomi_2412dpc0ag-1794434011.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "60-100FPS",
+      "config_title": "For Mali G720 MC7",
+      "timestamp": 1794434011
+    }
+  ],
   "borderlands_4": [
     {
       "filename": "samsung_sm_a356e-1792715173.json",
