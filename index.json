@@ -6775,6 +6775,18 @@
       "timestamp": 1792845321
     }
   ],
+  "the_censor": [
+    {
+      "filename": "xiaomi_2412dpc0ag-1794482543.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "x",
+      "config_title": "Censor",
+      "timestamp": 1794482543
+    }
+  ],
   "the_coffin_of_andy_and_leyley": [
     {
       "filename": "infinix_infinix_x6871-1793278610.json",
