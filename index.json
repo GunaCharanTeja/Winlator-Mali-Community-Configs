@@ -5831,6 +5831,16 @@
   ],
   "resident_evil_5": [
     {
+      "filename": "infinix_infinix_x6879-1794475097.json",
+      "device_model": "Infinix Infinix X6879",
+      "gpu": "Mali-G615 MC2",
+      "ram": "8GB",
+      "storage": "221GB",
+      "notes": "",
+      "config_title": "RESIDENT EVIL 5 FIX LAG SMOOTH",
+      "timestamp": 1794475097
+    },
+    {
       "filename": "infinix_infinix_x6739-1793382591.json",
       "device_model": "Infinix Infinix X6739",
       "gpu": "Mali-G77 MC9",
