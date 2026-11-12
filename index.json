@@ -6029,6 +6029,16 @@
   ],
   "returner_77": [
     {
+      "filename": "xiaomi_2311drk48i-1794472298.json",
+      "device_model": "Xiaomi 2311DRK48I",
+      "gpu": "Mali-G615 MC6",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "35-55fps playable mediatek dimensitiy 8300ultra 8gb ram",
+      "config_title": "Resident Evil 7",
+      "timestamp": 1794472298
+    },
+    {
       "filename": "xiaomi_2311drk48i-1794311018.json",
       "device_model": "Xiaomi 2311DRK48I",
       "gpu": "Mali-G615 MC6",
