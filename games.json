@@ -3402,6 +3402,15 @@
     "mali_count": 1
   },
   {
+    "id": "undertale",
+    "name": "Undertale",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/14ec86d482ff9638392a061bfa431a1a.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "vrq_test",
     "name": "VRQ Test",
     "steam_id": null,

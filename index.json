@@ -7135,6 +7135,18 @@
       "timestamp": 1784243922
     }
   ],
+  "undertale": [
+    {
+      "filename": "oneplus_cph2943-1794454501.json",
+      "device_model": "Oneplus CPH2943",
+      "gpu": "Mali-G615 MC2",
+      "ram": "6GB",
+      "storage": "101GB",
+      "notes": "One Plus nord ce6 lite,\nMediaTek Dimensity 7400 with a Mali-G615 GPU",
+      "config_title": "Undertale",
+      "timestamp": 1794454501
+    }
+  ],
   "vrq_test": [
     {
       "filename": "shenqijiyuan_z2570n-1793282851.json",
