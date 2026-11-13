@@ -1359,6 +1359,15 @@
     "mali_count": 1
   },
   {
+    "id": "freedom_planet",
+    "name": "Freedom Planet",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/8f15f399cb1f6a02b9b64cf3fed5d494.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "game",
     "name": "GAME",
     "steam_id": null,
