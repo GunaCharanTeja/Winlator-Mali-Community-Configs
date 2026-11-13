@@ -7229,6 +7229,16 @@
   ],
   "well_dweller": [
     {
+      "filename": "xiaomi_2510dra23g-1794576594.json",
+      "device_model": "Xiaomi 2510DRA23G",
+      "gpu": "Mali-G57 MC2",
+      "ram": "6GB",
+      "storage": "107GB",
+      "notes": "test on g100 \ntest on g88\n\njust low settings",
+      "config_title": "Well Dweller by Glemar Tamayo",
+      "timestamp": 1794576594
+    },
+    {
       "filename": "xiaomi_2510dra23g-1794575992.json",
       "device_model": "Xiaomi 2510DRA23G",
       "gpu": "Mali-G57 MC2",
