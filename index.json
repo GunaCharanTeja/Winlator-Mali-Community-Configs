@@ -7157,6 +7157,18 @@
       "timestamp": 1790827284
     }
   ],
+  "trees_hate_you": [
+    {
+      "filename": "xiaomi_2510dra23g-1794588192.json",
+      "device_model": "Xiaomi 2510DRA23G",
+      "gpu": "Mali-G57 MC2",
+      "ram": "6GB",
+      "storage": "107GB",
+      "notes": "Tree's Hate you working.\nMaybe if support wrapper and panvk its improve fps.\nIn Bannerlator I get 35-40 fps \nTest in G57 MC2 \nTest in G52 MC2 also",
+      "config_title": "Tree's Hate You by Glemar Tamayo",
+      "timestamp": 1794588192
+    }
+  ],
   "triple_pairing": [
     {
       "filename": "itel_itel_p661n-1793242515.json",
