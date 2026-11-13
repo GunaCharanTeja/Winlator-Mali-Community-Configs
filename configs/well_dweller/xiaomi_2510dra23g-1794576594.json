@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "Well Dweller",
+    "config_title": "Well Dweller by Glemar Tamayo",
+    "community_image": "https://cdn2.steamgriddb.com/grid/d5e48ef0f19c0c0bbd3eeca14e34e79a.jpg",
+    "notes": "test on g100 \ntest on g88\n\njust low settings",
+    "device": {
+      "manufacturer": "Xiaomi",
+      "model": "2510DRA23G",
+      "soc": "spinel",
+      "gpu": "Mali-G57 MC2",
+      "ram": "6GB",
+      "storage": "107GB"
+    },
+    "timestamp": 1794576594
+  },
+  "container": {
+    "wineVersion": "10-arm64ec-0",
+    "graphicsDriver": "wrapper",
+    "graphicsDriverConfig": "gpuName=Device;presentMode=mailbox;bcnVersion=current;bcnEnabled=1;blacklistedExtensions=;syncFrame=1;bcnQuality=auto;vulkanVersion=1.3;version=System;bcnEmulation=auto;maxDeviceMemory=16384;bcnKeepRaw=0;bcnEmulationCache=1;disablePresentWait=1;bcnTranscode=astc;bcnNativeDirect=1;resourceType=auto",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=3.1.1-1-gplasync-arm64ec,framerate=0,async=1,asyncCache=1,vkd3dVersion=3.0b-2763dd2-0,vkd3dLevel=12_2,ddrawrapper=dd7to9,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+    "audioDriver": "pulseaudio-gn",
+    "emulator": "fexcore",
+    "box64Version": "0.4.4",
+    "box64Preset": "PERFORMANCE",
+    "fexcoreVersion": "2611",
+    "fexcorePreset": "PERFORMANCE",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "0,1,2,3,4,5,6,7",
+    "screenSize": "640x480",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": true,
+    "fullscreenStretched": false,
+    "startupSelection": 2,
+    "ramBoosterEnabled": true,
+    "ramBoosterProfile": "max",
+    "ramBoosterCrisisThreshold": 90,
+    "ramBoosterPreCrisisThreshold": 83,
+    "ramBoosterCrisisIntensity": 45,
+    "ramBoosterPreCrisisIntensity": 20,
+    "exclusiveXInput": true,
+    "emulationMode": "GAME_CONTROLLER",
+    "lc_all": "en_GB.UTF-8",
+    "envVars": "WRAPPER_MAX_IMAGE_COUNT=0 WINEESYNC=1 PULSE_LATENCY_MSEC=120 WRAPPER_NO_PATCH_OPCONSTCOMP=1 GLADIO_NO_ERROR=1 WINE_DO_NOT_CREATE_DXGI_DEVICE_MANAGER=0 WINE_NEW_MEDIASOURCE=0 WINE_LARGE_ADDRESS_AWARE=1 MESA_VK_WSI_PRESENT_MODE=mailbox MESA_EXTENSION_MAX_YEAR=2003 dxgi.maxDeviceMemory=512 FEX_DISABLE_REWRITER=1 DXVK_STATE_CACHE=0 MESA_GL_CACHE_DISABLE=true BOX64_DYNAREC_SAFEFLAGS=0 BOX64_DYNAREC_WEAKBARRIER=1 RADV_PERFTEST=samEnables VKD3D_CONFIG=no_staggered_submitDisables DXVK_ASYNC=1 BOX64_DYNAREC_SAFEDIR=2 BOX64_DYNAREC_STRONGMEM=2 BOX64_DYNAREC_BIGBLOCK=0"
+  },
+  "shortcut": {
+    "name": "WellDweller",
+    "path": "F:\\Winlator Games\\Pc Game\\Well Dweller\\Well.Dweller\\Well Dweller\\WellDweller.exe",
+    "extraData": {
+      "extraData": {
+        "maliEnvMigration": 3
+      },
+      "gameVersion": "1.0",
+      "simTouchScreen": "0",
+      "screenSize": "640x480",
+      "graphicsDriver": "wrapper",
+      "graphicsDriverConfig": "gpuName=Device;presentMode=mailbox;bcnVersion=current;bcnEnabled=1;blacklistedExtensions=;syncFrame=1;bcnQuality=auto;vulkanVersion=1.3;version=System;bcnEmulation=auto;maxDeviceMemory=16384;bcnKeepRaw=0;bcnEmulationCache=1;disablePresentWait=1;bcnTranscode=astc;bcnNativeDirect=1;resourceType=auto",
+      "dxwrapper": "dxvk+vkd3d",
+      "dxwrapperConfig": "version=3.1.1-1-gplasync-arm64ec,framerate=0,async=1,asyncCache=1,vkd3dVersion=3.0b-2763dd2-0,vkd3dLevel=12_2,ddrawrapper=dd7to9,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+      "audioDriver": "pulseaudio-gn",
+      "emulator": "fexcore",
+      "midiSoundFont": "wt_210k_G.sf2",
+      "lc_all": "en_GB.UTF-8",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+      "fexcoreVersion": "2611",
+      "fexcorePreset": "CUSTOM",
+      "box64Preset": "CUSTOM",
+      "ramBoosterEnabled": "1",
+      "ramBoosterToastEnabled": "1",
+      "ramBoosterProfile": "max",
+      "ramBoosterCrisisThreshold": "90",
+      "ramBoosterPreCrisisThreshold": "83",
+      "ramBoosterCrisisIntensity": "45",
+      "ramBoosterPreCrisisIntensity": "20",
+      "startupSelection": "2",
+      "cpuList": "0,1,2,3,4,5,6,7"
+    }
+  }
+}
