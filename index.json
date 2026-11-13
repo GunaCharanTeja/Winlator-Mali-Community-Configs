@@ -6763,6 +6763,18 @@
       "timestamp": 1784345840
     }
   ],
+  "tenantsofthedead": [
+    {
+      "filename": "xiaomi_2510dra23g-1794587290.json",
+      "device_model": "Xiaomi 2510DRA23G",
+      "gpu": "Mali-G57 MC2",
+      "ram": "6GB",
+      "storage": "107GB",
+      "notes": "Tenant of the Dead its adult game.\nTest on G57 MC2 \nTest also on G52 MC2",
+      "config_title": "Tenant Of The Dead by Glemar Tamayo",
+      "timestamp": 1794587290
+    }
+  ],
   "the_amazing_spider-man_2": [
     {
       "filename": "xiaomi-2311drk48g-1789216702.json",
