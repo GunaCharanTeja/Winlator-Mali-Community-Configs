@@ -3456,6 +3456,15 @@
     "mali_count": 1
   },
   {
+    "id": "well_dweller",
+    "name": "Well Dweller",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/d5e48ef0f19c0c0bbd3eeca14e34e79a.jpg",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "windrose",
     "name": "Windrose",
     "steam_id": null,

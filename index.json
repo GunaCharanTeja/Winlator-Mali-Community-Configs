@@ -7227,6 +7227,18 @@
       "timestamp": 1783982777
     }
   ],
+  "well_dweller": [
+    {
+      "filename": "xiaomi_2510dra23g-1794575992.json",
+      "device_model": "Xiaomi 2510DRA23G",
+      "gpu": "Mali-G57 MC2",
+      "ram": "6GB",
+      "storage": "107GB",
+      "notes": "Glemar Tamayo Setup Mali G88 Device",
+      "config_title": "Well Dweller By Glemar Tamayo",
+      "timestamp": 1794575992
+    }
+  ],
   "windrose": [
     {
       "filename": "infinix_infinix_x6853-1792909669.json",
