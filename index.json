@@ -2423,6 +2423,16 @@
   ],
   "eurotrucks2": [
     {
+      "filename": "xiaomi_2312fpca6g-1794653485.json",
+      "device_model": "Xiaomi 2312FPCA6G",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "work in mediatek g99",
+      "config_title": "Ets 2 1.36",
+      "timestamp": 1794653485
+    },
+    {
       "filename": "xiaomi-2409brn2cy-1791312933.json",
       "device_model": "Xiaomi 2409BRN2CY",
       "gpu": "Mali-G52 MC2",
