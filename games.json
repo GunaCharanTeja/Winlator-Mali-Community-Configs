@@ -2088,6 +2088,15 @@
     "mali_count": 1
   },
   {
+    "id": "motogp_15",
+    "name": "MotoGP 15",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "motorslice",
     "name": "MOTORSLICE",
     "steam_id": null,

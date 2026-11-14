@@ -4583,6 +4583,18 @@
       "timestamp": 1784902152
     }
   ],
+  "motogp_15": [
+    {
+      "filename": "infinix_infinix_x6837-1794666191.json",
+      "device_model": "Infinix Infinix X6837",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "228GB",
+      "notes": "gacor",
+      "config_title": "MotoGP 15",
+      "timestamp": 1794666191
+    }
+  ],
   "motorslice": [
     {
       "filename": "ulefone-armor_28_ultra-1786711424.json",
