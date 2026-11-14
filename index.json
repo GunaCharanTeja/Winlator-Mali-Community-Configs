@@ -6439,6 +6439,18 @@
       "timestamp": 1793335193
     }
   ],
+  "skullgirls": [
+    {
+      "filename": "xiaomi_2201116tg-1794659079.json",
+      "device_model": "Xiaomi 2201116TG",
+      "gpu": "Mali-G57 MC2",
+      "ram": "6GB",
+      "storage": "108GB",
+      "notes": "For Helio g96 6 Ram",
+      "config_title": "Skull Girls Second Encore",
+      "timestamp": 1794659079
+    }
+  ],
   "skyrimse": [
     {
       "filename": "infinix_infinix_x6871-1793130759.json",
