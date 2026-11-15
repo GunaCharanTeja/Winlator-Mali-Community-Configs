@@ -3759,6 +3759,16 @@
   ],
   "hitmanbloodmoney": [
     {
+      "filename": "realme_rmx3930-1794785061.json",
+      "device_model": "Realme RMX3930",
+      "gpu": "Mali-G57",
+      "ram": "6GB",
+      "storage": "107GB",
+      "notes": "realme C61",
+      "config_title": "Hitman Blood Money Re C61",
+      "timestamp": 1794785061
+    },
+    {
       "filename": "realme-rmx3930-1791507185.json",
       "device_model": "Realme RMX3930",
       "gpu": "Mali-G57",
