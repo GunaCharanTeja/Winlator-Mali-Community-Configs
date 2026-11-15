@@ -3348,6 +3348,15 @@
     "mali_count": 1
   },
   {
+    "id": "thekillingantidote_win64_shipping",
+    "name": "TheKillingAntidote-Win64-Shipping",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "thetrollgame",
     "name": "TheTrollGame",
     "steam_id": null,
