@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "HitmanBloodMoney",
+    "config_title": "Hitman Blood Money Re C61",
+    "notes": "realme C61",
+    "device": {
+      "manufacturer": "realme",
+      "model": "RMX3930",
+      "soc": "ums9230_latte",
+      "gpu": "Mali-G57",
+      "ram": "6GB",
+      "storage": "107GB"
+    },
+    "timestamp": 1794785061
+  },
+  "container": {
+    "wineVersion": "10.0-4-arm64ec-16",
+    "graphicsDriver": "wrapper",
+    "graphicsDriverConfig": "gpuName=NVIDIA GeForce GTX 480;presentMode=mailbox;bcnVersion=current;bcnEnabled=1;blacklistedExtensions=VK_EXT_extended_dynamic_state,VK_EXT_extended_dynamic_state2,VK_EXT_extended_dynamic_state3;syncFrame=0;bcnQuality=auto;vulkanVersion=1.1;version=System;bcnEmulation=auto;maxDeviceMemory=512;bcnKeepRaw=0;bcnEmulationCache=1;disablePresentWait=1;bcnTranscode=astc;bcnNativeDirect=1;resourceType=ahb",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.10.3,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=9_3,ddrawrapper=cnc-ddraw,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+    "audioDriver": "pulseaudio-gn",
+    "emulator": "fexcore",
+    "box64Version": "0.3.7",
+    "box64Preset": "COMPATIBILITY",
+    "fexcoreVersion": "2605",
+    "fexcorePreset": "PERFORMANCE",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "4,5,6,7",
+    "screenSize": "800x600",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": false,
+    "fullscreenStretched": false,
+    "startupSelection": 2,
+    "ramBoosterEnabled": false,
+    "exclusiveXInput": true,
+    "emulationMode": "GAME_CONTROLLER",
+    "lc_all": "fr_TN.UTF-8",
+    "envVars": "WRAPPER_MAX_IMAGE_COUNT=0 WINEESYNC=1 PULSE_LATENCY_MSEC=40 WRAPPER_NO_PATCH_OPCONSTCOMP=1 GLADIO_NO_ERROR=1 MESA_EXTENSION_MAX_YEAR=2003"
+  },
+  "shortcut": {
+    "name": "HitmanBloodMoney",
+    "path": "F:\\Download\\Hitman-Blood-Money-DownloadComputerGames.net\\HitmanBloodMoney.exe",
+    "extraData": {
+      "extraData": {
+        "maliEnvMigration": 3
+      },
+      "gameVersion": "m.strStationURL1",
+      "simTouchScreen": "0",
+      "screenSize": "800x600",
+      "graphicsDriver": "wrapper",
+      "graphicsDriverConfig": "gpuName=NVIDIA GeForce GTX 480;presentMode=mailbox;bcnVersion=current;bcnEnabled=1;blacklistedExtensions=VK_EXT_extended_dynamic_state,VK_EXT_extended_dynamic_state2,VK_EXT_extended_dynamic_state3;syncFrame=0;bcnQuality=auto;vulkanVersion=1.1;version=System;bcnEmulation=auto;maxDeviceMemory=512;bcnKeepRaw=0;bcnEmulationCache=1;disablePresentWait=1;bcnTranscode=astc;bcnNativeDirect=1;resourceType=ahb",
+      "dxwrapper": "dxvk+vkd3d",
+      "dxwrapperConfig": "version=1.10.3,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=9_3,ddrawrapper=cnc-ddraw,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+      "audioDriver": "pulseaudio-gn",
+      "emulator": "fexcore",
+      "midiSoundFont": "",
+      "lc_all": "fr_TN.UTF-8",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+      "fexcoreVersion": "2605",
+      "fexcorePreset": "PERFORMANCE",
+      "box64Preset": "COMPATIBILITY",
+      "ramBoosterEnabled": "0",
+      "ramBoosterToastEnabled": "1",
+      "ramBoosterProfile": "aggressive",
+      "ramBoosterCrisisThreshold": "90",
+      "ramBoosterPreCrisisThreshold": "83",
+      "ramBoosterCrisisIntensity": "45",
+      "ramBoosterPreCrisisIntensity": "20",
+      "startupSelection": "2",
+      "controlsProfile": "5",
+      "cpuList": "0,1,2,3,4,5,6,7"
+    }
+  }
+}
