@@ -5125,6 +5125,18 @@
       "timestamp": 1783776222
     }
   ],
+  "oppw4": [
+    {
+      "filename": "xiaomi_2311drk48g-1794786720.json",
+      "device_model": "Xiaomi 2311DRK48G",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "466GB",
+      "notes": "Change driver GPU to rtx 3070",
+      "config_title": "Dimensity 8300U",
+      "timestamp": 1794786720
+    }
+  ],
   "optiqraft": [
     {
       "filename": "samsung-sm_a217m-1789602352.json",
