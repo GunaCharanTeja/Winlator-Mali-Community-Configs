@@ -2693,6 +2693,16 @@
   ],
   "far_cry_3": [
     {
+      "filename": "xiaomi_2412dpc0ai-1794804585.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "",
+      "config_title": "12fps At 2.2w",
+      "timestamp": 1794804585
+    },
+    {
       "filename": "xiaomi_25080rabdg-1794707045.json",
       "device_model": "Xiaomi 25080RABDG",
       "gpu": "Mali-G615 MC2",
