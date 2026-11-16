@@ -1667,6 +1667,16 @@
   ],
   "dbfighterz": [
     {
+      "filename": "xiaomi_2412dpc0ag-1794868378.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "kdkd",
+      "config_title": "Papaya",
+      "timestamp": 1794868378
+    },
+    {
       "filename": "xiaomi-2311drk48g-1787847034.json",
       "device_model": "Xiaomi 2311DRK48G",
       "gpu": "Mali-G615 MC6",
