@@ -2693,6 +2693,16 @@
   ],
   "far_cry_3": [
     {
+      "filename": "xiaomi_2412dpc0ai-1794825624.json",
+      "device_model": "Xiaomi 2412DPC0AI",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "225GB",
+      "notes": "problem is in the fexcore,try performance or extreme present",
+      "config_title": "Mali G720 18fps At 2.4-2.8 Watt",
+      "timestamp": 1794825624
+    },
+    {
       "filename": "xiaomi_2412dpc0ai-1794804585.json",
       "device_model": "Xiaomi 2412DPC0AI",
       "gpu": "Mali-G720 MC7",
