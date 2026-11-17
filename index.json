@@ -4761,6 +4761,16 @@
   ],
   "naruto_x_boruto_ultimate_ninja_storm_connections": [
     {
+      "filename": "oppo_pkb110-1794958495.json",
+      "device_model": "Oppo PKB110",
+      "gpu": "Mali-G925-Immortalis MC12",
+      "ram": "12GB",
+      "storage": "221GB",
+      "notes": "ee",
+      "config_title": "Nartuo",
+      "timestamp": 1794958495
+    },
+    {
       "filename": "xiaomi_2311drk48g-1793472739.json",
       "device_model": "Xiaomi 2311DRK48G",
       "gpu": "Mali-G615 MC6",
