@@ -2703,6 +2703,16 @@
   ],
   "far_cry_3": [
     {
+      "filename": "xiaomi_2511fpc34g-1794915333.json",
+      "device_model": "Xiaomi 2511FPC34G",
+      "gpu": "Mali-G720 MC8",
+      "ram": "8GB",
+      "storage": "479GB",
+      "notes": "x8",
+      "config_title": "Farcry 333333",
+      "timestamp": 1794915333
+    },
+    {
       "filename": "xiaomi_2412dpc0ai-1794825624.json",
       "device_model": "Xiaomi 2412DPC0AI",
       "gpu": "Mali-G720 MC7",
