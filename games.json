@@ -3564,6 +3564,15 @@
     "mali_count": 1
   },
   {
+    "id": "wwe_2k19",
+    "name": "WWE 2K19",
+    "steam_id": null,
+    "community_image": null,
+    "config_count": 1,
+    "adreno_count": 1,
+    "mali_count": 0
+  },
+  {
     "id": "x-blades",
     "name": "X-Blades",
     "steam_id": null,

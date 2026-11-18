@@ -7471,6 +7471,18 @@
       "timestamp": 1790762205
     }
   ],
+  "wwe_2k19": [
+    {
+      "filename": "xiaomi_m2012k11ag-1794970495.json",
+      "device_model": "Xiaomi M2012K11AG",
+      "gpu": "Adreno (TM) 650",
+      "ram": "8GB",
+      "storage": "226GB",
+      "notes": "",
+      "config_title": "WWE2K19",
+      "timestamp": 1794970495
+    }
+  ],
   "x-blades": [
     {
       "filename": "xiaomi-2412dpc0ai-1784648322.json",
