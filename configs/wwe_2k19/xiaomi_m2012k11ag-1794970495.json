@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "WWE 2K19",
+    "config_title": "WWE2K19",
+    "device": {
+      "manufacturer": "Xiaomi",
+      "model": "M2012K11AG",
+      "soc": "alioth",
+      "gpu": "Adreno (TM) 650",
+      "ram": "8GB",
+      "storage": "226GB"
+    },
+    "timestamp": 1794970495
+  },
+  "container": {
+    "wineVersion": "10.0-X86_64-1",
+    "graphicsDriver": "wrapper",
+    "graphicsDriverConfig": "gpuName=Device;presentMode=mailbox;bcnVersion=current;bcnEnabled=1;blacklistedExtensions=;syncFrame=0;bcnQuality=auto;vulkanVersion=1.3;version=turnip25.1.0;bcnEmulation=auto;maxDeviceMemory=0;bcnKeepRaw=0;bcnEmulationCache=1;disablePresentWait=0;bcnTranscode=astc;bcnNativeDirect=1;resourceType=auto",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=1.11.1-sarek,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+    "audioDriver": "pulseaudio-gn",
+    "emulator": "box64",
+    "box64Version": "0.4.3",
+    "box64Preset": "PERFORMANCE",
+    "fexcoreVersion": "2605",
+    "fexcorePreset": "PERFORMANCE",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "4,5,6,7",
+    "screenSize": "1280x720",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": false,
+    "fullscreenStretched": false,
+    "startupSelection": 2,
+    "ramBoosterEnabled": false,
+    "exclusiveXInput": true,
+    "emulationMode": "GAME_CONTROLLER",
+    "lc_all": "en_US.UTF-8"
+  },
+  "shortcut": {
+    "name": "WWE2K19_x64",
+    "path": "D:\\WWE2K19MODUPDATE-ALPHA RELEASE\\WWE 2K19\\WWE2K19_x64.exe",
+    "extraData": {
+      "extraData": {
+        "maliEnvMigration": 3
+      },
+      "gameVersion": "1.0"
+    }
+  }
+}
