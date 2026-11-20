@@ -7423,6 +7423,16 @@
   ],
   "warcraft_iii__the_frozen_throne": [
     {
+      "filename": "xiaomi_2311drk48g-1795151254.json",
+      "device_model": "Xiaomi 2311DRK48G",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "466GB",
+      "notes": "Poco x6 pro",
+      "config_title": "Warcraft 3",
+      "timestamp": 1795151254
+    },
+    {
       "filename": "tecno_tecno_ki5k-1795014793.json",
       "device_model": "Tecno TECNO KI5k",
       "gpu": "Mali-G57",
