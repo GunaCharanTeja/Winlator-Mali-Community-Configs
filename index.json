@@ -2691,6 +2691,16 @@
   ],
   "far_cry_2": [
     {
+      "filename": "xiaomi_2602bpc18g-1795134302.json",
+      "device_model": "Xiaomi 2602BPC18G",
+      "gpu": "Mali-G925-Immortalis MC11",
+      "ram": "12GB",
+      "storage": "233GB",
+      "notes": "30 FPS with 60-70% GPU usage",
+      "config_title": "FarCry 2 (Poco X8 Pro Max)",
+      "timestamp": 1795134302
+    },
+    {
       "filename": "itel-itel_s665l-1786374529.json",
       "device_model": "Itel itel S665L",
       "gpu": "Mali-G57",
