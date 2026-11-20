@@ -1945,6 +1945,16 @@
   ],
   "devil_may_cry_4": [
     {
+      "filename": "xiaomi_m2101k7bg-1795194238.json",
+      "device_model": "Xiaomi M2101K7BG",
+      "gpu": "Mali-G76",
+      "ram": "8GB",
+      "storage": "109GB",
+      "notes": "",
+      "config_title": "Note 10S",
+      "timestamp": 1795194238
+    },
+    {
       "filename": "xiaomi_2409fpcc4g-1793761761.json",
       "device_model": "Xiaomi 2409FPCC4G",
       "gpu": "PowerVR B-Series BXM-8-256",
