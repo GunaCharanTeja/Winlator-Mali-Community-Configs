@@ -6231,6 +6231,16 @@
   ],
   "rise_of_the_tomb_raider": [
     {
+      "filename": "xiaomi_2511fpc34g-1795237390.json",
+      "device_model": "Xiaomi 2511FPC34G",
+      "gpu": "Mali-G720 MC8",
+      "ram": "8GB",
+      "storage": "479GB",
+      "notes": "",
+      "config_title": "Rise Of The Tomb Raider",
+      "timestamp": 1795237390
+    },
+    {
       "filename": "xiaomi_2511fpc34g-1795090508.json",
       "device_model": "Xiaomi 2511FPC34G",
       "gpu": "Mali-G720 MC8",
