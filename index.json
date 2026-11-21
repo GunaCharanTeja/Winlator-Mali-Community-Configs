@@ -4781,6 +4781,16 @@
   ],
   "naruto_x_boruto_ultimate_ninja_storm_connections": [
     {
+      "filename": "infinix_infinix_x6882-1795271486.json",
+      "device_model": "Infinix Infinix X6882",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "107GB",
+      "notes": "setting for helio g 100 60 fps",
+      "config_title": "Naruto storm connection Infinix hot 50",
+      "timestamp": 1795271486
+    },
+    {
       "filename": "oppo_pkb110-1794958495.json",
       "device_model": "Oppo PKB110",
       "gpu": "Mali-G925-Immortalis MC12",
