@@ -6275,6 +6275,16 @@
   ],
   "rise_of_the_tomb_raider": [
     {
+      "filename": "xiaomi_2311drk48g-1795372670.json",
+      "device_model": "Xiaomi 2311DRK48G",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "466GB",
+      "notes": "set graphic only 800x600\nif set 1280x720\nit makes more laggy",
+      "config_title": "Dimensity 8300U",
+      "timestamp": 1795372670
+    },
+    {
       "filename": "xiaomi_2511fpc34g-1795237390.json",
       "device_model": "Xiaomi 2511FPC34G",
       "gpu": "Mali-G720 MC8",
