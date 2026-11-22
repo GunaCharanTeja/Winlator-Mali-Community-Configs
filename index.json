@@ -5161,6 +5161,16 @@
   ],
   "nsuns4": [
     {
+      "filename": "infinix_infinix_x6876-1795317501.json",
+      "device_model": "Infinix Infinix X6876",
+      "gpu": "Mali-G615 MC2",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "30 fps playable",
+      "config_title": "Storm 4 D7400",
+      "timestamp": 1795317501
+    },
+    {
       "filename": "infinix_infinix_x6876-1795317117.json",
       "device_model": "Infinix Infinix X6876",
       "gpu": "Mali-G615 MC2",
