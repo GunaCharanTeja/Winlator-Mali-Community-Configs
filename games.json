@@ -2821,9 +2821,9 @@
     "name": "Rise of the Tomb Raider",
     "steam_id": null,
     "community_image": "https://cdn2.steamgriddb.com/grid/2173ff3ec0159d2de675ad491e9daa65.jpg",
-    "config_count": 4,
+    "config_count": 5,
     "adreno_count": 0,
-    "mali_count": 4
+    "mali_count": 5
   },
   {
     "id": "robloxstudiobeta",
