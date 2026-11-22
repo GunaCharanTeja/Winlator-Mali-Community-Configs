@@ -7345,6 +7345,16 @@
   ],
   "tomb_raider": [
     {
+      "filename": "xiaomi_2412dpc0ag-1795380240.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "",
+      "config_title": "Poco X7 Pro",
+      "timestamp": 1795380240
+    },
+    {
       "filename": "xiaomi-21061110ag-1790057810.json",
       "device_model": "Xiaomi 21061110AG",
       "gpu": "Mali-G77 MC9",
