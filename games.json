@@ -207,6 +207,15 @@
     "mali_count": 2
   },
   {
+    "id": "assassin_s_creed_rogue",
+    "name": "Assassin's Creed Rogue",
+    "steam_id": null,
+    "community_image": "https://cdn2.steamgriddb.com/grid/89bb5f47de06c1fffe37634e527470b1.png",
+    "config_count": 1,
+    "adreno_count": 0,
+    "mali_count": 1
+  },
+  {
     "id": "assassin's_creed_brotherhood",
     "name": "Assassin's Creed: Brotherhood",
     "steam_id": null,
