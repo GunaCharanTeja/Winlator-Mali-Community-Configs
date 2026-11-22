@@ -1345,6 +1345,18 @@
       "timestamp": 1785847159
     }
   ],
+  "crysis_2": [
+    {
+      "filename": "xiaomi_2412dpc0ag-1795380200.json",
+      "device_model": "Xiaomi 2412DPC0AG",
+      "gpu": "Mali-G720 MC7",
+      "ram": "12GB",
+      "storage": "480GB",
+      "notes": "",
+      "config_title": "Poco X7 Pro",
+      "timestamp": 1795380200
+    }
+  ],
   "crysis_2_maximum_edition": [
     {
       "filename": "tecno-tecno_ki5k-1783910459.json",
