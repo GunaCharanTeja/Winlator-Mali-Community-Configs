@@ -5159,6 +5159,18 @@
       "timestamp": 1785906487
     }
   ],
+  "nsuns4": [
+    {
+      "filename": "infinix_infinix_x6876-1795317117.json",
+      "device_model": "Infinix Infinix X6876",
+      "gpu": "Mali-G615 MC2",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "30 fps config",
+      "config_title": "Dimensity 7400",
+      "timestamp": 1795317117
+    }
+  ],
   "octopath_traveler_ii": [
     {
       "filename": "oppo_pjb110-1793890994.json",
