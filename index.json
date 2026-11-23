@@ -5497,6 +5497,16 @@
   ],
   "pes2017": [
     {
+      "filename": "tecno_tecno_cm5-1795394298.json",
+      "device_model": "Tecno TECNO CM5",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "its working on mediatek hellio g100 mine is camon 40",
+      "config_title": "Pes 2017",
+      "timestamp": 1795394298
+    },
+    {
       "filename": "samsung_sm_a156e-1794064238.json",
       "device_model": "Samsung SM-A156E",
       "gpu": "Mali-G57 MC2",
