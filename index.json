@@ -2163,6 +2163,16 @@
   ],
   "dispatch": [
     {
+      "filename": "tecno_tecno_lj6-1795428630.json",
+      "device_model": "Tecno TECNO LJ6",
+      "gpu": "Mali-G57 MC2",
+      "ram": "8GB",
+      "storage": "225GB",
+      "notes": "mali cpu",
+      "config_title": "Helio g100",
+      "timestamp": 1795428630
+    },
+    {
       "filename": "infinix-infinix_x6853-1787293690.json",
       "device_model": "Infinix Infinix X6853",
       "gpu": "Mali-G57 MC2",
