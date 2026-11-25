@@ -1912,9 +1912,9 @@
     "name": "Mad Max",
     "steam_id": null,
     "community_image": "https://cdn2.steamgriddb.com/grid/37e396a87c464058b177d3968f1b837b.png",
-    "config_count": 3,
+    "config_count": 4,
     "adreno_count": 0,
-    "mali_count": 3
+    "mali_count": 4
   },
   {
     "id": "mafia_ii",

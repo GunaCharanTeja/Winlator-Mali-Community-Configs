@@ -4335,6 +4335,16 @@
   ],
   "mad_max": [
     {
+      "filename": "xiaomi_2311drk48g-1795645970.json",
+      "device_model": "Xiaomi 2311DRK48G",
+      "gpu": "Mali-G615 MC6",
+      "ram": "12GB",
+      "storage": "466GB",
+      "notes": "change wrapper graphic to 4gb,and vram set 4gb",
+      "config_title": "Dimensity 8300U",
+      "timestamp": 1795645970
+    },
+    {
       "filename": "xiaomi-2511fpc34g-1784685228.json",
       "device_model": "Xiaomi 2511FPC34G",
       "gpu": "Mali-G720 MC8",
