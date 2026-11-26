@@ -4573,6 +4573,16 @@
   ],
   "miside": [
     {
+      "filename": "itel_itel_p671l-1795692759.json",
+      "device_model": "Itel itel P671L",
+      "gpu": "Mali-G57",
+      "ram": "8GB",
+      "storage": "111GB",
+      "notes": "use proton 9 x86",
+      "config_title": "Miside 20-30fps On Unisoc T615",
+      "timestamp": 1795692759
+    },
+    {
       "filename": "xiaomi_2404arn45a-1793109480.json",
       "device_model": "Xiaomi 2404ARN45A",
       "gpu": "Mali-G52 MC2",
